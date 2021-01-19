@@ -1,5 +1,6 @@
 # Temp files
 *.csv#
+*.swp 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

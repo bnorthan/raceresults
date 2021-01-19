@@ -4,14 +4,23 @@
 Created on Tue Jan 19 07:16:47 2021
 
 @author: bnorthan
+
+This script reads a csv containing race results and converts it to markdown
+
+The result can be viewed at...
+
+https://bnorthan.github.io/raceresults/results/2020/VirtualStockade
+
 """
-import sys
+
 import pandas as pd
 
-sys.path.append('../markdown')
-
-import markdownutil
-
 results = pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
+racename='Virtual Stockade-athon'
+outname='../../results/2020/VirtualStockade.md'
 
-markdownutil.tomarkdown(results, 'Virtual Stockade-athon','../../results/2020/VirtualStockade.md')
+markdown='## '+racename+'\n\n'
+markdown+=results.to_markdown()
+outfile=open(outname, "w")
+outfile.write(markdown)
+outfile.close()

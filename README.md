@@ -7,7 +7,7 @@ To start with (January 2021) I've added a simple CSV reader and code to render t
 
 # Github.io
 
-[The makemarkdown script](https://github.com/bnorthan/raceresults/blob/main/src/scripts/makemarkdown.py) reads a csv and outputs it as markdown.  The markdown is then [rendered here](bnorthan.github.io/raceresults/results/2020/VirtualStockade).
+[The makemarkdown script](https://github.com/bnorthan/raceresults/blob/main/src/scripts/makemarkdown.py) reads a csv and outputs it as markdown.  The markdown is then [rendered here](/raceresults/results/2020/VirtualStockade).
 
 # Django
 

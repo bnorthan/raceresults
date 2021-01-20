@@ -19,6 +19,9 @@ results = pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
 racename='Virtual Stockade-athon'
 outname='../../results/2020/VirtualStockade.md'
 
+results=results.drop('Company', axis=1)
+results=results.drop('Team', axis=1)
+
 markdown='## '+racename+'\n\n'
 markdown+=results.to_markdown()
 outfile=open(outname, "w")

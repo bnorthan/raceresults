@@ -33,7 +33,7 @@ for distance in distances:
     event=event.sort_values(by='seconds')
     event=event.drop('seconds',axis=1)
     event=event.rename({'DISTANCE COMPLETED:': 'distance'},axis=1)
-    markdown+='\n'+distance+' results\n'+event.to_markdown()+'\n';
+    markdown+='  \n  \n  \n'+distance+' results  \n  \n'+event.to_markdown()+  '  \n  \n';
     print(event)
     
 out_file=open('../../../events/VirtualWinter/leaderboard.md', "w")

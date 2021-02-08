@@ -20,5 +20,5 @@ def timeToSeconds(time):
         return -1
     
 def stripLeadingZeros(time):
-    return time.strip('0').strip(':')
+    return time.lstrip('0').lstrip(':')
     

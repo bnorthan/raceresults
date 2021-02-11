@@ -13,8 +13,7 @@ class Result(models.Model):
     first_name=models.CharField(max_length=200)
     last_name=models.CharField(max_length=200)
     city=models.CharField(max_length=200, blank=True, null=True)
-    time=models.CharField(max_length=200, blank=True, null=True)
-    
+    time=models.DurationField();
     race=models.ForeignKey(Race, on_delete=models.CASCADE)
 
 

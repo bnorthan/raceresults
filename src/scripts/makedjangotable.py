@@ -17,8 +17,12 @@ of the race to the database of the Django raceresults plugin
 
 import sys
 import pandas as pd
+from datetime import timedelta
 from raceresults.models import Race
 from raceresults.models import Result
+
+sys.path.append('../util/')
+import raceutil
 
 results = pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
 
@@ -26,5 +30,8 @@ race=Race(race_name="Virtual Stockade-athon",city="Capitol Region")
 race.save()
 
 for index, r in results.iterrows():
-    result=Result(first_name=r['First name'],last_name=r['Last name'],city=r.City, time=r.Time,race=race)
+    seconds=raceutil.timeToSeconds(r.Time);
+    duration=timedelta(seconds=seconds)
+    
+    result=Result(first_name=r['First name'],last_name=r['Last name'],city=r.City, time=duration,race=race)
     result.save()

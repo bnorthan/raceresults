@@ -11,9 +11,23 @@ def index(request):
     races=Race.objects.all()
     return render(request, 'raceresults/index.html', {'l_races':races})
 
-def race(request, race_id):
-    race=[]
+class SimpleRace(tables.Table):
+    class Meta:    
+        #model=Result
+        attrs={"class":"paleblue", "orderable":"True", "width":"100%"}
+  
+    first_name=tables.Column()
+    last_name=tables.Column()
+    city=tables.Column()
+    time=tables.Column()
+    race=tables.Column()
 
+def race(request, race_id):
+    
     results=Race.objects.get(pk=race_id).result_set.all()
+    
+    results=SimpleRace(results)
+    
+    RequestConfig(request).configure(results)
 
     return render(request, 'race/index.html', {'l_race':results})

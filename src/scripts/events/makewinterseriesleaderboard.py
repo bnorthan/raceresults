@@ -14,7 +14,7 @@ sys.path.append('../../util/')
 import raceutil
 
 
-data=pd.read_csv('../../../data/2021/2021-02-15 2021 HMRRC VIRUAL WINTER SERIES Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('../../../data/2021/2021-02-22 2021 HMRRC VIRUAL WINTER SERIES Hudson Mohawk Road Runners Club.csv')
 
 data.head()
 

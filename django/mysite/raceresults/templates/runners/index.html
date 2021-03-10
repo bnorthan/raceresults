@@ -1,0 +1,11 @@
+{% if l_runners %}
+  <ul>
+  <p>Here are the runners</p>
+    {% for runner in l_runners %}
+    <li><a href="/raceresults/runner/{{runner.id}}/">{{runner.first_name}} {{runner.last_name}}</a></li>
+    {% endfor %}
+  </ul>
+{% else %}
+<p>No runners are listed</p>
+{% endif %}
+ 

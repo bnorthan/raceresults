@@ -1,0 +1,15 @@
+
+{% load render_table from django_tables2 %}
+<!doctype html>
+<html>
+  <head>
+
+  {% load static %}
+  <link rel="stylesheet" type="text/css" href="{% static 'race/table1.css' %}">
+  
+  </head>
+  <body>
+    {% render_table l_runner%}
+  </body>
+</html>
+

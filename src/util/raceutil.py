@@ -21,4 +21,13 @@ def timeToSeconds(time):
     
 def stripLeadingZeros(time):
     return time.lstrip('0').lstrip(':')
+
+def getLastName(full_name):
+    split=full_name.split()
+    last_name=split[1];
+    for i in range(2,len(split)):
+        last_name=last_name+' '+split[i]
+        
+    return last_name
+
     

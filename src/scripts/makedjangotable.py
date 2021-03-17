@@ -21,17 +21,31 @@ from datetime import timedelta
 from raceresults.models import Race
 from raceresults.models import Result
 
+from importlib import reload
+
 sys.path.append('../util/')
 import raceutil
+import header
+import readers
+reload(readers)
 
-results = pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
-
-race=Race(race_name="Virtual Stockade-athon",city="Capitol Region")
-race.save()
-
-for index, r in results.iterrows():
-    seconds=raceutil.timeToSeconds(r.Time);
-    duration=timedelta(seconds=seconds)
+def add_race(race_data, race_name, race_city,race_date):
     
-    result=Result(first_name=r['First name'],last_name=r['Last name'],city=r.City, time=duration,race=race)
-    result.save()
+    results=readers.parse_general(race_data, header.RaceHeader.headers, 1)
+    results.head()
+    
+    #results = pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
+    
+    race=Race(race_name=race_name,city=race_city,race_date=race_date)
+    race.save()
+    
+    for index, r in results.iterrows():
+        seconds=raceutil.timeToSeconds(r.time);
+        duration=timedelta(seconds=seconds)
+        
+        result=Result(first_name=r['first_name'],last_name=r['last_name'],city=r.city, time=duration,race=race)
+        result.save()
+    
+#add_race(pd.read_csv('../../data/2020/VirtualStockadeFinal.csv'),race_name='Virtual Stockade-athon',race_city='Capitol Region', race_date='2020-11-15');
+#add_race(pd.read_csv('../../data/2019/Stockade2019.csv'), race_name='2019 Stockade-athon', race_city='Schenectedy', race_date='2019-11-10');
+add_race(pd.read_fwf('../../data/2018/stockade.txt'), race_name='2018 Stockade-athon', race_city='Schenectedy', race_date='2018-11-11');

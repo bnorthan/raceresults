@@ -6,7 +6,7 @@ Created on Sun Jan 24 06:11:03 2021
 @author: bnorthan
 """
 
-def timeToSeconds(time):
+def time_to_seconds(time):
     temp=time.split('.') 
     temp=temp[0].split(':')
     try:
@@ -19,10 +19,10 @@ def timeToSeconds(time):
     except:
         return -1
     
-def stripLeadingZeros(time):
+def strip_leading_zeros(time):
     return time.lstrip('0').lstrip(':')
 
-def getLastName(full_name):
+def get_last_name(full_name):
     split=full_name.split()
     last_name=split[1];
     for i in range(2,len(split)):

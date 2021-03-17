@@ -18,9 +18,9 @@ data=pd.read_csv('../../../data/2021/2021-03-01 2021 HMRRC VIRUAL WINTER SERIES 
 
 data.head()
 
-data['time']=data['TIME (HH:MM:SS):'].apply(lambda x: raceutil.stripLeadingZeros(x))
+data['time']=data['TIME (HH:MM:SS):'].apply(lambda x: raceutil.strip_leading_zeros(x))
 data=data.drop('TIME (HH:MM:SS):',axis=1)
-data['seconds']=data['time'].apply(lambda x: raceutil.timeToSeconds(x))
+data['seconds']=data['time'].apply(lambda x: raceutil.time_to_seconds(x))
 
 distances=data['DISTANCE COMPLETED:'].unique();
 

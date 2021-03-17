@@ -22,8 +22,8 @@ from raceresults.models import Runner
 sys.path.append('../util/')
 import raceutil
 
-first_name="Brian"
-last_name="Northan"
+first_name="Erika"
+last_name="Oesterle"
 
 runner=Runner(first_name=first_name, last_name=last_name)
 runner.save()
@@ -33,18 +33,3 @@ for r in Result.objects.all():
         print(r.first_name+" "+r.last_name+" "+str(r.time))
         r.runner=runner
         r.save()
-
-'''
-
-results = pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
-
-race=Race(race_name="Virtual Stockade-athon",city="Capitol Region")
-race.save()
-
-for index, r in results.iterrows():
-    seconds=raceutil.timeToSeconds(r.Time);
-    duration=timedelta(seconds=seconds)
-    
-    result=Result(first_name=r['First name'],last_name=r['Last name'],city=r.City, time=duration,race=race)
-    result.save()
-'''

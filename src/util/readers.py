@@ -27,7 +27,7 @@ def parse_general(df, headers, id):
                     newdf['first_name']=df[column].apply(lambda x: x.split()[0])
                     
                     #newdf['last_name']=df[column].apply(lambda x: x.split()[-1])
-                    newdf['last_name']=df[column].apply(lambda x: raceutil.getLastName(x))
+                    newdf['last_name']=df[column].apply(lambda x: raceutil.get_last_name(x))
                     print(newdf['last_name'])
                     
                 else:

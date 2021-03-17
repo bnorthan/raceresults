@@ -1,0 +1,1409 @@
+Place Bib   Name                   Age S Div Sex Div   City               St 1st 5k  2nd 5k  3rd 5k  10k     Guntime Pace  Nettime  Pace     
+    1     9 Sean Oconnor            22 M   1   1 OV_MO West Hartford      CT   15:38   15:26   14:58   31:03   46:01  4:57 00:46:01  4:57 
+    2     7 John Busque             27 M   1   2 OVLMO Albany             NY   15:38   15:25   15:08   31:03   46:11  4:58 00:46:11  4:58 
+    3     4 Daniel Lennon           25 M   2   3 OVLMO Albany             NY   15:38   15:26   15:36   31:03   46:39  5:01 00:46:39  5:01 
+    4     5 Jacob Andrews           26 M   3   4 OVLMO Troy               NY   15:45   16:07   15:35   31:52   47:26  5:06 00:47:26  5:06 
+    5  1401 Ryan Udvadia            23 M   1   5 M2024 Albany             NY   15:58   16:11   15:23   32:08   47:30  5:06 00:47:30  5:06 
+    6    71 Alexander Arslan        27 M   1   6 M2529 Bronx              NY   16:05   16:11   15:31   32:16   47:46  5:08 00:47:46  5:08 
+    7   730 Jon Krell               28 M   2   7 M2529 Green Island       NY   16:13   16:19   15:59   32:31   48:30  5:13 00:48:30  5:13 
+    8   201 Andrew Canavan          22 M   2   8 M2024 Schenectady        NY   16:35   17:00   16:28   33:34   50:02  5:22 00:50:02  5:22 
+    9   504 Anthony Giuliano        40 M   1   9 OVLMM Niskayuna          NY   16:58   16:58   16:22   33:55   50:16  5:24 00:50:16  5:24 
+   10    11 Shaun Donegan           34 M   1  10 M3034 Malta              NY   17:12   17:43   17:18   34:55   52:12  5:36 00:52:12  5:36 
+   11  1342 Jake Stookey            43 M   2  11 OVLMM Clifton Park       NY   17:38   17:44   17:06   35:22   52:27  5:38 00:52:27  5:38 
+   12    93 Joseph Baron            22 M   3  12 M2024 Cobleskill         NY   17:38   17:43   17:11   35:21   52:31  5:39 00:52:31  5:39 
+   13   361 Louie Dinuzzo           37 M   1  13 M3539 Saratoga Springs   NY   17:56   17:44   16:59   35:40   52:38  5:39 00:52:36  5:39 
+   14  1287 Roman Silen             19 M   1  14 M1519 Malvern            PA   18:03   18:00   17:13   36:03   53:16  5:43 00:53:15  5:43 
+   15  1662 Geoffrey Hale           30 M   2  15 M3034 Rome               NY   18:15   17:50   17:14   36:05   53:19  5:44 00:53:16  5:43 
+   16  1647 Drew Burns              22 M   4  16 M2024 Slingerlands       NY   18:19   18:07   17:19   36:26   53:44  5:46 00:53:42  5:46 
+   17   676 Dan Jordy               36 M   2  17 M3539 Glenville          NY   18:20   18:14   17:44   36:34   54:17  5:50 00:54:16  5:50 
+   18  1367 Chuck Terry             37 M   3  18 M3539 Albany             NY   18:15   18:11   17:53   36:25   54:18  5:50 00:54:18  5:50 
+   19  1487 Brian Woods             34 M   3  19 M3034 Albany             NY   18:17   18:33   17:32   36:49   54:21  5:50 00:54:19  5:50 
+   20  1272 Cara Sherman            22 F   1   1 OVLFO Albany             NY   18:20   18:17   17:47   36:37   54:24  5:51 00:54:24  5:51 
+   21   359 Michael Dinicola        44 M   3  20 OVLMM Malta              NY   18:14   18:20   18:14   36:34   54:47  5:53 00:54:46  5:53 
+   22   483 Alejandro Gauna         36 M   4  21 M3539 Delmar             NY   18:40   18:18   18:11   36:58   55:08  5:55 00:55:06  5:55 
+   23  1371 Ian Thane               27 M   3  22 M2529 Amsterdam          NY   18:33   18:40   18:03   37:12   55:15  5:56 00:55:13  5:56 
+   24  1548 Ryan Bush               15 M   2  23 M1519 Saratoga Springs   NY   18:55   18:51   17:51   37:46   55:36  5:58 00:55:35  5:58 
+   25   786 Bradley Lewis           33 M   4  24 M3034 Troy               NY   18:41   19:06   17:53   37:46   55:38  5:59 00:55:38  5:59 
+   26  1349 Joseph Sullivan         40 M   1  25 M4044 Schenectady        NY   18:45   18:54   18:04   37:39   55:42  5:59 00:55:40  5:59 
+   27   990 Matt Ninneman           26 M   4  26 M2529 Albany             NY   18:24   18:56   18:25   37:20   55:44  5:59 00:55:44  5:59 
+   28     6 Christine Myers         21 F   2   2 OVLFO Altamont           NY   18:33   18:57   18:21   37:30   55:50  6:00 00:55:50  6:00 
+   29     3 Karen Hughes            35 F   3   3 OVLFO Albany             NY   18:32   18:57   18:32   37:29   56:01  6:01 00:56:01  6:01 
+   30   270 Matt Conant             43 M   2  27 M4044 Ballston Spa       NY   18:28   18:54   18:41   37:22   56:02  6:01 00:56:02  6:01 
+   31  1547 Dana Bush               41 F   1   4 OVLFM Saratoga Springs   NY   18:55   18:51   18:18   37:46   56:03  6:01 00:56:03  6:01 
+   32   513 Matthew Gokey           45 M   1  28 M4549 Delmar             NY   19:01   18:57   18:10   37:58   56:08  6:02 00:56:05  6:02 
+   33   433 Alan Finder             31 M   5  29 M3034 Albany             NY   19:31   18:39   18:01   38:10   56:10  6:02 00:56:09  6:02 
+   34   725 Joshua Korn             23 M   5  30 M2024 Troy               NY   21:18                           56:13  6:02 00:56:07  6:02 
+   35   592 Ben Heller              31 M   6  31 M3034 Troy               NY   19:09   18:55   18:16   38:03   56:19  6:03 00:56:18  6:03 
+   36  1416 Jordan Varano           40 M   3  32 M4044 Vestal             NY   19:14   18:59   18:15   38:13   56:27  6:04 00:56:23  6:03 
+   37  1061 Alexander Perry         30 M   7  33 M3034 Albany             NY   19:31   18:57   18:09   38:27   56:36  6:05 00:56:35  6:05 
+   38   346 Jared Desrochers        34 M   8  34 M3034 Ballston Lake      NY   18:56   19:08   18:38   38:04   56:41  6:05 00:56:40  6:05 
+   39   186 Volker Burkowski        48 M   2  35 M4549 Gansevoort         NY   19:02   19:02   18:39   38:03   56:42  6:05 00:56:41  6:05 
+   40   677 Thomas Joslin           40 M   4  36 M4044 Yorkville          NY   19:36   19:12   18:08   38:47   56:55  6:07 00:56:50  6:06 
+   41  1315 James Sommer            25 M   5  37 M2529 Albany             NY   19:52   19:06   18:16   38:57   57:12  6:09 00:57:05  6:08 
+   42  1137 Andrew Reed             48 M   3  38 M4549 Niskayuna          NY   19:24   19:03   18:50   38:26   57:15  6:09 00:57:12  6:09 
+   43   667 Kristofer Johnson       47 M   4  39 M4549 Saratoga Springs   NY   19:08   19:10   19:03   38:17   57:20  6:09 00:57:18  6:09 
+   44  1266 Todd Shatynski          43 M   5  40 M4044 Altamont           NY   20:04   19:09   18:14   39:13   57:26  6:10 00:57:22  6:10 
+   45  1295 Michael Slinskey        50 M   1  41 M5054 Hopewell Junction  NY   19:02   19:25   19:03   38:27   57:30  6:11 00:57:30  6:11 
+   46   295 Colin Crowley           42 M   6  42 M4044 Ballston Spa       NY   19:07   19:30   18:56   38:37   57:33  6:11 00:57:33  6:11 
+   47   531 Tyler Greene            15 M   3  43 M1519 Scotia             NY   19:30   19:17   18:53   38:47   57:40  6:12 00:57:33  6:11 
+   48     2 Danielle Winslow        26 F   1   5 F2529 Queensbury         NY   18:57   19:25   19:26   38:22   57:47  6:12 00:57:47  6:12 
+   49  1328 John Stadtlander        54 M   2  44 M5054 Cliftonpark        NY   19:13   19:25   19:19   38:38   57:56  6:13 00:57:54  6:13 
+   50   689 Peter Katlic            33 M   9  45 M3034 Niskayuna          NY   19:52   19:42   18:24   39:34   57:57  6:13 00:57:55  6:13 
+   51  1325 Shawn Spriggs           40 M   7  46 M4044 Potsdam            NY   20:21   19:14   18:24   39:34   57:58  6:14 00:57:47  6:12 
+   52   499 Alex Gilgore            26 M   6  47 M2529 Scotia             NY   19:51   19:36   18:39   39:26   58:04  6:14 00:58:03  6:14 
+   53   797 Clay Lodovice           44 M   8  48 M4044 Voorheesville      NY   19:36   19:36   18:59   39:12   58:11  6:15 00:58:09  6:15 
+   54   648 Robert Irwin            46 M   5  49 M4549 Guilderland        NY   19:38   19:24   19:16   39:01   58:17  6:16 00:58:15  6:15 
+   55  1472 Jonathan Wilmot         27 M   7  50 M2529 Marcy              NY   19:26   19:45   19:09   39:10   58:18  6:16 00:58:15  6:15 
+   56  1284 Stephen Siebrecht       40 M   9  51 M4044 Albany             NY   20:07   19:29   18:53   39:35   58:27  6:17 00:58:26  6:17 
+   57   329 John Deer               37 M   5  52 M3539 Slingerlands       NY   20:09   19:19   19:13   39:27   58:40  6:18 00:58:30  6:17 
+   58   581 Erin Hatton             29 F   2   6 F2529 Troy               NY   19:55   19:48   19:00   39:42   58:42  6:18 00:58:42  6:18 
+   59   816 Christie Macfarlane     25 F   3   7 F2529 Delmar             NY   19:51   19:48   19:13   39:38   58:51  6:19 00:58:51  6:19 
+   60   104 Cory Battles            40 M  10  53 M4044 Liverpool          NY   19:33   19:24   19:59   38:56   58:55  6:20 00:58:52  6:19 
+   61   113 Avaneesh Benki          15 M   4  54 M1519 Schenectady        NY   19:45   20:01   19:10   39:46   58:55  6:20 00:58:40  6:18 
+   62   675 Ben Jordan              32 M  10  55 M3034 Ballston Spa       NY   20:04   19:31   19:23   39:34   58:57  6:20 00:58:55  6:20 
+   63   162 Courtney Breiner        22 F   1   8 F2024 Troy               NY   19:56   19:56   19:09   39:52   59:00  6:20 00:59:00  6:20 
+   64   266 Gerard Colling          38 M   6  56 M3539 Schodack           NY   20:06   19:50   19:06   39:56   59:02  6:20 00:58:56  6:20 
+   65  1453 Jared Whalen            34 M  11  57 M3034 Keene Valley       NY   19:25   20:06   19:44   39:30   59:13  6:22 00:59:08  6:21 
+   66  1373 Allison Thayer          24 F   2   9 F2024 Schenectady        NY   19:51   19:57   19:42   39:47   59:29  6:23 00:59:28  6:23 
+   67   657 Megan James             30 F   1  10 F3034 Charlton           NY   19:53   20:16   19:29   40:08   59:37  6:24 00:59:37  6:24 
+   68   746 Nathan Laing            24 M   6  58 M2024 Waterford          NY   20:34   19:59   19:10   40:32   59:42  6:25 00:59:42  6:25 
+   69   112 Olivia Beltrani         25 F   4  11 F2529 Troy               NY   19:57   20:13   19:33   40:09   59:42  6:25 00:59:42  6:25 
+   70   834 Joe Mansour             32 M  12  59 M3034 Whitestone         NY   20:15   19:58   19:32   40:13   59:44  6:25 00:59:43  6:25 
+   71  1335 Mark Stephenson         55 M   1  60 M5559 Esperance          NY   20:20   20:14   19:19   40:34   59:52  6:26 00:59:48  6:25 
+   72   577 Greg Hart               31 M  13  61 M3034 Saratoga Springs   NY   19:35   20:36   19:43   40:11   59:53  6:26 00:59:51  6:26 
+   73   203 Randall Cannell         47 M   6  62 M4549 Broadalbin         NY   20:20   20:06   19:48   40:26 1:00:13  6:28 01:00:10  6:28 
+   74  1688 Owen Strong             27 M   8  63 M2529 New York           NY   19:41   20:05   20:43   39:46 1:00:28  6:30 01:00:25  6:29 
+   75   616 Richard Homenick        25 M   9  64 M2529 Schenectady        NY   20:53   20:15   19:23   41:08 1:00:30  6:30 01:00:20  6:29 
+   76  1406 Kevin Vaillancourt      42 M  11  65 M4044 Mt. Pleasant       MI   20:46   20:04   19:44   40:49 1:00:32  6:30 01:00:00  6:27 
+   77  1553 Daniel Burke            23 M   7  66 M2024 Schenectady        NY   20:27   20:25   19:45   40:51 1:00:36  6:31 01:00:32  6:30 
+   78   410 Greg Ethier             46 M   7  67 M4549 Clifton Park       NY   20:14   20:16   20:08   40:30 1:00:37  6:31 01:00:32  6:30 
+   79   937 Meghan Mortensen        34 F   2  12 F3034 Glenville          NY   20:20   20:27   19:52   40:46 1:00:37  6:31 01:00:37  6:31 
+   80   787 Christian Lietzau       56 M   2  68 M5559 Delmar             NY   21:00   20:09   19:33   41:09 1:00:41  6:31 01:00:36  6:31 
+   81  1093 Greg Potestio           33 M  14  69 M3034 Delmar             NY   20:09   20:24   20:11   40:33 1:00:43  6:31 01:00:38  6:31 
+   82   596 Christopher Herbs       26 M  10  70 M2529 Somerville         MA   20:55   20:35   19:16   41:30 1:00:46  6:32 01:00:38  6:31 
+   83  1595 Chris Soufleris         25 M  11  71 M2529 Albany             NY   20:22   20:36   19:53   40:57 1:00:49  6:32 01:00:47  6:32 
+   84  1072 Scott Pierce            25 M  12  72 M2529 Deerfield          IL   20:27   20:24   19:59   40:51 1:00:49  6:32 01:00:47  6:32 
+   85   858 Brendan McCoy           21 M   8  73 M2024 Troy               NY   21:24   20:25   19:09   41:48 1:00:56  6:33 01:00:48  6:32 
+   86  1664 Thomas Hopkins          20 M   9  74 M2024 Princeton          NJ   21:25   20:23   19:13   41:47 1:01:00  6:33 01:00:52  6:32 
+   87   381 Craig Dubois            56 M   3  75 M5559 Sprakers           NY   20:58   20:26   19:45   41:23 1:01:07  6:34 01:01:03  6:33 
+   88  1516 Jordan Ryan             35 M   7  76 M3539 Cohoes             NY   20:46   20:25   20:00   41:10 1:01:10  6:34 01:01:00  6:33 
+   89  1603 Todd Weiss              41 M  12  77 M4044 Watervliet         NY   20:34   20:36   20:09   41:09 1:01:18  6:35 01:01:16  6:35 
+   90   140 Noah Bonesteel          17 M   5  78 M1519 Averill Park       NY   21:31   20:57   18:58   42:27 1:01:25  6:36 01:01:16  6:35 
+   91   943 Paul Mueller            35 M   8  79 M3539 Delmar             NY   21:48   20:39   19:00   42:26 1:01:25  6:36 01:01:15  6:35 
+   92   814 Wei Ma                  41 M  13  80 M4044 Clifton Park       NY   21:02   20:38   19:52   41:40 1:01:32  6:37 01:01:22  6:36 
+   93   535 Brittany Griffin        31 F   3  13 F3034 East Haddam        CT   19:56   20:34   21:04   40:30 1:01:33  6:37 01:01:32  6:37 
+   94  1549 Oswaldo Rodriguez       41 M  14  81 M4044 Clifton Park       NY   21:04   20:55   19:36   41:58 1:01:34  6:37 01:01:30  6:36 
+   95  1673 Nicole Moslander        32 F   4  14 F3034 Rotterdam          NY   20:34   20:37   20:27   41:10 1:01:37  6:37 01:01:37  6:37 
+   96    10 Paula Wiltse            52 F   1  15 OV_MF Brockville         ON   20:30   20:47   20:22   41:16 1:01:38  6:37 01:01:38  6:37 
+   97   879 Kirsten McMichael       22 F   3  16 F2024 Clifton Park       NY   20:40   20:41   20:20   41:21 1:01:40  6:37 01:01:39  6:37 
+   98    54 Patrick Allen           15 M   6  82 M1519 Schenectady        NY   20:29   21:04   20:17   41:33 1:01:49  6:38 01:01:43  6:38 
+   99  1646 Patric Brew             50 M   3  83 M5054 Kinderhook         NY   20:58   20:51   20:13   41:49 1:02:02  6:40 01:01:58  6:39 
+  100   558 Bill Hamel              48 M   8  84 M4549 Clifton Park       NY   20:45   21:00   20:19   41:45 1:02:04  6:40 01:02:03  6:40 
+  101  1618 Brock Davis             51 M   4  85 M5054 Brockville         ON   20:37   20:54   20:35   41:30 1:02:05  6:40 01:02:01  6:40 
+  102  1387 Diana Tobon-Knobloch    38 F   1  17 F3539 Niskayuna          NY   21:03   20:56   20:12   41:59 1:02:10  6:41 01:02:10  6:41 
+  103  1132 Ryan Recchia            25 M  13  86 M2529 Lake Placid        NY   19:25   19:26   23:26   38:51 1:02:16  6:41 01:02:07  6:40 
+  104   109 Matt Becker             34 M  15  87 M3034 South Glens Falls  NY   20:26   21:10   20:46   41:35 1:02:21  6:42 01:02:17  6:41 
+  105  1235 Brad Schierhorn         27 M  14  88 M2529 Boston             MA   21:29   21:06   19:49   42:34 1:02:23  6:42 01:02:18  6:41 
+  106   606 Alex Hitrick            21 M  10  89 M2024 Broadalbin         NY   21:09   21:07   20:18   42:16 1:02:33  6:43 01:02:20  6:42 
+  107   898 Ed Menis                55 M   4  90 M5559 Schenectdy         NY   21:18   21:03   20:18   42:21 1:02:38  6:44 01:02:34  6:43 
+  108   493 John Genevich           50 M   5  91 M5054 Saratoga Springs   NY   21:26   20:56   20:21   42:22 1:02:42  6:44 01:02:33  6:43 
+  109  1658 Tom Fraser              46 M   9  92 M4549 Schodack Lndg      NY   21:02   21:12   20:30   42:14 1:02:44  6:44 01:02:40  6:44 
+  110   856 Ryan McCann             44 M  15  93 M4044 Albany             NY   21:21   21:02   20:24   42:22 1:02:46  6:44 01:02:35  6:43 
+  111   248 Gil Chorbajian          50 M   6  94 M5054 Schenectady        NY   22:18   20:33   20:01   42:51 1:02:52  6:45 01:02:36  6:43 
+  112  1671 Austin Millette         17 M   7  95 M1519 Averill Park       NY   20:47   20:20   21:47   41:07 1:02:54  6:45 01:02:45  6:44 
+  113   272 Peter Conboy            30 M  16  96 M3034 Albany             NY   21:22   21:28   20:14   42:49 1:03:03  6:46 01:02:59  6:46 
+  114  1038 Christopher Parks       34 M  17  97 M3034 Ballston Lake      NY   21:14   21:11   20:42   42:24 1:03:06  6:47 01:02:53  6:45 
+  115   652 Elizabeth Izzo          27 F   5  18 F2529 Lake Placid        NY   21:07   21:29   20:31   42:36 1:03:07  6:47 01:03:05  6:47 
+  116   855 Kim McBride             27 F   6  19 F2529 Troy               NY   21:20   21:20   20:32   42:40 1:03:11  6:47 01:03:06  6:47 
+  117   136 Emily Boerger           25 F   7  20 F2529 Albany             NY   20:56   21:25   20:55   42:21 1:03:15  6:48 01:03:14  6:47 
+  118   630 Paul Humphrey           52 M   7  98 M5054 Deerfield          NY   21:22   21:03   20:54   42:25 1:03:19  6:48 01:03:10  6:47 
+  119   490 Dean Geesler            46 M  10  99 M4549 Slingerlands       NY   21:49   20:59   20:35   42:47 1:03:22  6:48 01:03:12  6:47 
+  120  1594 Meg Versteegen          40 F   2  21 OVLFM Schenectady        NY   21:14   21:24   20:51   42:37 1:03:27  6:49 01:03:24  6:49 
+  121  1230 Lauren Scarupa          28 F   8  22 F2529 Clifton Park       NY   20:53   21:57   20:44   42:50 1:03:34  6:50 01:03:33  6:49 
+  122  1601 Dylan Hedderman         27 M  15 100 M2529 Latham             NY   21:26   21:40   20:32   43:05 1:03:36  6:50 01:03:32  6:49 
+  123  1592 Eric Young              28 M  16 101 M2529 Latham             NY   21:27   21:40   20:30   43:07 1:03:37  6:50 01:03:33  6:50 
+  124  1433 Cory Wajda              44 M  16 102 M4044 Sand Lake          NY   21:24   21:30   20:43   42:54 1:03:37  6:50 01:03:25  6:49 
+  125  1574 Jack Mangione           15 M   8 103 M1519 Loudonville        NY   22:59   20:49   19:51   43:48 1:03:39  6:50 01:03:23  6:48 
+  126   395 Daniel Edelstein        62 M   1 104 M6064 Saranac Lake       NY   21:08   21:27   21:10   42:35 1:03:44  6:51 01:03:43  6:51 
+  127  1254 John Sestito            56 M   5 105 M5559 Johnsonville       NY   21:15   21:26   21:06   42:40 1:03:46  6:51 01:03:40  6:50 
+  128   745 Lucas Lacroce           21 M  11 106 M2024 Portsmouth         NH   22:28   21:45   19:37   44:12 1:03:49  6:51 01:03:40  6:50 
+  129  1262 Anuraag Sharma          15 M   9 107 M1519 Niskayuna          NY   19:59   22:44   21:09   42:43 1:03:51  6:51 01:03:35  6:50 
+  130   541 Jonathan Guthan         42 M  17 108 M4044 Scotia             NY   21:02   21:30   21:25   42:31 1:03:56  6:52 01:03:50  6:51 
+  131  1502 Rick Zachgo             49 M  11 109 M4549 Rexford            NY   21:18   21:51   20:50   43:08 1:03:58  6:52 01:03:52  6:52 
+  132  1525 Josias Sanabria         43 M  18 110 M4044 Queensbury         NY   20:42   21:34   21:45   42:16 1:04:01  6:53 01:03:58  6:52 
+  133   682 Thomas Kaczmarek        35 M   9 111 M3539 Glenville          NY   21:50   21:36   20:44   43:26 1:04:10  6:54 01:04:03  6:53 
+  134  1314 Irene Somerville        26 F   9  23 F2529 Wynantskill        NY   21:35   21:30   21:07   43:05 1:04:11  6:54 01:04:10  6:54 
+  135  1408 Brian Van Epps          33 M  18 112 M3034 Essex Junction     VT   22:07   21:29   20:37   43:36 1:04:12  6:54 01:04:06  6:53 
+  136   571 Megan Harrington        35 F   2  24 F3539 Cambridge          NY   21:36   21:19   21:19   42:55 1:04:13  6:54 01:04:10  6:53 
+  137  1360 Ken Tarullo             51 M   8 113 M5054 Delmar             NY   21:40   21:34   21:01   43:14 1:04:14  6:54 01:04:10  6:54 
+  138  1581 Whitney Bouchard        32 F   5  25 F3034 Albany             NY   21:57   21:34   20:48   43:30 1:04:17  6:54 01:04:16  6:54 
+  139  1273 Brian Sherras           62 M   2 114 M6064 West Rupert        VT   22:01   21:32   20:51   43:33 1:04:23  6:55 01:04:18  6:54 
+  140   608 Bill Hoffman            52 M   9 115 M5054 Clifton Park       NY   21:17   21:39   21:30   42:55 1:04:24  6:55 01:04:18  6:54 
+  141  1672 Kevin Morrison          19 M  10 116 M1519 Portland           TX   21:37   22:13   20:40   43:50 1:04:30  6:56 01:04:21  6:55 
+  142   364 William Dodds           45 M  12 117 M4549 Albany             NY   21:35   21:34   21:28   43:08 1:04:35  6:56 01:04:30  6:56 
+  143   371 Justin Donohue          26 M  17 118 M2529 Schenectady        NY   20:27   22:43   21:30   43:09 1:04:39  6:57 01:04:35  6:56 
+  144   580 Thomas Hartnett Jr      31 M  19 119 M3034 Schenectady        NY   22:39   21:23   20:41   44:01 1:04:41  6:57 01:04:27  6:55 
+  145   979 David Newman            39 M  10 120 M3539 Albany             NY   22:01   21:45   20:58   43:46 1:04:43  6:57 01:04:33  6:56 
+  146   781 Leonard Leonidas        46 M  13 121 M4549 Castleton          NY   21:50   21:51   21:08   43:40 1:04:47  6:58 01:04:40  6:57 
+  147  1207 Brian Sadonis           33 M  20 122 M3034 Troy               NY   21:43   22:10   20:57   43:52 1:04:49  6:58 01:04:41  6:57 
+  148   229 Jamie Casline           60 M   3 123 M6064 Ballston Lake      NY   21:42   21:45   21:24   43:27 1:04:50  6:58 01:04:46  6:57 
+  149   859 Mark McCoy              34 M  21 124 M3034 Framingham         MA   22:07   21:30   21:14   43:36 1:04:50  6:58 01:04:44  6:57 
+  150  1653 Donald Duvall           41 M  19 125 M4044 Delmar             NY   22:00   21:45   21:09   43:45 1:04:53  6:58 01:04:39  6:57 
+  151  1613 Beth Ruiz               46 F   3  26 OVLFM Delmar             NY   21:19   22:00   21:40   43:18 1:04:57  6:59 01:04:55  6:58 
+  152   913 Stephan Moessner        31 M  22 126 M3034 Niskayuna          NY   22:06   21:54   21:02   43:59 1:05:01  6:59 01:04:56  6:58 
+  153  1679 Ian Prater              44 M  20 127 M4044 Schenectady        NY   21:58   21:25   21:41   43:23 1:05:04  6:59 01:04:51  6:58 
+  154   534 Brian Griffin           51 M  10 128 M5054 Clifton Park       NY   21:39   21:57   21:30   43:36 1:05:06  6:59 01:05:03  6:59 
+  155   805 Brian Lusignan          35 M  11 129 M3539 Glenmont           NY   22:47   21:36   20:44   44:23 1:05:06  7:00 01:04:54  6:58 
+  156   130 Mark Blanchfield        53 M  11 130 M5054 Schenectady        NY   21:54   21:48   21:28   43:42 1:05:09  7:00 01:04:58  6:59 
+  157   720 Jonathan Knickerbocker  32 M  23 131 M3034 Rensselaer         NY   22:13   21:50   21:08   44:02 1:05:09  7:00 01:04:58  6:59 
+  158   924 Rich Moorfoot           34 M  24 132 M3034 Clifton Park       NY   22:00   21:39   21:31   43:39 1:05:09  7:00 01:05:06  6:59 
+  159  1684 Beth Stalker            60 F   1  27 F6064 Ballston Spa       NY   21:38   21:54   21:41   43:32 1:05:12  7:00 01:05:11  7:00 
+  160  1115 Brien Ragone            43 M  21 133 M4044 Niskayuna          NY   21:49   22:06   21:22   43:55 1:05:16  7:01 01:05:12  7:00 
+  161   237 Elizabeth Chauhan       35 F   3  28 F3539 Albany             NY   22:02   21:51   21:27   43:52 1:05:18  7:01 01:05:15  7:00 
+  162   997 Neal Norton Jr          36 M  12 134 M3539 Niskayuna          NY   21:54   22:20   21:11   44:13 1:05:24  7:01 01:05:03  6:59 
+  163  1014 Robert Ordish           34 M  25 135 M3034 Guilderland        NY   21:50   22:07   21:28   43:57 1:05:24  7:01 01:05:11  7:00 
+  164  1475 Mike Winkler            37 M  13 136 M3539 Utica              NY   22:00   22:15   21:18   44:15 1:05:32  7:02 01:05:28  7:02 
+  165  1054 Justin Peabody          22 M  12 137 M2024 Albany             NY   21:49   22:24   21:20   44:13 1:05:32  7:02 01:05:26  7:02 
+  166  1001 Brian Nowicki           34 M  26 138 M3034 Schenectady        NY   22:09   21:42   21:49   43:50 1:05:39  7:03 01:05:24  7:01 
+  167   530 Tina Greene             46 F   1  29 F4549 Scotia             NY   21:45   22:10   21:48   43:55 1:05:42  7:03 01:05:42  7:03 
+  168   392 Ronald Dyess            44 M  22 139 M4044 Albany             NY   22:43   22:39   20:21   45:22 1:05:43  7:03 01:05:16  7:01 
+  169   773 Ryan Legere             36 M  14 140 M3539 Ballston Spa       NY   22:50   22:28   20:28   45:18 1:05:45  7:04 01:05:40  7:03 
+  170  1550 Svitozar Fokshey        37 M  15 141 M3539 Troy               NY   21:36                         1:05:51  7:04 01:05:48  7:04 
+  171  1615 Judy Guzzo              52 F   1  30 F5054 Niskayuna          NY   21:50   22:13   22:00   44:02 1:06:02  7:05 01:05:59  7:05 
+  172  1656 Albert Fisas            46 M  14 142 M4549 Saratoga Springs   NY   23:07   22:23   20:42   45:30 1:06:11  7:07 01:06:08  7:06 
+  173   196 Nicholas Buttino        32 M  27 143 M3034 Delmar             NY   22:48   22:02   21:24   44:49 1:06:12  7:07 01:06:01  7:05 
+  174  1661 Martin Gordinier        49 M  15 144 M4549 Delmar             NY   22:32   22:17   21:28   44:48 1:06:16  7:07 01:06:10  7:06 
+  175  1259 Joe Sgarlata            32 M  28 145 M3034 Niskayuna          NY   21:26   22:46   22:07   44:12 1:06:18  7:07 01:06:12  7:07 
+  176  1476 Brittany Winslow        26 F  10  31 F2529 Malta              NY   21:35   22:23   22:21   43:58 1:06:18  7:07 01:06:18  7:07 
+  177   793 Gabriel Lobaido         19 M  11 146 M1519 Scotia             NY   21:38   22:43   21:59   44:21 1:06:19  7:07 01:06:11  7:07 
+  178   253 Paul Cirillo            43 M  23 147 M4044 Mohawk             NY   22:41   22:28   21:12   45:08 1:06:19  7:07 01:06:08  7:06 
+  179   685 Tasi Karabinis          42 M  24 148 M4044 Oneonta            NY   22:31   22:21   21:30   44:51 1:06:21  7:08 01:06:12  7:07 
+  180  1130 Fiona Recchia           27 F  11  32 F2529 Ballston Spa       NY   23:35   21:51   20:56   45:26 1:06:21  7:08 01:06:04  7:06 
+  181   341 Kyle Denniston          37 M  16 149 M3539 Albany             NY   22:45   22:29   21:09   45:13 1:06:21  7:08 01:06:21  7:08 
+  182   416 Jaime Farone            43 F   1  33 F4044 Saratoga Springs   NY   21:57   22:26   22:06   44:23 1:06:28  7:08 01:06:24  7:08 
+  183  1048 Melissa Patneaude       39 F   4  34 F3539 Glenville          NY   22:30   22:21   21:44   44:51 1:06:34  7:09 01:06:31  7:09 
+  184   585 Alison Heaphy           52 F   2  35 F5054 Troy               NY   22:32   22:17   21:46   44:48 1:06:34  7:09 01:06:28  7:08 
+  185   852 Adam Mazel              43 M  25 150 M4044 Schenectady        NY   23:05   22:29   21:02   45:34 1:06:36  7:09 01:06:27  7:08 
+  186  1147 Jeremy Reynolds         32 M  29 151 M3034 Cohoes             NY   22:21   22:25   21:52   44:45 1:06:37  7:09 01:06:28  7:08 
+  187  1323 Vincent Speenburgh      37 M  17 152 M3539 Burnt Hills        NY   22:06   22:04   22:30   44:09 1:06:39  7:09 01:06:32  7:09 
+  188  1555 Marta Dauphinee         41 F   2  36 F4044 Glenville          NY   21:43   21:51   23:09   43:34 1:06:43  7:10 01:06:42  7:10 
+  189  1329 Michael Stalker         57 M   6 153 M5559 Ballston Spa       NY   22:39   22:29   21:55   45:08 1:07:02  7:12 01:06:57  7:11 
+  190    70 Nina Armstrong          22 F   4  37 F2024 Lake Placid        NY   21:30   22:49   22:49   44:18 1:07:06  7:12 01:07:05  7:12 
+  191  1039 Sarah Parks             39 F   5  38 F3539 Troy               NY   22:50   22:59   21:21   45:48 1:07:09  7:13 01:07:00  7:12 
+  192   358 Brian Dillenbeck        49 M  16 154 M4549 Alplaus            NY   23:28   22:09   21:34   45:36 1:07:09  7:13 01:06:54  7:11 
+  193  1043 Anthony Pasqualino      29 M  18 155 M2529 Albany             NY   22:23   22:08   22:47   44:31 1:07:18  7:14 01:07:15  7:13 
+  194   172 Daniel Bruton           29 M  19 156 M2529 Albany             NY   22:30   22:37   22:14   45:06 1:07:20  7:14 01:07:14  7:13 
+  195   356 Charles Dietrich        33 M  30 157 M3034 Selkirk            NY   23:36   22:44   21:07   46:19 1:07:25  7:14 01:07:18  7:14 
+  196   841 Marc-Andre Massena      24 M  13 158 M2024 Albany             NY   23:20   22:28   21:44   45:48 1:07:31  7:15 01:07:05  7:12 
+  197  1469 John Williams-Searl     51 M  12 159 M5054 Albany             NY   23:43   22:12   21:39   45:55 1:07:33  7:15 01:07:14  7:13 
+  198  1558 Neil Sergott            48 M  17 160 M4549 Clifton Park       NY   22:59   22:32   22:05   45:30 1:07:35  7:15 01:07:26  7:15 
+  199    77 Andrew Babitts          38 M  18 161 M3539 North Greenbush    NY   23:10   22:42   21:46   45:51 1:07:36  7:16 01:07:31  7:15 
+  200   964 Pete Nabozny            35 M  19 162 M3539 Rochester          NY   23:24   22:19   21:55   45:43 1:07:37  7:16 01:07:19  7:14 
+  201  1385 Steven Tinkler          54 M  13 163 M5054 Clifton Park       NY   23:42   22:23   21:37   46:04 1:07:40  7:16 01:07:28  7:15 
+  202  1530 Danielle Kollarus-Masl  40 F   3  39 F4044 Ballston Lake      NY   23:20   22:41   21:40   46:01 1:07:41  7:16 01:07:37  7:16 
+  203  1526 Josiah Sanabria         15 M  12 164 M1519 Queensbury         NY   22:06   23:47   21:58   45:52 1:07:49  7:17 01:07:45  7:17 
+  204   899 Madeline Mercado        23 F   5  40 F2024 Palenville         NY   23:30   22:16   22:04   45:46 1:07:49  7:17 01:07:36  7:16 
+  205   950 Rick Munson             62 M   4 165 M6064 Prattsville        NY   22:29   22:48   22:36   45:17 1:07:52  7:17 01:07:47  7:17 
+  206  1584 Dana Wiwczar            38 F   6  41 F3539 Ballston Spa       NY   22:47   22:53   22:15   45:39 1:07:53  7:17 01:07:51  7:17 
+  207  1394 Rock Travis             37 M  20 166 M3539 Clifton Park       NY   23:43   22:23   21:50   46:05 1:07:55  7:18 01:07:30  7:15 
+  208  1252 Jay Seney               59 M   7 167 M5559 Vernon Rockvl      CT   23:33   22:17   22:08   45:49 1:07:57  7:18 01:07:32  7:15 
+  209  1111 Eli Rabinowitz          38 M  21 168 M3539 Albany             NY   23:16   22:53   21:52   46:08 1:07:59  7:18 01:07:52  7:17 
+  210   900 Sam Mercado             56 M   8 169 M5559 Albany             NY   23:22   22:31   22:10   45:53 1:08:03  7:18 01:07:54  7:17 
+  211   517 Erica Goodman           35 F   7  42 F3539 Saratoga Springs   NY   23:07   22:51   22:09   45:57 1:08:05  7:19 01:07:54  7:18 
+  212   947 Leland Muller           29 M  20 170 M2529 Albany             NY   22:44   22:38   22:50   45:21 1:08:11  7:19 01:07:55  7:18 
+  213   505 Dave Glass              73 M   1 171 M7074 Schenectady        NY   22:38   22:59   22:37   45:37 1:08:13  7:20 01:08:12  7:19 
+  214   905 Bob Miller              45 M  18 172 M4549 Scotia             NY   22:16   22:48   23:16   45:04 1:08:19  7:20 01:08:10  7:19 
+  215  1559 Daniel Marino           37 M  22 173 M3539 Glenville          NY   23:38   22:53   21:51   46:30 1:08:21  7:20 01:07:49  7:17 
+  216   215 Theodore Carey          19 M  13 174 M1519 Westminster        MA   22:11   23:04   23:09   45:15 1:08:23  7:21 01:08:14  7:20 
+  217   525 Edward Gravelle         61 M   5 175 M6064 Ballston Lake      NY   23:24   22:42   22:20   46:05 1:08:25  7:21 01:08:25  7:21 
+  218  1519 Mike Bracken            45 M  19 176 M4549 Saratoga Springs   NY   23:37   22:47   22:03   46:24 1:08:26  7:21 01:08:08  7:19 
+  219  1489 Brian Worthington       42 M  26 177 M4044 Waterford          NY   23:05   23:19   22:05   46:24 1:08:28  7:21 01:08:18  7:20 
+  220   461 Hailey Fremante         32 F   6  43 F3034 Lake Placid        NY   21:20   22:43   24:27   44:02 1:08:29  7:21 01:08:27  7:21 
+  221   866 Mark McGann             38 M  23 178 M3539 Watervliet         NY   24:19   22:35   21:39   46:54 1:08:32  7:22 01:08:00  7:18 
+  222  1307 Skyler Smith            15 F   1  44 F1519 Niskayuna          NY   23:00   23:46   21:48   46:46 1:08:33  7:22 01:08:28  7:21 
+  223  1552 Rachel Shine            24 F   6  45 F2024 Clifton Park       NY   23:30   23:08   22:01   46:37 1:08:38  7:22 01:08:18  7:20 
+  224  1614 Brian Wood              49 M  20 179 M4549 Glenmont           NY   23:33   22:37   22:29   46:10 1:08:38  7:22 01:08:22  7:21 
+  225  1645 Ryan Braymer            40 M  27 180 M4044 Glens Falls        NY   22:48   23:09   22:44   45:56 1:08:39  7:22 01:08:28  7:21 
+  226   107 Bill Bean               59 M   9 181 M5559 Scotia             NY   23:28   22:50   22:24   46:17 1:08:41  7:23 01:08:26  7:21 
+  227   957 John Murray             26 M  21 182 M2529 Schenectady        NY   23:35   23:13   21:53   46:48 1:08:41  7:23 01:08:31  7:22 
+  228   752 Doug Landon             56 M  10 183 M5559 Amsterdam          NY   23:03   22:59   22:41   46:02 1:08:42  7:23 01:08:39  7:22 
+  229  1624 John Bonetsky           44 M  28 184 M4044 Niverville         NY   23:15   22:51   22:39   46:06 1:08:44  7:23 01:08:28  7:21 
+  230  1404 Gintaras Urmilevicius   46 M  21 185 M4549 East Greenbush     NY   23:04   23:17   22:25   46:21 1:08:45  7:23 01:08:31  7:21 
+  231  1515 Charles Maurer          54 M  14 186 M5054 Saratoga Springs   NY   23:15   23:13   22:22   46:28 1:08:49  7:23 01:08:42  7:23 
+  232   804 Virginia Lupo           47 F   2  46 F4549 Malta              NY   23:14   23:17   22:23   46:31 1:08:54  7:24 01:08:52  7:24 
+  233  1345 Brian Strickler         40 M  29 187 M4044 Niskayuna          NY   23:57   22:52   22:07   46:48 1:08:54  7:24 01:08:41  7:23 
+  234   426 Myron Ferguson          62 M   6 188 M6064 Middle Grove       NY   23:08   23:02   22:46   46:10 1:08:55  7:24 01:08:48  7:23 
+  235  1125 John Raymond            56 M  11 189 M5559 Cooperstown        NY   23:09   23:03   22:46   46:12 1:08:57  7:24 01:08:44  7:23 
+  236   465 Nicholas Funk           20 M  14 190 M2024 Kinderhook         NY   22:37   23:20   23:03   45:56 1:08:58  7:24 01:08:52  7:24 
+  237  1589 Colleen Ottalagano-Mcg  42 F   4  47 F4044 Slingerlands       NY   23:07   23:10   22:44   46:17 1:09:00  7:25 01:08:58  7:24 
+  238   885 Matt McQueeney          48 M  22 191 M4549 Niskayuna          NY   23:12   23:04   22:46   46:16 1:09:02  7:25 01:08:49  7:23 
+  239   171 Derek Bruening          43 M  30 192 M4044 Troy               NY   23:21   23:05   22:38   46:25 1:09:03  7:25 01:08:50  7:24 
+  240   723 Vasil Koleci            43 M  31 193 M4044 Albany             NY   22:34   23:20   23:11   45:53 1:09:04  7:25 01:08:46  7:23 
+  241  1194 David Roy               64 M   7 194 M6064 Schoharie`         NY   23:25   22:57   22:44   46:22 1:09:05  7:25 01:08:53  7:24 
+  242   623 Russ Hoyer              59 M  12 195 M5559 Voorheesville      NY   23:37   23:12   22:19   46:49 1:09:07  7:25 01:08:52  7:24 
+  243  1626 Earl Redding            41 M  32 196 M4044 Niskayuna          NY   23:28   22:56   22:51   46:24 1:09:14  7:26 01:08:56  7:24 
+  244  1599 Mike Konderwich         29 M  22 197 M2529 Valatie            NY   24:41   23:01   21:34   47:42 1:09:15  7:26 01:09:11  7:26 
+  245  1598 Allison Konderwich      30 F   7  48 F3034 Valatie            NY   24:40   23:02   21:34   47:42 1:09:16  7:26 01:09:11  7:26 
+  246  1384 Lyman Tinc              35 M  24 198 M3539 Saratoga Springs   NY   23:39   23:28   22:23   47:07 1:09:29  7:28 01:09:21  7:27 
+  247  1503 Kevin Zalaznik          34 M  31 199 M3034 Niskayuna          NY   24:27   22:44   22:24   47:11 1:09:34  7:28 01:09:20  7:27 
+  248   775 Jim Leggett             50 M  15 200 M5054 Mechanicville      NY   23:42   22:46   23:08   46:27 1:09:35  7:28 01:09:22  7:27 
+  249   560 Glenn Hamlin-Berning    56 M  13 201 M5559 Kinderhook         NY   23:10   23:22   23:04   46:32 1:09:36  7:28 01:09:27  7:28 
+  250   235 Abigail Chaloux         39 F   8  49 F3539 Shaftsbury         VT   24:15   23:04   22:19   47:19 1:09:37  7:29 01:09:24  7:27  
+  251   283 Denis Cote              49 M  23 202 M4549 East Berne         NY   24:03   23:10   22:26   47:13 1:09:38  7:29 01:09:19  7:27 
+  252  1085 Peter Pochily           52 M  16 203 M5054 Cobleskill         NY   24:12   23:36   21:56   47:47 1:09:43  7:29 01:09:31  7:28 
+  253  1643 Matthew Bell            56 M  14 204 M5559 Wynantskill        NY   24:25   22:54   22:28   47:18 1:09:46  7:30 01:09:29  7:28 
+  254   134 Seth Blumerman          45 M  24 205 M4549 Clifton Park       NY   23:43   23:20   22:45   47:03 1:09:47  7:30 01:09:36  7:28 
+  255  1318 Tara Soraghan           38 F   9  50 F3539 Lancaster          NH   23:42   23:35   22:35   47:17 1:09:51  7:30 01:09:36  7:28 
+  256  1116 Christopher Rahn        31 M  32 206 M3034 Albany             NY   24:03   23:51   22:03   47:53 1:09:56  7:31 01:09:45  7:29 
+  257  1089 Kelly Pommer            27 F  12  51 F2529 Schenectady        NY   25:04   23:13   21:43   48:16 1:09:59  7:31 01:09:45  7:29 
+  258   348 Dallas Devries          42 M  33 207 M4044 Cohoes             NY   24:28   23:18   22:18   47:46 1:10:03  7:31 01:09:50  7:30 
+  259   863 Michael McDonald        16 M  14 208 M1519 Ballston Spa       NY   24:40   22:49   22:37   47:29 1:10:05  7:32 01:09:16  7:26 
+  260  1575 Thaddeus Mangione       13 M   1 209 M0114 Loudonville        NY   23:55   23:27   22:44   47:21 1:10:05  7:32 01:09:49  7:30 
+  261   533 Erin Gregory            43 F   5  52 F4044 Clifton Park       NY   23:43   23:33   22:51   47:15 1:10:06  7:32 01:09:57  7:31 
+  262   218 Amanda Carpenter        30 F   8  53 F3034 Albany             NY   24:07   23:26   22:34   47:32 1:10:06  7:32 01:09:58  7:31 
+  263  1101 Drew Prescott           24 M  15 210 M2024 Amherst            NH   24:52   23:03   22:14   47:55 1:10:08  7:32 01:09:43  7:29 
+  264  1102 Scott Prescott          55 M  15 211 M5559 Amherst            NH   24:52   23:03   22:14   47:55 1:10:08  7:32 01:09:41  7:29 
+  265  1100 Aaron Prescott          26 M  23 212 M2529 Schenectady        NY   24:52   23:03   22:15   47:54 1:10:08  7:32 01:09:43  7:29 
+  266   100 Allan Bates             71 M   2 213 M7074 Pittsfield         MA   23:29   23:37   23:06   47:05 1:10:11  7:32 01:10:04  7:31 
+  267   843 Joseph Mastroianni      34 M  33 214 M3034 Troy               NY   24:24   23:47   22:02   48:11 1:10:12  7:32 01:10:08  7:32 
+  268  1506 Laura Zima              39 F  10  54 F3539 Albany             NY   24:03   23:40   22:32   47:42 1:10:13  7:32 01:10:11  7:32 
+  269   445 James Forbes            65 M   1 215 M6569 Valley Falls       NY   23:25   23:44   23:07   47:09 1:10:16  7:33 01:10:07  7:32 
+  270  1670 Margaret McKeown        61 F   2  55 F6064 Moreau             NY   23:58   23:34   22:47   47:31 1:10:18  7:33 01:10:16  7:33 
+  271  1013 Tantra Oneil            37 F  11  56 F3539 Fonda              NY   24:19   23:15   22:52   47:33 1:10:24  7:34 01:09:57  7:31 
+  272    61 Kotek Ammerlaan         41 F   6  57 F4044 Wedel              NY   23:35   23:49   23:04   47:24 1:10:28  7:34 01:10:25  7:34 
+  273   322 Michelle Davis          31 F   9  58 F3034 Niskayuna          NY   24:03   23:29   23:00   47:31 1:10:31  7:34 01:10:27  7:34 
+  274  1617 Nicole Kingsley         24 F   7  59 F2024 Athens             NY   23:59   23:32   23:03   47:31 1:10:34  7:35 01:10:18  7:33 
+  275   764 Lindsay Larose          37 F  12  60 F3539 Liverpool          NY   24:30   23:17   22:48   47:47 1:10:35  7:35 01:10:18  7:33 
+  276  1097 Derek Powell            46 M  25 216 M4549 Pittsfield         MA   24:21   23:32   22:42   47:53 1:10:35  7:35 01:10:20  7:33 
+  277   954 Erin Murphy             39 F  13  61 F3539 Albany             NY   23:42   23:44   23:10   47:26 1:10:36  7:35 01:10:31  7:34 
+  278   818 Emily Mackey            26 F  13  62 F2529 Averill Park       NY   24:52   23:23   22:23   48:15 1:10:38  7:35 01:10:06  7:32 
+  279   779 Dan Leonard             52 M  17 217 M5054 Scotia             NY   24:27   23:42   22:30   48:09 1:10:39  7:35 01:10:29  7:34 
+  280   654 Tom Jablonowski         51 M  18 218 M5054 Voorheesville      NY   24:42   23:14   22:46   47:55 1:10:40  7:35 01:10:08  7:32 
+  281  1288 Michael Silvagnoli      39 M  25 219 M3539 Ballston Lake      NY   24:58   23:24   22:20   48:21 1:10:40  7:35 01:10:16  7:33 
+  282   367 Leanne Dombrowsky       28 F  14  63 F2529 Selkirk            NY   24:10   24:24   22:09   48:33 1:10:41  7:36 01:10:35  7:35 
+  283    33 James Monlea            37 M  26 220 M3539 Schenectady        NY   24:34   24:13   21:57   48:47 1:10:43  7:36 01:10:04  7:31 
+  284   849 Laudric Maxwell         59 M  16 221 M5559 Schenectady        NY   23:49   23:46   23:10   47:34 1:10:43  7:36 01:10:41  7:35 
+  285   758 Mark Lansing            43 M  34 222 M4044 Niskayuna          NY   24:49   23:38   22:20   48:27 1:10:46  7:36 01:10:30  7:34 
+  286   980 Kevin Newman            38 M  27 223 M3539 Newtonville        NY   24:31   23:14   23:04   47:44 1:10:47  7:36 01:10:25  7:34 
+  287   605 Kristen Hislop          55 F   1  64 F5559 Halfmoon           NY   23:36   23:47   23:27   47:22 1:10:48  7:36 01:10:43  7:36 
+  288   277 Dana Cooreman           35 F  14  65 F3539 New Hartford       NY   23:54   23:39   23:18   47:32 1:10:49  7:36 01:10:41  7:35 
+  289   791 Steven Lindsay          21 M  16 224 M2024 Schenectady        NY   24:27   23:19   23:04   47:46 1:10:49  7:36 01:10:41  7:35 
+  290   150 Alyssa Bove             21 F   8  66 F2024 West Islip         NY   24:06   23:29   23:16   47:34 1:10:50  7:36 01:10:45  7:36 
+  291  1274 Tj Sherwin              33 M  34 225 M3034 Albany             NY   23:39   23:59   23:14   47:38 1:10:51  7:37 01:10:45  7:36 
+  292   734 William Krisher         54 M  19 226 M5054 Scotia             NY   23:56   23:35   23:31   47:30 1:11:01  7:38 01:10:53  7:37 
+  293   273 John Conwall            37 M  28 227 M3539 Delanson           NY   23:51   24:01   23:14   47:52 1:11:05  7:38 01:11:02  7:38 
+  294   579 Tim Hartman Sr          57 M  17 228 M5559 Niskayuna          NY   23:34   23:52   23:42   47:25 1:11:07  7:38 01:11:00  7:37 
+  295  1131 Louis Recchia           60 M   8 229 M6064 Latham             NY   24:31   23:30   23:07   48:01 1:11:08  7:38 01:10:51  7:37 
+  296  1419 Christine Varley        55 F   2  67 F5559 Albany             NY   24:06   23:40   23:24   47:46 1:11:09  7:38 01:11:04  7:38 
+  297   544 Peter Guzzo             51 M  20 230 M5054 Niskayuna          NY   24:26   23:45   23:00   48:10 1:11:10  7:39 01:10:59  7:37 
+  298  1454 Ashley Wheeler          28 F  15  68 F2529 Rexford            NY   24:30   23:48   22:58   48:17 1:11:14  7:39 01:11:08  7:38 
+  299   599 Bob Hess                54 M  21 231 M5054 Clifton Park       NY   24:52   23:47   22:43   48:39 1:11:21  7:40 01:11:05  7:38 
+  300  1663 Krista Harwick          39 F  15  69 F3539 Mohawk             NY   24:11   23:49   23:23   48:00 1:11:22  7:40 01:11:06  7:38 
+  301   365 Mark Dolan              55 M  18 232 M5559 Albany             NY   23:52   24:11   23:23   48:03 1:11:25  7:40 01:11:14  7:39 
+  302    96 Peter Barth             27 M  24 233 M2529 New York           NY   25:44   24:02   21:41   49:46 1:11:26  7:40 01:10:37  7:35 
+  303  1590 Moira Hilt              27 F  16  70 F2529 Albany             NY   23:44   23:38   24:09   47:21 1:11:30  7:41 01:11:13  7:39 
+  304    74 Jon Atwell              54 M  22 234 M5054 Loudonville        NY   23:56   23:53   23:43   47:49 1:11:32  7:41 01:11:23  7:40 
+  305  1155 Wayne Richardson        55 M  19 235 M5559 Altamont           NY   24:13   23:56   23:25   48:09 1:11:33  7:41 01:11:22  7:40 
+  306  1165 Juan Rivelo             56 M  20 236 M5559 Clifton Park       NY   24:29   23:44   23:24   48:13 1:11:36  7:41 01:11:27  7:40 
+  307   788 Adam Limoges            17 M  15 237 M1519 Averill Park       NY   21:51   25:30   24:21   47:21 1:11:41  7:42 01:11:32  7:41 
+  308  1004 Daniel Nunez            27 M  25 238 M2529 Deer Park          NY   25:28   23:55   22:20   49:23 1:11:42  7:42 01:11:28  7:40 
+  309  1019 Michael Orsini          46 M  26 239 M4549 Penfield           NY   25:30   23:40   22:35   49:09 1:11:44  7:42 01:10:54  7:37 
+  310  1660 Rick Gloo               38 M  29 240 M3539 Mohawk             NY   24:29   23:52   23:29   48:20 1:11:48  7:43 01:11:33  7:41 
+  311   736 Andrew Krupski          29 M  26 241 M2529 Ballston Spa       NY   24:41   23:42   23:27   48:23 1:11:49  7:43 01:11:36  7:41 
+  312   894 Brian Melanson          44 M  35 242 M4044 Schenectady        NY   24:50   23:59   23:01   48:49 1:11:50  7:43 01:11:33  7:41 
+  313   202 Patty Canfield          47 F   3  71 F4549 Halfmoon           NY   24:47   23:50   23:13   48:37 1:11:50  7:43 01:11:35  7:41 
+  314   576 David Hart              58 M  21 243 M5559 Delmar             NY   25:21   23:50   22:40   49:11 1:11:50  7:43 01:11:26  7:40 
+  315   485 Erica Gauthier          33 F  10  72 F3034 Niskayuna          NY   25:14   23:43   22:55   48:57 1:11:52  7:43 01:11:34  7:41 
+  316   971 Frances Ness            39 F  16  73 F3539 Schenectady        NY   24:55   23:54   23:08   48:48 1:11:56  7:43 01:11:36  7:41 
+  317   923 Travis Moore            47 M  27 244 M4549 Ballston Lake      NY   24:15   24:19   23:24   48:33 1:11:56  7:43 01:11:46  7:42 
+  318   664 Richard Jerin Jr        34 M  35 245 M3034 Little Falls       NY   24:18   24:27   23:12   48:44 1:11:56  7:44 01:11:54  7:43 
+  319  1586 Jennifer Bergeron       39 F  17  74 F3539 Delmar             NY   24:15   24:20   23:24   48:34 1:11:58  7:44 01:11:53  7:43 
+  320   959 Michael Murtagh         59 M  22 246 M5559 Schenectady        NY   23:56   24:12   23:54   48:07 1:12:00  7:44 01:11:47  7:42 
+  321   397 Christopher Edick       35 M  30 247 M3539 New York Mills     NY   24:50   24:31   22:45   49:21 1:12:05  7:44 01:12:00  7:44 
+  322   466 Geneva Furlano          27 F  17  75 F2529 Albany             NY   24:04   24:06   23:57   48:10 1:12:06  7:45 01:11:58  7:44 
+  323  1055 Norris Pearson          53 M  23 248 M5054 Troy               NY   25:27   24:13   22:28   49:40 1:12:07  7:45 01:12:02  7:44 
+  324  1369 Gene Terwilliger        52 M  24 249 M5054 Glenville          NY   25:02   23:56   23:12   48:57 1:12:09  7:45 01:11:54  7:43 
+  325    62 Leo Ammerlaan           51 M  25 250 M5054 Wedel                   24:30   24:09   23:31   48:39 1:12:09  7:45 01:12:06  7:45 
+  326  1417 Marco Varisco           45 M  28 251 M4549 Delmar             NY   24:39   24:07   23:26   48:45 1:12:10  7:45 01:12:00  7:44 
+  327   178 Gary Burak              61 M   9 252 M6064 New Hartford       NY   24:19   24:23   23:33   48:42 1:12:15  7:46 01:12:09  7:45 
+  328   857 Billie McClosky         17 F   2  76 F1519 Glenville          NY   23:01   24:56   24:21   47:56 1:12:17  7:46 01:12:12  7:45 
+  329   672 Peter Jones             38 M  31 253 M3539 Niskayuna          NY   24:34   24:56   22:48   49:30 1:12:18  7:46 01:12:08  7:45 
+  330   127 Briannan Bintz          38 F  18  77 F3539 Harrisville        RI   23:46   24:24   24:10   48:09 1:12:19  7:46 01:12:14  7:45 
+  331   374 Chuck Douglas           48 M  29 254 M4549 Petersburgh        NY   25:15   24:01   23:04   49:15 1:12:19  7:46 01:11:54  7:43 
+  332   872 Brian McLaughlin        50 M  26 255 M5054 Glenville          NY   24:31   24:01   23:52   48:31 1:12:23  7:46 01:12:11  7:45 
+  333  1020 Courtney Osaheni        27 F  18  78 F2529 Malta              NY   23:57   25:09   23:25   49:06 1:12:30  7:47 01:12:21  7:46 
+  334  1443 Deanne Webster          43 F   7  79 F4044 Albany             NY   25:23   24:16   22:53   49:38 1:12:31  7:47 01:12:24  7:46 
+  335   545 Robby Guzzo             19 M  16 256 M1519 Niskayuna          NY   23:20   23:17   25:59   46:36 1:12:34  7:48 01:12:19  7:46 
+  336   777 Carrie Lenic            39 F  19  80 F3539 Schenectady        NY   24:18   24:31   23:49   48:48 1:12:37  7:48 01:12:35  7:48 
+  337   757 Mike Langevin           54 M  27 257 M5054 Albany             NY   24:32   25:08   22:57   49:40 1:12:37  7:48 01:12:31  7:47 
+  338    84 Janice Balogh           48 F   4  81 F4549 Averill Park       NY   25:07   24:12   23:21   49:18 1:12:39  7:48 01:12:30  7:47 
+  339   189 Nicholas Burns          38 M  32 258 M3539 Albany             NY   24:45   24:16   23:42   49:00 1:12:41  7:48 01:12:30  7:47 
+  340  1068 Kevin Phoenix           27 M  27 259 M2529 Schenectady        NY   25:50   24:29   22:24   50:19 1:12:42  7:48 01:12:24  7:46 
+  341   977 James Newlove           63 M  10 260 M6064 Utica              NY   23:51   24:16   24:40   48:07 1:12:47  7:49 01:12:34  7:48 
+  342   245 Jason Chlopecki         44 M  36 261 M4044 Glenville          NY   24:44   24:18   23:47   49:02 1:12:49  7:49 01:12:26  7:47 
+  343   239 Keely Cheslack-Posta    43 F   8  82 F4044 Hastings On Hudson NY   24:23   24:03   24:25   48:26 1:12:50  7:49 01:12:36  7:48 
+  344   796 Owen Lockwood           18 M  17 262 M1519 Troy               NY   23:31   26:12   23:08   49:42 1:12:50  7:49 01:12:41  7:48 
+  345   921 Patty Moore             53 F   3  83 F5054 Queensbury         NY   23:44   24:36   24:32   48:19 1:12:50  7:49 01:12:48  7:49 
+  346   198 Ashley Cahill           32 F  11  84 F3034 Slingerlands       NY   25:00   24:31   23:21   49:31 1:12:51  7:49 01:12:39  7:48 
+  347   851 Lisa May                43 F   9  85 F4044 Brunswick          NY   23:23   24:24   25:08   47:47 1:12:54  7:50 01:12:51  7:49 
+  348  1025 Jonathan Owens          31 M  36 263 M3034 Glenville          NY   24:55   24:26   23:35   49:20 1:12:55  7:50 01:12:32  7:47 
+  349  1378 Sue Thompson            53 F   4  86 F5054 Queensbury         NY   24:02   24:34   24:24   48:36 1:12:59  7:50 01:12:57  7:50 
+  350  1251 Stephanie Selmer        46 F   5  87 F4549 Castleton On Hudso NY   24:19   24:44   23:59   49:02 1:13:00  7:50 01:12:51  7:49 
+  351  1504 Akif Zaman              40 M  37 264 M4044 Long Island City   NY   25:20   24:06   23:38   49:25 1:13:03  7:51 01:12:56  7:50 
+  352   469 James Gallagher         47 M  30 265 M4549 Pleasant Valley    NY   25:24   24:15   23:26   49:39 1:13:04  7:51 01:12:43  7:49 
+  353   256 Richard Clark           65 M   2 266 M6569 Feeding Hills      MA   25:06   24:28   23:32   49:33 1:13:05  7:51 01:12:50  7:49 
+  354  1402 Jenna Urbanski          17 F   3  88 F1519 Stillwater         NY   25:18   24:17   23:33   49:35 1:13:07  7:51 01:12:40  7:48 
+  355  1370 Melissa Tesh            41 F  10  89 F4044 Pleasant Valley    NY   25:23   24:15   23:30   49:37 1:13:07  7:51 01:12:46  7:49 
+  356   769 Jane Lee                32 F  12  90 F3034 Whitestone         NY   25:23   24:20   23:26   49:43 1:13:09  7:51 01:12:57  7:50 
+  357   440 Eric Fitzgerald         34 M  37 267 M3034 South Glens Falls  NY   24:59   24:15   24:07   49:14 1:13:20  7:53 01:13:13  7:52 
+  358   572 Brett Harris            34 F  13  91 F3034 Albany             NY   24:58   24:31   23:54   49:28 1:13:22  7:53 01:13:18  7:52 
+  359   860 Joe McCrudden           54 M  28 268 M5054 Clifton Park       NY   25:14   24:21   23:53   49:34 1:13:26  7:53 01:13:07  7:51 
+  360   470 Krystal Gallagher       47 F   6  92 F4549 Pleasant Valley    NY   25:21   24:20   23:48   49:40 1:13:28  7:53 01:12:57  7:50 
+  361  1529 Mary Buck               56 F   3  93 F5559 Mechanicville      NY   23:56   24:45   24:50   48:40 1:13:29  7:54 01:13:25  7:53 
+  362  1073 Tom Pierson             57 M  23 269 M5559 Latham             NY   24:03   25:01   24:27   49:04 1:13:30  7:54 01:13:26  7:53 
+  363  1650 Louis Croce             31 M  38 270 M3034 Saratoga Springs   NY   25:40   24:19   23:33   49:58 1:13:31  7:54 01:12:59  7:50 
+  364   398 Caitlyn Edmundson       31 F  14  94 F3034 Delmar             NY   24:39   24:52   24:03   49:30 1:13:33  7:54 01:13:29  7:53 
+  365   157 Allison Bradley         44 F  11  95 F4044 Albany             NY   24:48   24:54   23:52   49:42 1:13:34  7:54 01:13:27  7:53 
+  366   811 Patrick Lynskey         47 M  31 271 M4549 Clifton Park       NY   24:59   24:46   23:49   49:45 1:13:34  7:54 01:13:19  7:52 
+  367   699 Laura Kelly             46 F   7  96 F4549 Albany             NY   24:12   24:43   24:42   48:55 1:13:36  7:54 01:13:26  7:53 
+  368  1467 Lauren Williams         29 F  19  97 F2529 Troy               NY   26:32   23:47   23:22   50:18 1:13:40  7:55 01:13:00  7:50 
+  369  1162 Alyssa Risko            54 F   5  98 F5054 Schenectady        NY   25:10   24:42   23:53   49:51 1:13:43  7:55 01:13:39  7:55 
+  370  1104 Heidi Proper            25 F  20  99 F2529 Kinderhook         NY   24:45   24:42   24:21   49:27 1:13:47  7:55 01:13:07  7:51 
+  371  1145 Thomas Rest             59 M  24 272 M5559 Clifton Park       NY   25:11   25:11   23:30   50:21 1:13:51  7:56 01:13:38  7:54 
+  372  1496 John Yagielski          50 M  29 273 M5054 Scotia             NY   24:35   24:44   24:34   49:18 1:13:52  7:56 01:13:40  7:55 
+  373   187 Adam Burn               30 M  39 274 M3034 Guilderland        NY   26:04   24:22   23:28   50:25 1:13:53  7:56 01:12:51  7:49 
+  374   153 Chris Boyle             57 M  25 275 M5559 West Sand Lake     NY   25:17   24:37   24:00   49:54 1:13:53  7:56 01:13:29  7:53 
+  375   936 Mark Mortensen          39 M  33 276 M3539 Glenville          NY   25:30   25:03   23:25   50:32 1:13:57  7:57 01:13:49  7:56 
+  376   697 Jennifer Kehn           32 F  15 100 F3034 Albany             NY   25:32   24:49   23:38   50:20 1:13:58  7:57 01:13:48  7:55 
+  377   702 Scott Kelly             47 M  32 277 M4549 Delmar             NY   25:23   24:30   24:07   49:53 1:13:59  7:57 01:13:35  7:54 
+  378   795 Nicholas Lobosco        37 M  34 278 M3539 Ballston Spa       NY   25:55   24:34   23:32   50:28 1:13:59  7:57 01:12:43  7:49 
+  379  1243 Kim Scott               50 F   6 101 F5054 Broadalbin         NY   24:45   25:17   24:00   50:01 1:14:01  7:57 01:14:00  7:57 
+  380  1518 Benjamin Towne          32 M  40 279 M3034 Hagaman            NY   24:43   24:19   25:03   49:01 1:14:03  7:57 01:13:48  7:56 
+  381   163 Cailin Brennan          41 F  12 102 F4044 Valatie            NY   25:01   24:59   24:06   49:59 1:14:04  7:57 01:13:59  7:57 
+  382   160 Jesse Bradt             29 M  28 280 M2529 Schenectady        NY   24:17   24:43   25:07   49:00 1:14:06  7:57 01:13:55  7:56 
+  383   161 Darryl Bray             46 M  33 281 M4549 Niskayuna          NY   24:39   25:01   24:29   49:39 1:14:08  7:58 01:13:56  7:56 
+  384   222 Melissa Carriero        32 F  16 103 F3034 Albany             NY   24:31   24:45   24:53   49:16 1:14:08  7:58 01:13:56  7:56 
+  385   869 Tom McGuire             68 M   3 282 M6569 Slingerlands       NY   25:45   24:15   24:09   50:00 1:14:09  7:58 01:13:38  7:54 
+  386  1505 Eric Zenker             35 M  35 283 M3539 Troy               NY   26:22   24:24   23:28   50:45 1:14:12  7:58 01:13:27  7:53 
+  387   743 Mark Kuniholm           46 M  34 284 M4549 Hastings On Hudson NY   25:44   25:00   23:32   50:44 1:14:15  7:58 01:14:02  7:57 
+  388   754 Sara Lanesey            33 F  17 104 F3034 Gansevoort         NY   24:47   24:56   24:33   49:43 1:14:16  7:59 01:14:11  7:58 
+  389  1163 Anna Rissberger         23 F   9 105 F2024 Lake Placid        NY   24:26   25:25   24:28   49:50 1:14:18  7:59 01:14:01  7:57 
+  390  1648 William Colvin          55 M  26 285 M5559 Bennington         VT   26:26   24:50   23:05   51:16 1:14:21  7:59 01:13:57  7:57 
+  391  1473 Mark Wilson             47 M  35 286 M4549 Clifton Park       NY   24:30   25:02   24:52   49:31 1:14:22  7:59 01:14:03  7:57 
+  392  1319 William Sorel           29 M  29 287 M2529 Albany             NY   25:00   25:07   24:17   50:07 1:14:23  7:59 01:14:13  7:58 
+  393   115 Joe Benny               41 M  38 288 M4044 Albany             NY   24:37   24:51   24:57   49:28 1:14:24  7:59 01:14:18  7:59 
+  394   116 Ami Jo Benny-Rielly     38 F  20 106 F3539 Schenectady        NY   24:46   24:50   24:49   49:36 1:14:24  7:59 01:14:18  7:59 
+  395  1627 Will Russell            32 M  41 289 M3034 East Greenbush     NY   26:14   24:57   23:20   51:10 1:14:30  8:00 01:14:02  7:57 
+  396   794 Justine Lobosco         35 F  21 107 F3539 Ballston Spa       NY   25:55   24:43   23:54   50:38 1:14:31  8:00 01:13:16  7:52 
+  397  1531 Benjamin Papa           30 M  42 290 M3034 Saratoga Springs   NY   23:18   25:31   25:45   48:49 1:14:33  8:00 01:14:31  8:00 
+  398   399 Steve Eichler           55 M  27 291 M5559 Oneonta            NY   25:46   24:41   24:08   50:27 1:14:34  8:00 01:14:12  7:58 
+  399   546 Joseph Gwozdz           64 M  11 292 M6064 Cheshire           MA   26:05   25:03   23:29   51:08 1:14:37  8:01 01:14:08  7:58 
+  400  1265 Amy Shatsoff            38 F  22 108 F3539 Delmar             NY   25:15   24:56   24:28   50:10 1:14:38  8:01 01:14:30  8:00 
+  401   865 Joel McFadden           55 M  28 293 M5559 Charlton           NY   25:02   24:51   24:48   49:53 1:14:40  8:01 01:14:26  8:00 
+  402  1567 Hector Jasen            46 M  36 294 M4549 Troy               NY   27:17   23:54   23:30   51:11 1:14:41  8:01 01:14:16  7:58 
+  403  1682 Chelsea Smith           31 F  18 109 F3034 Valatie            NY   25:53   24:56   23:54   50:49 1:14:42  8:01 01:14:09  7:58 
+  404  1032 Steve Palmer            63 M  12 295 M6064 Bainbridge         NY   24:39   25:00   25:04   49:39 1:14:43  8:01 01:14:25  8:00 
+  405   698 Ryan Kelley             24 M  17 296 M2024 Guilderland        NY   24:55   24:03   25:47   48:58 1:14:45  8:02 01:14:29  8:00 
+  406   408 Daniel Esper            59 M  29 297 M5559 Slingerlands       NY   24:25   23:41   26:41   48:06 1:14:47  8:02 01:14:33  8:00 
+  407  1440 Teresa Warner Maiuri    54 F   7 110 F5054 Ghent              NY   25:48   25:07   23:56   50:54 1:14:49  8:02 01:14:09  7:58 
+  408   424 Mary Fenton             54 F   8 111 F5054 Ballston Spa       NY   24:54   25:24   24:39   50:18 1:14:56  8:03 01:14:46  8:02 
+  409    51 Christopher Allen       41 M  39 298 M4044 Wynantskill        NY   26:04   25:01   23:54   51:04 1:14:57  8:03 01:14:57  8:03 
+  410  1268 Natalie Shea            54 F   9 112 F5054 Amherst            MA   25:55   25:04   24:04   50:58 1:15:02  8:03 01:14:46  8:02 
+  411   912 John Modoski            51 M  30 299 M5054 Amsterdam          NY   25:13   24:56   24:54   50:09 1:15:02  8:03 01:14:51  8:02 
+  412   562 Steve Hanagan           52 M  31 300 M5054 Ballston Lake      NY   25:48   25:17   23:58   51:05 1:15:03  8:04 01:14:52  8:02 
+  413  1310 Amy Smyth               42 F  13 113 F4044 Melrose            NY   25:52   24:57   24:15   50:49 1:15:04  8:04 01:14:41  8:01 
+  414   928 Bill Moreland           54 M  32 301 M5054 Latham             NY   25:38   25:00   24:30   50:38 1:15:07  8:04 01:14:38  8:01 
+  415   568 Jason Hare              42 M  40 302 M4044 Wilton             NY   27:10   24:45   23:15   51:55 1:15:09  8:04 01:14:49  8:02 
+  416   789 Robert Limoges          49 M  37 303 M4549 Averill Park       NY   25:37   25:18   24:18   50:55 1:15:12  8:05 01:15:03  8:04 
+  417   263 Megan Cocci             41 F  14 114 F4044 Voorheesville      NY   25:58   25:19   23:57   51:16 1:15:13  8:05 01:15:02  8:03 
+  418  1365 Herb Terns              50 M  33 304 M5054 Schenectady        NY   25:15   25:13   24:47   50:28 1:15:14  8:05 01:14:59  8:03 
+  419   714 Alexander Kirby         30 M  43 305 M3034 Schenectady        NY   26:11   25:06   23:58   51:17 1:15:14  8:05 01:14:38  8:01 
+  420   428 Michael Fernandez       51 M  34 306 M5054 Ballston Lake      NY   24:44   25:17   25:16   50:00 1:15:15  8:05 01:15:01  8:03 
+  421  1500 Mercedez Young          19 F   4 115 F1519 Troy               NY   24:18   25:33   25:27   49:51 1:15:17  8:05 01:15:11  8:04 
+  422  1631 Hilary Therrien         32 F  19 116 F3034 Saint Albans       VT   25:26   25:10   24:42   50:36 1:15:18  8:05 01:14:59  8:03 
+  423  1471 Peter Willis            40 M  41 307 M4044 Scotia             NY   25:27   25:12   24:40   50:38 1:15:18  8:05 01:14:52  8:02 
+  424  1585 Emily Chromczak         32 F  20 117 F3034 Delmar             NY   24:42   25:10   25:30   49:52 1:15:21  8:06 01:15:09  8:04 
+  425  1308 Stacia Smith            49 F   8 118 F4549 Niskayuna          NY   25:22   25:33   24:31   50:55 1:15:25  8:06 01:15:16  8:05 
+  426   267 Jeffrey Colling         42 M  42 308 M4044 Niskayuna          NY   25:13   25:35   24:40   50:47 1:15:27  8:06 01:15:21  8:05 
+  427   989 Steve Nicoll            46 M  38 309 M4549 Schenectady        NY   26:42   24:26   24:20   51:07 1:15:27  8:06 01:15:02  8:03 
+  428  1655 Melissa Farley          30 F  21 119 F3034 Ballston Lake      NY   24:46   25:51   24:55   50:37 1:15:31  8:07 01:15:21  8:05 
+  429    86 George Baranauskas      66 M   4 310 M6569 Scotia             NY   25:43   25:35   24:15   51:18 1:15:33  8:07 01:15:20  8:05 
+  430   821 Nicola MacNeil          46 F   9 120 F4549 Rotterdam Junction NY   24:49   25:48   24:57   50:37 1:15:33  8:07 01:15:30  8:06 
+  431  1466 Kay Williams            39 F  23 121 F3539 Scotia             NY   25:24   25:43   24:28   51:07 1:15:34  8:07 01:15:29  8:06 
+  432   565 Liwei Hao               37 M  36 311 M3539 Niskayuna          NY   24:21   26:22   24:53   50:43 1:15:35  8:07 01:15:16  8:05 
+  433  1470 Melissa Willis          44 F  15 122 F4044 Ballston Lake      NY   24:23   25:28   25:47   49:50 1:15:37  8:07 01:15:29  8:06 
+  434  1118 Christopher Rakus       42 M  43 312 M4044 Schenectady        NY   27:26   24:56   23:16   52:22 1:15:37  8:07 01:14:54  8:03 
+  435   143 Philip Bordwell         45 M  39 313 M4549 Malta              NY   26:42   24:26   24:30   51:07 1:15:37  8:07 01:15:11  8:04 
+  436   889 David Medvesky          34 M  44 314 M3034 Delmar             NY   25:56   25:35   24:14   51:31 1:15:44  8:08 01:15:18  8:05 
+  437   523 Melissa Grandjean       40 F  16 123 F4044 Glenville          NY   25:14   25:36   24:55   50:49 1:15:44  8:08 01:15:43  8:08 
+  438   429 Christopher Fernando    49 M  40 315 M4549 Albany             NY   26:16   25:38   23:57   51:53 1:15:50  8:09 01:15:20  8:05 
+  439  1326 Steven Spuck            53 M  35 316 M5054 Albany             NY   26:15   25:23   24:14   51:38 1:15:52  8:09 01:15:30  8:06 
+  440  1090 Kim Pommer              35 F  24 124 F3539 Schenectady        NY   25:36   25:19   24:59   50:54 1:15:52  8:09 01:15:39  8:07 
+  441  1517 John Glaser             55 M  30 317 M5559 Niskayuna          NY   26:13   25:22   24:18   51:35 1:15:53  8:09 01:15:20  8:05 
+  442   918 Diane Montes Harris     52 F  10 125 F5054 Troy               NY   25:30   25:33   24:51   51:02 1:15:53  8:09 01:15:45  8:08 
+  443    67 Sivakumaran Appanah     47 M  41 318 M4549 Ballston Spa       NY   25:12   25:01   25:42   50:13 1:15:54  8:09 01:15:44  8:08 
+  444   111 Wade Beltramo           48 M  42 319 M4549 Niskayuna          NY   26:16   25:23   24:20   51:38 1:15:58  8:09 01:15:28  8:06 
+  445   373 Bill Douglas            58 M  31 320 M5559 Rensselaer         NY   25:32   25:28   25:01   51:00 1:16:00  8:10 01:15:50  8:09 
+  446   739 Evan Kujawski           41 F  17 126 F4044 Delmar             NY   26:16   25:23   24:26   51:38 1:16:03  8:10 01:15:38  8:07 
+  447  1448 Molly Wellman           31 F  22 127 F3034 Clifton Park       NY   25:40   25:22   25:04   51:01 1:16:05  8:10 01:15:54  8:09 
+  448  1332 Heidi Stears            27 F  21 128 F2529 Ballston Spa       NY   25:39   25:23   25:04   51:02 1:16:05  8:10 01:15:54  8:09 
+  449  1637 Richard Lynch           61 M  13 321 M6064 Saratoga Springs   NY   27:05   25:55   23:10   53:00 1:16:09  8:11 01:15:42  8:08 
+  450  1442 Abby Watson             40 F  18 129 F4044 Niskayuna          NY   26:00   25:19   24:50   51:19 1:16:09  8:11 01:15:56  8:09 
+  451  1450 Sara Westcott           35 F  25 130 F3539 Castleton          NY   25:25   25:44   25:08   51:09 1:16:16  8:11 01:16:06  8:10 
+  452   712 Rachel Kimball          31 F  23 131 F3034 Schenectady        NY   26:46   25:29   24:03   52:15 1:16:17  8:12 01:15:39  8:07 
+  453   124 Jessica Berschwinger    31 F  24 132 F3034 Voorheesville      NY   26:47   25:29   24:03   52:15 1:16:17  8:12 01:15:39  8:07 
+  454   751 Sean Land               47 M  43 322 M4549 Worcester          NY   25:06   25:49   25:29   50:55 1:16:23  8:12 01:16:10  8:11 
+  455   896 Matthew Melsert         65 M   5 323 M6569 Burnt Hills        NY   26:39   25:17   24:28   51:56 1:16:23  8:12 01:15:59  8:10 
+  456  1649 Sam Cretcher            29 M  30 324 M2529 Washington         DC   27:51   25:03   23:31   52:54 1:16:25  8:12 01:15:43  8:08 
+  457  1674 Citlalli Ochoa          28 F  22 133 F2529 San Francisco      CA   27:50   25:04   23:31   52:54 1:16:25  8:12 01:15:42  8:08 
+  458    95 Hannah Barry            47 F  10 134 F4549 Glenmont           NY   27:23   25:18   23:48   52:41 1:16:28  8:13 01:15:36  8:07 
+  459   639 John Hutchison          56 M  32 325 M5559 Scotia             NY   26:02   25:35   24:53   51:37 1:16:30  8:13 01:16:05  8:10 
+  460    53 Jim Allen               69 M   6 326 M6569 Millbrook          NY   25:34   25:27   25:35   51:00 1:16:35  8:13 01:16:21  8:12 
+  461  1040 Michael Parsons         56 M  33 327 M5559 Schenectady        NY   25:29   25:47   25:24   51:15 1:16:38  8:14 01:16:18  8:12 
+  462  1702 Todd Stevens            38 M  37 328 M3539 Albany             NY   26:54   25:03   24:44   51:57 1:16:40  8:14 01:16:14  8:11 
+  463   404 Bryan Ellis             34 M  45 329 M3034 Delmar             NY   26:15   25:44   24:43   51:58 1:16:41  8:14 01:16:31  8:13 
+  464   830 Clifford Mango          60 M  14 330 M6064 Charlton           NY   25:29   25:02   26:13   50:30 1:16:43  8:14 01:16:22  8:12 
+  465  1621 Lexi Williams           28 F  23 135 F2529 Clifton Park       NY   27:10   25:07   24:29   52:17 1:16:45  8:14 01:16:10  8:11 
+  466   195 Peter Butryn            62 M  15 331 M6064 Schenectady        NY   25:35   25:43   25:30   51:17 1:16:47  8:15 01:16:33  8:13 
+  467   497 Catherine Gilbert       47 F  11 136 F4549 Niskayuna          NY   26:25   25:36   24:52   52:00 1:16:52  8:15 01:16:24  8:12 
+  468  1113 Kevin Radigan           59 M  34 332 M5559 Burnt Hills        NY   26:22   25:38   24:54   51:59 1:16:53  8:15 01:16:42  8:14 
+  469   557 Lonnie Halusic          51 F  11 137 F5054 Malta              NY   26:09   25:50   24:56   51:58 1:16:54  8:16 01:16:40  8:14 
+  470  1142 Jill Rembetski          50 F  12 138 F5054 Averill Park       NY   25:33   25:40   25:43   51:13 1:16:55  8:16 01:16:46  8:15 
+  471   808 Joann Lynch             53 F  13 139 F5054 Dalton             MA   26:28   25:49   24:40   52:16 1:16:56  8:16 01:16:35  8:13 
+  472   169 Renee Brown             28 F  24 140 F2529 Hyde Park          NY   26:14   25:41   25:03   51:54 1:16:56  8:16 01:16:46  8:15 
+  473  1248 Douglas Secor           39 M  38 333 M3539 Scotia             NY   27:12   25:02   24:43   52:14 1:16:56  8:16 01:16:08  8:11 
+  474  1364 Patrick Teora           31 M  46 334 M3034 Albany             NY   28:19   25:25   23:14   53:43 1:16:57  8:16 01:16:21  8:12 
+  475  1316 Jim Sommer              54 M  36 335 M5054 Massapequa         NY   26:36   25:46   24:37   52:21 1:16:58  8:16 01:16:27  8:13 
+  476  1622 Amanda Damjanovic       44 F  19 141 F4044 Halfmoon           NY   26:17   25:34   25:10   51:50 1:17:00  8:16 01:16:26  8:12 
+  477  1606 Patrick Fleming         22 M  18 336 M2024 Troy               NY   27:41   26:21   23:03   54:02 1:17:04  8:17 01:16:54  8:15 
+  478   666 Keith Johnson           35 M  39 337 M3539 Castleton          NY   24:38   26:12   26:15   50:50 1:17:04  8:17 01:16:55  8:16 
+  479  1267 Andrew Shave            43 M  44 338 M4044 Saratoga Springs   NY   25:45   26:10   25:12   51:54 1:17:05  8:17 01:16:54  8:15 
+  480  1588 Kari Deer               40 F  20 142 F4044 Slingerlands       NY   24:18   25:47   27:02   50:04 1:17:05  8:17 01:17:02  8:16 
+  481  1572 Gary Krisanda           38 M  40 339 M3539 East Greenbush     NY   26:15   25:43   25:09   51:58 1:17:06  8:17 01:16:53  8:15 
+  482   183 Margaret Burke          56 F   4 143 F5559 Schenectady        NY   25:53   26:14   25:02   52:06 1:17:08  8:17 01:16:59  8:16 
+  483  1396 Joanna Tremper          50 F  14 144 F5054 East Chatham       NY   26:17   26:10   24:43   52:26 1:17:09  8:17 01:16:58  8:16 
+  484   383 Peter Dunn              63 M  16 340 M6064 1285 Island Pond R NH   27:01   25:09   25:01   52:09 1:17:10  8:17 01:16:31  8:13 
+  485  1200 Rebecca Ruppe           41 F  21 145 F4044 Troy               NY   26:59   26:00   24:13   52:58 1:17:11  8:17 01:16:57  8:16 
+  486  1495 Christina Yager         52 F  15 146 F5054 Troy               NY   26:59   26:01   24:13   52:59 1:17:11  8:17 01:16:58  8:16 
+  487   825 Melissa Maguire         46 F  12 147 F4549 Loudonville        NY   26:48   26:01   24:29   52:49 1:17:17  8:18 01:16:57  8:16 
+  488   486 Zachary Gearing         35 M  41 341 M3539 Saratoga Springs   NY   27:14   25:37   24:28   52:50 1:17:18  8:18 01:16:50  8:15 
+  489   984 Jon Ngin                39 M  42 342 M3539 Wynantskill        NY   25:05   26:16   25:58   51:20 1:17:18  8:18 01:17:05  8:17 
+  490   812 Elisha Lyons            44 F  22 148 F4044 Hoosick Falls      NY   25:58   25:54   25:29   51:52 1:17:21  8:18 01:16:35  8:13 
+  491   839 Matthew Mason           28 M  31 343 M2529 Glens Falls        NY   27:27   26:31   23:26   53:58 1:17:23  8:19 01:17:08  8:17 
+  492    45 Carl Adamczak           25 M  32 344 M2529 Rensselaer         NY   25:35   25:00   26:52   50:35 1:17:27  8:19 01:17:01  8:16 
+  493  1424 Ben Verschueren         43 M  45 345 M4044 Niskayuna          NY   25:33   26:23   25:37   51:55 1:17:31  8:19 01:17:24  8:19 
+  494  1296 Sarah Slosek            40 F  23 149 F4044 Galway             NY   26:07   25:50   25:35   51:57 1:17:31  8:19 01:17:04  8:17 
+  495  1320 Kacey Sornberger        44 F  24 150 F4044 Albany             NY   26:00   25:57   25:37   51:57 1:17:33  8:20 01:17:19  8:18 
+  496  1106 Sarah Pulcher           41 F  25 151 F4044 Selkirk            NY   26:57   25:44   24:55   52:40 1:17:34  8:20 01:17:04  8:17 
+  497   339 Nick Demos              55 M  35 346 M5559 Mechanicville      NY   26:00   25:47   25:52   51:46 1:17:37  8:20 01:17:19  8:18 
+  498   119 Jason Bentley           40 M  46 347 M4044 Schenectady        NY   27:21   25:20   25:01   52:40 1:17:41  8:20 01:17:04  8:16 
+  499  1081 Scott Piper             31 M  47 348 M3034 Troy               NY   26:15   26:20   25:12   52:35 1:17:47  8:21 01:17:22  8:18 
+  500   262 Joe Cocci               42 M  47 349 M4044 Voorheesville      NY   26:37   25:53   25:19   52:30 1:17:48  8:21 01:17:30  8:19 
+  501   974 Shannon Neville         31 F  25 152 F3034 Mechanicville      NY   27:18   25:51   24:40   53:09 1:17:48  8:21 01:17:28  8:19 
+  502   179 Tara Burbidge           43 F  26 153 F4044 Woodcliff Lake     NJ   26:21   26:14   25:16   52:34 1:17:50  8:21 01:17:38  8:20 
+  503   938 Erik Morton             41 M  48 350 M4044 Albany             NY   27:59   25:45   24:10   53:44 1:17:53  8:22 01:17:16  8:18 
+  504  1405 Traci Utter             43 F  27 154 F4044 Niskayuna          NY   25:32   26:23   26:05   51:55 1:17:59  8:22 01:17:52  8:22 
+  505    78 Gregory Bachinsky       58 M  36 351 M5559 Latham             NY   26:16   26:03   25:45   52:18 1:18:03  8:23 01:17:44  8:21 
+  506  1245 Amy Seagroatt           44 F  28 155 F4044 Clifton Park       NY   27:49   25:27   24:50   53:15 1:18:05  8:23 01:17:27  8:19 
+  507  1190 Dean Rowe               46 M  44 352 M4549 Ghent              NY   25:12   26:25   26:31   51:37 1:18:07  8:23 01:17:59  8:22 
+  508  1077 Scott Pilecki           26 M  33 353 M2529 Albany             NY   26:49   25:33   25:49   52:21 1:18:09  8:24 01:17:48  8:21 
+  509  1202 Sara Russell            33 F  26 156 F3034 East Greenbush     NY   26:51   26:03   25:18   52:53 1:18:11  8:24 01:17:43  8:21 
+  510   840 Mike Mason              70 M   3 354 M7074 Northfield         VT   26:01   25:58   26:14   51:58 1:18:12  8:24 01:18:03  8:23 
+  511   254 Daniel Clark            33 M  48 355 M3034 Glenville          NY   27:22   26:08   24:45   53:30 1:18:15  8:24 01:17:55  8:22 
+  512   578 Tatiana Hart            32 F  27 157 F3034 Ballston Spa       NY   25:21   26:47   26:09   52:07 1:18:16  8:24 01:18:12  8:24 
+  513  1340 Meghan Stiehler         45 F  13 158 F4549 Ballston Spa       NY   25:21   26:47   26:10   52:07 1:18:16  8:24 01:18:12  8:24 
+  514    48 Jon Aery                38 M  43 356 M3539 Rotterdam          NY   26:39   25:52   25:49   52:30 1:18:18  8:25 01:17:50  8:22 
+  515    47 Carl Aery               42 M  49 357 M4044 Broadalbin         NY   26:39   25:54   25:47   52:33 1:18:19  8:25 01:17:51  8:22 
+  516    46 Andrew Aery             36 M  44 358 M3539 Whitesboro         NY   26:40   25:53   25:47   52:33 1:18:19  8:25 01:17:52  8:22 
+  517  1134 Steve Reddy             54 M  37 359 M5054 Stuyvesant Falls   NY   25:59   26:02   26:20   52:01 1:18:20  8:25 01:18:05  8:23 
+  518  1018 Joe Orsini              59 M  37 360 M5559 Schenectady        NY   27:15   26:06   25:01   53:21 1:18:21  8:25 01:18:09  8:23 
+  519   553 Richard Hall            35 M  45 361 M3539 Schenectady        NY   27:28   26:50   24:06   54:18 1:18:24  8:25 01:18:03  8:23 
+  520   877 John McManus            47 M  45 362 M4549 Menands            NY   26:23   25:56   26:06   52:19 1:18:24  8:25 01:17:57  8:22 
+  521  1121 Rayne Rappazzo          26 F  25 159 F2529 Cohoes             NY   28:15   25:37   24:34   53:52 1:18:25  8:25 01:17:45  8:21 
+  522  1556 Jennifer Adams          36 F  26 160 F3539 Selkirk            NY   27:29   26:49   24:10   54:17 1:18:26  8:25 01:18:07  8:23 
+  523   224 Christopher Carter      41 M  50 363 M4044 Averill Park       NY   28:04   26:12   24:12   54:15 1:18:27  8:25 01:17:53  8:22 
+  524  1426 Kelley Vite             59 F   5 161 F5559 Clifton Park       NY   26:16   26:20   25:52   52:36 1:18:28  8:26 01:18:13  8:24 
+  525   540 Gary Guilfoyle          55 M  38 364 M5559 Ballston Spa       NY   28:11   25:42   24:36   53:53 1:18:28  8:26 01:17:57  8:22 
+  526  1479 Audrey Witter           55 F   6 162 F5559 North Adams        MA   26:46   26:11   25:33   52:56 1:18:29  8:26 01:18:01  8:23 
+  527   673 Stephen Jones           65 M   7 365 M6569 Averill Park       NY   26:25   26:05   26:03   52:29 1:18:31  8:26 01:18:12  8:24 
+  528   930 Denise Mormino          54 F  16 163 F5054 Slingerlands       NY   26:11   26:14   26:07   52:25 1:18:31  8:26 01:18:27  8:25 
+  529   850 Lauren Maxwell          30 F  28 164 F3034 Mechanicville      NY   26:10   26:15   26:07   52:25 1:18:32  8:26 01:18:27  8:25 
+  530  1240 Jeffrey Schwartz        51 M  38 366 M5054 Saratoga Springs   NY   26:41   26:05   25:52   52:45 1:18:36  8:26 01:18:16  8:24 
+  531  1354 Erin Svare              39 F  27 165 F3539 Delmar             NY   26:26   26:31   25:43   52:56 1:18:39  8:27 01:18:25  8:25 
+  532   742 Sunil Kumta             56 M  39 367 M5559 Schenectady        NY   26:43   26:24   25:33   53:07 1:18:40  8:27 01:18:17  8:24 
+  533   715 Chris Kirby             37 M  46 368 M3539 Schenectady        NY   27:18   25:53   25:33   53:11 1:18:43  8:27 01:18:06  8:23 
+  534   597 Lauren Herbs            57 F   7 166 F5559 Rexford            NY   26:50   26:08   25:47   52:57 1:18:44  8:27 01:18:33  8:26 
+  535  1206 Ruth Sadinsky           52 F  17 167 F5054 Albany             NY   26:49   26:25   25:39   53:13 1:18:52  8:28 01:18:37  8:27 
+  536   479 Kristen Garzone         33 F  29 168 F3034 Troy               NY   27:40   26:10   25:04   53:49 1:18:52  8:28 01:18:46  8:27 
+  537   722 Carolann Koleci         47 F  14 169 F4549 Albany             NY   26:02   26:51   26:10   52:52 1:19:01  8:29 01:18:55  8:28 
+  538  1554 Raymond Senecal         30 M  49 369 M3034 Schenectady        NY   27:25   26:15   25:24   53:40 1:19:03  8:29 01:18:21  8:25 
+  539   354 Heather Dibiase         44 F  29 170 F4044 Clifton Park       NY   27:19   26:30   25:15   53:49 1:19:04  8:29 01:18:43  8:27 
+  540   298 Jeff Cullen             62 M  17 370 M6064 Cobleskill         NY   27:23   26:24   25:19   53:46 1:19:05  8:29 01:18:39  8:27 
+  541    55 Joan Allison            39 F  28 171 F3539 Clifton Park       NY   27:22   26:07   25:37   53:29 1:19:06  8:30 01:18:45  8:27 
+  542   991 Shane Nolan             34 M  50 371 M3034 Gansevoort         NY   26:28   27:05   25:33   53:33 1:19:06  8:30 01:18:50  8:28 
+  543   963 James Myers             45 M  46 372 M4549 Schenectady        NY   26:52   26:34   25:42   53:26 1:19:07  8:30 01:18:32  8:26 
+  544   527 Annalisa Greco          28 F  26 172 F2529 Niskayuna          NY   26:29   27:08   25:31   53:36 1:19:07  8:30 01:18:51  8:28 
+  545   528 Terence Green           29 M  34 373 M2529 Albany             NY   28:14   26:22   24:33   54:36 1:19:09  8:30 01:18:42  8:27 
+  546  1422 Michael Verdichizzi     51 M  39 374 M5054 Glenmont           NY   26:51   26:22   25:59   53:12 1:19:10  8:30 01:18:42  8:27 
+  547  1309 Stefan Smith            49 M  47 375 M4549 Scotia             NV   26:42   26:47   25:43   53:28 1:19:11  8:30 01:19:02  8:29 
+  548  1301 Erin Smith              13 F   1 173 F0114 Scotia             NY   27:41   26:00   25:33   53:40 1:19:13  8:30 01:18:40  8:27 
+  549  1283 Ryan Sickles            33 M  51 376 M3034 Rexford            NY   26:55   26:47   25:35   53:42 1:19:16  8:31 01:18:50  8:28 
+  550   760 Frank Lanzillo Jr       64 M  18 377 M6064 Troy               NY   26:35   26:26   26:17   53:00 1:19:16  8:31 01:19:00  8:29 
+  551   724 Kristen Kopper          27 F  27 174 F2529 Schenectady        NY   26:42   26:47   25:50   53:29 1:19:18  8:31 01:19:10  8:30 
+  552   300 Dan Cunningham          48 M  48 378 M4549 Delmar             NY   26:49   27:10   25:22   53:59 1:19:20  8:31 01:19:01  8:29 
+  553   659 Steve Janack            57 M  40 379 M5559 Glenville          NY   27:34   26:07   25:41   53:41 1:19:21  8:31 01:18:59  8:29 
+  554   132 Danielle Bliss          41 F  30 175 F4044 Ilion              NY   28:19   26:01   25:05   54:19 1:19:23  8:32 01:18:46  8:27 
+  555   826 John Mahar              64 M  19 380 M6064 Scotia             NY   27:49   26:15   25:23   54:04 1:19:26  8:32 01:19:01  8:29 
+  556  1087 Lauren Podgorski        29 F  28 176 F2529 Chicago            IL   28:12   26:17   24:59   54:29 1:19:27  8:32 01:18:39  8:27 
+  557  1124 Taryn Raylinsky         42 F  31 177 F4044 Glenmont           NY   28:04   26:00   25:24   54:04 1:19:28  8:32 01:18:50  8:28 
+  558    81 Kim Baker               58 F   8 178 F5559 Pittsfield         MA   26:51   26:24   26:16   53:14 1:19:30  8:32 01:19:08  8:30 
+  559  1666 James Langmead          61 M  20 381 M6064 Lake Placid        NY   26:33   26:18   26:46   52:51 1:19:36  8:33 01:19:23  8:31 
+  560  1507 Zbigniew Ziobro         48 M  49 382 M4549 Niskayuna          NY   27:11   26:54   25:34   54:05 1:19:39  8:33 01:19:24  8:32 
+  561   308 Deborah Czech           55 F   9 179 F5559 Saratoga Springs   NY   26:14   26:44   26:46   52:58 1:19:44  8:34 01:19:36  8:33 
+  562   982 Theresa Newton          54 F  18 180 F5054 Halfmoon           NY   26:44   26:57   26:09   53:40 1:19:49  8:34 01:19:34  8:33 
+  563   380 David Drexler           61 M  21 383 M6064 Ravena             NY   29:13   26:10   24:29   55:23 1:19:51  8:34 01:19:06  8:30 
+  564  1257 Jane Seymour-Smith      42 F  32 181 F4044 Scotia             NY   27:41   26:00   26:13   53:40 1:19:53  8:35 01:19:20  8:31 
+  565  1403 Julie Urbanski          50 F  19 182 F5054 Stillwater         NY   28:15   26:29   25:10   54:44 1:19:53  8:35 01:19:25  8:32 
+  566   317 Joseph D'Aurizio        36 M  47 384 M3539 Schenectady        NY   27:52   25:48   26:14   53:40 1:19:54  8:35 01:19:03  8:29 
+  567   402 Kim Eisler              52 F  20 183 F5054 Ballston Spa       NY   26:20   27:09   26:28   53:28 1:19:56  8:35 01:19:46  8:34 
+  568   147 Amy Boss                38 F  29 184 F3539 Johnstown          NY   25:48   26:52   27:17   52:39 1:19:56  8:35 01:19:40  8:33 
+  569  1557 Robert Diamond          28 M  35 385 M2529 Watervliet         NY   28:43   26:27   24:51   55:10 1:20:00  8:35 01:19:16  8:31 
+  570  1409 Amy Vanderkar           43 F  33 185 F4044 Averill Park       NY   27:20   26:46   26:00   54:05 1:20:05  8:36 01:19:29  8:32 
+  571  1261 Timothy Shannon         41 M  51 386 M4044 Schenectady        NY   26:18   26:44   27:09   53:02 1:20:11  8:37 01:19:51  8:34 
+  572    59 Joseph Altobello        41 M  52 387 M4044 Green Island       NY   24:34   26:03   29:36   50:36 1:20:12  8:37 01:20:04  8:36 
+  573   415 Kathryn Farley          27 F  29 186 F2529 New York           NY   27:43   26:40   25:51   54:22 1:20:13  8:37 01:19:42  8:34 
+  574   941 Raymond Moye            59 M  41 388 M5559 Schenectady        NY   27:12   27:04   25:58   54:16 1:20:13  8:37 01:19:55  8:35 
+  575   495 Margaret Gerardi        27 F  30 187 F2529 New York           NY   27:43   26:39   25:52   54:22 1:20:13  8:37 01:19:43  8:34 
+  576  1009 Erika Oesterle          68 F   1 188 F6569 Stamford           NY   27:28   26:16   26:31   53:44 1:20:14  8:37 01:20:12  8:37 
+  577  1398 Rob Trotta              47 M  50 389 M4549 Ilion              NY   26:54   26:46   26:52   53:39 1:20:30  8:39 01:20:07  8:36 
+  578   952 Christopher Murphy      14 M   2 390 M0114 Johnstown          NY   24:50   28:31   27:18   53:20 1:20:37  8:39 01:20:31  8:39 
+  579   394 Robyn Easton            47 F  15 189 F4549 Delmar             NY   27:17   26:52   26:34   54:09 1:20:42  8:40 01:20:29  8:39 
+  580   268 Matthew Collingwood     34 M  52 391 M3034 Schenectady        NY   28:16   26:53   25:35   55:08 1:20:43  8:40 01:20:15  8:37 
+  581  1204 Bernice Ruzzo           50 F  21 190 F5054 Schenectady        NY   27:21   26:50   26:39   54:11 1:20:50  8:41 01:20:27  8:38 
+  582   129 Scott Bishop            49 M  51 392 M4549 Troy               NY   28:13   26:43   25:55   54:55 1:20:50  8:41 01:20:13  8:37 
+  583  1294 Erin Slater-Suzuki      36 F  30 191 F3539 Ballston Lake      NY   27:18   27:00   26:34   54:18 1:20:51  8:41 01:20:35  8:39 
+  584   385 Sarah Dunn              35 F  31 192 F3539 Oakland            CA   27:06   26:33   27:14   53:38 1:20:52  8:41 01:20:13  8:37 
+  585   384 Ronald Dunn             64 M  22 393 M6064 Albany             NY   27:06   26:32   27:15   53:38 1:20:52  8:41 01:20:13  8:37 
+  586   976 Michael Newhouse        50 M  40 394 M5054 Ballston Spa       NY   27:06   27:25   26:22   54:31 1:20:53  8:41 01:20:34  8:39 
+  587   763 Andy Laporta            47 M  52 395 M4549 Clifton Park       NY   27:28   27:04   26:22   54:31 1:20:53  8:41 01:20:35  8:39 
+  588   728 Jean Marie Kratzer      31 F  30 193 F3034 Cambridge          NY   27:28   27:04   26:23   54:31 1:20:53  8:41 01:20:35  8:39 
+  589   251 James Christian         36 M  48 396 M3539 Albany             NY   27:53   26:57   26:06   54:49 1:20:54  8:41 01:20:28  8:38 
+  590   405 Paul Engel              45 M  53 397 M4549 Albany             NY   27:17   27:24   26:16   54:40 1:20:56  8:41 01:20:39  8:40 
+  591   686 David Karandy           52 M  41 398 M5054 Saratoga Springs   NY   28:13   26:35   26:10   54:47 1:20:57  8:42 01:20:20  8:38 
+  592  1327 Shane Squires           50 M  42 399 M5054 Clifton Park       NY   27:42   26:48   26:31   54:29 1:20:59  8:42 01:20:42  8:40 
+  593  1604 Jack Nabozny            63 M  23 400 M6064 Slingerlands       NY   27:38   27:10   26:13   54:48 1:21:00  8:42 01:20:41  8:40 
+  594  1665 Kathryn Lamica          36 F  32 194 F3539 Saratoga Springs   NY   27:27   26:21   27:16   53:48 1:21:03  8:42 01:20:20  8:38 
+  595   379 Marcy Dreimiller        60 F   3 195 F6064 South Glens Falls  NY   27:25   26:59   26:42   54:23 1:21:05  8:42 01:20:47  8:40 
+  596   942 Frank Mueller           60 M  24 401 M6064 Glenville          NY   26:29   27:02   27:36   53:30 1:21:05  8:42 01:20:58  8:42 
+  597  1047 Lauren Patneaude        40 F  34 196 F4044 Schenectady        NY   28:44   26:53   25:37   55:37 1:21:13  8:43 01:20:40  8:40 
+  598  1197 Anya Rozanova           39 F  33 197 F3539 Clifton Park       NY   28:43   27:09   25:24   55:52 1:21:15  8:43 01:20:34  8:39 
+  599  1067 Janice Phoenix          58 F  10 198 F5559 Schenectady        NY   26:45   27:20   27:11   54:05 1:21:15  8:43 01:21:08  8:43 
+  600   473 Eric Gandler            41 M  53 402 M4044 Clifton Park       NY   28:44   27:09   25:24   55:52 1:21:16  8:44 01:20:35  8:39 
+  601   744 Megan Labbate           30 F  31 199 F3034 Troy               NY   27:54   27:11   26:13   55:04 1:21:17  8:44 01:20:42  8:40 
+  602  1693 Megan Wordelmann        39 F  34 200 F3539 Saratoga Springs   NY   29:30   26:40   25:08   56:10 1:21:18  8:44 01:20:32  8:39 
+  603   343 Ryan Deolde             41 M  54 403 M4044 Selkirk            NY   28:02   27:10   26:10   55:11 1:21:20  8:44 01:20:52  8:41 
+  604  1524 Sarah Pechar            46 F  16 201 F4549 Niskayuna          NY   28:23   26:54   26:05   55:16 1:21:21  8:44 01:20:46  8:40 
+  605   264 Dave Cole               62 M  25 404 M6064 Defreestville      NY   28:08   26:47   26:28   54:54 1:21:22  8:44 01:20:55  8:41 
+  606  1192 Christine Rowley        23 F  10 202 F2024 Castleton          NY   27:37   27:23   26:27   55:00 1:21:27  8:45 01:21:04  8:42 
+  607  1468 Omar Williams           33 M  53 405 M3034 Troy               NY   27:57   27:22   26:09   55:18 1:21:27  8:45 01:21:02  8:42 
+  608  1023 Mike Otoole             44 M  55 406 M4044 Mechanicville      NY   27:13   27:01   27:16   54:13 1:21:29  8:45 01:21:07  8:43 
+  609   983 Alan Ng                 40 M  56 407 M4044 Albany             NY   28:00   27:30   26:00   55:29 1:21:29  8:45 01:20:56  8:41 
+  610  1474 Jason Winkler           41 M  57 408 M4044 Schenectady        NY   29:24   26:15   25:51   55:38 1:21:29  8:45 01:20:51  8:41 
+  611   194 Jason Butler            49 M  54 409 M4549 Tribes Hill        NY   28:00   26:35   26:56   54:34 1:21:30  8:45 01:21:07  8:43 
+  612   999 Piper Novicki           37 F  35 203 F3539 Albany             NY   28:06   26:59   26:26   55:05 1:21:31  8:45 01:21:04  8:42 
+  613   288 Susan Coyner            56 F  11 204 F5559 Glens Falls        NY   28:01   27:08   26:23   55:09 1:21:32  8:45 01:21:11  8:43 
+  614   684 Robyn Kaminski          42 F  35 205 F4044 Rensselaer         NY   28:37   26:42   26:17   55:19 1:21:35  8:46 01:21:00  8:42 
+  615   803 Christopher Lupien      36 M  49 410 M3539 Arlington          MA   27:08   27:27   27:04   54:35 1:21:38  8:46 01:21:23  8:44 
+  616   614 Nikki Hogan             51 F  22 206 F5054 West Sand Lake     NY   28:05   27:09   26:25   55:14 1:21:39  8:46 01:21:20  8:44 
+  617   477 Emily Garvilla          38 F  36 207 F3539 Schenectady        NY   28:57   26:59   25:46   55:55 1:21:41  8:46 01:21:04  8:42 
+  618  1602 Martha Degrazia         68 F   2 208 F6569 Slingerlands       NY   27:24   27:21   26:58   54:44 1:21:42  8:46 01:21:37  8:46 
+  619  1512 Joseph McHale           27 M  36 411 M2529 Ballston Spa Ny    NY   28:17   27:02   26:24   55:18 1:21:42  8:46 01:21:07  8:43 
+  620  1324 Leah Spoar              36 F  37 209 F3539 Saint Johnsville   NY   28:36   27:13   25:54   55:49 1:21:43  8:46 01:21:19  8:44 
+  621  1678 Lisa Pleban             55 F  12 210 F5559 Gansevoort         NY   27:18   27:55   26:37   55:12 1:21:49  8:47 01:21:47  8:47 
+  622   973 Julie Neugebauer        40 F  36 211 F4044 Niskayuna          NY   29:17   28:00   24:34   57:16 1:21:50  8:47 01:21:27  8:45 
+  623   307 Barbara Cutler          44 F  37 212 F4044 Troy               NY   26:49   27:55   27:10   54:43 1:21:52  8:47 01:21:40  8:46 
+  624   133 Michael Bloom           46 M  55 412 M4549 Albany             NY   29:19   26:56   25:40   56:14 1:21:54  8:48 01:21:14  8:43 
+  625  1270 Jaime Sheehy            43 F  38 213 F4044 East Greenbush     NY   28:09   27:38   26:14   55:47 1:22:01  8:48 01:21:39  8:46 
+  626   199 Wei Cai                 46 F  17 214 F4549 Niskayuna          NY   28:15   27:14   26:34   55:28 1:22:02  8:48 01:21:41  8:46 
+  627   925 Sarah Moorfoot          34 F  32 215 F3034 Clifton Park       NY   28:04   27:51   26:13   55:54 1:22:06  8:49 01:21:57  8:48 
+  628  1289 Meghan Silvia           33 F  33 216 F3034 New York           NY   28:27   27:23   26:18   55:49 1:22:07  8:49 01:21:42  8:46 
+  629   216 Rebecca Carmack         44 F  39 217 F4044 Saratoga Springs   NY   28:25   27:36   26:10   56:00 1:22:10  8:49 01:21:53  8:48 
+  630   765 Lisa Lavigne            43 F  40 218 F4044 Niskayuna          NY   28:39   27:26   26:07   56:05 1:22:12  8:50 01:21:58  8:48 
+  631  1166 Janelle Rizzo           31 F  34 219 F3034 Troy               NY   27:25   27:15   27:34   54:39 1:22:13  8:50 01:22:04  8:49 
+  632   228 Jennifer Casey          54 F  23 220 F5054 Ballston Lake      NY   27:22   27:26   27:29   54:47 1:22:15  8:50 01:22:08  8:49 
+  633   603 Robert Higgins          42 M  58 413 M4044 Scotia             NY   28:01   27:15   27:01   55:15 1:22:16  8:50 01:21:43  8:46 
+  634   919 Elizabeth Moore         36 F  38 221 F3539 Rexford            NY   28:04   27:51   26:23   55:54 1:22:17  8:50 01:22:07  8:49 
+  635  1411 Mike Vanderlan          48 M  56 414 M4549 Scotia             NY   28:50   27:09   26:19   55:59 1:22:18  8:50 01:21:43  8:46 
+  636   247 Alex Chlopecki Ii       48 M  57 415 M4549 Greenwich          NY   27:45   27:52   26:44   55:37 1:22:20  8:50 01:21:57  8:48 
+  637  1523 John Sutphin            42 M  59 416 M4044 Loudonville        NY   28:15   27:28   26:39   55:42 1:22:21  8:51 01:21:45  8:47 
+  638   444 Bryan Florkiewicz       31 M  54 417 M3034 Schenectady        NY   28:00   27:02   27:20   55:02 1:22:22  8:51 01:21:49  8:47 
+  639  1027 Shannon Pageau          46 F  18 222 F4549 Rensselaer         NY   27:45   27:24   27:15   55:09 1:22:23  8:51 01:22:13  8:50 
+  640   331 Heather Defilippo       38 F  39 223 F3539 Schenectady        NY   28:38   27:08   26:38   55:46 1:22:23  8:51 01:22:04  8:49 
+  641   602 Kurt Higgins            50 M  43 418 M5054 Ballston Spa       NY   28:04   28:12   26:10   56:15 1:22:25  8:51 01:22:14  8:50 
+  642  1071 Areta Pidwerbetsky      56 F  13 224 F5559 Schenectady        NY   27:31   27:50   27:07   55:20 1:22:26  8:51 01:22:09  8:49 
+  643  1256 Kelly Seymour           33 F  35 225 F3034 Burnt Hills        NY   29:30   26:40   26:21   56:10 1:22:31  8:52 01:21:46  8:47 
+  644  1427 Sarah Vogel             49 F  19 226 F4549 Slingerlans        NY   27:41   27:35   27:20   55:15 1:22:34  8:52 01:22:19  8:50 
+  645  1616 Charles Hynes           51 M  44 419 M5054 New York           NY   26:21   27:31   28:46   53:52 1:22:38  8:52 01:22:20  8:50 
+  646  1514 Tom Verret              55 M  42 420 M5559 Glenville          NY   26:46   27:45   28:11   54:31 1:22:41  8:53 01:22:15  8:50 
+  647  1560 Amanda Siy              33 F  36 227 F3034 Clifton Park       NY   28:05   27:41   26:58   55:46 1:22:43  8:53 01:22:14  8:50 
+  648   281 Kevin Corrigan          56 M  43 421 M5559 Palenville         NY   28:35   27:56   26:13   56:31 1:22:44  8:53 01:22:16  8:50 
+  649   962 Mary Ellen Myer         38 F  40 228 F3539 Delmar             NY   28:48   27:30   26:27   56:17 1:22:44  8:53 01:22:22  8:51 
+  650   949 Will Munn               43 M  60 422 M4044 Mechanicville      NY   27:50   27:52   27:03   55:42 1:22:44  8:53 01:22:29  8:51 
+  651   910 Robin Mitchell          45 F  20 229 F4549 Delmar             NY   28:48   27:29   26:28   56:17 1:22:45  8:53 01:22:22  8:51 
+  652  1304 Meghan Smith            26 F  31 230 F2529 Rensselaer         NY   30:26   27:40   24:43   58:06 1:22:48  8:53 01:22:06  8:49 
+  653   998 Alex Novicki            41 M  61 423 M4044 Albany             NY   27:05   28:05   27:43   55:09 1:22:52  8:54 01:22:38  8:52 
+  654    97 Manuel Basantes         71 M   4 424 M7074 Niskayuna          NY   28:12   27:12   27:32   55:24 1:22:55  8:54 01:22:37  8:52 
+  655  1386 David Tobey             49 M  58 425 M4549 Schenectady        NY   26:52   28:51   27:19   55:42 1:23:01  8:55 01:22:44  8:53 
+  656  1199 Martin Rulison          57 M  44 426 M5559 Ballston Spa       NY   29:04   27:02   26:58   56:06 1:23:03  8:55 01:22:15  8:50 
+  657   458 Lynn Fredericks         53 F  24 231 F5054 Amsterdam          NY   28:00   27:39   27:26   55:39 1:23:04  8:55 01:22:47  8:53 
+  658  1350 Kelly Sullivan          40 F  41 232 F4044 Schenectady        NY   29:16   27:45   26:06   57:01 1:23:06  8:55 01:22:47  8:53 
+  659  1222 Meghan Sawtelle         40 F  42 233 F4044 Schenectady        NY   29:22   27:35   26:13   56:56 1:23:09  8:56 01:22:33  8:52 
+  660   529 Julie Greene            39 F  41 234 F3539 Mechanicville      NY   29:05   27:14   26:53   56:19 1:23:12  8:56 01:22:43  8:53 
+  661   166 Thomas Bronchetti       54 M  45 427 M5054 Slingerlands       NY   29:47   27:12   26:16   56:59 1:23:14  8:56 01:22:23  8:51 
+  662  1635 Daniel Kirchner         33 M  55 428 M3034 Saratoga Springs   NY   27:56   28:45   26:34   56:41 1:23:15  8:56 01:23:15  8:56 
+  663   205 Lauren Capece           35 F  42 235 F3539 Troy               NY   27:04   28:00   28:12   55:03 1:23:15  8:56 01:22:57  8:54 
+  664   833 David Manley            58 M  45 429 M5559 Hudson Falls       NY   27:41   27:46   27:51   55:26 1:23:17  8:57 01:22:57  8:54 
+  665   289 Randall Craig           68 M   8 430 M6569 Glenmont           NY   29:12   27:22   26:45   56:34 1:23:18  8:57 01:22:57  8:54 
+  666  1569 Demantra Constantine    49 F  21 236 F4549 Schenectady        NY   27:23   28:30   27:26   55:53 1:23:19  8:57 01:23:14  8:56 
+  667  1582 Stefanie Pitts          45 F  22 237 F4549 Schenectady        NY   28:00   27:44   27:38   55:44 1:23:21  8:57 01:22:57  8:54 
+  668  1563 David Olsen             67 M   9 431 M6569 Schenectady        NY   29:16   27:46   26:20   57:02 1:23:22  8:57 01:22:45  8:53 
+  669   170 Russell Brown           31 M  56 432 M3034 Ballston Spa       NY   30:12   27:10   26:01   57:22 1:23:23  8:57 01:22:32  8:52 
+  670   204 Karen Canniff           37 F  43 238 F3539 Albany             NY   28:17   27:34   27:34   55:50 1:23:23  8:57 01:23:00  8:55 
+  671  1537 Joshua Schrum           29 M  37 433 M2529 Saratoga Springs   NY   29:20   27:43   26:22   57:03 1:23:24  8:57 01:22:53  8:54 
+  672   249 Naseer Chowdhrey        53 M  46 434 M5054 Niskayuna          NY   27:35   27:53   28:01   55:27 1:23:28  8:58 01:23:21  8:57 
+  673  1465 Tara Wildove            32 F  37 239 F3034 Cohoes             NY   28:05   27:50   27:35   55:54 1:23:28  8:58 01:23:10  8:56 
+  674   226 Vasilisa Carter         29 F  32 240 F2529 Niskayuna          NY   29:48   28:00   25:43   57:48 1:23:30  8:58 01:23:23  8:57 
+  675  1393 Victoria Tran           25 F  33 241 F2529 Albany             NY   26:40   28:39   28:14   55:18 1:23:32  8:58 01:23:14  8:56 
+  676   835 Bill Marinello          61 M  26 435 M6064 Slingerlands       NY   28:05   27:33   27:54   55:38 1:23:32  8:58 01:23:02  8:55 
+  677   498 George Gilder           79 M   1 436 M7579 Tyringham          MA   28:17   28:11   27:09   56:28 1:23:37  8:59 01:23:22  8:57 
+  678   261 Julia Cobble            31 F  38 242 F3034 Troy               NY   28:33   27:48   27:16   56:21 1:23:37  8:59 01:23:05  8:55 
+  679   868 Katie McGee             29 F  34 243 F2529 Albany             NY   28:49   27:31   27:19   56:19 1:23:37  8:59 01:22:54  8:54 
+  680   294 Olga Cross              41 F  43 244 F4044 Niskayuna          NY   28:09   28:00   27:30   56:08 1:23:38  8:59 01:23:18  8:57 
+  681   846 Fran Matson             53 F  25 245 F5054 Clifton Park       NY   27:47   28:03   27:50   55:50 1:23:39  8:59 01:23:24  8:57 
+  682    52 Dawn Allen              41 F  44 246 F4044 Albany             NY   29:05   27:42   26:55   56:47 1:23:41  8:59 01:23:02  8:55 
+  683   587 Chris Hebbard           44 M  62 437 M4044 Glenville          NY   30:57   27:53   24:52   58:49 1:23:41  8:59 01:22:59  8:55 
+  684  1094 Lynn Potter             51 F  26 247 F5054 Glens Falls        NY   29:07   28:04   26:33   57:10 1:23:43  8:59 01:23:12  8:56 
+  685    34 Neil Obrienbosselma     42 M  63 438 M4044 Scotia             NY   29:14   27:47   26:44   57:00 1:23:44  8:59 01:22:57  8:54 
+  686   661 Nick Janowski           17 M  18 439 M1519 Castleton          NY   26:17   28:46   28:42   55:03 1:23:44  8:59 01:23:26  8:58 
+  687  1651 Lennie Davis            59 M  46 440 M5559 Newport            NY   27:56   27:06   28:43   55:02 1:23:44  8:59 01:23:26  8:57 
+  688  1652 Ronda Davis             52 F  27 248 F5054 Newport            NY   27:57   27:05   28:44   55:01 1:23:45  9:00 01:23:26  8:58 
+  689   471 James Gambino           39 M  50 441 M3539 Albany             NY   29:09   27:11   27:26   56:19 1:23:45  9:00 01:23:09  8:56 
+  690   695 Mark Keeling            48 M  59 442 M4549 Guilderland        NY   29:09   28:19   26:19   57:27 1:23:46  9:00 01:23:12  8:56 
+  691   753 Jamie Landon            40 F  45 249 F4044 Ballston Spa       NY   29:07   28:03   26:38   57:09 1:23:47  9:00 01:23:17  8:57 
+  692  1680 Carmelo Rao             62 M  27 443 M6064 Burnt Hills        NY   29:51   27:25   26:32   57:15 1:23:47  9:00 01:22:58  8:54 
+  693   442 Mary Flagg              35 F  44 250 F3539 Glenmont           NY   27:21   29:12   27:16   56:32 1:23:48  9:00 01:23:47  9:00 
+  694  1451 Hannah Westfall         29 F  35 251 F2529 Saratoga Springs   NY   29:05   28:05   26:41   57:10 1:23:50  9:00 01:23:00  8:55 
+  695  1669 David Massaroni         29 M  38 444 M2529 Wilton             NY   29:04   28:07   26:40   57:10 1:23:50  9:00 01:23:00  8:55 
+  696   225 Laurie Carter           39 F  45 252 F3539 Averill Park       NY   28:42   27:43   27:29   56:24 1:23:53  9:00 01:23:21  8:57 
+  697   965 Haruna Nakamura         35 F  46 253 F3539 Watervliet         NY   28:14   27:52   27:50   56:05 1:23:54  9:01 01:23:41  8:59 
+  698  1432 Amanda Wain             33 F  39 254 F3034 Schenectady        NY   27:43   28:02   28:11   55:45 1:23:55  9:01 01:23:46  9:00 
+  699    94 Brian Barr              52 M  47 445 M5054 Schenectady        NY   29:10   27:23   27:25   56:33 1:23:57  9:01 01:23:27  8:58 
+  700   967 Jeremiah Nare           30 M  57 446 M3034 Palatine Bridge    NY   27:19   27:29   29:14   54:47 1:24:01  9:01 01:23:35  8:59 
+  701   210 Raymond Capogna         48 M  60 447 M4549 Rexford            NY   28:54   28:37   26:32   57:30 1:24:02  9:01 01:23:30  8:58 
+  702   484 Ellen Gauthier          46 F  23 255 F4549 Schenectady        NY   30:28   27:16   26:21   57:44 1:24:04  9:02 01:23:15  8:56 
+  703   783 Matthew Lesniak         51 M  48 448 M5054 Albany             NY   27:20   27:49   28:56   55:09 1:24:05  9:02 01:23:39  8:59 
+  704   197 Chip Button             67 M  10 449 M6569 Saratoga Springs   NY   29:17   27:18   27:34   56:34 1:24:07  9:02 01:23:30  8:58 
+  705  1302 Jillian Smith           30 F  40 256 F3034 Cobleskill         NY   27:39   28:23   28:07   56:02 1:24:08  9:02 01:24:00  9:01 
+  706   948 Tim Mulligan            46 M  61 450 M4549 Pittsfield         MA   28:40   28:41   26:51   57:21 1:24:11  9:02 01:23:47  9:00 
+  707   674 Thomas Jones            44 M  64 451 M4044 West Charlton      NY   28:31   28:26   27:18   56:56 1:24:14  9:03 01:23:43  8:59 
+  708   550 Peatros Haile           28 M  39 452 M2529 Rensselaer         NY   30:12   27:44   26:20   57:55 1:24:14  9:03 01:23:30  8:58 
+  709  1625 John Caffry             61 M  28 453 M6064 Glens Falls        NY   28:58   27:38   27:41   56:36 1:24:16  9:03 01:23:31  8:58 
+  710  1180 Jeffrey Ropeter         47 M  62 454 M4549 Broadalbin         NY   29:22   28:01   26:57   57:23 1:24:20  9:03 01:23:46  9:00 
+  711   159 Scott Bradley           64 M  29 455 M6064 Pittsfield         MA   28:25   28:34   27:29   56:58 1:24:27  9:04 01:24:05  9:02 
+  712  1513 Bob Mead                70 M   5 456 M7074 East Greenbush     NY   29:21   27:06   28:03   56:27 1:24:30  9:04 01:23:55  9:01 
+  713  1150 Daniel Rice             46 M  63 457 M4549 Glens Falls        NY   27:46   29:05   27:43   56:51 1:24:33  9:05 01:24:22  9:03 
+  714   494 Carolyn George          65 F   3 257 F6569 Albany             NY   27:48   28:04   28:46   55:51 1:24:36  9:05 01:24:29  9:04 
+  715   848 Angela Maturski         46 F  24 258 F4549 Pownal             VT   28:57   27:47   27:54   56:43 1:24:37  9:05 01:23:51  9:00 
+  716   139 Jim Bonesteel           57 M  47 458 M5559 Averill Park       NY   30:23   27:45   26:33   58:07 1:24:39  9:05 01:23:20  8:57 
+  717  1501 Ernie Yue               40 M  65 459 M4044 Halfmoon           NY   28:53   27:53   27:55   56:46 1:24:41  9:06 01:24:06  9:02 
+  718  1418 Giorgio Varlaro         34 M  58 460 M3034 Ilion              NY   28:19   27:57   28:28   56:16 1:24:43  9:06 01:24:05  9:02 
+  719   213 Tina Cardettino         36 F  47 259 F3539 Delmar             NY   29:16   28:14   27:14   57:30 1:24:44  9:06 01:24:21  9:03 
+  720    83 George Balogh           48 M  64 461 M4549 Averill Park       NY   30:23   27:44   26:38   58:07 1:24:44  9:06 01:23:29  8:58 
+  721   355 Patrick Dicerbo         53 M  49 462 M5054 Niskayuna          NY   28:23   28:13   28:09   56:36 1:24:44  9:06 01:24:36  9:05 
+  722   208 Kristin Capogna         43 F  46 260 F4044 Rexford            NY   28:56   28:35   27:15   57:31 1:24:45  9:06 01:24:13  9:03 
+  723   759 Nick Lanzillo           32 M  59 463 M3034 Wynantskill        NY   28:19   28:44   27:44   57:03 1:24:46  9:06 01:24:24  9:04 
+  724   425 Linda Ferguson          58 F  14 261 F5559 Middle Grove       NY   27:46   28:15   28:48   56:01 1:24:48  9:06 01:24:37  9:05 
+  725  1065 Katherine Pfisterer     29 F  36 262 F2529 Rensselaer         NY   30:11   27:44   26:53   57:55 1:24:48  9:06 01:24:03  9:01 
+  726   184 Richard Burke           56 M  48 464 M5559 Schenectady        NY   29:37   28:26   26:48   58:02 1:24:50  9:06 01:24:33  9:05 
+  727   438 Peter Fish              60 M  30 465 M6064 Albany             NY   30:28   28:01   26:26   58:29 1:24:55  9:07 01:24:18  9:03 
+  728  1620 Ali Albaker             36 M  51 466 M3539 Cohoes             NY   27:51   28:38   28:27   56:28 1:24:55  9:07 01:24:19  9:03 
+  729  1376 Kate Thies              43 F  47 263 F4044 Albany             NY   30:29   28:01   26:27   58:29 1:24:55  9:07 01:24:19  9:03 
+  730  1049 Martin Patrick          65 M  11 467 M6569 East Greenbush     NY   28:03   28:04   28:51   56:06 1:24:57  9:07 01:24:33  9:05 
+  731   175 Laura Bull              38 F  48 264 F3539 Glenville          NY   28:33   28:01   28:25   56:33 1:24:57  9:07 01:24:41  9:06 
+  732  1593 Emily Taft              29 F  37 265 F2529 Albany             NY   28:34   27:59   28:25   56:33 1:24:57  9:07 01:24:41  9:06 
+  733   626 Christian Huebner       44 M  66 468 M4044 Selkirk            NY   30:06   28:55   25:58   59:00 1:24:58  9:07 01:24:24  9:04 
+  734  1492 Mary Wyatt              49 F  25 266 F4549 Charlton           NY   30:12   28:06   26:42   58:18 1:24:59  9:07 01:24:16  9:03 
+  735  1392 Martin Touhey           66 M  12 469 M6569 Albany             NY   28:38   28:22   28:00   56:59 1:24:59  9:08 01:24:35  9:05 
+  736   223 Melissa Carroll         35 F  49 267 F3539 Albany             NY   28:37   28:24   28:00   57:00 1:24:59  9:08 01:24:35  9:05 
+  737   607 Seamus Hodgkinson       70 M   6 470 M7074 Delmar             NY   28:47   28:58   27:16   57:44 1:25:00  9:08 01:24:45  9:06 
+  738   391 Amanda Dyess            38 F  50 268 F3539 Albany             NY   30:43   28:29   25:51   59:12 1:25:02  9:08 01:24:34  9:05 
+  739   350 Scott Dexter            56 M  49 471 M5559 Saratoga Springs   NY   29:09   28:29   27:28   57:37 1:25:04  9:08 01:24:35  9:05 
+  740   766 Kim Law                 62 F   4 269 F6064 East Greenbush     NY   30:26   28:37   26:03   59:03 1:25:05  9:08 01:24:40  9:05 
+  741  1346 Angela Stritt           41 F  48 270 F4044 Delmar             NY   30:25   28:38   26:03   59:03 1:25:05  9:08 01:24:40  9:05 
+  742  1568 Justin Pantalone        34 M  60 472 M3034 Schenectady        NY   29:33   28:39   26:56   58:11 1:25:07  9:08 01:24:46  9:06 
+  743  1044 Julius Pasquariello     59 M  50 473 M5559 Schenectady        NY   29:23   27:47   28:00   57:09 1:25:08  9:09 01:24:47  9:06 
+  744   615 Ashleigh Holmes         25 F  38 271 F2529 Schenectady        NY   29:14   28:33   27:23   57:47 1:25:09  9:09 01:24:44  9:06 
+  745  1167 Jamie Robbins           43 F  49 272 F4044 Ballston Spa       NY   28:46   28:05   28:19   56:51 1:25:09  9:09 01:24:52  9:07 
+  746   915 Jason Mohlmann          34 M  61 474 M3034 Palatine Bridge    NY   30:05   27:55   27:11   57:59 1:25:09  9:09 01:24:22  9:04 
+  747   914 Charles Mohlmann        62 M  31 475 M6064 Schenectady        NY   30:07   27:53   27:11   58:00 1:25:10  9:09 01:24:23  9:04 
+  748  1420 Chris Venditti          47 M  65 476 M4549 Amsterdam          NY   29:06   28:11   27:55   57:17 1:25:11  9:09 01:24:34  9:05 
+  749    28 Jim Hopsicker           51 M  50 477 M5054 Schenectady        NY   29:28   28:16   27:30   57:44 1:25:14  9:09 01:24:37  9:05 
+  750  1136 Brittany Redman         32 F  41 273 F3034 Queensbury         NY   29:46   28:18   27:13   58:03 1:25:15  9:09 01:24:30  9:04 
+  751  1011 Rhonda O'Hagan          60 F   5 274 F6064 Chazy              NY   29:29   28:17   27:33   57:46 1:25:19  9:10 01:24:44  9:06 
+  752  1191 Terri Rowe              48 F  26 275 F4549 Oneonta            NY   28:33   28:11   28:38   56:43 1:25:20  9:10 01:24:57  9:07 
+  753  1628 Dan Keefe               51 M  51 478 M5054 Delmar             NY   29:15   27:39   28:29   56:54 1:25:22  9:10 01:24:26  9:04 
+  754   520 Bridget Graber          45 F  27 276 F4549 Wynantskill        NY   29:01   28:53   27:30   57:53 1:25:23  9:10 01:25:13  9:09 
+  755  1573 John Ketchoyian         29 M  40 479 M2529 Albany             NY   31:00   27:58   26:28   58:58 1:25:26  9:10 01:24:39  9:05 
+  756   554 Daniel Hallenbeck       41 M  67 480 M4044 Clifton Park       NY   28:35   28:55   27:57   57:29 1:25:26  9:10 01:25:23  9:10 
+  757  1092 Erin Porambo            32 F  42 277 F3034 Troy               NY   30:19   28:02   27:07   58:21 1:25:27  9:11 01:24:23  9:04 
+  758  1060 Jim Pepin               69 M  13 481 M6569 Glenmont           NY   28:32   28:13   28:50   56:45 1:25:35  9:11 01:25:07  9:08 
+  759   389 James Dwyer             57 M  51 482 M5559 Niskayuna          NY   28:42   28:59   27:55   57:41 1:25:35  9:11 01:25:18  9:10 
+  760  1015 Alicia Orelup           36 F  51 278 F3539 Altamont           NY   29:03   28:29   28:04   57:32 1:25:35  9:11 01:25:06  9:08 
+  761   817 Barry Macken            61 M  32 483 M6064 Schenectady        NY   29:04   28:29   28:04   57:32 1:25:36  9:11 01:25:07  9:08 
+  762   696 Kristin Kehmna          56 F  15 279 F5559 Rensselaer         NY   27:48   29:19   28:31   57:07 1:25:37  9:12 01:25:27  9:10 
+  763  1045 Krishnat Patil          51 M  52 484 M5054 Ballston Lake      NY   28:19   29:14   28:06   57:33 1:25:38  9:12 01:25:26  9:10 
+  764   820 Kelsey Macknight        30 F  43 280 F3034 Lyndhurst          NJ   30:29   28:01   27:09   58:29 1:25:38  9:12 01:24:53  9:07 
+  765  1258 Jason Sgarlata          42 M  68 485 M4044 Glenville          NY   30:52   27:55   26:54   58:46 1:25:40  9:12 01:24:43  9:06 
+  766   467 Maria Fusco             26 F  39 281 F2529 Mechanicville      NY   29:38   28:17   27:49   57:54 1:25:43  9:12 01:25:23  9:10 
+  767  1541 Nick Laplaca            50 M  53 486 M5054 Queensbury         NY   30:38   27:30   27:37   58:08 1:25:45  9:12 01:25:15  9:09 
+  768   737 Shawn Krutz             54 M  54 487 M5054 Gloversville       NY   29:26   28:03   28:18   57:28 1:25:46  9:13 01:25:08  9:08 
+  769  1224 Guy Sawyer              29 M  41 488 M2529 Glens Falls        NY   31:30   27:50   26:27   59:20 1:25:46  9:13 01:24:58  9:07 
+  770  1225 John Sawyer             64 M  33 489 M6064 Glens Falls        NY   31:30   27:51   26:27   59:20 1:25:47  9:13 01:24:57  9:07 
+  771   813 Anne M Lytwynec         65 F   4 282 F6569 Delmar             NY   28:36   28:54   28:20   57:30 1:25:49  9:13 01:25:37  9:12 
+  772  1533 Katie Yezzi             49 F  28 283 F4549 Delmar             NY   28:47   28:17   28:48   57:03 1:25:50  9:13 01:25:11  9:09 
+  773  1431 Victoria Wagner         45 F  29 284 F4549 Altamont           NY   29:31   28:05   28:16   57:35 1:25:51  9:13 01:25:17  9:09 
+  774  1583 Eunice Gambino          45 F  30 285 F4549 Clifton Park       NY   29:37   28:18   27:57   57:54 1:25:51  9:13 01:25:31  9:11 
+  775   929 Amy Morelli             45 F  31 286 F4549 Clifton Park       NY   29:38   28:17   27:58   57:54 1:25:51  9:13 01:25:31  9:11 
+  776    90 Kathleen Barclay        42 F  50 287 F4044 Ballston Lake      NY   30:19   29:01   26:33   59:20 1:25:52  9:13 01:25:20  9:10 
+  777   542 Katie Gutheinz          38 F  52 288 F3539 Ballston Spa       NY   30:11   28:34   27:08   58:45 1:25:52  9:13 01:25:17  9:09 
+  778   418 Kim Farrow              62 F   6 289 F6064 Charlton           NY   29:38   28:37   27:53   58:14 1:26:06  9:15 01:25:45  9:12 
+  779   888 Daniel Meade            45 M  66 490 M4549 Latham             NY   28:48   28:47   28:33   57:35 1:26:07  9:15 01:25:41  9:12 
+  780  1249 Emmanuel Seiz           54 M  55 491 M5054 Ballston Lake      NY   29:39   28:13   28:20   57:52 1:26:11  9:15 01:25:37  9:12 
+  781  1412 Rob Vanderlan           53 M  56 492 M5054 Ithaca             NY   31:01   28:35   26:38   59:36 1:26:14  9:16 01:25:32  9:11 
+  782  1447 Steven Welch            59 M  52 493 M5559 Slingerlands       NY   29:41   28:46   27:53   58:26 1:26:19  9:16 01:25:51  9:13 
+  783  1128 Summar Razvi            37 F  53 290 F3539 Millbrook          NY   28:11   28:29   29:42   56:40 1:26:21  9:16 01:26:07  9:15 
+  784   337 Dominick Delorio Jr     69 M  14 494 M6569 Clifton Park       NY   30:05   28:23   27:56   58:28 1:26:23  9:17 01:25:38  9:12 
+  785  1149 Beth Rice               48 F  32 291 F4549 Voorheesville      NY   29:44   29:12   27:30   58:55 1:26:24  9:17 01:26:12  9:15 
+  786   641 Jeffrey Huth            38 M  52 495 M3539 Niskayuna          NY   30:00   28:31   27:58   58:30 1:26:28  9:17 01:25:54  9:13 
+  787   640 Erin Huth               41 F  51 292 F4044 Niskayuna          NY   30:00   28:31   27:58   58:30 1:26:28  9:17 01:25:55  9:14 
+  788   324 Peter De Bock           41 M  69 496 M4044 Clifton Park       NY   28:17   29:22   28:51   57:38 1:26:29  9:17 01:26:26  9:17 
+  789  1171 Joan Rocco              44 F  52 293 F4044 Mechanicville      NY   29:48   28:44   28:04   58:31 1:26:35  9:18 01:25:48  9:13 
+  790   694 Caitlyn Keel            29 F  40 294 F2529 Glenmont           NY   29:37   28:17   28:42   57:54 1:26:36  9:18 01:26:08  9:15 
+  791  1543 John Brunner            53 M  57 497 M5054 Schenectady        NY   30:02   29:25   27:10   59:27 1:26:36  9:18 01:26:27  9:17 
+  792  1390 Doris Torchia           52 F  28 295 F5054 Hudson             NY   30:18   28:36   27:44   58:53 1:26:37  9:18 01:26:05  9:15 
+  793  1017 Deb Orsini              51 F  29 296 F5054 Schenectady        NY   29:42   29:14   27:42   58:56 1:26:37  9:18 01:26:25  9:17 
+  794   981 Jonathan Newton         39 M  53 498 M3539 Glenville          NY   27:42   28:18   30:38   56:00 1:26:37  9:18 01:26:15  9:16 
+  795   314 Gary Dansfield          65 M  15 499 M6569 Schenectady        NY   29:16   28:55   28:30   58:11 1:26:41  9:18 01:26:20  9:16 
+  796   305 Karen Cusato            51 F  30 297 F5054 Schenectady        NY   30:13   28:40   27:48   58:53 1:26:41  9:18 01:26:23  9:17 
+  797  1082 Mike Pitnell            58 M  53 500 M5559 Niskayuna          NY   28:19   29:10   29:14   57:28 1:26:41  9:18 01:26:24  9:17 
+  798   344 Alicia Deruscio         24 F  11 298 F2024 Fonda              NY   30:11   28:22   28:10   58:33 1:26:42  9:19 01:26:11  9:15 
+  799  1545 Stanley Gorski          64 M  34 501 M6064 Albany             NY   29:52   28:49   28:03   58:41 1:26:44  9:19 01:26:30  9:17 
+  800  1491 Michael Wright          65 M  16 502 M6569 Albany             NY   29:05   28:53   28:47   57:57 1:26:44  9:19 01:26:30  9:17 
+  801  1050 Suzanne Paulson         46 F  33 299 F4549 West Sand Lake     NY   28:40   28:53   29:13   57:33 1:26:46  9:19 01:26:15  9:16 
+  802   135 Jamie Bocketti          42 F  53 300 F4044 Niskayuna          NY   30:18   28:32   27:57   58:49 1:26:46  9:19 01:26:10  9:15 
+  803  1139 Sarah Reed-Esper        54 F  31 301 F5054 Slingerlands       NY   29:59   28:56   27:52   58:55 1:26:46  9:19 01:26:30  9:17 
+  804  1687 Heather Stone           40 F  54 302 F4044 Malta              NY   30:18   29:02   27:27   59:20 1:26:46  9:19 01:26:14  9:16 
+  805  1336 Shaun Stephenson        42 M  70 503 M4044 Niskayuna          NY   30:18   28:32   27:58   58:49 1:26:46  9:19 01:26:11  9:15 
+  806   598 Joel Herrera            41 M  71 504 M4044 Rotterdam          NY   30:54   28:20   27:35   59:13 1:26:47  9:19 01:26:08  9:15 
+  807  1313 Karen Sokolowski        40 F  55 303 F4044 Scotia             NY   31:31   28:23   26:56   59:53 1:26:49  9:19 01:26:15  9:16 
+  808  1641 Edward Aluck            46 M  67 505 M4549 Clifton Park       NY   29:27   28:51   28:33   58:18 1:26:51  9:20 01:26:23  9:16 
+  809    91 Serena Barclay          39 F  54 304 F3539 Ballston Spa       NY   29:30   29:43   27:43   59:13 1:26:55  9:20 01:26:37  9:18 
+  810  1358 Peter Taft              55 M  54 506 M5559 Clifton Park       NY   29:01   29:13   28:43   58:13 1:26:55  9:20 01:26:43  9:19 
+  811  1303 Kristyn Smith           42 F  56 305 F4044 Clifton Park       NY   28:42   29:07   29:09   57:49 1:26:58  9:20 01:26:43  9:19 
+  812  1562 Cheryl Olsen            67 F   5 306 F6569 Schenectady        NY   29:45   28:49   28:32   58:33 1:27:04  9:21 01:26:29  9:17 
+  813  1456 Donovan White           39 M  54 507 M3539 Albany             NY   31:08   28:58   27:00 1:00:06 1:27:05  9:21 01:26:23  9:17 
+  814    43 Rebecca Abramson        45 F  34 307 F4549 Clifton Park       NY   28:16   29:38   29:12   57:54 1:27:05  9:21 01:26:58  9:20 
+  815  1285 Stephen Signore         56 M  55 508 M5559 Schenectady        NY   30:54   28:10   28:07   59:03 1:27:10  9:22 01:26:30  9:17 
+  816  1483 Bryan Wood              57 M  56 509 M5559 Altamont           NY   29:34   28:57   28:42   58:31 1:27:13  9:22 01:26:44  9:19 
+  817  1214 Samantha Sanchez        43 F  57 308 F4044 Averill Park       NY   30:48   28:57   27:32   59:44 1:27:15  9:22 01:26:40  9:18 
+  818   536 Raelee Grimm            38 F  55 309 F3539 Altamont           NY   29:44   29:03   28:32   58:47 1:27:19  9:22 01:26:54  9:20 
+  819   296 Erica Cubello           32 F  44 310 F3034 Albany             NY   25:31   28:20   33:31   53:51 1:27:21  9:23 01:27:14  9:22 
+  820    73 Bryan Ashline           32 M  62 510 M3034 Clifton Park       NY   31:08   28:45   27:36   59:53 1:27:28  9:23 01:26:45  9:19 
+  821  1657 Peter Fitzgerald        22 M  19 511 M2024 Schenectady        NY   26:10   29:39   31:43   55:49 1:27:31  9:24 01:27:15  9:22 
+  822   884 Katie McNamara          30 F  45 311 F3034 Albany             NY   29:29   29:30   28:33   58:59 1:27:31  9:24 01:27:20  9:23 
+  823   524 Teresa Grant            47 F  35 312 F4549 Glenville          NY   29:27   29:16   28:49   58:43 1:27:32  9:24 01:27:03  9:21 
+  824    87 Robert Barbato          61 M  35 512 M6064 Delmar             NY   31:34   28:57   27:03 1:00:30 1:27:33  9:24 01:26:53  9:20 
+  825   489 Casey Gebhardt          35 F  56 313 F3539 Albany             NY   31:10   28:09   28:17   59:19 1:27:35  9:24 01:26:42  9:19 
+  826  1610 Phil Giltner            56 M  57 513 M5559 Kinderhook         DC   30:06   28:46   28:45   58:51 1:27:36  9:24 01:26:57  9:20 
+  827  1462 Brian Wiersma           60 M  36 514 M6064 Glenville          NY   30:38   29:07   27:53   59:45 1:27:37  9:24 01:26:56  9:20 
+  828   271 Meghan Conboy           21 F  12 314 F2024 Latham             NY   31:58   28:43   26:59 1:00:40 1:27:38  9:25 01:26:48  9:19 
+  829  1636 Ray Scaringe            66 M  17 515 M6569 Clifton Park       NY   30:47   29:59   26:54 1:00:46 1:27:39  9:25 01:27:13  9:22 
+  830   784 Ron Lester              62 M  37 516 M6064 Coeymans Hollow    NY   29:42   29:07   28:52   58:48 1:27:40  9:25 01:27:17  9:22 
+  831   131 Karen Blesser           50 F  32 315 F5054 Schenectady        NY   30:31   28:47   28:24   59:17 1:27:41  9:25 01:27:10  9:22 
+  832  1006 Sally Oconnor           39 F  57 316 F3539 Voorheesville      NY   29:44   29:12   28:49   58:56 1:27:44  9:25 01:27:32  9:24 
+  833   123 Jean Berry              35 F  58 317 F3539 Delmar             NY   30:07   29:14   28:25   59:21 1:27:46  9:25 01:27:15  9:22 
+  834  1152 Rachel Richards         37 F  59 318 F3539 Watervliet         NY   30:43   28:48   28:23   59:31 1:27:53  9:26 01:27:14  9:22 
+  835  1521 Laura Tiffany           32 F  46 319 F3034 Niantic            CT   29:49   29:44   28:22   59:32 1:27:54  9:26 01:27:38  9:25 
+  836   506 Heidi Glazier           57 F  16 320 F5559 Slingerlands       NY   30:46   29:12   27:59   59:57 1:27:55  9:26 01:27:26  9:23 
+  837   137 Chelsea Bolles          34 F  47 321 F3034 Saratoga Springs   NY   29:49   29:44   28:23   59:33 1:27:56  9:26 01:27:40  9:25 
+  838  1675 Cathy Oldrich           45 F  36 322 F4549 Valatie            NY   29:24   29:33   29:00   58:57 1:27:56  9:27 01:27:37  9:24 
+  839  1638 Jonathan Rieth          42 M  72 517 M4044 Syracuse           NY   28:39   30:00   29:19   58:38 1:27:57  9:27 01:27:41  9:25 
+  840   718 Valerie Kline           57 F  17 323 F5559 Amsterdam          NY   30:52   28:40   28:26   59:32 1:27:57  9:27 01:27:08  9:21 
+  841   807 Greg Lynch              44 M  73 518 M4044 Saratoga Springs   NY   30:10   29:15   28:34   59:25 1:27:58  9:27 01:27:29  9:24 
+  842   219 Ana Carranco            25 F  41 324 F2529 Schenectady        NY   30:32   29:10   28:22   59:41 1:28:02  9:27 01:27:37  9:24 
+  843   431 Domingo Ferrer          45 M  68 519 M4549 Clifton Park       NY   27:47   28:19   31:58   56:05 1:28:03  9:27 01:27:12  9:22 
+  844   958 Lola Murray             43 F  58 325 F4044 Castleton          NY   30:16   29:32   28:19   59:48 1:28:06  9:28 01:27:48  9:26 
+  845   761 Jessica Lapoint         27 F  42 326 F2529 Albany             NY   28:26   29:19   30:22   57:45 1:28:06  9:28 01:27:53  9:26 
+  846  1133 Matthew Rector          40 M  74 520 M4044 Schenectady        NY   29:46   29:36   28:47   59:21 1:28:07  9:28 01:27:14  9:22 
+  847   891 Rose Meehan             26 F  43 327 F2529 Rensselaer         NY   29:42   29:20   29:07   59:02 1:28:08  9:28 01:27:35  9:24 
+  848   120 Tammy Bernstein         47 F  37 328 F4549 West Sand Lake     NY   29:43   29:33   28:53   59:16 1:28:09  9:28 01:27:59  9:27 
+  849  1430 Dan Wagner              44 M  75 521 M4044 Ballston Lake      NY   31:36   29:10   27:27 1:00:46 1:28:12  9:28 01:27:25  9:23 
+  850  1290 Cammie Simmes           47 F  38 329 F4549 Queensbury         NY   29:43   30:26   28:05 1:00:08 1:28:13  9:28 01:27:53  9:26 
+  851   423 Amy Fehringer           44 F  59 330 F4044 Guilderland        NY   30:16   29:46   28:13 1:00:01 1:28:14  9:28 01:27:49  9:26 
+  852   886 Eric McQuide            38 M  55 522 M3539 Latham             NY   31:38   28:59   27:39 1:00:37 1:28:16  9:29 01:27:24  9:23 
+  853   376 Quinn Douglas           26 M  42 523 M2529 Hudson             NY   27:40   27:23   33:15   55:02 1:28:17  9:29 01:28:06  9:28 
+  854   647 Jessica Irwin           31 F  48 331 F3034 Niskayuna          NY   28:26   29:49   30:04   58:14 1:28:18  9:29 01:27:53  9:26 
+  855   526 Sandy Graves            47 F  39 332 F4549 Clifton Park       NY   30:59   28:50   28:30   59:49 1:28:18  9:29 01:27:23  9:23 
+  856  1215 Lori Santilli           54 F  33 333 F5054 Scotia             NY   31:13   29:03   28:05 1:00:15 1:28:20  9:29 01:27:34  9:24 
+  857   436 Tim Fioretti            43 M  76 524 M4044 Gloversville       NY   28:11   30:26   29:45   58:36 1:28:21  9:29 01:28:09  9:28 
+  858   970 Jennifer Nechamen       28 F  44 334 F2529 Cohoes             NY   30:10   29:47   28:25   59:57 1:28:21  9:29 01:27:40  9:25 
+  859   871 Brendan McKenna         49 M  69 525 M4549 Latham             NY   30:18   29:21   28:45   59:38 1:28:23  9:29 01:27:45  9:25 
+  860    32 Andrea Lane             27 F  45 335 F2529 Albany             NY   31:00   29:06   28:21 1:00:06 1:28:26  9:30 01:27:39  9:25 
+  861   165 Maryelizabe Bristol     52 F  34 336 F5054 Schenectady        NY   29:31   29:04   29:54   58:34 1:28:28  9:30 01:27:42  9:25 
+  862   747 Landen Laird            12 M   3 526 M0114 Johnstown          NY   31:56   29:17   27:16 1:01:13 1:28:28  9:30 01:27:36  9:24 
+  863   907 Jessica Minbiole        41 F  60 337 F4044 Cropseyville       NY   31:04   29:52   27:34 1:00:55 1:28:29  9:30 01:27:54  9:26 
+  864   706 Mary Kennedy            61 F   7 338 F6064 Williamstown       MA   30:44   29:50   27:57 1:00:34 1:28:30  9:30 01:28:00  9:27 
+  865  1069 Carmelo Piazza          50 M  58 527 M5054 Ballston Spa       NY   30:52   29:45   27:55 1:00:36 1:28:30  9:30 01:27:59  9:27 
+  866   282 Jessica Corwin          33 F  49 339 F3034 South Glens Falls  NY   30:52   29:45   27:56 1:00:36 1:28:31  9:30 01:28:00  9:27 
+  867  1022 Alissa Osullivan        37 F  60 340 F3539 Scotia             NY   30:10   29:42   28:41   59:51 1:28:31  9:30 01:28:08  9:28 
+  868  1126 Pascale Raymond         47 F  40 341 F4549 Cooperstown        NY   28:47   30:00   29:46   58:46 1:28:31  9:30 01:28:26  9:30 
+  869  1486 Curt Woodcock           66 M  18 528 M6569 Johnstown          NY   29:20   29:55   29:19   59:15 1:28:34  9:31 01:28:14  9:28 
+  870   621 Lawrence Howard         53 M  59 529 M5054 Sand Lake          NY   30:33   30:00   28:05 1:00:33 1:28:37  9:31 01:27:24  9:23 
+  871   407 Kathleen Ennis          40 F  61 342 F4044 White Plains       NY   30:57   29:27   28:27 1:00:23 1:28:50  9:32 01:28:00  9:27 
+  872  1029 Tatia Pallacovitch      28 F  46 343 F2529 Bethel             CT   31:55   30:03   26:55 1:01:57 1:28:52  9:32 01:27:47  9:26 
+  873    26 Maureen Florio          56 F  18 344 F5559 Rotterdam Junction NY   31:10   29:05   28:38 1:00:14 1:28:52  9:32 01:28:18  9:29 
+  874   519 Shelby Goyette          29 F  47 345 F2529 Albany             NY   30:38   29:36   28:39 1:00:14 1:28:53  9:33 01:28:41  9:31 
+  875  1333 Courtney Steciuk        33 F  50 346 F3034 Waterford          NY   32:24   28:53   27:37 1:01:17 1:28:53  9:33 01:28:01  9:27 
+  876  1338 Scott Stevens           62 M  38 530 M6064 Ballston Lake      NY   31:13   29:15   28:28 1:00:28 1:28:55  9:33 01:28:06  9:28 
+  877   624 Susan Hua-Connell       37 F  61 347 F3539 Mechanicville      NY   31:31   29:14   28:14 1:00:44 1:28:58  9:33 01:28:01  9:27 
+  878   353 David Dibelius          72 M   7 531 M7074 Lake George        NY   29:55   29:14   29:49   59:09 1:28:58  9:33 01:28:31  9:30 
+  879  1380 Myra Thorne             38 F  62 348 F3539 Schenectady        NY   31:09   29:25   28:26 1:00:33 1:28:58  9:33 01:28:17  9:29 
+  880   683 Melissa Kalvestrand     41 F  62 349 F4044 Ballston Spa       NY   30:36   29:41   28:44 1:00:17 1:29:00  9:33 01:28:22  9:29 
+  881  1005 Kim Nuzzi               46 F  41 350 F4549 Glenville          NY   30:09   29:51   29:03 1:00:00 1:29:02  9:34 01:28:34  9:31 
+  882  1630 Lianne Pinchuk          44 F  63 351 F4044 Delmar             NY   30:45   30:00   28:19 1:00:44 1:29:03  9:34 01:28:38  9:31 
+  883   628 Carrie Hughes-Cromwic   36 F  63 352 F3539 Saratoga Springs   NY   27:58   29:22   31:45   57:20 1:29:05  9:34 01:29:01  9:34 
+  884  1255 Annette Kee Seymour     44 F  64 353 F4044 Valrico            FL   28:25   30:02   30:42   58:27 1:29:08  9:34 01:29:07  9:34 
+  885   785 Julie Levin             44 F  65 354 F4044 Delmar             NY   28:09   30:50   30:12   58:59 1:29:10  9:34 01:28:57  9:33 
+  886  1578 Richard Lounello        55 M  58 532 M5559 Albany             NY   28:51   29:46   30:34   58:36 1:29:10  9:34 01:28:30  9:30 
+  887  1144 Dawn Renslow            52 F  35 355 F5054 Castleton          NY   30:59   29:24   28:48 1:00:22 1:29:10  9:34 01:28:22  9:29 
+  888  1242 Cassandra Scott         27 F  48 356 F2529 Troy               NY   31:19   29:54   27:58 1:01:13 1:29:11  9:34 01:28:06  9:28 
+  889  1395 Terry Tregan            60 F   8 357 F6064 Chazy              NY   29:52   30:01   29:21   59:52 1:29:13  9:35 01:28:38  9:31 
+  890    64 Laurie Anderson         61 F   9 358 F6064 Queensbury         NY   30:44   29:20   29:12 1:00:04 1:29:15  9:35 01:28:34  9:31 
+  891   548 Erik Hage               50 M  60 533 M5054 Niskayuna          NY   32:28   28:55   27:57 1:01:23 1:29:19  9:35 01:28:38  9:31 
+  892  1246 Karoline Sears          34 F  51 359 F3034 Albany             NY   29:45   29:50   29:47   59:35 1:29:21  9:36 01:28:53  9:33 
+  893  1445 Michael Weiler          53 M  61 534 M5054 Glenmont           NY   30:22   29:31   29:31   59:53 1:29:23  9:36 01:28:49  9:32 
+  894   774 Samantha Legere         29 F  49 360 F2529 Schenectady        NY   30:23   30:04   28:57 1:00:27 1:29:23  9:36 01:29:04  9:34 
+  895  1499 Mariah Young            41 F  66 361 F4044 Van Etten          NY   30:27   27:40   31:22   58:06 1:29:28  9:36 01:28:45  9:32 
+  896   892 Tracey Meek             51 F  36 362 F5054 Glenmont           NY   30:35   29:30   29:26 1:00:04 1:29:30  9:37 01:28:48  9:32 
+  897   164 Lauren Bristol          40 F  67 363 F4044 Delmar             NY   31:04   29:40   28:50 1:00:43 1:29:33  9:37 01:29:03  9:34 
+  898  1482 Susan Wong              71 F   1 364 F7074 Glenmont           NY   28:55   30:23   30:18   59:18 1:29:35  9:37 01:29:30  9:37 
+  899   382 Daniel Dufresne         44 M  77 535 M4044 Castleton          NY   30:15   30:23   29:03 1:00:38 1:29:40  9:38 01:29:22  9:36 
+  900   729 Lindsey Krebs           35 F  64 365 F3539 Albany             NY   30:56   29:53   28:54 1:00:48 1:29:42  9:38 01:29:15  9:35 
+  901   480 Kayla Gatta             32 F  52 366 F3034 Scotia             NY   29:17   30:50   29:38 1:00:07 1:29:44  9:38 01:29:20  9:36 
+  902    99 Erica Bater             29 F  50 367 F2529 Clifton Park       NY   29:45   29:49   30:11   59:34 1:29:45  9:38 01:29:20  9:35 
+  903   459 Jennifer Fredricks      49 F  42 368 F4549 Niskuyuana         NY   29:53   30:18   29:36 1:00:11 1:29:46  9:38 01:29:20  9:35 
+  904   563 Jakob Hanna             12 M   4 536 M0114 Johnstown          NY   32:06   29:52   27:51 1:01:57 1:29:47  9:38 01:28:54  9:33 
+  905   212 John Carboni            66 M  19 537 M6569 Schenectady        NY   31:27   28:54   29:28 1:00:20 1:29:47  9:38 01:28:58  9:33 
+  906  1275 Claire Sherwood         44 F  68 369 F4044 Averill Park       NY   31:05   29:52   28:53 1:00:56 1:29:48  9:39 01:29:13  9:35 
+  907  1181 Rachel Rosenberg        17 F   5 370 F1519 Glenville          NY   29:04   30:27   30:22   59:30 1:29:52  9:39 01:29:35  9:37 
+  908    23 Nicole Codi             26 F  51 371 F2529 Gansevoort         NY   32:09   30:15   27:30 1:02:24 1:29:53  9:39 01:29:03  9:34 
+  909    41 Katie Zalewski          32 F  53 372 F3034 Saratoga Springs   NY   32:10   30:18   27:27 1:02:28 1:29:54  9:39 01:29:05  9:34 
+  910   704 Kathleen Kemp           55 F  19 373 F5559 Niskayuna          NY   31:55   29:30   28:35 1:01:24 1:29:59  9:40 01:29:17  9:35 
+  911  1269 Colleen Sheehan         54 F  37 374 F5054 Cobleskill         NY   31:55   29:29   28:35 1:01:24 1:29:59  9:40 01:29:18  9:35 
+  912  1576 Jeanie Orr              52 F  38 375 F5054 Niskayuna          NY   31:03   29:41   29:17 1:00:44 1:30:01  9:40 01:29:33  9:37 
+  913  1577 Susan Kokernak          49 F  43 376 F4549 Niskayuna          NY   31:03   29:40   29:18 1:00:43 1:30:01  9:40 01:29:33  9:37 
+  914   612 Melody Hoffmann         62 F  10 377 F6064 Coeymans Hollow    NY   30:31   29:56   29:39 1:00:26 1:30:04  9:40 01:29:43  9:38 
+  915   735 Danielle Krizan         33 F  54 378 F3034 Fonda              NY   30:10   29:57   30:00 1:00:07 1:30:06  9:40 01:29:34  9:37 
+  916  1188 Theresa Rousseau        53 F  39 379 F5054 Clifton Park       NY   31:22   29:56   28:50 1:01:17 1:30:07  9:40 01:29:23  9:36 
+  917   931 Danielle Moroukian      29 F  52 380 F2529 Albany             NY   30:32   29:58   29:39 1:00:29 1:30:07  9:41 01:29:40  9:38 
+  918   121 Daniel Berry            70 M   8 538 M7074 Delmar             NY   30:26   30:15   29:32 1:00:41 1:30:12  9:41 01:29:41  9:38 
+  919   357 Tracy Dilauro           56 F  20 381 F5559 Clifton Park       NY   30:55   29:27   29:51 1:00:22 1:30:13  9:41 01:29:34  9:37 
+  920  1176 Karl Rogler             30 M  63 539 M3034 Cambridge          MA   32:08   30:19   27:46 1:02:27 1:30:13  9:41 01:29:23  9:36 
+  921    39 Leanne Westfall         30 M  64 540 M3034 Saratoga Springs   NY   32:09   30:19   27:46 1:02:27 1:30:13  9:41 01:29:22  9:36 
+  922   148 Erin Botta              41 F  69 382 F4044 Malta              NY   31:16   29:49   29:11 1:01:04 1:30:15  9:41 01:29:49  9:39 
+  923   842 Christopher Mastroiann  37 M  56 541 M3539 Glenville          NY   30:56   29:21   30:02 1:00:17 1:30:19  9:42 01:29:22  9:36 
+  924    57 Justin Alonzo           38 M  57 542 M3539 Waterford          NY   32:03   29:31   28:45 1:01:34 1:30:19  9:42 01:29:27  9:36 
+  925   678 Floyd Jourdanais        37 M  58 543 M3539 Latham             NY   32:03   29:33   28:44 1:01:36 1:30:20  9:42 01:29:28  9:36 
+  926   333 Sarah Degnan            27 F  53 383 F2529 Latham             NY   30:34   30:10   29:43 1:00:43 1:30:25  9:42 01:29:48  9:38 
+  927   332 Rachael Degnan          25 F  54 384 F2529 Altamont           NY   30:34   30:10   29:43 1:00:43 1:30:25  9:43 01:29:47  9:38 
+  928   363 Leo Dipierro            69 M  20 544 M6569 Cherry Plain       NY   30:08   30:37   29:42 1:00:45 1:30:26  9:43 01:30:14  9:41 
+  929  1024 Courtney Owens          38 F  65 385 F3539 Albany             NY   30:56   29:30   30:04 1:00:25 1:30:29  9:43 01:30:03  9:40 
+  930  1159 Erika Ries              43 F  70 386 F4044 Menands            NY   30:57   29:29   30:04 1:00:25 1:30:29  9:43 01:30:03  9:40 
+  931   574 Tamara Harrow           50 F  40 387 F5054 Niskayuna          NY   30:09   30:44   29:45 1:00:53 1:30:37  9:44 01:30:14  9:41 
+  932    82 Justin Baldauf          37 M  59 545 M3539 Schenectady        NY   29:46   30:23   30:30 1:00:09 1:30:39  9:44 01:30:18  9:42 
+  933   349 Kristin Devries         39 F  66 388 F3539 Cohoes             NY   30:08   30:22   30:10 1:00:30 1:30:39  9:44 01:30:17  9:42 
+  934  1347 David Stutsrim          50 M  62 546 M5054 Albany             NY   30:54   30:02   29:50 1:00:56 1:30:45  9:45 01:30:11  9:41 
+  935  1546 Michael Burrell         62 M  39 547 M6064 Clifton Park       NY   32:10   29:32   29:05 1:01:41 1:30:46  9:45 01:29:44  9:38 
+  936  1062 Pat Petraccione         58 M  59 548 M5559 Schenectady        NY   30:42   31:24   28:42 1:02:05 1:30:47  9:45 01:30:27  9:43 
+  937   403 Pam Eistertz            27 F  55 389 F2529 Castleton-On-Hudso NY   31:10   30:10   29:30 1:01:19 1:30:48  9:45 01:30:15  9:41 
+  938   951 Ann Murphy              46 F  44 390 F4549 Johnstown          NY   32:06   29:57   28:49 1:02:03 1:30:51  9:45 01:29:58  9:40 
+  939   828 Elizabeth Mahon         42 F  71 391 F4044 Johnstown          NY   30:53   30:01   29:58 1:00:54 1:30:52  9:45 01:30:21  9:42 
+  940   328 Linda Dedominicis       51 F  41 392 F5054 Menands            NY   30:01   30:50   30:02 1:00:51 1:30:52  9:45 01:30:33  9:43 
+  941   653 William Izzo            61 M  40 549 M6064 Lake Placid        NY   31:18   29:54   29:42 1:01:12 1:30:53  9:46 01:30:11  9:41 
+  942  1435 Antoinette Wallace      53 F  42 393 F5054 Schenectady        NY   30:43   31:22   28:52 1:02:04 1:30:55  9:46 01:30:35  9:44 
+  943   511 Deb Goedeke             66 F   6 394 F6569 Delmar             NY   30:55   30:15   29:50 1:01:09 1:30:59  9:46 01:30:32  9:43 
+  944  1173 Edwin Rogers            66 M  21 550 M6569 Ballston Spa       NY   31:41   29:54   29:25 1:01:34 1:30:59  9:46 01:30:29  9:43 
+  945   117 Krystal Benoit          37 F  67 395 F3539 Troy               NY   32:01   29:59   29:01 1:01:59 1:30:59  9:46 01:30:02  9:40 
+  946  1605 Jean Hajjar             52 F  43 396 F5054 Charlestown        MA   31:27   30:39   28:59 1:02:06 1:31:04  9:47 01:30:33  9:43 
+  947  1292 J Sipos                 58 M  60 551 M5559 Albany             NY   30:24   30:49   30:04 1:01:12 1:31:15  9:48 01:30:35  9:44 
+  948  1608 Heather Bryer           42 F  72 397 F4044 Albany             NY   30:37   30:44   29:57 1:01:20 1:31:17  9:48 01:30:53  9:45 
+  949  1607 Jason Bryer             42 M  78 552 M4044 Albany             NY   30:36   30:40   30:02 1:01:16 1:31:17  9:48 01:30:53  9:46 
+  950  1571 Amy Nowak               42 F  73 398 F4044 Albany             NY   30:37   30:43   29:58 1:01:20 1:31:17  9:48 01:30:54  9:46 
+  951   634 Denis Hurley            56 M  61 553 M5559 Delmar             NY   31:22   30:40   29:25 1:02:02 1:31:27  9:49 01:30:59  9:46 
+  952  1168 Jen Robbins             40 F  74 399 F4044 Charlton           NY   31:12   30:30   29:48 1:01:41 1:31:28  9:49 01:30:59  9:46 
+  953   988 Alison Nickford         26 F  56 400 F2529 Glenmont           NY   30:40   31:25   29:29 1:02:05 1:31:33  9:50 01:31:01  9:46 
+  954   933 Casey Morris            25 F  57 401 F2529 Beacon             NY   31:12   30:25   29:59 1:01:36 1:31:35  9:50 01:30:58  9:46 
+  955  1444 Jenny Wei               30 F  55 402 F3034 Clifton Park       NY   29:07   31:37   30:54 1:00:43 1:31:37  9:50 01:31:24  9:49 
+  956   377 Matthew Dowling         30 M  65 554 M3034 Clifton Park       NY   29:07   31:36   30:55 1:00:43 1:31:37  9:50 01:31:24  9:49 
+  957    85 Richard Baluch          74 M   9 555 M7074 Delanson           NY   31:42   30:16   29:41 1:01:58 1:31:38  9:50 01:30:55  9:46 
+  958  1216 Lori Santos             58 F  21 403 F5559 Albany             NY   32:00   31:27   28:13 1:03:27 1:31:39  9:50 01:31:15  9:48 
+  959  1217 Maleesa Santos          26 F  58 404 F2529 Albany             NY   32:01   31:25   28:14 1:03:25 1:31:39  9:50 01:31:15  9:48 
+  960  1441 Marjorie Waterson       30 F  56 405 F3034 Lake Placid        NY   30:21   31:14   30:07 1:01:34 1:31:40  9:50 01:31:22  9:49 
+  961   875 Barbara McMahon         57 F  22 406 F5559 Dalton             MA   32:18   30:02   29:22 1:02:20 1:31:42  9:51 01:30:40  9:44 
+  962    30 Kimberly Kilby          41 F  75 407 F4044 Niskayuna          NY   31:46   30:45   29:13 1:02:30 1:31:43  9:51 01:31:04  9:47 
+  963  1449 Vincent Wenger          55 M  62 556 M5559 Schenectady        NY   30:39   30:56   30:08 1:01:35 1:31:43  9:51 01:31:18  9:48 
+  964  1154 Joanne Richardson       58 F  23 408 F5559 Troy               NY   30:56   30:37   30:11 1:01:33 1:31:44  9:51 01:31:32  9:50 
+  965   790 Molly Lindley           60 F  11 409 F6064 Averill R          NY   30:57   30:37   30:11 1:01:34 1:31:44  9:51 01:31:32  9:50 
+  966   319 Amy Daversa             56 F  24 410 F5559 Schenectady        NY   30:35   30:18   30:56 1:00:52 1:31:48  9:51 01:31:10  9:47 
+  967   960 Stacey Muscato          42 F  76 411 F4044 Castleton          NY   29:54   31:14   30:41 1:01:07 1:31:48  9:51 01:31:37  9:50 
+  968  1058 Sarah Pendergast        38 F  68 412 F3539 Delmar             NY   29:55   31:13   30:41 1:01:07 1:31:48  9:51 01:31:38  9:50 
+  969   238 Rui Chen                44 F  77 413 F4044 Clifton Park       NY   30:53   30:45   30:11 1:01:37 1:31:48  9:51 01:31:28  9:49 
+  970  1497 Joe Yavonditte          70 M  10 557 M7074 Schenectady        NY   31:38   30:59   29:13 1:02:36 1:31:49  9:51 01:31:06  9:47 
+  971   609 Lauren Hoffman          40 F  78 414 F4044 Cohoes             NY   31:58   30:13   29:39 1:02:11 1:31:49  9:52 01:31:06  9:47 
+  972  1280 Lois Shoemaker          56 F  25 415 F5559 Scotia             NY   30:36   30:46   30:33 1:01:22 1:31:54  9:52 01:31:38  9:50 
+  973   916 Richele Mollica         45 F  45 416 F4549 Johnstown          NY   32:01   30:46   29:11 1:02:47 1:31:57  9:52 01:31:22  9:49 
+  974   633 Anne Hurley             56 F  26 417 F5559 Delmar             NY   30:20   30:57   30:45 1:01:17 1:32:02  9:53 01:31:56  9:52 
+  975  1157 Haley Richter           26 F  59 418 F2529 Colonie            NY   31:19   29:43   31:02 1:01:01 1:32:03  9:53 01:31:17  9:48 
+  976  1361 Susan Taylor            60 F  12 419 F6064 Sand Lake          NY   31:48   30:27   29:50 1:02:15 1:32:05  9:53 01:30:51  9:45 
+  977  1639 Elizabeth Danni         35 F  69 420 F3539 Troy               NY   30:08   30:37   31:22 1:00:45 1:32:07  9:53 01:31:25  9:49 
+  978   926 Wes More                59 M  63 558 M5559 Esperance          NY   29:34   31:13   31:21 1:00:46 1:32:07  9:53 01:31:31  9:50 
+  979  1220 Jocelyn Sarrantonio     36 F  70 421 F3539 Niskayuna          NY   31:56   29:56   30:19 1:01:51 1:32:10  9:54 01:31:22  9:49 
+  980  1088 Jo Ann Pommer           58 F  27 422 F5559 Duanesburg         NY   31:35   31:03   29:35 1:02:38 1:32:12  9:54 01:31:48  9:51 
+  981   726 Heather Kosnick         45 F  46 423 F4549 Charlton           NY   32:40   30:40   28:57 1:03:20 1:32:17  9:54 01:31:28  9:49 
+  982   939 Dana Moses              55 F  28 424 F5559 Rhinebeck          NY   31:39   30:45   29:55 1:02:23 1:32:18  9:55 01:31:32  9:50 
+  983   611 Mark Hoffman            55 M  64 559 M5559 Albany             NY   31:40   30:43   29:55 1:02:23 1:32:18  9:55 01:31:32  9:50 
+  984   518 Arun Gowda              42 M  79 560 M4044 Rexford            NY   32:22   31:01   28:56 1:03:23 1:32:18  9:55 01:31:50  9:52 
+  985  1091 Samantha Pommer         30 F  57 425 F3034 Niskayuna          NY   31:34   31:05   29:46 1:02:38 1:32:23  9:55 01:31:59  9:53 
+  986  1271 John Sheehy             62 M  41 561 M6064 Menands            NY   29:10   30:21   32:55   59:31 1:32:26  9:55 01:32:13  9:54 
+  987  1689 Megan Vahaviolos        31 F  58 426 F3034 Johnstown          NY   31:53   30:58   29:42 1:02:50 1:32:32  9:56 01:31:58  9:52 
+  988    37 Lenka Torres            37 F  71 427 F3539 Niskayuna          NY   30:54   31:12   30:27 1:02:05 1:32:32  9:56 01:32:25  9:55 
+  989   567 Mary Harding            45 F  47 428 F4549 Chatham            NY   30:16   31:03   31:17 1:01:18 1:32:34  9:56 01:32:04  9:53 
+  990  1031 Johna Palmer            58 F  29 429 F5559 Ravena             NY   32:27   31:01   29:08 1:03:28 1:32:35  9:56 01:32:02  9:53 
+  991   275 Amy Cookfair            26 F  60 430 F2529 Schenectady        NY   30:52   31:11   30:36 1:02:03 1:32:38  9:57 01:32:11  9:54 
+  992  1233 Amanda Schaeffer        19 F   6 431 F1519 Fairfax            VA   30:02   31:13   31:26 1:01:14 1:32:40  9:57 01:32:21  9:55 
+  993  1250 Justin Selby            37 M  60 562 M3539 Amsterdam          NY   30:03   29:42   32:57   59:44 1:32:40  9:57 01:32:12  9:54 
+  994   233 Joan Celentano          66 F   7 432 F6569 Schenectady        NY   31:13   31:08   30:21 1:02:20 1:32:41  9:57 01:32:33  9:56 
+  995   586 Amy Hebbard             41 F  79 433 F4044 Glenville          NY   30:58   30:41   31:04 1:01:39 1:32:42  9:57 01:32:01  9:53 
+  996   823 Christopher Maestro     62 M  42 563 M6064 Delmar             NY   31:43   31:03   29:58 1:02:45 1:32:43  9:57 01:32:00  9:53 
+  997  1033 Taylor Pangman          27 M  43 564 M2529 Schenectady        NY   25:42   28:41   38:21   54:23 1:32:44  9:57 01:32:26  9:55 
+  998  1388 Aixa Toledo             47 F  48 434 F4549 Glenmont           NY   31:48   30:47   30:12 1:02:35 1:32:46  9:58 01:32:33  9:56 
+  999   362 Max Diorio              38 M  61 565 M3539 Valatie            NY   31:56   30:43   30:12 1:02:39 1:32:50  9:58 01:32:11  9:54 
+ 1000   188 Jessica Burns           38 F  72 435 F3539 Voorheesville      NY   33:17   31:03   28:36 1:04:20 1:32:55  9:59 01:32:07  9:53 
+ 1001   482 Regan Gatta             39 F  73 436 F3539 Scotia             NY   33:15   31:05   28:36 1:04:19 1:32:55  9:59 01:32:07  9:53 
+ 1002   778 Kristen Lennon-Mcmahan  38 F  74 437 F3539 Clifton Park       NY   31:02   30:42   31:14 1:01:43 1:32:57  9:59 01:32:36  9:57 
+ 1003   105 Doreen Bazile           45 F  49 438 F4549 Clifton Park       NY   31:02   30:41   31:15 1:01:42 1:32:57  9:59 01:32:37  9:57 
+ 1004   874 J Doug McMahan          47 M  70 566 M4549 Clifton Park       NY   31:03   30:41   31:15 1:01:43 1:32:58  9:59 01:32:36  9:57 
+ 1005   315 Loan Dao                31 F  59 439 F3034 Brooklyn           NY   32:33   30:03   30:28 1:02:36 1:33:03  9:59 01:32:11  9:54 
+ 1006  1478 Bowden Wise             56 M  65 567 M5559 Clifton Park       NY   30:14   30:38   32:15 1:00:51 1:33:05 10:00 01:32:38  9:57 
+ 1007    65 Michael Anderson        33 M  66 568 M3034 Skaneateles        NY   30:06   30:37   32:24 1:00:43 1:33:06 10:00 01:32:35  9:56 
+ 1008   909 Jennifer Mine           30 F  60 440 F3034 Glenmont           NY   30:08   30:37   32:23 1:00:44 1:33:07 10:00 01:32:35  9:56 
+ 1009  1368 Stacey Terry            48 F  50 441 F4549 Niskayuna          NY   31:16   31:03   30:50 1:02:18 1:33:08 10:00 01:32:23  9:55 
+ 1010  1634 Erin Smith              42 F  80 442 F4044 East Greenbush     NY   31:39   31:46   29:53 1:03:24 1:33:17 10:01 01:32:44  9:57 
+ 1011  1399 Thomas Twomey           24 M  20 569 M2024 Schenectady        NY   33:16   32:53   27:12 1:06:09 1:33:20 10:01 01:32:36  9:56 
+ 1012   986 Kyle Nichols            24 M  21 570 M2024 Albany             NY   31:38   31:05   30:40 1:02:43 1:33:22 10:02 01:32:59  9:59 
+ 1013   622 Morning Sta Howell      35 F  75 443 F3539 Schaghticoke       NY   32:08   30:29   30:50 1:02:37 1:33:26 10:02 01:32:43  9:57 
+ 1014   708 Joseph Kerwin           55 M  66 571 M5559 Troy               NY   32:19   31:43   29:29 1:04:01 1:33:29 10:02 01:32:44  9:57 
+ 1015   453 Jill Frankoski          51 F  44 444 F5054 Rensselaer         NY   30:00   31:08   32:28 1:01:08 1:33:35 10:03 01:33:18 10:01 
+ 1016   590 Gina Heid               49 F  51 445 F4549 Ballston Spa       NY   31:57   31:02   30:38 1:02:59 1:33:36 10:03 01:32:50  9:58 
+ 1017   882 Marna McMorris          50 F  45 446 F5054 Guilderland        NY   33:22   31:08   29:08 1:04:30 1:33:37 10:03 01:32:53  9:58 
+ 1018   881 Jim McMorris            50 M  63 572 M5054 Guilderland        NY   33:22   31:08   29:09 1:04:30 1:33:39 10:03 01:32:54  9:58 
+ 1019   302 Nicol Cunningham        49 F  52 447 F4549 Delmar             NY   30:54   31:28   31:20 1:02:22 1:33:41 10:04 01:33:09 10:00 
+ 1020   620 Antoinette Howard       50 F  46 448 F5054 Waterford          NY   31:55   31:15   30:33 1:03:10 1:33:43 10:04 01:33:23 10:02 
+ 1021   600 David Heyward           65 M  22 573 M6569 Wynantskill        NY   31:49   30:51   31:07 1:02:39 1:33:46 10:04 01:33:03  9:59 
+ 1022   192 Sam Bursese             65 M  23 574 M6569 Amsterdam          NY   33:25   31:04   29:18 1:04:28 1:33:46 10:04 01:32:58  9:59 
+ 1023   191 Jeri Bursese            59 F  30 449 F5559 Amsterdam          NY   33:25   31:04   29:19 1:04:28 1:33:47 10:04 01:32:58  9:59 
+ 1024   987 Robert Nichols          55 M  67 575 M5559 Albany             NY   31:38   31:06   31:16 1:02:43 1:33:59 10:05 01:33:35 10:03 
+ 1025  1536 Colleen Walsh           63 F  13 450 F6064 Troy               NY   33:21   30:08   30:34 1:03:28 1:34:02 10:06 01:33:24 10:02 
+ 1026  1359 Rich Tanchyk            67 M  24 576 M6569 Saratoga Springs   NY   31:20   31:32   31:13 1:02:51 1:34:03 10:06 01:33:45 10:04 
+ 1027   496 Alyssa Gibbons          42 F  81 451 F4044 Niskayuna          NY   31:52   31:58   30:18 1:03:50 1:34:07 10:06 01:33:25 10:02 
+ 1028  1158 Tony Riello             47 M  71 577 M4549 Pittsfield         MA   31:46   31:54   30:29 1:03:40 1:34:08 10:06 01:33:29 10:02 
+ 1029   637 Emily Hutchins          28 F  61 452 F2529 Troy               NY   31:49   31:59   30:23 1:03:47 1:34:10 10:07 01:33:48 10:04 
+ 1030  1030 Carrie Pallas           37 F  76 453 F3539 Saratoga Springs   NY   31:48   31:59   30:23 1:03:47 1:34:10 10:07 01:33:47 10:04 
+ 1031  1234 Toni Schaeffer          45 F  53 454 F4549 Delanson           NY   30:57   31:11   32:04 1:02:07 1:34:11 10:07 01:34:11 10:07 
+ 1032   679 Ryan Juchem             37 M  62 578 M3539 Troy               NY   29:54   31:55   32:24 1:01:48 1:34:12 10:07 01:33:46 10:04 
+ 1033  1565 Jessica Guido           32 F  61 455 F3034 Mechanicville      NY   30:54   30:54   32:26 1:01:48 1:34:13 10:07 01:33:43 10:04 
+ 1034   299 Ann Cunningham          52 F  47 456 F5054 Delmar             NY   31:12   31:47   31:16 1:02:58 1:34:13 10:07 01:33:40 10:03 
+ 1035   604 Lisa Himme              51 F  48 457 F5054 Cobleskill         NY   31:49   31:49   30:37 1:03:38 1:34:14 10:07 01:33:45 10:04 
+ 1036  1372 Christine Thaxter       51 F  49 458 F5054 Cobleskill         NY   31:50   31:49   30:37 1:03:38 1:34:15 10:07 01:33:46 10:04 
+ 1037  1691 Pierre Vandenabeele     60 M  43 579 M6064 Gloversville       NY   31:22   31:06   31:54 1:02:27 1:34:20 10:08 01:33:49 10:04 
+ 1038   827 Kristen Mahieu          47 F  54 459 F4549 Schenectay         NY   31:09   31:24   31:50 1:02:33 1:34:22 10:08 01:33:54 10:05 
+ 1039  1119 Catarina Rapp           49 F  55 460 F4549 Johnstown          NY   32:05   30:05   32:15 1:02:09 1:34:24 10:08 01:33:32 10:03 
+ 1040   748 Stacy Laird             38 F  77 461 F3539 Johnstown          NY   32:07   30:04   32:16 1:02:10 1:34:25 10:08 01:33:32 10:03 
+ 1041   750 Randie Lamphere         54 F  50 462 F5054 Canajoharie        NY   31:44   31:10   31:34 1:02:54 1:34:27 10:08 01:33:36 10:03 
+ 1042  1379 Kris Thorne             69 F   8 463 F6569 Clifton Park       NY   32:15   31:35   30:44 1:03:49 1:34:32 10:09 01:34:12 10:07 
+ 1043   575 Amy Hart                58 F  31 464 F5559 Saratoga Springs   NY   31:50   31:26   31:18 1:03:16 1:34:33 10:09 01:34:18 10:07 
+ 1044   334 Teresa Dell             42 F  82 465 F4044 Clifton Park       NY   33:04   31:38   29:56 1:04:41 1:34:37 10:10 01:34:11 10:07 
+ 1045   481 Kelly Gatta             34 F  62 466 F3034 Schenectady        NY   33:16   31:03   30:22 1:04:19 1:34:40 10:10 01:33:52 10:05 
+ 1046  1570 Samantha Henrikson      35 F  78 467 F3539 Albany             NY   30:29   32:01   32:11 1:02:30 1:34:40 10:10 01:34:23 10:08 
+ 1047  1282 Gretchen Shyne          55 F  32 468 F5559 Selkirk            NY   31:23   31:31   31:48 1:02:54 1:34:41 10:10 01:34:10 10:07 
+ 1048   591 Stephen Heidorn         60 M  44 580 M6064 Saratoga Springs   NY   32:26   31:49   30:28 1:04:15 1:34:43 10:10 01:33:56 10:05 
+ 1049   435 Lawrence Finke          54 M  64 581 M5054 Schenectady        NY   33:18   31:24   30:05 1:04:41 1:34:45 10:10 01:34:09 10:07 
+ 1050   996 Tabitha Norris          39 F  79 469 F3539 Rensselaer         NY   32:20   31:46   30:41 1:04:06 1:34:46 10:11 01:34:10 10:07 
+ 1051  1198 Rosalee Ruediger        39 F  80 470 F3539 Clifton Park       NY   31:47   31:49   31:14 1:03:35 1:34:49 10:11 01:33:57 10:05 
+ 1052   593 Erin Henderlong         26 F  62 471 F2529 Albany             NY   32:15   31:21   31:14 1:03:36 1:34:49 10:11 01:34:01 10:06 
+ 1053    49 Vanessa Aguilar         33 F  63 472 F3034 Troy               NY   32:16   31:41   30:55 1:03:57 1:34:51 10:11 01:34:21 10:08 
+ 1054  1343 Lisa Strain             33 F  64 473 F3034 Clifton Park       NY   32:36   31:23   30:56 1:03:58 1:34:54 10:11 01:34:17 10:07 
+ 1055  1414 Joanne Vanhorne         46 F  56 474 F4549 Corinth            NY   31:27   32:01   31:27 1:03:27 1:34:54 10:11 01:34:16 10:07 
+ 1056  1600 Nanette Hatch           54 F  51 475 F5054 Waterford          NY   35:00   30:12   29:44 1:05:12 1:34:55 10:11 01:34:11 10:07 
+ 1057   569 Josie Hargraves         26 F  63 476 F2529 Clifton Park       NY   32:36   31:23   30:58 1:03:59 1:34:56 10:12 01:34:20 10:08 
+ 1058  1357 Kate Szczesny           37 F  81 477 F3539 Ballston Spa       NY   31:27   32:05   31:30 1:03:31 1:35:01 10:12 01:34:21 10:08 
+ 1059    36 Laura Putnam            36 F  82 478 F3539 Delanson           NY   32:10   31:37   31:16 1:03:46 1:35:01 10:12 01:34:29 10:09 
+ 1060   932 Eleonora Morrell        51 F  52 479 F5054 Clifton Park       NY   32:45   31:39   30:40 1:04:23 1:35:03 10:12 01:34:25 10:08 
+ 1061  1322 Alicia Sparano          52 F  53 480 F5054 Alplaus            NY   33:14   31:23   30:28 1:04:37 1:35:04 10:12 01:34:23 10:08 
+ 1062    68 Teri Ardia              48 F  57 481 F4549 Rexford            NY   33:13   31:25   30:27 1:04:38 1:35:05 10:12 01:34:24 10:08 
+ 1063   174 Carrie Buetow           43 F  83 482 F4044 Glenville          NY   32:59   31:31   30:46 1:04:29 1:35:15 10:14 01:34:26 10:08 
+ 1064   468 Daniel Gaidasz          44 M  80 582 M4044 Ballston Spa       NY   33:00   31:30   30:46 1:04:30 1:35:15 10:14 01:34:26 10:08 
+ 1065   206 Jen Capello             36 F  83 483 F3539 Ballston Spa       NY   32:33   31:59   30:45 1:04:31 1:35:15 10:14 01:34:46 10:10 
+ 1066  1203 Steve Russell           63 M  45 583 M6064 Schenectady        NY   33:09   31:27   30:41 1:04:35 1:35:16 10:14 01:34:22 10:08 
+ 1067  1681 Ariela Rutbeck-Goldma   32 F  65 484 F3034 Schenectady        NY   32:08   31:50   31:21 1:03:57 1:35:18 10:14 01:34:35 10:09 
+ 1068  1434 Jennifer Waldek         51 F  54 485 F5054 Clifton Park       NY   31:56   32:20   31:06 1:04:16 1:35:21 10:14 01:34:58 10:12 
+ 1069   269 Lara Comithier          52 F  55 486 F5054 Greenville         NY   33:10   31:34   30:40 1:04:44 1:35:23 10:14 01:34:29 10:09 
+ 1070   151 Sarah Bowman            34 F  66 487 F3034 Clifton Park       NY   31:46   32:00   31:42 1:03:46 1:35:27 10:15 01:34:49 10:11 
+ 1071   646 Veronica Ippolito       52 F  56 488 F5054 Schenectady        NY   33:12   31:54   30:26 1:05:05 1:35:31 10:15 01:34:28 10:09 
+ 1072  1107 Sarah Putnam            24 F  13 489 F2024 Niskayuna          NY   32:30   31:51   31:11 1:04:20 1:35:31 10:15 01:34:46 10:11 
+ 1073   313 Karen Danko             42 F  84 490 F4044 Niskayuna          NY   32:09   31:54   31:32 1:04:02 1:35:34 10:16 01:34:58 10:12 
+ 1074   645 Michael Ippolito        46 M  72 584 M4549 Schenectady        NY   33:12   31:52   30:30 1:05:04 1:35:34 10:16 01:34:31 10:09 
+ 1075  1241 Thomas Schweder         61 M  46 585 M6064 Round Lake         NY   32:04   31:56   31:40 1:04:00 1:35:40 10:16 01:35:03 10:12 
+ 1076   515 Michelle Golonka        52 F  57 491 F5054 Delmar             NY   31:35   32:06   32:03 1:03:40 1:35:43 10:17 01:35:27 10:15 
+ 1077  1052 Clarice Pavlak          20 F  14 492 F2024 Troy               NY   32:51   32:37   30:23 1:05:28 1:35:50 10:17 01:35:04 10:12 
+ 1078  1701 Rosemary Freeman        42 F  85 493 F4044 Ballston Spa       NY   31:56   31:59   31:57 1:03:54 1:35:51 10:17 01:35:45 10:17 
+ 1079   287 Peter Cowie             71 M  11 586 M7074 Schenectady        NY   30:49   31:37   33:27 1:02:25 1:35:52 10:18 01:35:24 10:15 
+ 1080   406 Seth Engel              30 M  67 587 M3034 Round Lake         NY   30:56   33:01   31:56 1:03:57 1:35:53 10:18 01:35:25 10:15 
+ 1081   829 Elisabeth Mahoney       42 F  86 494 F4044 Queensbury         NY   32:46   31:07   32:02 1:03:52 1:35:53 10:18 01:35:04 10:12 
+ 1082  1508 Arin Zollinger          40 F  87 495 F4044 Ballston Spa       NY   32:45   35:11   27:58 1:07:56 1:35:54 10:18 01:35:45 10:17 
+ 1083  1021 Mike Ostrander          51 M  65 588 M5054 Ballston Lake      NY   32:44   33:28   29:50 1:06:11 1:36:00 10:18 01:35:20 10:14 
+ 1084  1003 Allison Nunez           29 F  64 496 F2529 Glenmont           NY   30:47   32:13   33:09 1:02:59 1:36:08 10:19 01:35:47 10:17 
+ 1085  1179 David Rook              63 M  47 589 M6064 Delmar             NY   31:53   32:06   32:11 1:03:59 1:36:10 10:19 01:35:29 10:15 
+ 1086  1407 Deb Valois              48 F  58 497 F4549 Schenectady        NY   33:27   32:07   30:41 1:05:34 1:36:14 10:20 01:35:25 10:15 
+ 1087   671 Keri Jones              40 F  88 498 F4044 Richmondville      NY   33:27   32:07   30:42 1:05:33 1:36:14 10:20 01:35:25 10:15 
+ 1088   227 Lindsay Cartmill        32 F  67 499 F3034 Rotterdam          NY   33:27   32:07   30:42 1:05:33 1:36:15 10:20 01:35:25 10:15 
+ 1089  1490 Meleah Wright           37 F  84 500 F3539 Watervliet         NY   31:23   33:04   31:51 1:04:26 1:36:16 10:20 01:35:41 10:16 
+ 1090  1540 Sarah Platek            41 F  89 501 F4044 Slingerlands       NY   30:51   32:02   33:25 1:02:53 1:36:17 10:20 01:35:54 10:18 
+ 1091   890 Rana Meehan             45 F  59 502 F4549 Cohoes             NY   34:24   31:09   30:45 1:05:33 1:36:17 10:20 01:35:38 10:16 
+ 1092   434 Tami Finerow            46 F  60 503 F4549 Delmar             NY   31:10   32:12   32:59 1:03:21 1:36:19 10:20 01:35:55 10:18 
+ 1093   755 Crystal Langdon         53 F  58 504 F5054 Selkirk            NY   32:28   32:09   31:49 1:04:36 1:36:25 10:21 01:35:54 10:18 
+ 1094  1457 Jackie White            52 F  59 505 F5054 Greenwich          NY   33:01   32:20   31:09 1:05:20 1:36:28 10:21 01:35:45 10:17 
+ 1095  1311 Eugene Sneeringer       65 M  25 590 M6569 Slingerlands       NY   33:15   32:14   31:00 1:05:29 1:36:29 10:22 01:35:44 10:17 
+ 1096   338 Lisa Delugo             45 F  61 506 F4549 Schenectady        NY   33:28   32:01   31:03 1:05:28 1:36:31 10:22 01:36:20 10:21 
+ 1097  1076 Douglas Pilato          49 M  73 591 M4549 Albany             NY   32:08   32:49   31:37 1:04:57 1:36:33 10:22 01:35:55 10:18 
+ 1098   935 Dawn Morrison           51 F  60 507 F5054 Clifton Park       NY   32:07   31:51   32:45 1:03:57 1:36:42 10:23 01:36:04 10:19 
+ 1099  1156 Alivia Richter          28 F  65 508 F2529 Colonie            NY   32:36   32:13   31:54 1:04:49 1:36:42 10:23 01:35:57 10:18 
+ 1100   102 Ralph Battle            58 M  68 592 M5559 Schenectady        NY   30:12   35:21   31:11 1:05:32 1:36:43 10:23 01:36:22 10:21 
+ 1101   110 Renee Behrens           36 F  85 509 F3539 Albany             NY   32:11   31:45   32:52 1:03:55 1:36:46 10:23 01:36:34 10:22 
+ 1102    29 Amy Jessup              54 F  61 510 F5054 Glenville          NY   33:01   32:07   31:41 1:05:08 1:36:48 10:24 01:35:56 10:18 
+ 1103   214 Darlene Cardillo        66 F   9 511 F6569 Delmar             NY   31:16   32:40   32:54 1:03:55 1:36:49 10:24 01:36:37 10:22 
+ 1104   837 Mary Martin             27 F  66 512 F2529 Schenectady        NY   32:05   32:52   32:00 1:04:56 1:36:55 10:24 01:36:06 10:19 
+ 1105   767 Jennifer Lawrence       60 F  14 513 F6064 Rensselaer         NY   33:29   32:52   30:37 1:06:20 1:36:56 10:24 01:36:03 10:19 
+ 1106   342 Kellee Deolde           42 F  90 514 F4044 Selkirk            NY   32:50   32:26   31:48 1:05:16 1:37:04 10:25 01:36:19 10:20 
+ 1107   278 John Cope               44 M  81 593 M4044 Clifton Park       NY   32:33   32:23   32:10 1:04:55 1:37:05 10:25 01:36:29 10:21 
+ 1108  1174 Lynn Rogers             61 F  15 515 F6064 Ballston Spa       NY   32:48   32:34   31:44 1:05:22 1:37:05 10:25 01:36:35 10:22 
+ 1109  1172 Daniel Rogers           24 M  22 594 M2024 Rensselaer         NY   32:50   32:33   31:45 1:05:22 1:37:06 10:26 01:36:25 10:21 
+ 1110  1374 Becky Thayer            62 F  16 516 F6064 Watervliet         NY   32:35   32:20   32:13 1:04:54 1:37:07 10:26 01:36:31 10:22 
+ 1111   475 Jay Garrity             35 M  63 595 M3539 Albany             NY   33:52   31:48   31:28 1:05:40 1:37:08 10:26 01:36:13 10:20 
+ 1112   476 Lindsay Garrity         35 F  86 517 F3539 Albany             NY   33:52   31:49   31:28 1:05:41 1:37:09 10:26 01:36:15 10:20 
+ 1113  1580 Jenny Lee               59 F  33 518 F5559 Selkirk            NY   33:31   32:35   31:04 1:06:05 1:37:09 10:26 01:37:01 10:25 
+ 1114   318 Michelle Daus           33 F  68 519 F3034 Schenectady        NY   33:51   31:16   32:06 1:05:06 1:37:11 10:26 01:36:25 10:21 
+ 1115  1597 Bob Sneeringer          56 M  69 596 M5559 Loudonville        NY   33:14   32:17   31:45 1:05:30 1:37:14 10:26 01:36:30 10:22 
+ 1116   668 Steven Johnson          68 M  26 597 M6569 Oneonta            NY   33:24   32:00   31:55 1:05:24 1:37:18 10:27 01:36:38 10:22 
+ 1117   280 Cara Corneau            36 F  87 520 F3539 Jeffersonville     VT   31:01   33:00   33:19 1:04:00 1:37:19 10:27 01:36:53 10:24 
+ 1118    60 Katherine Ambrosio      69 F  10 521 F6569 Delmar             NY   33:29   31:32   32:20 1:05:01 1:37:21 10:27 01:36:51 10:24 
+ 1119  1277 Priya Shivraj           27 F  67 522 F2529 Albany             NY   33:32   32:45   31:09 1:06:17 1:37:25 10:28 01:36:38 10:22 
+ 1120   352 Christin Dibelius       33 F  69 523 F3034 Altamont           NY   32:25   32:49   32:15 1:05:14 1:37:28 10:28 01:37:15 10:26 
+ 1121  1239 Jennifer Schwabrow      38 F  88 524 F3539 Fonda              NY   32:01   33:34   31:57 1:05:34 1:37:30 10:28 01:36:54 10:24 
+ 1122   125 John Besig              62 M  48 598 M6064 Rome               NY   32:18   32:04   33:23 1:04:22 1:37:45 10:30 01:37:12 10:26 
+ 1123   396 Jennifer Edgar-Johnson  43 F  91 525 F4044 Glenville          NY   31:52   32:39   33:22 1:04:31 1:37:52 10:30 01:37:28 10:28 
+ 1124   241 William Chin            26 M  44 599 M2529 Troy               NY   31:55   35:31   30:28 1:07:25 1:37:52 10:30 01:37:44 10:30 
+ 1125  1566 Barbara Connolly        61 F  17 526 F6064 Delmar             NY   33:45   32:24   31:50 1:06:09 1:37:58 10:31 01:37:09 10:26 
+ 1126  1193 Martin Rowley           71 M  12 600 M7074 Latham             NY   33:43   32:52   31:27 1:06:34 1:38:01 10:31 01:37:35 10:29 
+ 1127   710 Deanna Kessler          26 F  68 527 F2529 Colonie            NY   33:58   32:06   31:59 1:06:04 1:38:03 10:32 01:37:18 10:27 
+ 1128   643 Brie Iannotti           38 F  89 528 F3539 Amsterdam          NY   35:10   32:47   30:10 1:07:56 1:38:06 10:32 01:37:13 10:26 
+ 1129   995 Megan Noonan            28 F  69 529 F2529 Gansevoort         NY   32:59   32:16   32:53 1:05:15 1:38:07 10:32 01:37:26 10:28 
+ 1130   993 Daniel Noonan           35 M  64 601 M3539 Scotia             NY   32:58   31:55   33:16 1:04:53 1:38:08 10:32 01:37:26 10:28 
+ 1131   994 Kevin Noonan            28 M  45 602 M2529 Schenectady        NY   32:56   32:00   33:14 1:04:55 1:38:08 10:32 01:37:26 10:28 
+ 1132   309 Aileen Daley            25 F  70 530 F2529 Glenville          NY   33:16   32:53   32:01 1:06:09 1:38:09 10:32 01:37:24 10:27 
+ 1133  1659 James Garnett           35 M  65 603 M3539 Albany             NY   34:24   31:23   32:26 1:05:46 1:38:11 10:32 01:37:14 10:26 
+ 1134   430 Jennifer Ferrara        38 F  90 531 F3539 Cohoes             NY   33:11   33:39   31:24 1:06:49 1:38:13 10:33 01:37:43 10:29 
+ 1135  1362 Brian Teague            60 M  49 604 M6064 Glens Falls        NY   34:02   33:37   30:36 1:07:38 1:38:13 10:33 01:37:31 10:28 
+ 1136  1070 Marilyn Pickett         53 F  62 532 F5054 Clifton Park       NY   31:15   33:39   33:22 1:04:53 1:38:14 10:33 01:38:03 10:32 
+ 1137    21 Jeevarathna Ayyamperum  47 M  74 605 M4549 Albany             NY   33:21   32:45   32:10 1:06:05 1:38:14 10:33 01:37:29 10:28 
+ 1138   911 Linda Mitchison         54 F  63 533 F5054 East Chatham       NY   34:01   32:38   31:41 1:06:38 1:38:19 10:33 01:37:39 10:29 
+ 1139   749 Dale Lamphere           58 M  70 606 M5559 Canajoharie        NY   31:43   31:06   35:37 1:02:49 1:38:25 10:34 01:37:33 10:28 
+ 1140   688 Jeannine Kaskoun        48 F  62 534 F4549 Troy               NY   33:13   32:28   33:08 1:05:41 1:38:48 10:36 01:38:12 10:33 
+ 1141    75 Lisa Avila              51 F  64 535 F5054 Rexford            NY   32:47   32:40   33:23 1:05:27 1:38:50 10:37 01:38:12 10:33 
+ 1142  1135 Lizzie Redkey           50 F  65 536 F5054 Latham             NY   35:08   32:20   31:33 1:07:28 1:39:00 10:38 01:38:09 10:32 
+ 1143  1221 Matthew Saucier         42 M  82 607 M4044 Troy               NY   31:46   32:52   34:31 1:04:38 1:39:08 10:39 01:38:38 10:35 
+ 1144  1127 Alice Raymond-Morse     30 F  70 537 F3034 Albany             NY   35:06   33:18   30:56 1:08:24 1:39:20 10:40 01:38:40 10:36 
+ 1145   940 Susan Motler            57 F  34 538 F5559 Rensselaer         NY   33:20   32:48   33:13 1:06:07 1:39:20 10:40 01:38:44 10:36 
+ 1146  1436 Autumn Wallace          42 F  92 539 F4044 Troy               NY   34:29   32:26   32:28 1:06:55 1:39:22 10:40 01:38:25 10:34 
+ 1147  1298 Colleen Smith           49 F  63 540 F4549 Niskayuna          NY   34:40   33:14   31:35 1:07:53 1:39:27 10:41 01:38:36 10:35 
+ 1148   651 Matt Isgro              32 M  68 608 M3034 Schenectady        NY   33:28   33:05   32:58 1:06:33 1:39:30 10:41 01:38:56 10:37 
+ 1149  1460 Jessica Whiting         42 F  93 541 F4044 Scotia             NY   34:40   33:13   31:38 1:07:53 1:39:31 10:41 01:38:39 10:36 
+ 1150   709 Jennifer Kerwood        47 F  64 542 F4549 Pittsfield         MA   32:13   33:12   34:08 1:05:24 1:39:32 10:41 01:39:11 10:39 
+ 1151  1026 Jessica Padula          38 F  91 543 F3539 Schenectady        NY   32:51   32:02   34:41 1:04:53 1:39:33 10:41 01:38:09 10:32 
+ 1152  1189 Andrea Rowe             59 F  35 544 F5559 Glenville          NY   32:36   33:19   33:40 1:05:54 1:39:34 10:41 01:38:59 10:38 
+ 1153   693 Ashley Keegan           35 F  92 545 F3539 East Greenbush     NY   35:00   33:17   31:27 1:08:16 1:39:43 10:42 01:38:50 10:37 
+ 1154   770 Tina Lee                58 F  36 546 F5559 Niskayuna          NY   30:18   29:53   39:42 1:00:10 1:39:52 10:43 01:39:25 10:40 
+ 1155   321 Ellen Daviero           52 F  66 547 F5054 Schenectady        NY   29:53   30:18   39:42 1:00:11 1:39:53 10:43 01:39:26 10:41 
+ 1156   176 Lisa Bulriss            55 F  37 548 F5559 Chazy              NY   34:40   33:16   32:06 1:07:55 1:40:01 10:44 01:39:25 10:40 
+ 1157   880 Laura McMillen          32 F  71 549 F3034 Ballston Lake      NY   32:03   34:09   33:51 1:06:11 1:40:02 10:44 01:39:55 10:44 
+ 1158  1579 Terese Puma             38 F  93 550 F3539 Burnt Hills        NY   33:54   34:04   32:07 1:07:57 1:40:04 10:45 01:39:33 10:41 
+ 1159  1493 Tiana Wyrick            57 F  38 551 F5559 Albany             NY   34:09   32:45   33:11 1:06:54 1:40:04 10:45 01:39:13 10:39 
+ 1160   617 Kristina Honsinger      37 F  94 552 F3539 Albany             NY   32:36   33:00   34:30 1:05:35 1:40:05 10:45 01:39:23 10:40 
+ 1161   312 Rebecca Daniels         33 F  72 553 F3034 Schenectady        NY   32:39   33:59   33:29 1:06:37 1:40:05 10:45 01:39:58 10:44 
+ 1162  1510 Kelly Zurakowski        38 F  95 554 F3539 Glenville          NY   36:03   32:58   31:11 1:09:01 1:40:12 10:45 01:39:16 10:39 
+ 1163   246 Nicky Chlopecki         44 F  94 555 F4044 Glenville          NY   33:53   34:04   32:23 1:07:57 1:40:20 10:46 01:39:48 10:43 
+ 1164   244 Carrie Chlopecki        43 F  95 556 F4044 Greenwich          NY   33:53   34:06   32:23 1:07:58 1:40:20 10:46 01:39:49 10:43 
+ 1165  1291 Lynsee Siniski          33 F  73 557 F3034 Cohoes             NY   33:11   33:58   33:24 1:07:08 1:40:31 10:47 01:40:01 10:44 
+ 1166  1232 Susan Schaefer          61 F  18 558 F6064 West Sand Lake     NY   34:09   32:31   33:54 1:06:39 1:40:32 10:48 01:39:43 10:42 
+ 1167   810 Ginger Lynch Landy      54 F  67 559 F5054 Glenmont           NY   33:01   33:01   34:40 1:06:02 1:40:41 10:49 01:40:26 10:47 
+ 1168   200 Katie Cameron           36 F  96 560 F3539 Schenectady        NY   34:46   33:11   32:45 1:07:57 1:40:41 10:49 01:39:54 10:44 
+ 1169  1640 John Aldrich            61 M  50 609 M6064 Dalton             MA   33:26   33:58   33:21 1:07:23 1:40:43 10:49 01:40:13 10:46 
+ 1170  1356 Sharon Sykes            58 F  39 561 F5559 Schenectady        NY   34:03   33:53   32:50 1:07:56 1:40:45 10:49 01:40:08 10:45 
+ 1171   968 Suzanne Nealon          69 F  11 562 F6569 Glens Falls        NY   33:58   33:48   33:02 1:07:45 1:40:47 10:49 01:40:06 10:45 
+ 1172   252 Hilary Ciesielski       40 F  96 563 F4044 Albany             NY   33:52   33:22   33:35 1:07:14 1:40:48 10:49 01:40:03 10:44 
+ 1173   632 Tricia Hunter           37 F  97 564 F3539 Troy               NY   32:09   33:44   34:57 1:05:53 1:40:49 10:49 01:40:28 10:47 
+ 1174    24 Matthew Cotugno         35 M  66 610 M3539 Schenectady        NY   34:54   33:19   32:39 1:08:12 1:40:50 10:50 01:39:52 10:43 
+ 1175  1685 Sheri Steele            61 F  19 565 F6064 Ballston Spa       NY   33:12   34:03   33:37 1:07:15 1:40:51 10:50 01:40:10 10:45 
+ 1176   366 Bernadette Dolen        30 F  74 566 F3034 Schenectady        NY   34:34   33:41   32:44 1:08:14 1:40:58 10:50 01:40:12 10:45 
+ 1177   691 Lara Kaye               50 F  68 567 F5054 Averill Park       NY   34:36   33:40   32:44 1:08:15 1:40:58 10:50 01:40:10 10:45 
+ 1178  1187 Matt Rousseau           60 M  51 611 M6064 Clifton Park       NY   33:50   34:03   33:13 1:07:52 1:41:04 10:51 01:40:20 10:46 
+ 1179   717 Martin Kittell          65 M  27 612 M6569 East Greenbush     NY   33:56   33:47   33:29 1:07:42 1:41:10 10:52 01:40:40 10:48 
+ 1180   573 Susan Harris            71 F   2 568 F7074 Albany             NY   34:26   33:43   33:03 1:08:09 1:41:12 10:52 01:40:50 10:50 
+ 1181   731 Deanna Kremzier         26 F  71 569 F2529 Scotia             NY   32:38   34:28   34:12 1:07:06 1:41:17 10:52 01:40:52 10:50 
+ 1182  1532 Donna Lustenhouwer      65 F  12 570 F6569 Altamont           NY   34:12   33:51   33:19 1:08:02 1:41:20 10:53 01:40:41 10:49 
+ 1183   756 Jean Lange              53 F  69 571 F5054 Schenectady        NY   34:11   33:50   33:20 1:08:01 1:41:21 10:53 01:40:43 10:49 
+ 1184  1170 Nicole Robinson         50 F  70 572 F5054 Malta              NY   32:39   33:44   34:59 1:06:23 1:41:22 10:53 01:41:04 10:51 
+ 1185  1337 Jeremy Steuer           38 M  67 613 M3539 Guilderland        NY   31:56   34:00   35:29 1:05:56 1:41:24 10:53 01:40:56 10:50 
+ 1186    92 Anthony Barksdale       55 M  71 614 M5559 Gloversville       NY   33:11   32:21   35:55 1:05:32 1:41:26 10:53 01:40:25 10:47 
+ 1187  1083 Brian Platt             61 M  52 615 M6064 Latham             NY   35:02   33:34   32:51 1:08:35 1:41:26 10:53 01:40:29 10:47 
+ 1188  1175 Sally Rogers            68 F  13 573 F6569 West Chester       PA   33:28   32:57   35:10 1:06:25 1:41:34 10:54 01:40:39 10:48 
+ 1189   780 Janette Leonidas        47 F  65 574 F4549 Castleton          NY   33:34   33:40   34:22 1:07:13 1:41:35 10:54 01:40:53 10:50 
+ 1190   690 Ellie Kaufman           24 F  15 575 F2024 Troy               NY   33:23   35:10   33:06 1:08:33 1:41:39 10:55 01:41:15 10:52 
+ 1191   713 Nathan Kimmitt          26 M  46 616 M2529 Troy               NY   33:22   35:11   33:06 1:08:33 1:41:39 10:55 01:41:16 10:52 
+ 1192   631 Courtney Hunter         22 F  16 576 F2024 Fort Edward        NY   31:57   35:28   34:17 1:07:25 1:41:42 10:55 01:41:34 10:54 
+ 1193  1066 Theodore Pham           33 M  69 617 M3034 Albany             NY   32:05   33:49   35:59 1:05:54 1:41:52 10:56 01:41:25 10:53 
+ 1194  1178 Richard Romano          52 M  66 618 M5054 Saratoga Springs   NY   33:18   33:42   34:54 1:07:00 1:41:53 10:56 01:41:07 10:51 
+ 1195  1352 Samantha Super          39 F  98 577 F3539 Castleton          NY   35:30   33:51   32:39 1:09:20 1:41:59 10:57 01:41:11 10:52 
+ 1196  1351 Brian Super             58 M  72 619 M5559 Castleton          NY   35:29   33:53   32:39 1:09:21 1:41:59 10:57 01:41:12 10:52 
+ 1197   985 Adam Nichols            49 M  75 620 M4549 Schenectady        NY   35:35   34:52   31:42 1:10:27 1:42:09 10:58 01:41:53 10:56 
+ 1198   291 Alison Craver           44 F  97 578 F4044 Clifton Park       NY   35:52   33:32   32:50 1:09:24 1:42:13 10:58 01:41:18 10:53 
+ 1199   969 Stephanie Nebesnak      42 F  98 579 F4044 Dalton             MA   33:13   33:49   35:13 1:07:01 1:42:14 10:59 01:41:12 10:52 
+ 1200   897 Corina Menagias         28 F  72 580 F2529 Schenectady        NY   32:37   34:12   35:27 1:06:49 1:42:15 10:59 01:41:56 10:57 
+ 1201   824 Gordon Magat            62 M  53 621 M6064 Cohoes             NY   34:27   34:19   33:33 1:08:45 1:42:17 10:59 01:41:33 10:54 
+ 1202  1063 Mari Petro              46 F  66 581 F4549 Rensselaer         NY   34:13   34:16   33:55 1:08:29 1:42:23 11:00 01:41:46 10:56 
+ 1203  1488 Greg Worsa              59 M  73 622 M5559 Scotia             NY   34:49   34:12   33:23 1:09:01 1:42:24 11:00 01:41:55 10:57 
+ 1204   537 Danielle Grossman       33 F  75 582 F3034 North Chatham      NY   31:50   34:48   35:49 1:06:38 1:42:26 11:00 01:42:16 10:59 
+ 1205  1596 Medaalsa Beharry        61 F  20 583 F6064 Schenectady        NY   35:14   34:23   32:53 1:09:36 1:42:29 11:00 01:41:51 10:56 
+ 1206   128 Aimee Bishop            47 F  67 584 F4549 Troy               NY   33:34   34:33   34:31 1:08:06 1:42:36 11:01 01:42:00 10:57 
+ 1207   738 Noah Kucij              40 M  83 623 M4044 Albany             NY   31:41   34:16   36:42 1:05:57 1:42:39 11:01 01:41:46 10:56 
+ 1208  1016 Daniel Orsini           42 M  84 624 M4044 Niskayuna          NY   34:50   35:26   32:31 1:10:15 1:42:46 11:02 01:41:55 10:56 
+ 1209  1654 Darrell Everts          50 M  67 625 M5054 Clifton Park       NY   32:17   34:18   36:23 1:06:35 1:42:57 11:03 01:42:13 10:58 
+ 1210   101 Sara Bates              32 F  76 585 F3034 Amsterdam          NY   35:03   34:16   33:43 1:09:19 1:43:01 11:04 01:42:08 10:58 
+ 1211   279 Christina Coppola       30 F  77 586 F3034 Altamont           NY   37:07   35:38   30:26 1:12:45 1:43:10 11:05 01:42:21 10:59 
+ 1212   862 Megan McDonald          40 F  99 587 F4044 Ballston Spa       NY   33:50   34:24   34:59 1:08:14 1:43:12 11:05 01:42:20 10:59 
+ 1213   509 Penny Glena             24 F  17 588 F2024 Gasport            NY   35:43   33:59   33:31 1:09:42 1:43:12 11:05 01:42:28 11:00 
+ 1214  1612 Elizabeth Oakes         40 F 100 589 F4044 Schenectady        NY   34:19   33:11   35:45 1:07:30 1:43:15 11:05 01:42:36 11:01 
+ 1215  1410 Helen Vanderlan         38 F  99 590 F3539 Scotia             NY   34:26   34:45   34:35 1:09:11 1:43:46 11:08 01:43:12 11:05 
+ 1216  1211 Jamie Salm              40 F 101 591 F4044 East Berne         NY   34:27   34:44   34:36 1:09:11 1:43:46 11:08 01:43:13 11:05 
+ 1217   650 Lori Isabella-Rhoad     38 F 100 592 F3539 Schenectady        NY   35:25   34:07   34:19 1:09:31 1:43:50 11:09 01:43:03 11:04 
+ 1218  1344 Rebecca Streicher       39 F 101 593 F3539 Glens Falls        NY   34:59   35:33   33:23 1:10:31 1:43:54 11:09 01:43:27 11:06 
+ 1219  1229 Vicki Scanlon           33 F  78 594 F3034 Albany             NY   34:59   35:33   33:24 1:10:31 1:43:54 11:09 01:43:28 11:06 
+ 1220   297 Theresa Cufari          42 F 102 595 F4044 Schenectady        NY   35:14   34:53   34:00 1:10:06 1:44:05 11:11 01:43:16 11:05 
+ 1221   904 Jeanne Michela          60 F  21 596 F6064 Schenectady        NY   34:01   34:47   35:23 1:08:47 1:44:10 11:11 01:43:31 11:07 
+ 1222    27 Shelly Graves           40 F 103 597 F4044 Scotia             NY   34:03   35:18   34:54 1:09:20 1:44:14 11:11 01:43:21 11:06 
+ 1223   500 Alicia Gillen           49 F  68 598 F4549 Altamont           NY   35:45   34:57   33:42 1:10:41 1:44:22 11:12 01:43:39 11:08 
+ 1224   956 Sean Murphy             58 M  74 626 M5559 Slingerlands       NY   35:14   35:09   34:15 1:10:22 1:44:36 11:14 01:43:45 11:08 
+ 1225  1247 Iris Seckinger          40 F 104 599 F4044 West Sand Lake     NY   34:20   35:17   35:17 1:09:37 1:44:53 11:16 01:44:21 11:12 
+ 1226  1425 Nancy Vesco             60 F  22 600 F6064 West Chazy         NY   34:39   34:49   35:36 1:09:28 1:45:04 11:17 01:44:27 11:13 
+ 1227  1551 Stephanie Fargnoli      44 F 105 601 F4044 Ballston Lake      NY   35:50   34:34   34:46 1:10:23 1:45:09 11:17 01:44:12 11:11 
+ 1228  1078 Cheri Pinkans           56 F  40 602 F5559 Schenectady        NY   34:16   34:40   36:25 1:08:56 1:45:20 11:19 01:44:28 11:13 
+ 1229   819 Sarah Mackintosh        32 F  79 603 F3034 Schenectady        NY   36:05   33:43   35:34 1:09:47 1:45:21 11:19 01:44:39 11:14 
+ 1230   975 Timothy Nevinger        38 M  68 627 M3539 Glenmont           NY   36:04   33:43   35:34 1:09:47 1:45:21 11:19 01:44:39 11:14 
+ 1231  1123 Carrie Rashford         41 F 106 604 F4044 Niskayuna          NY   35:27   34:59   35:04 1:10:26 1:45:30 11:20 01:44:59 11:16 
+ 1232   707 Tara Kennedy            36 F 102 605 F3539 Schenectady        NY   33:41   35:16   36:33 1:08:57 1:45:30 11:20 01:44:56 11:16 
+ 1233   502 Leigh Ann Gilson        45 F  69 606 F4549 Niskayuna          NY   35:27   35:00   35:03 1:10:27 1:45:30 11:20 01:45:00 11:16 
+ 1234  1534 Lori Delaney            51 F  71 607 F5054 Wynantskill        NY   33:11   34:16   38:06 1:07:26 1:45:32 11:20 01:44:58 11:16 
+ 1235   507 David Gleason           40 M  85 628 M4044 Niskayuna          NY   34:41   34:40   36:22 1:09:20 1:45:41 11:21 01:45:10 11:17 
+ 1236    89 Kristina Barbuti        30 F  80 608 F3034 Corinth            NY   33:08   33:55   38:40 1:07:02 1:45:42 11:21 01:45:07 11:17 
+ 1237   508 Mary Gleason            40 F 107 609 F4044 Niskayuna          NY   34:42   34:39   36:22 1:09:20 1:45:42 11:21 01:45:11 11:17 
+ 1238  1542 Wendy Skawinski         45 F  70 610 F4549 Glenville          NY   36:20   35:19   34:09 1:11:38 1:45:46 11:21 01:44:54 11:16 
+ 1239  1218 Deanne Sapel            36 F 103 611 F3539 Delmar             NY   35:37   34:53   35:19 1:10:29 1:45:48 11:21 01:44:56 11:16 
+ 1240  1007 Timothy Oconnor         61 M  54 629 M6064 Loudonville        NY   32:38   35:27   37:47 1:08:04 1:45:50 11:22 01:45:45 11:21 
+ 1241   799 Gary Longhi             55 M  75 630 M5559 Albany             NY   28:14   36:38   41:13 1:04:51 1:46:04 11:23 01:46:04 11:23 
+ 1242   561 Jamila Hammond          27 F  73 612 F2529 Latham             NY   38:36   34:34   33:04 1:13:09 1:46:13 11:24 01:45:15 11:18 
+ 1243  1509 Melissa Zotter          33 F  81 613 F3034 Schenectady        NY   34:54   35:57   35:27 1:10:51 1:46:17 11:25 01:45:57 11:22 
+ 1244   310 Rich Daley              72 M  13 631 M7074 Schenectady        NY                   53:15   53:12 1:46:26 11:26 01:46:26 11:26 
+ 1245  1438 Kristen Walsh           37 F 104 614 F3539 Ballston Spa       NY   36:04   34:40   35:51 1:10:44 1:46:34 11:26 01:45:42 11:21 
+ 1246   917 Melissa Montague        41 F 108 615 F4044 Glenville          NY   34:20   35:20   36:55 1:09:40 1:46:34 11:26 01:45:47 11:21 
+ 1247   627 Theresa Hughes          64 F  23 616 F6064 Ballston Spa       NY   36:04   34:41   35:50 1:10:44 1:46:34 11:26 01:45:43 11:21 
+ 1248  1535 Todd Bradley            52 M  68 632 M5054 Wynantskill        NY   33:09   34:19   39:17 1:07:28 1:46:45 11:28 01:46:11 11:24 
+ 1249   741 Emily Kulkus            39 F 105 617 F3539 Syracuse           NY   35:21   35:33   36:02 1:10:54 1:46:55 11:29 01:46:11 11:24 
+ 1250  1564 Laure-Jeann Davignon    46 F  71 618 F4549 Albany             NY   35:09   36:05   35:52 1:11:13 1:47:05 11:30 01:46:51 11:28 
+ 1251   492 Carrie Genaway          50 F  72 619 F5054 Delmar             NY   35:20   35:54   36:12 1:11:13 1:47:25 11:32 01:46:40 11:27 
+ 1252  1208 Bridget Sajan           31 F  82 620 F3034 Delmar             NY   34:59   36:13   36:17 1:11:12 1:47:28 11:32 01:47:03 11:30 
+ 1253  1209 Jonathan Sajan          37 M  69 633 M3539 Delmar             NY   34:59   36:13   36:18 1:11:11 1:47:28 11:32 01:47:03 11:30 
+ 1254   902 Carey Merrill           47 F  72 621 F4549 Niskayuna          NY   35:28   35:24   36:43 1:10:52 1:47:35 11:33 01:46:41 11:27 
+ 1255   853 Krissy Mazmanian        42 F 109 622 F4044 Delmar             NY   36:51   34:09   36:38 1:11:00 1:47:38 11:33 01:46:57 11:29 
+ 1256  1389 Ellen Tomczak           67 F  14 623 F6569 Derby              NY   35:01   35:24   37:25 1:10:25 1:47:49 11:34 01:47:00 11:29 
+ 1257    66 Tabetha Angus           33 F  83 624 F3034 Saint Johnsville   NY   35:02   36:18   36:33 1:11:20 1:47:52 11:35 01:47:30 11:32 
+ 1258  1129 Jonna Reamer            30 F  84 625 F3034 Duanesburg         NY   37:07   35:49   35:16 1:12:56 1:48:12 11:37 01:47:24 11:32 
+ 1259  1522 Judy Litt               57 F  41 626 F5559 Latham             NY   35:55   35:50   36:31 1:11:45 1:48:16 11:37 01:47:31 11:33 
+ 1260   660 Patrick Janidlo         51 M  69 634 M5054 Latham             NY   36:07   35:53   36:17 1:11:59 1:48:16 11:37 01:47:35 11:33 
+ 1261  1103 Meghan Promnitz         36 F 106 627 F3539 Ballston Spa       NY   37:12   37:06   34:00 1:14:17 1:48:17 11:37 01:47:45 11:34 
+ 1262    58 Denise Alper            62 F  24 628 F6064 Albany             NY   35:01   36:19   37:01 1:11:20 1:48:20 11:38 01:47:43 11:34 
+ 1263   386 Coleen Durkee           63 F  25 629 F6064 Gansevoort         NY   35:47   36:56   35:48 1:12:42 1:48:29 11:39 01:47:29 11:32 
+ 1264  1587 Tom Robinson            48 M  76 635 M4549 Troy               NY   36:09   35:52   36:43 1:12:01 1:48:43 11:40 01:48:00 11:36 
+ 1265   903 Ravikumar Meyyan        40 M  86 636 M4044 East Greenbush     NY   36:08   35:54   36:44 1:12:01 1:48:44 11:40 01:48:03 11:36 
+ 1266    69 Paul Ardis              36 M  70 637 M3539 Niskayuna          NY   36:38   37:24   34:53 1:14:02 1:48:54 11:42 01:48:12 11:37 
+ 1267   168 Jennifer Brown          33 F  85 630 F3034 Rensselaer         NY   38:50   35:34   34:34 1:14:23 1:48:57 11:42 01:48:01 11:36 
+ 1268   966 Margaret Napier         34 F  86 631 F3034 Schenectady        NY   36:50   35:42   36:28 1:12:32 1:48:59 11:42 01:48:09 11:37 
+ 1269   547 Robyn Haberman          43 F 110 632 F4044 Latham             NY   36:48   35:45   36:29 1:12:32 1:49:01 11:42 01:48:17 11:37 
+ 1270  1095 Allison Pouliot         56 F  42 633 F5559 Bristol            VT   38:35   35:25   35:20 1:13:59 1:49:19 11:44 01:48:25 11:38 
+ 1271  1041 Darryl Partridge        54 M  70 638 M5054 Clifton Park       NY   34:58   36:31   37:54 1:11:28 1:49:22 11:44 01:48:43 11:40 
+ 1272   276 Lindsey Coons           27 F  74 634 F2529 Hudson             NY   34:12   37:23   37:49 1:11:34 1:49:22 11:45 01:48:48 11:41 
+ 1273  1223 Elyse Sawyer            28 F  75 635 F2529 Glens Falls        NY   36:59   37:18   35:18 1:14:16 1:49:34 11:46 01:48:46 11:41 
+ 1274  1228 Mary Cather Sawyer      23 F  18 636 F2024 Glens Falls        NY   36:59   37:19   35:18 1:14:17 1:49:34 11:46 01:48:46 11:41 
+ 1275  1227 Margaret Sawyer         55 F  43 637 F5559 Glens Falls        NY   36:59   37:18   35:19 1:14:16 1:49:34 11:46 01:48:47 11:41 
+ 1276  1278 Brian Shoemaker         47 M  77 639 M4549 Glenville          NY   36:22   36:13   37:20 1:12:35 1:49:55 11:48 01:49:12 11:43 
+ 1277   809 Nina Lynch              39 F 107 638 F3539 Clifton Park       NY   36:15   38:11   35:38 1:14:25 1:50:03 11:49 01:49:15 11:44 
+ 1278   655 Monique Jacobs          59 F  44 639 F5559 Latham             NY   35:25   40:01   34:47 1:15:25 1:50:12 11:50 01:49:24 11:45 
+ 1279  1028 Michael Paglialonga     36 M  71 640 M3539 Castleton On Hudso NY   35:32   37:02   37:44 1:12:33 1:50:17 11:50 01:49:42 11:47 
+ 1280    76 Rick Avila              53 M  71 641 M5054 Rexford            NY   36:37   37:00   36:45 1:13:37 1:50:21 11:51 01:49:43 11:47 
+ 1281   144 Michele Borst           41 F 111 640 F4044 Schoharie          NY   35:25   40:00   35:10 1:15:24 1:50:33 11:52 01:49:46 11:47 
+ 1282  1182 Laura Rosenthal         45 F  73 641 F4549 Schoharie          NY   35:25   40:01   35:10 1:15:26 1:50:35 11:52 01:49:48 11:47 
+ 1283  1485 Sheraqua Woodard        41 F 112 642 F4044 Albany             NY   38:51   35:37   36:32 1:14:27 1:50:59 11:55 01:50:04 11:49 
+ 1284   142 Terri Bonney            29 F  76 643 F2529 Oneonta            NY   38:16   36:15   36:39 1:14:31 1:51:09 11:56 01:50:18 11:50 
+ 1285   782 Suzette Lescault        49 F  74 644 F4549 Corinth            NY   35:59   36:00   39:16 1:11:59 1:51:15 11:57 01:50:16 11:50 
+ 1286   372 Kim Donohue             51 F  73 645 F5054 Schenectady        NY   36:55   38:18   36:12 1:15:12 1:51:23 11:57 01:51:03 11:55 
+ 1287    63 Joan Anderson           45 F  75 646 F4549 Schenectady        NY   36:55   38:18   36:12 1:15:12 1:51:23 11:57 01:51:02 11:55 
+ 1288  1383 Leila Tibi-Scherl       42 F 113 647 F4044 Waterford          NY   37:54   37:13   36:21 1:15:06 1:51:27 11:58 01:50:33 11:52 
+ 1289   190 K Burr                  38 F 108 648 F3539 Troy               NY   35:33   37:30   38:30 1:13:02 1:51:31 11:58 01:50:41 11:53 
+ 1290   870 Beth McIntyre           54 F  74 649 F5054 Albany             NY   36:22   36:56   38:15 1:13:18 1:51:32 11:58 01:50:59 11:55 
+ 1291   360 Jesse Dinkin            72 M  14 642 M7074 Schenectady        NY   36:39   37:00   37:57 1:13:38 1:51:35 11:59 01:50:52 11:54 
+ 1292   584 Bruce Heap              69 M  28 643 M6569 Niskayuna          NY   36:39   37:43   37:25 1:14:21 1:51:46 12:00 01:50:52 11:54 
+ 1293   727 Tricia Kowalchyk        52 F  75 650 F5054 Bennington         VT   34:43   38:05   39:02 1:12:47 1:51:49 12:00 01:51:30 11:58 
+ 1294   242 Harry Ching             56 M  76 644 M5559 Clifton Park       NY   36:51   36:30   38:31 1:13:21 1:51:51 12:00 01:50:56 11:55 
+ 1295   243 Michelle Ching          58 F  45 651 F5559 Clifton Park       NY   38:23   36:54   36:36 1:15:16 1:51:52 12:01 01:50:57 11:55 
+ 1296   209 Monica Capogna          36 F 109 652 F3539 Scotia             NY   36:10   37:55   37:48 1:14:04 1:51:52 12:01 01:51:29 11:58 
+ 1297   559 Eric Hamilton           74 M  15 645 M7074 Clifton Park       NY   37:04   36:52   38:01 1:13:55 1:51:56 12:01 01:51:10 11:56 
+ 1298   556 Jeff Halusic            52 M  72 646 M5054 Malta              NY   35:01   38:00   39:00 1:13:00 1:51:59 12:01 01:51:43 12:00 
+ 1299   920 Jim Moore               80 M   1 647 M8099 Niskayuna          NY   38:13   37:11   36:50 1:15:24 1:52:13 12:03 01:51:30 11:58 
+ 1300   193 Beverly Butler          61 F  26 653 F6064 Gansevoort         NY   37:20   36:45   38:11 1:14:04 1:52:15 12:03 01:51:15 11:57 
+ 1301   320 Donna Davidson          64 F  27 654 F6064 Albany             NY   38:02   37:20   36:54 1:15:21 1:52:15 12:03 01:51:26 11:58 
+ 1302  1539 Brendan Kennedy         49 M  78 648 M4549 Troy               NY   36:17   36:33   39:29 1:12:50 1:52:18 12:03 01:51:30 11:58 
+ 1303   387 David Durkin            70 M  16 649 M7074 Rensselaer         NY   37:30   38:01   36:55 1:15:30 1:52:24 12:04 01:51:39 11:59 
+ 1304   665 Jacqueline Johnson      53 F  76 655 F5054 Schenectady        NY   36:27   37:59   38:03 1:14:25 1:52:28 12:04 01:51:36 11:59 
+ 1305  1520 Jill Mehan              64 F  28 656 F6064 Troy               NY   37:32   37:47   37:14 1:15:18 1:52:32 12:05 01:52:10 12:02 
+ 1306   286 Tanya Cowder            46 F  76 657 F4549 Hoosick Falls      NY   35:09   37:55   39:37 1:13:03 1:52:39 12:06 01:52:20 12:04 
+ 1307   417 Molly Farrell           26 F  77 658 F2529 Niverville         NY   36:22   37:48   38:31 1:14:09 1:52:39 12:06 01:52:05 12:02 
+ 1308  1117 Jennifer Raiti          32 F  87 659 F3034 Schenectady        NY   35:07   38:31   39:21 1:13:37 1:52:58 12:08 01:52:16 12:03 
+ 1309   501 Kelly Gillen            52 F  77 660 F5054 Altamont           NY   35:06   38:32   39:21 1:13:38 1:52:58 12:08 01:52:16 12:03 
+ 1310    56 Jennifer Alnwick        44 F 114 661 F4044 Hyde Park          NY   37:17   37:36   38:09 1:14:53 1:53:01 12:08 01:52:14 12:03 
+ 1311   335 Bry-Ann Delorenzo       42 F 115 662 F4044 Albany             NY   37:19   37:50   38:06 1:15:09 1:53:14 12:09 01:52:32 12:05 
+ 1312   549 John Haggerty           60 M  55 650 M6064 Troy               NY   37:12   37:57   38:06 1:15:09 1:53:14 12:09 01:52:35 12:05 
+ 1313   873 Michael McLean          62 M  56 651 M6064 Albany             NY   37:21   37:49   38:06 1:15:09 1:53:15 12:09 01:52:33 12:05 
+ 1314   240 Heather Childs          44 F 116 663 F4044 Schenectady        NY   38:39   36:56   37:55 1:15:35 1:53:29 12:11 01:52:48 12:07 
+ 1315   955 Patrick Murphy          56 M  77 652 M5559 Greenwich          NY   35:23   39:53   38:26 1:15:16 1:53:41 12:12 01:53:05 12:08 
+ 1316  1098 Jim Powell              47 M  79 653 M4549 Greenwich          NY   35:23   39:55   38:24 1:15:18 1:53:41 12:12 01:53:05 12:08 
+ 1317  1099 Karla Powers            36 F 110 664 F3539 Troy               NY   37:21   38:25   37:57 1:15:46 1:53:43 12:12 01:52:55 12:07 
+ 1318  1538 Tracy Kennedy           49 F  77 665 F4549 Troy               NY   36:30   37:23   40:00 1:13:53 1:53:52 12:13 01:53:05 12:08 
+ 1319    98 Ruth Basantes           41 F 117 666 F4044 Niskayuna          NY   36:24   39:30   38:03 1:15:53 1:53:56 12:14 01:53:35 12:12 
+ 1320  1619 Elizabeth Hamilton      35 F 111 667 F3539 Cohoes             NY   33:32   38:35   41:56 1:12:07 1:54:02 12:15 01:53:11 12:09 
+ 1321  1348 Julie Suarez            47 F  78 668 F4549 Nassau             NY   38:28   38:38   37:14 1:17:05 1:54:18 12:16 01:53:48 12:13 
+ 1322   255 Laura Clark             72 F   3 669 F7074 Saratoga Springs   NY   38:28   38:39   37:13 1:17:06 1:54:19 12:16 01:53:49 12:13 
+ 1323   552 Jason Hall              38 M  72 654 M3539 Troy               NY   38:43   39:06   36:46 1:17:49 1:54:35 12:18 01:53:36 12:12 
+ 1324  1184 Erin Roth               38 F 112 670 F3539 Mayfield           NY   37:47   38:00   38:51 1:15:47 1:54:37 12:18 01:53:54 12:14 
+ 1325   221 Kiersten Carrieri       40 F 118 671 F4044 Broadalbin         NY   37:46   38:00   38:52 1:15:46 1:54:38 12:18 01:53:53 12:14 
+ 1326  1391 Robyn Torres            42 F 119 672 F4044 Schenectady        NY   36:49   36:18   41:32 1:13:07 1:54:38 12:18 01:53:46 12:13 
+ 1327  1437 Janet Wallace           53 F  78 673 F5054 Thetford Center    VT   38:05   38:16   38:27 1:16:21 1:54:48 12:19 01:53:11 12:09 
+ 1328  1210 Aubrey Salisbury        34 F  88 674 F3034 Ravena             NY   37:06   37:23   40:30 1:14:29 1:54:58 12:21 01:54:05 12:15 
+ 1329  1169 Sean Robbins            69 M  29 655 M6569 Wynantskill        NY   39:09   38:08   37:43 1:17:17 1:55:00 12:21 01:54:05 12:15 
+ 1330    42 Edward Abbott           45 M  80 656 M4549 Troy               NY   37:16   39:05   38:40 1:16:20 1:55:00 12:21 01:54:09 12:15 
+ 1331  1312 Tina Soden              44 F 120 675 F4044 Schenectady        NY   37:48   39:17   37:58 1:17:04 1:55:01 12:21 01:54:40 12:19 
+ 1332  1644 Cindy Bernard           52 F  79 676 F5054 Ballston Spa       NY   36:49   38:27   39:48 1:15:15 1:55:03 12:21 01:54:21 12:17 
+ 1333   472 Jessica Gammans         39 F 113 677 F3539 Rotterdam          NY   37:07   37:21   40:36 1:14:28 1:55:03 12:21 01:54:10 12:15 
+ 1334   260 Theodore Close          68 M  30 657 M6569 Wynantskill        NY   38:50   38:47   37:28 1:17:36 1:55:04 12:21 01:54:09 12:15 
+ 1335   259 Sharon Close            65 F  15 678 F6569 Wynantskill        NY   39:10   38:26   37:30 1:17:35 1:55:05 12:21 01:54:10 12:15 
+ 1336  1059 Becky Penn              37 F 114 679 F3539 Scotia             NY   38:29   37:46   38:56 1:16:14 1:55:10 12:22 01:54:13 12:16 
+ 1337    79 Tammy Bailey            50 F  80 680 F5054 Cohoes             NY   38:16   39:03   38:29 1:17:18 1:55:46 12:26 01:54:55 12:20 
+ 1338   854 Bethany Mazura          42 F 121 681 F4044 Guilderland        NY   39:13   38:36   37:58 1:17:49 1:55:46 12:26 01:55:04 12:21 
+ 1339  1143 Tania Renea             53 F  81 682 F5054 Altamont           NY   40:20   38:31   37:05 1:18:50 1:55:55 12:27 01:55:00 12:21 
+ 1340  1138 Zachary Reed            29 M  47 658 M2529 Averill Park       NY   40:34   39:16   36:09 1:19:49 1:55:57 12:27 01:55:00 12:21 
+ 1341  1423 Mary Verostek           59 F  46 683 F5559 Clifton Park       NY   37:43   42:21   36:02 1:20:03 1:56:05 12:28 01:55:32 12:24 
+ 1342  1355 Amanda Swart            25 F  78 684 F2529 Amsterdam          NY   37:45   39:20   39:02 1:17:04 1:56:06 12:28 01:55:13 12:22 
+ 1343  1683 Leandra Smith           28 F  79 685 F2529 Johnstown          NY   33:28   38:02   44:46 1:11:29 1:56:14 12:29 01:55:40 12:25 
+ 1344  1305 Rhonda Smith            57 F  47 686 F5559 Latham             NY   39:54   38:40   37:52 1:18:34 1:56:26 12:30 01:55:36 12:25 
+ 1345  1609 Joanna Giltner          58 F  48 687 F5559 Kinderhook         NY   38:07   39:26   39:06 1:17:32 1:56:37 12:31 01:55:54 12:26 
+ 1346  1611 Gigi Lax                60 F  29 688 F6064 Boonton            NJ   38:07   39:25   39:07 1:17:32 1:56:38 12:31 01:55:53 12:26 
+ 1347  1446 Melanie Welch           58 F  49 689 F5559 Slingerlands       NY   39:11   39:03   38:31 1:18:14 1:56:44 12:32 01:56:03 12:27 
+ 1348  1086 Dianne Podesva          49 F  79 690 F4549 Ballston Spa       NY   38:47   39:15   39:05 1:18:01 1:57:06 12:34 01:56:40 12:31 
+ 1349  1279 John Shoemaker          70 M  17 659 M7074 Scotia             NY   38:05   40:36   38:37 1:18:41 1:57:17 12:35 01:56:34 12:31 
+ 1350  1477 Meg Winters             51 F  82 691 F5054 Albany             NY   39:23   39:19   38:38 1:18:41 1:57:18 12:36 01:56:26 12:30 
+ 1351   351 Barbara Diamond         54 F  83 692 F5054 Schenectady        NY   39:23   39:17   38:39 1:18:40 1:57:18 12:36 01:56:26 12:30 
+ 1352   138 Erin Bolton             50 F  84 693 F5054 Schaghticoke       NY   38:41   39:35   39:14 1:18:16 1:57:29 12:37 01:56:40 12:31 
+ 1353   437 Brenda Fish             53 F  85 694 F5054 Albany             NY   38:16   40:48   38:32 1:19:04 1:57:35 12:37 01:56:38 12:31 
+ 1354  1109 Linda Quinn             52 F  86 695 F5054 Voorheesville      NY   38:17   40:46   38:35 1:19:02 1:57:36 12:37 01:56:38 12:31 
+ 1355   304 Tara Curran             41 F 122 696 F4044 Nassau             NY   38:17   40:46   38:33 1:19:03 1:57:36 12:37 01:56:38 12:31 
+ 1356   680 Maureen Jukes           53 F  87 697 F5054 Troy               NY   38:19   40:48   38:31 1:19:06 1:57:37 12:38 01:56:38 12:31 
+ 1357  1253 Mary Ann Serian         65 F  16 698 F6569 Richmond           MA   37:14   43:02   37:29 1:20:16 1:57:44 12:38 01:57:17 12:35 
+ 1358   411 John Evans              69 M  31 660 M6569 Albany             NY   37:06   38:51   42:10 1:15:56 1:58:06 12:41 01:57:24 12:36 
+ 1359  1096 Amy Powarzynski         53 F  88 699 F5054 Westerlo           NY   40:38   40:10   37:30 1:20:48 1:58:17 12:42 01:57:21 12:36 
+ 1360  1677 Larry Peleggi           62 M  57 661 M6064 Colonie            NY   39:25   39:29   39:39 1:18:54 1:58:33 12:44 01:57:47 12:39 
+ 1361   462 Patricia Frowein        37 F 115 700 F3539 Albany             NY   37:38   38:38   42:31 1:16:15 1:58:46 12:45 01:58:00 12:40 
+ 1362   514 Mark Goldhaber          55 M  78 662 M5559 Schenectady        NY   39:19   39:41   39:53 1:19:00 1:58:52 12:46 01:58:09 12:41 
+ 1363   570 Maureen Harney          34 F  89 701 F3034 Ballston Lake      NY   38:56   40:00   40:26 1:18:56 1:59:22 12:49 01:58:42 12:45 
+ 1364  1366 Beth Terry              53 F  89 702 F5054 Rensselaer         NY   40:02   39:31   40:11 1:19:32 1:59:43 12:51 01:58:47 12:45 
+ 1365   325 Maria Deangelo          51 F  90 703 F5054 Saranac Lake       NY   40:34   40:11   39:09 1:20:45 1:59:53 12:52 01:58:57 12:46 
+ 1366  1237 Susan Schoff            28 F  80 704 F2529 Little Falls       NY   35:32   40:21   44:04 1:15:52 1:59:55 12:52 01:59:42 12:51 
+ 1367   447 Suzanne Forbes          70 F   4 705 F7074 Valley Falls       NY   40:06   40:07   39:53 1:20:13 2:00:05 12:54 01:59:13 12:48 
+ 1368   145 Laurie Bortscheller     51 F  91 706 F5054 Averill Park       NY   40:37   40:11   39:34 1:20:48 2:00:21 12:55 01:59:26 12:49 
+ 1369   146 Thomas Bortscheller     50 M  73 663 M5054 Averill Park       NY   40:34   40:16   39:32 1:20:50 2:00:22 12:55 01:59:23 12:49 
+ 1370   155 Venessa Brabant         31 F  90 707 F3034 Ballston Spa       NY   43:27                         2:00:28 12:56 01:59:44 12:51 
+ 1371   618 Rip Horan               65 M  32 664 M6569 Rensselaer         NY   42:24   39:45   38:26 1:22:08 2:00:34 12:57 01:59:29 12:50 
+ 1372   118 Michael Benson          44 M  87 665 M4044 Niskayuna          NY   39:16   40:43   40:48 1:19:59 2:00:46 12:58 01:59:52 12:52 
+ 1373   595 Scott Henricks          55 M  79 666 M5559 West Sand Lake     NY   37:45   38:37   44:47 1:16:22 2:01:08 13:00 02:00:36 12:57 
+ 1374   173 Garry Buckley           68 M  33 667 M6569 Mechanicville      NY   40:38   40:10   40:23 1:20:47 2:01:09 13:00 02:00:22 12:55 
+ 1375   156 Kayla Brackett          31 F  91 708 F3034 West Hartford      CT   38:52   40:17   42:23 1:19:09 2:01:32 13:03 02:00:36 12:57 
+ 1376   656 Tamilselvi Jagadeesan   36 F 116 709 F3539 Warwick            RI   39:24   41:00   41:29 1:20:24 2:01:52 13:05 02:01:12 13:01 
+ 1378   250 Katie Christensen       52 F  92 711 F5054 Clifton Park       NY   37:43   42:20   42:55 1:20:03 2:02:57 13:12 02:02:24 13:08 
+ 1379   705 Beth Kennedy            46 F  80 712 F4549 Clifton Park       NY   37:45   42:19   42:55 1:20:03 2:02:58 13:12 02:02:25 13:08 
+ 1380   274 Karla Conway            56 F  50 713 F5559 Middle Grove       NY   37:51   41:43   44:10 1:19:33 2:03:43 13:17 02:03:18 13:14 
+ 1381   644 Mary Insogna            46 F  81 714 F4549 Schenectady        NY   40:01   41:24   42:40 1:21:25 2:04:04 13:19 02:03:04 13:13 
+ 1382   822 Mary Ann Macri          67 F  17 715 F6569 Albany             NY   40:01   41:24   42:40 1:21:25 2:04:05 13:19 02:03:05 13:13 
+ 1383  1231 Glenn Schaef            69 M  34 668 M6569 Bristol            VT   38:42   42:21   43:23 1:21:03 2:04:25 13:21 02:03:32 13:16 
+ 1384   700 Pamela Kelly            60 F  30 716 F6064 Schenectady        NY   42:30                         2:04:30 13:22 02:03:38 13:16 
+ 1385   301 Heather Cunningham      42 F 123 717 F4044 Rotterdam          NY   41:02   41:25   42:33 1:22:27 2:04:59 13:25 02:04:01 13:19 
+ 1386  1286 Mary Signorelli         55 F  51 718 F5559 Castleton On Hudso NY   39:53   41:46   43:53 1:21:39 2:05:32 13:29 02:04:51 13:24 
+ 1387   876 Danielle McMahon        32 F  92 719 F3034 Rensselaer         NY   41:08   42:13   43:04 1:23:21 2:06:24 13:34 02:05:32 13:29 
+ 1388    80 Kayla Baker             27 F  81 720 F2529 Guilderland        NY   41:50                         2:07:57 13:44 02:07:02 13:38 
+ 1389    22 Brian Burns             47 M  81 669 M4549 Scotia             NY   39:33   42:21   46:49 1:21:54 2:08:43 13:49 02:07:50 13:43 
+ 1390   464 Megan Fuller            30 F  93 721 F3034 Albany             NY   41:10                         2:08:46 13:49 02:07:59 13:44 
+ 1391   463 Andrew Fuller           29 M  48 670 M2529 Albany             NY   41:09                         2:08:47 13:49 02:08:01 13:44 
+ 1392  1300 Elizabeth Smith         34 F  94 722 F3034 Delmar             NY   41:10                         2:08:48 13:50 02:08:01 13:45 
+ 1393  1686 Katherine Stephens      38 F 117 723 F3539 Schenectady        NY   42:15                         2:09:31 13:54 02:08:44 13:49 
+ 1394  1676 Drew Pearson            33 M  70 671 M3034 Schenectady        NY   42:15                         2:09:33 13:54 02:08:46 13:49 
+ 1395  1236 Ann Schoff              31 F  95 724 F3034 Rensselaer         NY   40:38                         2:10:48 14:02 02:10:34 14:01 
+ 1396   798 Kory Long               28 M  49 672 M2529 Fort Edward        NY   40:53                         2:10:58 14:04 02:10:26 14:00 
+ 1397   285 Paul Coville            70 M  18 673 M7074 Schenectady        NY   40:00                         2:13:07 14:17 02:12:17 14:12 
+ 1398   800 Alexis Lorenz           42 F 124 725 F4044 Hoosick Falls      NY   42:29                         2:13:33 14:20 02:12:53 14:16 
+ 1399  1341 Anny Stockman           87 F   1 726 F8099 Rensselaer         NY   44:44                         2:14:00 14:23 02:13:58 14:23 
+ 1400   771 Raymond Lee Jr          77 M   2 674 M7579 Halfmoon           NY   45:02                         2:14:18 14:25 02:13:37 14:21 
+ 1401   149 Jennifer Bourdeau       37 F 118 727 F3539 Galway             NY   44:23                         2:16:42 14:40 02:15:44 14:34 
+ 1402   681 Teddi Kaczmarek         34 F  96 728 F3034 Glenville          NY   43:11                         2:17:35 14:46 02:16:36 14:40 
+ 1403   588 Lisa Hecker             36 F 119 729 F3539 Cobleskill         NY   43:11                         2:17:35 14:46 02:16:35 14:40 
+ 1404   908 Heather Minch           38 F 120 730 F3539 Richmondville      NY   43:12                         2:17:35 14:46 02:16:36 14:40 
+ 1405  1353 Claire Superak          30 F  97 731 F3034 Ballston Spa       NY   44:42                         2:18:25 14:51 02:17:40 14:47 
+ 1406   427 Laurie Ferlazzo         58 F  52 732 F5559 Mechanicville      NY   40:45                         2:21:22 15:11 02:21:10 15:09 
+ 1407   421 Jennifer Fatato         39 F 121 733 F3539 Glenville          NY   49:56                         2:30:52 16:12 02:29:51 16:05 
+ 1408   454 Laura Franz             49 F  82 734 F4549 Feura Bush         NY   49:47                         2:32:27 16:22 02:31:32 16:16 
+ 1409   538 James Grove             46 M  82 675 M4549 Albany             NY   49:51                         2:32:28 16:22 02:31:32 16:16 

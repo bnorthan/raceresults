@@ -5,6 +5,8 @@ For the last few years I've scored the HMRRC Grand Prix and (since Covid started
 
 To start with (January 2021) I've added a simple CSV reader and code to render the csv to a github.io page and a Django table.   More to come over the next few weeks and months. 
 
+[See the hints page](https://github.com/bnorthan/raceresults/blob/main/hints.md) for a list of tricks and hints that may be helpful if you are not a seasoned Django and/or web developer.
+
 # Github.io
 
 [The makemarkdown script](https://github.com/bnorthan/raceresults/blob/main/src/scripts/makemarkdown.py) reads a csv and outputs it as markdown.  The markdown is then [rendered here](https://bnorthan.github.io/raceresults/results/2020/VirtualStockade).
@@ -35,3 +37,4 @@ The Django plugin raceresults is made of models, views, urls and html templates.
 [Views](https://github.com/bnorthan/raceresults/blob/main/django/mysite/raceresults/views.py)  
 [urls](https://github.com/bnorthan/raceresults/blob/main/django/mysite/raceresults/urls.py)  
 [html templates](https://github.com/bnorthan/raceresults/tree/main/django/mysite/raceresults/templates)
+

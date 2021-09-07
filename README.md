@@ -25,7 +25,7 @@ Go to the 'mysite' [directory](https://github.com/bnorthan/raceresults/tree/main
 Run 'python manage.py migrate' (this should create the sqlite database)  
 Run 'python manage.py shell' This will open a python shell where you can interact with the database  
 Run [the makedjangotable script](https://github.com/bnorthan/raceresults/blob/main/src/scripts/makedjangotable.py) this will add a race and results for the race to the database.  
-Run 'python manage.py server' and you should be able to see the results at http://localhost:8000/raceresults/race/1/.  
+Run 'python manage.py runserver' and you should be able to see the results at http://localhost:8000/raceresults/race/1/.  
 
 ## How the Django plugin works  
 

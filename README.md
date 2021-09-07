@@ -24,7 +24,7 @@ To create the Django site locally
 Go to the 'mysite' [directory](https://github.com/bnorthan/raceresults/tree/main/django/mysite).  
 Run 'python manage.py migrate' (this should create the sqlite database)  
 Run 'python manage.py shell' This will open a python shell where you can interact with the database  
-Run [the makedjangotable script](https://github.com/bnorthan/raceresults/tree/main/django/mysite) this will add a race and results for the race to the database.  
+Run [the makedjangotable script](https://github.com/bnorthan/raceresults/blob/main/src/scripts/makedjangotable.py) this will add a race and results for the race to the database.  
 Run 'python manage.py server' and you should be able to see the results at http://localhost:8000/raceresults/race/1/.  
 
 ## How the Django plugin works  

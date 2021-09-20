@@ -54,17 +54,23 @@ def gp(request, race_id):
     
     results1=results.filter(category_10='c_40_49').filter(gender='F')
     results2=results.filter(category_10='c_40_49').filter(gender='M')
+    results3=results.filter(category_10='d_50_59').filter(gender='M')
+    results4=results.filter(category_10='d_50_59').filter(gender='F')
 
     # convert to simple race format
     results1=SimpleRace(results1)
     results2=SimpleRace(results2)
+    results3=SimpleRace(results3)
+    results4=SimpleRace(results4)
     
     # RequestConfig sets up the table
     RequestConfig(request).configure(results1)
     RequestConfig(request).configure(results2)
+    RequestConfig(request).configure(results3)
+    RequestConfig(request).configure(results4)
 
     # render the table
-    return render(request, 'gp/index.html', {'l_race1':results1, 'l_race2':results2})
+    return render(request, 'gp/index.html', {'l_race1':results1, 'l_race2':results2,'l_race3':results3, 'l_race4':results4})
 
 
 # view all results for a runner in a table

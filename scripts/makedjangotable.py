@@ -23,11 +23,9 @@ from raceresults.models import Result
 
 from importlib import reload
 
-sys.path.append('../util/')
-import raceutil
-import header
-import readers
-reload(readers)
+from scoreware.race import utils
+from scoreware.race import header
+from scoreware.race import readers
 
 from django.db.transaction import atomic
 
@@ -37,29 +35,30 @@ def add_race(race_data, race_name, race_city,race_date):
     results=readers.parse_general(race_data, header.RaceHeader.headers, 1)
     results.head()
     
-    #results = pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
-    
     race=Race(race_name=race_name,city=race_city,race_date=race_date)
     race.save()
     
     for index, r in results.iterrows():
-        seconds=raceutil.time_to_seconds(r.time);
+        seconds=utils.time_to_seconds(r.time);
         duration=timedelta(seconds=seconds)
         
-        result=Result(first_name=r['first_name'],last_name=r['last_name'],city=r.city, time=duration,race=race)
+        result=Result(first_name=r['first_name'],last_name=r['last_name'],gender=r.gender,city=r.city, time=duration,race=race,member=r.hmrrc, category_10=r['age_cat'])
         print(r.last_name)
         result.save()
 
 '''
-race=pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
+race=pd.read_csv('../data/2020/VirtualStockadeFinal.csv')
 add_race(race,race_name='2020 Stockade-athon (Virtual)',race_city='Capitol Region', race_date='2020-11-15')
-race=pd.read_csv('../../data/2019/Stockade2019.csv')
+race=pd.read_csv('../data/2019/Stockade2019.csv')
 add_race(race, race_name='2019 Stockade-athon', race_city='Schenectedy', race_date='2019-11-10')
-race=pd.read_fwf('../../data/2018/stockade.txt')
+race=pd.read_fwf('../data/2018/stockade.txt')
 add_race(race, race_name='2018 Stockade-athon', race_city='Schenectedy', race_date='2018-11-11')
-race=pd.read_fwf('../../data/2017/2017stockade.txt')
+race=pd.read_fwf('../data/2017/2017stockade.txt')
 add_race(race, race_name='2017 Stockade-athon', race_city='Schenectedy', race_date='2017-11-12')
+
+race=pd.read_csv('../data/2016/stockade.csv')
+add_race(race, race_name='2016 Stockade-athon', race_city='Schenectedy', race_date='2016-11-13')
 '''
 
-race=pd.read_csv('../../data/2016/stockade.csv')
-add_race(race, race_name='2016 Stockade-athon', race_city='Schenectedy', race_date='2016-11-13')
+race=pd.read_csv('../data/2021/LaborDay/LaborDay5k_parsed.csv')
+add_race(race, race_name='Labor Day 5k', race_city='Schenectedy', race_date='2021-09-06')

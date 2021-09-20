@@ -15,9 +15,9 @@ https://bnorthan.github.io/raceresults/results/2020/VirtualStockade
 
 import pandas as pd
 
-results = pd.read_csv('../../data/2020/VirtualStockadeFinal.csv')
+results = pd.read_csv('../data/2020/VirtualStockadeFinal.csv')
 racename='Virtual Stockade-athon'
-outname='../../results/2020/VirtualStockade.md'
+outname='../results/2020/VirtualStockade.md'
 
 results=results.drop('Company', axis=1)
 results=results.drop('Team', axis=1)

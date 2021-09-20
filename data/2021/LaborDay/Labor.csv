@@ -1,0 +1,48 @@
+,place,mfname,mlname,gender,age,age_cat,name
+59,60,Pam,Eistertz,F,29,a_open,Pam Eistertz
+80,81,Valerie,Burger,F,25,a_open,Valerie Burger
+27,28,Nicola,Macneil,F,47,c_40_49,Nicola Macneil
+28,29,Kacey,Sornberger,F,46,c_40_49,Kacey Sornberger
+29,30,Jessica,Northan,F,45,c_40_49,Jessica Northan
+34,35,Lori,Schmidt,F,48,c_40_49,Lori Schmidt
+36,37,Hannah,Barry,F,49,c_40_49,Hannah Barry
+95,96,Alyssa,Gibbons,F,44,c_40_49,Alyssa Gibbons
+42,43,Gail,Doering,F,56,d_50_59,Gail Doering
+43,44,Laurie,Hoyt,F,55,d_50_59,Laurie Hoyt
+48,49,Betsy,Henry,F,59,d_50_59,Betsy Henry
+70,71,Kathleen,Tersigni,F,50,d_50_59,Kathleen Tersigni
+56,57,Karen,Gerstenberger,F,64,e_60_69,Karen Gerstenberger
+66,67,Denise,Greene,F,65,e_60_69,Denise Greene
+84,85,Grace,Farrell,F,62,e_60_69,Grace Farrell
+49,50,Erika,Oesterle,F,70,f_70+,Erika Oesterle
+83,84,Suzanne,Nealon,F,71,f_70+,Suzanne Nealon
+85,86,Alice,Carpenter,F,71,f_70+,Alice Carpenter
+22,23,Chris,Murphy jr,M,26,a_open,Chris Murphy jr
+30,31,Jim,Tremper,M,28,a_open,Jim Tremper
+3,4,Tim,Russell,M,32,b_30_39,Tim Russell
+6,7,Thomas,Gabriel,M,34,b_30_39,Thomas Gabriel
+9,10,Josh,Merlis,M,38,b_30_39,Josh Merlis
+106,107,Leonard,Rowe,M,36,b_30_39,Leonard Rowe
+2,3,Anthony,Giuliano,M,42,c_40_49,Anthony Giuliano
+7,8,Brian,Northan,M,46,c_40_49,Brian Northan
+8,9,Ryan,Mccann,M,46,c_40_49,Ryan Mccann
+40,41,Mike,Otoole,M,46,c_40_49,Mike Otoole
+44,45,Ravi,Chauhan,M,45,c_40_49,Ravi Chauhan
+88,89,Kamesh,Penumarthy,M,48,c_40_49,Kamesh Penumarthy
+11,12,Samuel,Mercado,M,58,d_50_59,Samuel Mercado
+12,13,Ed,Menis,M,56,d_50_59,Ed Menis
+64,65,Gene,Terwilliger,M,54,d_50_59,Gene Terwilliger
+19,20,Richard a.,Munson,M,64,e_60_69,Richard a. Munson
+23,24,William,Bean,M,61,e_60_69,William Bean
+25,26,Christopher g.,Murphy,M,64,e_60_69,Christopher g. Murphy
+35,36,Tom,Mcguire,M,69,e_60_69,Tom Mcguire
+45,46,Peter,Butryn,M,64,e_60_69,Peter Butryn
+51,52,Bill,Marinello,M,62,e_60_69,Bill Marinello
+61,62,Stephen j.,Obermayer,M,60,e_60_69,Stephen j. Obermayer
+79,80,Thomas,Mcternan,M,66,e_60_69,Thomas Mcternan
+87,88,Ned,Norton,M,62,e_60_69,Ned Norton
+24,25,Dave,Glass,M,75,f_70+,Dave Glass
+73,74,James,Fiore,M,74,f_70+,James Fiore
+82,83,Jim,Moore,M,81,f_70+,Jim Moore
+86,87,Edwin,Litts,M,71,f_70+,Edwin Litts
+104,105,Ray,Lee,M,79,f_70+,Ray Lee

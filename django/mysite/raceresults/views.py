@@ -23,9 +23,13 @@ class SimpleRace(tables.Table):
   
     first_name=tables.Column()
     last_name=tables.Column()
+    gender=tables.Column()
     city=tables.Column()
     time=tables.Column()
+    member=tables.Column()
+    category_10=tables.Column()
     race=tables.Column()
+
 
 # view all results for a race in a table
 def race(request, race_id):
@@ -41,6 +45,27 @@ def race(request, race_id):
 
     # render the table
     return render(request, 'race/index.html', {'l_race':results})
+
+# view all results for a race in a table
+def gp(request, race_id):
+
+    # get all results for this race
+    results=Race.objects.get(pk=race_id).result_set.all()
+    
+    results1=results.filter(category_10='c_40_49').filter(gender='F')
+    results2=results.filter(category_10='c_40_49').filter(gender='M')
+
+    # convert to simple race format
+    results1=SimpleRace(results1)
+    results2=SimpleRace(results2)
+    
+    # RequestConfig sets up the table
+    RequestConfig(request).configure(results1)
+    RequestConfig(request).configure(results2)
+
+    # render the table
+    return render(request, 'gp/index.html', {'l_race1':results1, 'l_race2':results2})
+
 
 # view all results for a runner in a table
 def runner(request, runner_id):

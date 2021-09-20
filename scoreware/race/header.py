@@ -15,6 +15,7 @@ class RaceHeader:
     headers['time']=['gtime', 'time', 'guntime', 'gun_time', 'net']
     headers['pace']=['pace']
     headers['hmrrc']=['member','HMRRC Event']
+    headers['age_cat']=['age_cat']
 
     
 

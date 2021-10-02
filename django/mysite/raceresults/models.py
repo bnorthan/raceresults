@@ -20,6 +20,7 @@ class Result(models.Model):
     time=models.DurationField(default=0, null=True);
     member=models.CharField(max_length=2, default='n', null=True);
     category_10=models.CharField(max_length=100, default='unknown', null=True);
+    points=models.IntegerField(default=0,null=True); 
     race=models.ForeignKey(Race, on_delete=models.CASCADE)
     runner=models.ForeignKey(Runner,  on_delete=models.CASCADE, null=True)
 

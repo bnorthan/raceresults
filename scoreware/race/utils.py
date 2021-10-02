@@ -73,4 +73,20 @@ def get_last_name(full_name):
         
     return last_name
 
-    
+def get_cat_hmrrc_10():
+    return ['a_open','b_30_39','c_40_49','d_50_59','e_60_69','f_70+']
+
+def age_to_cat_hmrrc_10(age):
+    if (0<age<30):
+        return "a_open"
+    if (30<=age<40):
+        return "b_30_39"
+    if (40<=age<50):
+        return "c_40_49"
+    if (50<=age<60):
+        return "d_50_59"
+    if (60<=age<70):
+        return "e_60_69"
+    if (age>=70):
+        return "f_70+"
+   

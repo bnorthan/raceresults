@@ -4,7 +4,6 @@ import sys
 from importlib import reload
 
 from scoreware.match import matchmember 
-from scoreware.runner import runnerutils
 from scoreware.race import readers
 
 import imp
@@ -41,12 +40,12 @@ hmrrc=hmrrc[['place', 'mfname','mlname','gender','age']]
 
 racers.head()
 
-racers["age_cat"]=racers.age.apply(lambda x:runnerutils.ageToCat(x))
+racers["category_10"]=racers.age.apply(lambda x:utils.age_to_cat_hmrrc_10(x))
 racers.to_csv(race_parsed_name)
 kjhkjhjkh
-hmrrc["age_cat"]=hmrrc.age.apply(lambda x:runnerutils.ageToCat(x))
+hmrrc["category_10"]=hmrrc.age.apply(lambda x:utils.age_to_cat_hmrrc_10(x))
 
-hmrrc=hmrrc.sort_values(['gender','age_cat','place'])
+hmrrc=hmrrc.sort_values(['gender','category_10','place'])
 hmrrc['name']=hmrrc.mfname+" "+hmrrc.mlname
 hmrrc.gender=hmrrc.gender.str.upper()
 
@@ -58,7 +57,7 @@ males=hmrrc[hmrrc.gender=='M']
 
 def getCategoryNames(hmrrc, gender, category):
     temp=hmrrc[hmrrc.gender==gender]
-    temp=temp[temp.age_cat==category]
+    temp=temp[temp.category_10==category]
     temp=temp.reset_index(drop=True)
     temp=temp.name
     scored=pd.DataFrame()
@@ -88,9 +87,9 @@ males=pd.concat([a_open_M, a_30_39_M, a_40_49_M, a_50_59_M, a_60_69_M, a_70_99_M
 
 males.to_csv(race_out_males)
 
-#a_open_F=females[females.age_cat=='a_open']
-#a_30_39_F=females[females.age_cat=='a_30_39']
-#a_40_49_F=females[females.age_cat=='a_40_49']
+#a_open_F=females[females.category_10=='a_open']
+#a_30_39_F=females[females.category_10=='a_30_39']
+#a_40_49_F=females[females.category_10=='a_40_49']
 #a_50_59_F=females[females.age_cat=='a_50_59']
 #a_60_69_F=females[females.age_cat=='a_60_69']
 #a_70_99_F=females[females.age_cat=='a_70_99']

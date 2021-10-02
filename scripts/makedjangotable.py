@@ -42,7 +42,7 @@ def add_race(race_data, race_name, race_city,race_date):
         seconds=utils.time_to_seconds(r.time);
         duration=timedelta(seconds=seconds)
         
-        result=Result(first_name=r['first_name'],last_name=r['last_name'],gender=r.gender,city=r.city, time=duration,race=race,member=r.hmrrc, category_10=r['age_cat'])
+        result=Result(first_name=r['first_name'],last_name=r['last_name'],gender=r.gender,city=r.city, time=duration,race=race,member=r.hmrrc, category_10=r['category_10'])
         print(r.last_name)
         result.save()
 

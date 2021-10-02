@@ -1,4 +1,4 @@
-,place,first_name,last_name,gender,age,city,state,time,pace,race_id,member,mfname,mlname,age_cat
+,place,first_name,last_name,gender,age,city,state,time,pace,race_id,member,mfname,mlname,category_10
 0,1,Ramon,Dominguez,M,44,Saratoga Springs,NY,17:10,5:32,1,no,Drew,Shave,c_40_49
 1,2,Chuck,Terry,M,39,Albany,NY,17:11,5:32,1,no,Charles,Terry,b_30_39
 2,3,Anthony,Giuliano,M,42,Niskayuna,NY,17:22,5:36,1,yes,Anthony,Giuliano,c_40_49

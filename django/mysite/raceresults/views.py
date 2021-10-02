@@ -1,3 +1,4 @@
+from scoreware.race import utils
 from django.shortcuts import render
 from django.http import HttpResponse
 from .models import Race
@@ -28,6 +29,7 @@ class SimpleRace(tables.Table):
     time=tables.Column()
     member=tables.Column()
     category_10=tables.Column()
+    points=tables.Column()
     race=tables.Column()
 
 
@@ -51,26 +53,25 @@ def gp(request, race_id):
 
     # get all results for this race
     results=Race.objects.get(pk=race_id).result_set.all()
-    
-    results1=results.filter(category_10='c_40_49').filter(gender='F')
-    results2=results.filter(category_10='c_40_49').filter(gender='M')
-    results3=results.filter(category_10='d_50_59').filter(gender='M')
-    results4=results.filter(category_10='d_50_59').filter(gender='F')
 
+    age_cat=utils.get_cat_hmrrc_10();
+    gender = ['F','M']
+
+    results_list=[]
+
+    for g in gender:
+        for ac in age_cat:
+            results_list.append(results.filter(category_10=ac).filter(gender=g))
+    
     # convert to simple race format
-    results1=SimpleRace(results1)
-    results2=SimpleRace(results2)
-    results3=SimpleRace(results3)
-    results4=SimpleRace(results4)
+    simple_list=[]
+    for result in results_list:
+        simple_list.append(SimpleRace(result))
+    for result in simple_list:
+        RequestConfig(request).configure(result)
     
-    # RequestConfig sets up the table
-    RequestConfig(request).configure(results1)
-    RequestConfig(request).configure(results2)
-    RequestConfig(request).configure(results3)
-    RequestConfig(request).configure(results4)
-
     # render the table
-    return render(request, 'gp/index.html', {'l_race1':results1, 'l_race2':results2,'l_race3':results3, 'l_race4':results4})
+    return render(request, 'gp/index.html', {'l_race':simple_list});
 
 
 # view all results for a runner in a table

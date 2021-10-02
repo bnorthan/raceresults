@@ -9,16 +9,11 @@
   
   </head>
   <body>
-    {% render_table l_race1 %}
-    <br />
-    <br />
-    {% render_table l_race2 %}
-    <br />
-    <br />
-    {% render_table l_race3 %}
-    <br />
-    <br />
-    {% render_table l_race4 %}
+    {% for results in l_race %}
+      {% render_table results %}
+      <br />
+      <br />
+    {% endfor %}
   </body>
 </html>
 

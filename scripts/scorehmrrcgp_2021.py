@@ -9,52 +9,84 @@ from scoreware.race import readers
 import imp
 from scoreware.race import header
 from scoreware.race import utils
+from scoreware.race import hmrrc_gp_util 
 
-members_name='../data/2021/Membership/2021-09-12 Members Hudson Mohawk Road Runners Club.csv'
-race_name='../data/2021/LaborDay/LaborDay5k.txt'
-race_parsed_name='../data/2021/LaborDay/LaborDay5k_parsed.csv'
 
-race_out_base='../data/2021/LaborDay/'
+# race 1 Labor Day
 
-race_out_name=race_out_base+'Labor.csv'
-race_out_males=race_out_base+'Labor_males.csv'
-race_out_females=race_out_base+'Labor_females.csv'
+members_name='../data/2021/Membership/2021-10-2 Members Hudson Mohawk Road Runners Club.csv'
+race_name='../data/2021//LaborDay/LaborDay5k.txt'
+race_out_base_dir='../data/2021/LaborDay/'
+race_out_base = 'LaborDay5k'
+fixed_width=True
 
-members=pd.read_csv(members_name)
-members["age"]=members['Birthdate (e.g., 01 Jun 1954)'].apply(lambda x:utils.datestring_to_age(x))
-members["gender"]=members['Gender'].apply(lambda x:utils.parse_gender(x))
+# race 2 Anniversary
+'''
+members_name='../data/2021/Membership/2021-10-02 Members Hudson Mohawk Road Runners Club.csv'
+race_name='../data/2021//Anniversary/Anniversary.csv'
+race_out_base_dir='../data/2021/Anniversary/'
+race_out_base = 'Anniversary'
+fixed_width=False
+'''
 
-print (members.head())
+# race 3 marathon
 
-racers=readers.parse_general(pd.read_fwf(race_name), header.RaceHeader.headers, 1)
-#racers=readers.parse_general(pd.read_csv(race_name), header.RaceHeader.headers, 1)
-racers.gender=racers.gender.str.strip()
-print (racers.head())
+members_name='../data/2021/Membership/2021-10-16 Members Hudson Mohawk Road Runners Club.csv'
+race_name='../data/2021//Marathon/marathon.csv'
+race_out_base_dir='../data/2021/Marathon/'
+race_out_base = 'Marathon'
+fixed_width=False
 
-matchmember.match(members, racers, 4.5, 5.5)
+# race 4 Stockade-athon
 
-print (racers.head())
+members_name='../data/2021/Membership/2021-11-21 Members Hudson Mohawk Road Runners Club.csv'
+race_name='../data/2021//Stockade/stockade.csv'
+race_out_base_dir='../data/2021/Stockade/'
+race_out_base = 'Stockade'
+fixed_width=False
+
+race_out_name=race_out_base_dir+race_out_base+'.csv'
+race_out_males=race_out_base_dir+race_out_base+'_males.csv'
+race_out_females=race_out_base_dir+race_out_base+'_females.csv'
+race_parsed_name=race_out_base_dir+race_out_base+'_parsed.csv'
+
+read_race_results=True
+
+if read_race_results:
+    members=pd.read_csv(members_name)
+    members["age"]=members['Birthdate (e.g., 01 Jun 1954)'].apply(lambda x:utils.datestring_to_age(x))
+    members["gender"]=members['Gender'].apply(lambda x:utils.parse_gender(x))
+
+    print (members.head())
+
+    if fixed_width:
+        racers=readers.parse_general(pd.read_fwf(race_name), header.RaceHeader.headers, 1)
+    else:
+        racers=readers.parse_general(pd.read_csv(race_name), header.RaceHeader.headers, 1)
+    racers.gender=racers.gender.str.strip()
+    print (racers.head())
+    matchmember.match(members, racers, 4.5, 5.5)
+
+    print (racers.head())
+
+    racers["category_10"]=racers.age.apply(lambda x:hmrrc_gp_util.age_to_cat_hmrrc_10(x))
+
+    racers["div_place"]=racers.groupby(["gender","category_10"])["place"].rank("dense", ascending=True)
 
 hmrrc=racers[racers['member']=='yes']
-hmrrc=hmrrc[['place', 'mfname','mlname','gender','age']]
+hmrrc=hmrrc[['place', 'mfname','mlname','gender','age', 'category_10']]
+hmrrc.head()
 
-racers.head()
-
-racers["category_10"]=racers.age.apply(lambda x:utils.age_to_cat_hmrrc_10(x))
 racers.to_csv(race_parsed_name)
-kjhkjhjkh
-hmrrc["category_10"]=hmrrc.age.apply(lambda x:utils.age_to_cat_hmrrc_10(x))
 
 hmrrc=hmrrc.sort_values(['gender','category_10','place'])
 hmrrc['name']=hmrrc.mfname+" "+hmrrc.mlname
 hmrrc.gender=hmrrc.gender.str.upper()
 
-hmrrc.to_csv(race_out_name)
-
 females=hmrrc[hmrrc.gender=='F']
-
 males=hmrrc[hmrrc.gender=='M']
 
+# move this to general function
 def getCategoryNames(hmrrc, gender, category):
     temp=hmrrc[hmrrc.gender==gender]
     temp=temp[temp.category_10==category]
@@ -93,5 +125,3 @@ males.to_csv(race_out_males)
 #a_50_59_F=females[females.age_cat=='a_50_59']
 #a_60_69_F=females[females.age_cat=='a_60_69']
 #a_70_99_F=females[females.age_cat=='a_70_99']
-
-

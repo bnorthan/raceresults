@@ -1,5 +1,10 @@
 .vscode
 
+# jekyll
+_site/
+.jekyll-metadata
+*.lock
+
 # Temp files
 *.csv#
 *.swp 

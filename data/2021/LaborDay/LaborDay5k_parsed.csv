@@ -1,109 +1,109 @@
-,place,first_name,last_name,gender,age,city,state,time,pace,race_id,member,mfname,mlname,category_10
-0,1,Ramon,Dominguez,M,44,Saratoga Springs,NY,17:10,5:32,1,no,Drew,Shave,c_40_49
-1,2,Chuck,Terry,M,39,Albany,NY,17:11,5:32,1,no,Charles,Terry,b_30_39
-2,3,Anthony,Giuliano,M,42,Niskayuna,NY,17:22,5:36,1,yes,Anthony,Giuliano,c_40_49
-3,4,Tim,Russell,M,32,Saratoga Springs,NY,18:16,5:53,1,yes,Tim,Russell,b_30_39
-4,5,Marc,Gutierrez,M,27,Cohoes,NY,18:49,6:04,1,no,Carson,Miller,a_open
-5,6,Andrew,Pavlou,M,34,Guilderland,NY,19:08,6:10,1,no,Andrew,Falkenstein,b_30_39
-6,7,Thomas,Gabriel,M,34,Schenectady,NY,19:09,6:10,1,yes,Thomas,Gabriel,b_30_39
-7,8,Brian,Northan,M,46,Guilderland,NY,19:19,6:13,1,yes,Brian,Northan,c_40_49
-8,9,Ryan,McCann,M,46,Albany,NY,19:49,6:23,1,yes,Ryan,Mccann,c_40_49
-9,10,Joseph,Messia,M,38,Albany,NY,20:05,6:28,1,yes,Josh,Merlis,b_30_39
-10,11,Kevin,Zalaznik,M,36,Niskayuna,NY,20:07,6:29,1,no,Kenneth d.,Lapenta,b_30_39
-11,12,Sam,Mercado,M,58,Saratoga Springs,NY,20:11,6:30,1,yes,Samuel,Mercado,d_50_59
-12,13,Ed,Menis,M,56,Schenectady,NY,20:34,6:38,1,yes,Ed,Menis,d_50_59
-13,14,Joe,Sgarlata,M,34,Glenville,NY,20:36,6:38,1,no,Thomas,Gabriel,b_30_39
-14,15,Loren,Thomas,M,37,Schenectady,NY,21:10,6:49,1,no,Chris,Chromczak,b_30_39
-15,16,Courtney,Adis,F,16,Scotia,NY,21:42,6:59,1,no,Rylee,Davis,a_open
-16,17,Matthew,Kowalski,M,28,Cohoes,NY,22:07,7:07,1,no,Matthew,Trzcinski,a_open
-17,18,David,Tromp,M,46,Glenmont,NY,22:13,7:09,1,no,Phil,Chirkis,c_40_49
-18,19,Emma,Wendt,F,16,Schenectady,NY,22:21,7:12,1,no,Alexis,Brown,a_open
-19,20,Rick,Munson,M,64,Prattsville,NY,22:23,7:13,1,yes,Richard a.,Munson,e_60_69
-20,21,Ada,Lauterbach,F,31,East Berne,NY,22:28,7:14,1,no,Ada,Lauterbach,b_30_39
-21,22,Lauren,Hamilton,F,57,Schenectady,NY,22:33,7:16,1,no,Kristen,Hislop,d_50_59
-22,23,Chris,Murphy Jr.,M,26,Troy,NY,23:11,7:28,1,yes,Chris,Murphy jr,a_open
-23,24,Bill,Bean,M,61,Scotia,NY,23:19,7:31,1,yes,William,Bean,e_60_69
-24,25,Dave,Glass,M,75,Glenville,NY,23:23,7:32,1,yes,Dave,Glass,f_70+
-25,26,Christopher,Murphy,M,64,Scotia,NY,23:26,7:33,1,yes,Christopher g.,Murphy,e_60_69
-26,27,Kay,Williams,F,41,Scotia,NY,23:27,7:33,1,no,Melana,Williams,c_40_49
-27,28,Nicola,Macneil,F,47,Rotterdam Junction,NY,23:37,7:37,1,yes,Nicola,Macneil,c_40_49
-28,29,Kacey,Sornberger,F,46,Albany,NY,23:40,7:37,1,yes,Kacey,Sornberger,c_40_49
-29,30,Jessica,Northan,F,45,Guilderland,NY,23:41,7:38,1,yes,Jessica,Northan,c_40_49
-30,31,Jim,Tremper,M,28,Altamont,NY,23:46,7:39,1,yes,Jim,Tremper,a_open
-31,32,David,Rabinowitz,M,70,New York,NY,23:52,7:41,1,no,David,Rowell,f_70+
-32,33,Kelly,Seymour,F,35,Burnt Hills,NY,23:58,7:43,1,no,Jessy,Montrose,b_30_39
-33,34,Christopher,Boydsto,M,32,Glenville,NY,24:13,7:48,1,no,Christopher,Trow,b_30_39
-34,35,Lori,Schmidt,F,48,Loudonville,NY,24:21,7:51,1,yes,Lori,Schmidt,c_40_49
-35,36,Tom,McGuire,M,69,Slingerlands,NY,24:24,7:51,1,yes,Tom,Mcguire,e_60_69
-36,37,Hannah,Barry,F,49,Glenmont,NY,24:31,7:54,1,yes,Hannah,Barry,c_40_49
-37,38,Keith,Cook,M,66,Albany,NY,24:34,7:55,1,no,Art,Dott,e_60_69
-38,39,Logan,Schell,M,19,Rotterdam,NY,24:37,7:56,1,no,Anthony,Rotello,a_open
-39,40,Michael,Orlando,M,34,Clifton Park,NY,24:45,7:58,1,no,Phil,Monthie,b_30_39
-40,41,Mike,Otoole,M,46,Mechanicvile,NY,24:53,8:01,1,yes,Mike,Otoole,c_40_49
-41,42,Caley,Grasso,F,24,Rensselaer,NY,24:57,8:02,1,no,Madeline,Mercado,a_open
-42,43,Gail,Doering,F,56,Loudonville,NY,25:03,8:04,1,yes,Gail,Doering,d_50_59
-43,44,Laurie,Hoyt,F,55,Schenectady,NY,25:10,8:06,1,yes,Laurie,Hoyt,d_50_59
-44,45,Ravi,Chauhan,M,45,Albany,NY,25:49,8:19,1,yes,Ravi,Chauhan,c_40_49
-45,46,Peter,Butryn,M,64,Schenectady,NY,25:53,8:20,1,yes,Peter,Butryn,e_60_69
-46,47,Andrew,Heck,M,42,Niskayuna,NY,26:10,8:26,1,no,Jonathan,Peck,c_40_49
-47,48,Bradley,Johnson,M,27,Niskayuna,NY,26:25,8:30,1,no,Tom,Benson,a_open
-48,49,Betsy,Henry,F,59,Schenectady,NY,26:32,8:33,1,yes,Betsy,Henry,d_50_59
-49,50,Erika,Oesterle,F,70,Stamford,NY,26:39,8:35,1,yes,Erika,Oesterle,f_70+
-50,51,Daniel,Fromowitz,M,48,Niskayuna,NY,27:27,8:50,1,no,Dean,Rowe,c_40_49
-51,52,Bill,Marinello,M,62,Slingerlands,NY,27:35,8:53,1,yes,Bill,Marinello,e_60_69
-52,53,Steven,Silverberg,M,63,Schenectady,NY,27:36,8:53,1,no,Randy a.,Goldberg,e_60_69
-53,54,Jackson,Cooper,M,10,Burnt Hills,NY,28:00,9:01,1,no,Jackson,Schofield,a_open
-54,55,Heather,Maxwell,F,36,Albany,NY,28:19,9:07,1,no,Lauren,Maxwell,b_30_39
-55,56,Brian,Cooper,M,38,Burnt Hills,NY,28:23,9:08,1,no,Ben,Sears,b_30_39
-56,57,Karen,Gerstenberger,F,64,Albany,NY,28:33,9:12,1,yes,Karen,Gerstenberger,e_60_69
-57,58,Eric,Markiewicz,M,28,Scotia,NY,28:48,9:16,1,no,Chris,Murphy jr,a_open
-58,59,Elizabeth,Selkis,F,26,Niskayuna,NY,29:09,9:23,1,no,Helen,Serafini,a_open
-59,60,Pam,Eistertz,F,29,Castleton On Hudso,NY,29:12,9:24,1,yes,Pam,Eistertz,a_open
-60,61,Kai,Wendt,M,50,Schenectady,NY,29:21,9:27,1,no,David,Hesler,d_50_59
-61,62,Stephen,Obermayer,M,60,Burnt Hills,NY,29:30,9:30,1,yes,Stephen j.,Obermayer,e_60_69
-62,63,Kevin,Quinn,M,38,Loudonville,NY,30:12,9:43,1,no,Brian,Lusignan,b_30_39
-63,64,Annette,Araujo,F,49,Niskayuna,NY,30:35,9:51,1,no,Cynthia,Fairbanks,c_40_49
-64,65,Gene,Terwilliger,M,54,Glenville,NY,30:35,9:51,1,yes,Gene,Terwilliger,d_50_59
-65,66,Ray,Lewis,M,66,Ballston Lake,NY,30:47,9:55,1,no,Michael,Maguire,e_60_69
-66,67,Denise,Greene,F,65,Latham,NY,30:53,9:57,1,yes,Denise,Greene,e_60_69
-67,68,Dan,Seymour,M,36,Burnt Hills,NY,30:57,9:58,1,no,Brendan,Stalker,b_30_39
-68,69,John,Bachandouris,M,53,Rensselaer,NY,31:02,10:00,1,no,John,Modoski,d_50_59
-69,70,Katie,Wright,F,33,Halfmoon,NY,31:34,10:10,1,no,Katie,Richardson,b_30_39
-70,71,Kathleen,Tersigni,F,50,Burnt Hills,NY,31:35,10:10,1,yes,Kathleen,Tersigni,d_50_59
-71,72,Adam,Hawrylchak,M,12,Guilderland,NY,31:38,10:11,1,no,Brian,Northan,a_open
-72,73,Michael,Hawrylchak,M,43,Guilderland,NY,31:39,10:11,1,no,Matthew,Ciske,c_40_49
-73,74,Jim,Fiore,M,74,Latham,NY,31:47,10:14,1,yes,James,Fiore,f_70+
-74,75,Martin,Knapp,M,65,Schenectady,NY,31:59,10:18,1,no,Kenneth m.,Klapp,e_60_69
-75,76,Robyn,Gaouette,F,35,Ballston Spa,NY,32:01,10:19,1,no,Sara,Lanesey,b_30_39
-76,77,Mike,Washco,M,42,Waterford,NY,32:46,10:33,1,no,Nick,Mosher,c_40_49
-77,78,Laurie,Brann,F,60,Niskayuna,NY,33:28,10:47,1,no,Linda,Brown,e_60_69
-78,79,Jeff,Hebert,M,54,Rexford,NY,33:39,10:50,1,no,Jeff,Gerken,d_50_59
-79,80,Thomas,McTernan,M,66,Scotia,NY,33:44,10:52,1,yes,Thomas,Mcternan,e_60_69
-80,81,Valerie,Burger,F,25,Altamont,NY,34:11,11:00,1,yes,Valerie,Burger,a_open
-81,82,Bronwyn,Perez,F,34,Niskayuna,NY,34:12,11:01,1,no,Sara,Patterson,b_30_39
-82,83,Jim,Moore,M,81,Niskayuna,NY,34:47,11:12,1,yes,Jim,Moore,f_70+
-83,84,Suzanne,Nealon,F,71,Glens Falls,NY,34:49,11:13,1,yes,Suzanne,Nealon,f_70+
-84,85,Grace,Farrell,F,62,Albany,NY,35:37,11:28,1,yes,Grace,Farrell,e_60_69
-85,86,Alice,Carpenter,F,71,Delmar,NY,35:59,11:35,1,yes,Alice,Carpenter,f_70+
-86,87,Edwin,Litts,M,71,Schenectady,NY,36:17,11:41,1,yes,Edwin,Litts,f_70+
-87,88,Edward,Norton,M,62,Albany,NY,36:24,11:43,1,yes,Ned,Norton,e_60_69
-88,89,Kamesh,Penumarthy,M,48,Ballston Lake,NY,37:04,11:56,1,yes,Kamesh,Penumarthy,c_40_49
-89,90,Barb,Diamond,F,56,Schenectady,NY,37:17,12:00,1,no,Amy,Candida,d_50_59
-90,91,Adrienne,Markowski,F,36,Maspeth,NY,37:41,12:08,1,no,Kate,Carboni,b_30_39
-91,92,Matthew,Otoole,M,14,Mechanicvile,NY,38:00,12:14,1,no,Mike,Otoole,a_open
-92,93,Julie,Otoole,F,53,Mechanicvile,NY,38:01,12:14,1,no,Mike,Otoole,d_50_59
-93,94,Brian,Platt,M,62,Latham,NY,39:22,12:40,1,no,Brian,Teague,e_60_69
-94,95,John,Vavasour,M,72,Albany,NY,39:31,12:43,1,no,John,Branigan,f_70+
-95,96,Alyssa,Gibbons,F,44,Niskayuna,NY,40:18,12:59,1,yes,Alyssa,Gibbons,c_40_49
-96,97,Teddy,Gibbons,M,10,Niskayuna,NY,40:21,12:59,1,no,David,Brown,a_open
-97,98,Katie,Wright,F,29,Westborough,MA,41:20,13:19,1,no,Kim,Mcbride,a_open
-98,99,Brenna,MacTurk,F,12,Rotterdam,NY,41:23,13:20,1,no,Caroline,Murphy,a_open
-99,100,Tim,Macturk,M,46,Rotterdam,NY,41:30,13:22,1,no,Tim,Wojcik,c_40_49
-100,101,Luc,Lagace,M,28,Scotia,NY,41:46,13:27,1,no,Jason,Lange,a_open
-101,102,Karyn,Hughes,F,40,Niskayuna,NY,42:37,13:43,1,no,Amanda,Hughes,c_40_49
-102,103,Rebecca,Wladis,F,10,Delmar,NY,42:45,13:46,1,no,Rylee,Davis,a_open
-103,104,Lianne,Pinchuk,F,45,Delmar,NY,43:04,13:52,1,no,Tiffinay,Rutnik,c_40_49
-104,105,Ray,Lee,M,79,Halfmoon,NY,44:22,14:17,1,yes,Ray,Lee,f_70+
-105,106,Jennifer,Torgersen,F,45,Albany,NY,46:46,15:04,1,no,Deanne,Webster,c_40_49
-106,107,Leonard,Rowe,M,36,Latham,NY,47:18,15:14,1,yes,Leonard,Rowe,b_30_39
-107,108,Nancy,Johnston,F,75,Ballston Lake,NY,49:45,16:01,1,no,Ginny,Sweeney,f_70+
+,place,first_name,last_name,gender,age,city,state,time,pace,race_id,member,mfname,mlname,category_10,div_place
+0,1,Ramon,Dominguez,M,44,Saratoga Springs,NY,17:10,5:32,1,no,nomatch,nomatch,c_40_49,1
+1,2,Chuck,Terry,M,39,Albany,NY,17:11,5:32,1,yes,Chuck,Terry,b_30_39,1
+2,3,Anthony,Giuliano,M,42,Niskayuna,NY,17:22,5:36,1,yes,Anthony,Giuliano,c_40_49,2
+3,4,Tim,Russell,M,32,Saratoga Springs,NY,18:16,5:53,1,yes,Tim,Russell,b_30_39,2
+4,5,Marc,Gutierrez,M,27,Cohoes,NY,18:49,6:04,1,no,nomatch,nomatch,a_open,1
+5,6,Andrew,Pavlou,M,34,Guilderland,NY,19:08,6:10,1,no,nomatch,nomatch,b_30_39,3
+6,7,Thomas,Gabriel,M,34,Schenectady,NY,19:09,6:10,1,yes,Thomas,Gabriel,b_30_39,4
+7,8,Brian,Northan,M,46,Guilderland,NY,19:19,6:13,1,yes,Brian,Northan,c_40_49,3
+8,9,Ryan,McCann,M,46,Albany,NY,19:49,6:23,1,yes,Ryan,Mccann,c_40_49,4
+9,10,Joseph,Messia,M,38,Albany,NY,20:05,6:28,1,no,nomatch,nomatch,b_30_39,5
+10,11,Kevin,Zalaznik,M,36,Niskayuna,NY,20:07,6:29,1,no,nomatch,nomatch,b_30_39,6
+11,12,Sam,Mercado,M,58,Saratoga Springs,NY,20:11,6:30,1,yes,Samuel,Mercado,d_50_59,1
+12,13,Ed,Menis,M,56,Schenectady,NY,20:34,6:38,1,yes,Ed,Menis,d_50_59,2
+13,14,Joe,Sgarlata,M,34,Glenville,NY,20:36,6:38,1,no,nomatch,nomatch,b_30_39,7
+14,15,Loren,Thomas,M,37,Schenectady,NY,21:10,6:49,1,no,nomatch,nomatch,b_30_39,8
+15,16,Courtney,Adis,F,16,Scotia,NY,21:42,6:59,1,no,nomatch,nomatch,a_open,1
+16,17,Matthew,Kowalski,M,28,Cohoes,NY,22:07,7:07,1,no,nomatch,nomatch,a_open,2
+17,18,David,Tromp,M,46,Glenmont,NY,22:13,7:09,1,no,nomatch,nomatch,c_40_49,5
+18,19,Emma,Wendt,F,16,Schenectady,NY,22:21,7:12,1,no,nomatch,nomatch,a_open,2
+19,20,Rick,Munson,M,64,Prattsville,NY,22:23,7:13,1,yes,Richard a.,Munson,e_60_69,1
+20,21,Ada,Lauterbach,F,31,East Berne,NY,22:28,7:14,1,no,nomatch,nomatch,b_30_39,1
+21,22,Lauren,Hamilton,F,57,Schenectady,NY,22:33,7:16,1,no,nomatch,nomatch,d_50_59,1
+22,23,Chris,Murphy Jr.,M,26,Troy,NY,23:11,7:28,1,yes,Chris,Murphy jr,a_open,3
+23,24,Bill,Bean,M,61,Scotia,NY,23:19,7:31,1,yes,William,Bean,e_60_69,2
+24,25,Dave,Glass,M,75,Glenville,NY,23:23,7:32,1,yes,Dave,Glass,f_70+,1
+25,26,Christopher,Murphy,M,64,Scotia,NY,23:26,7:33,1,yes,Christopher g.,Murphy,e_60_69,3
+26,27,Kay,Williams,F,41,Scotia,NY,23:27,7:33,1,no,nomatch,nomatch,c_40_49,1
+27,28,Nicola,Macneil,F,47,Rotterdam Junction,NY,23:37,7:37,1,yes,Nicola,Macneil,c_40_49,2
+28,29,Kacey,Sornberger,F,46,Albany,NY,23:40,7:37,1,yes,Kacey,Sornberger,c_40_49,3
+29,30,Jessica,Northan,F,45,Guilderland,NY,23:41,7:38,1,yes,Jessica,Northan,c_40_49,4
+30,31,Jim,Tremper,M,28,Altamont,NY,23:46,7:39,1,yes,Jim,Tremper,a_open,4
+31,32,David,Rabinowitz,M,70,New York,NY,23:52,7:41,1,no,nomatch,nomatch,f_70+,2
+32,33,Kelly,Seymour,F,35,Burnt Hills,NY,23:58,7:43,1,no,nomatch,nomatch,b_30_39,2
+33,34,Christopher,Boydsto,M,32,Glenville,NY,24:13,7:48,1,no,nomatch,nomatch,b_30_39,9
+34,35,Lori,Schmidt,F,48,Loudonville,NY,24:21,7:51,1,yes,Lori,Schmidt,c_40_49,5
+35,36,Tom,McGuire,M,69,Slingerlands,NY,24:24,7:51,1,yes,Tom,Mcguire,e_60_69,4
+36,37,Hannah,Barry,F,49,Glenmont,NY,24:31,7:54,1,yes,Hannah,Barry,c_40_49,6
+37,38,Keith,Cook,M,66,Albany,NY,24:34,7:55,1,no,nomatch,nomatch,e_60_69,5
+38,39,Logan,Schell,M,19,Rotterdam,NY,24:37,7:56,1,no,nomatch,nomatch,a_open,5
+39,40,Michael,Orlando,M,34,Clifton Park,NY,24:45,7:58,1,no,nomatch,nomatch,b_30_39,10
+40,41,Mike,Otoole,M,46,Mechanicvile,NY,24:53,8:01,1,yes,Mike,Otoole,c_40_49,6
+41,42,Caley,Grasso,F,24,Rensselaer,NY,24:57,8:02,1,no,nomatch,nomatch,a_open,3
+42,43,Gail,Doering,F,56,Loudonville,NY,25:03,8:04,1,yes,Gail,Doering,d_50_59,2
+43,44,Laurie,Hoyt,F,55,Schenectady,NY,25:10,8:06,1,yes,Laurie,Hoyt,d_50_59,3
+44,45,Ravi,Chauhan,M,45,Albany,NY,25:49,8:19,1,yes,Ravi,Chauhan,c_40_49,7
+45,46,Peter,Butryn,M,64,Schenectady,NY,25:53,8:20,1,yes,Peter,Butryn,e_60_69,6
+46,47,Andrew,Heck,M,42,Niskayuna,NY,26:10,8:26,1,no,nomatch,nomatch,c_40_49,8
+47,48,Bradley,Johnson,M,27,Niskayuna,NY,26:25,8:30,1,no,nomatch,nomatch,a_open,6
+48,49,Betsy,Henry,F,59,Schenectady,NY,26:32,8:33,1,yes,Betsy,Henry,d_50_59,4
+49,50,Erika,Oesterle,F,70,Stamford,NY,26:39,8:35,1,yes,Erika,Oesterle,f_70+,1
+50,51,Daniel,Fromowitz,M,48,Niskayuna,NY,27:27,8:50,1,no,nomatch,nomatch,c_40_49,9
+51,52,Bill,Marinello,M,62,Slingerlands,NY,27:35,8:53,1,yes,Bill,Marinello,e_60_69,7
+52,53,Steven,Silverberg,M,63,Schenectady,NY,27:36,8:53,1,no,nomatch,nomatch,e_60_69,8
+53,54,Jackson,Cooper,M,10,Burnt Hills,NY,28:00,9:01,1,no,nomatch,nomatch,a_open,7
+54,55,Heather,Maxwell,F,36,Albany,NY,28:19,9:07,1,no,nomatch,nomatch,b_30_39,3
+55,56,Brian,Cooper,M,38,Burnt Hills,NY,28:23,9:08,1,no,nomatch,nomatch,b_30_39,11
+56,57,Karen,Gerstenberger,F,64,Albany,NY,28:33,9:12,1,yes,Karen,Gerstenberger,e_60_69,1
+57,58,Eric,Markiewicz,M,28,Scotia,NY,28:48,9:16,1,no,nomatch,nomatch,a_open,8
+58,59,Elizabeth,Selkis,F,26,Niskayuna,NY,29:09,9:23,1,no,nomatch,nomatch,a_open,4
+59,60,Pam,Eistertz,F,29,Castleton On Hudso,NY,29:12,9:24,1,yes,Pam,Eistertz,a_open,5
+60,61,Kai,Wendt,M,50,Schenectady,NY,29:21,9:27,1,no,nomatch,nomatch,d_50_59,3
+61,62,Stephen,Obermayer,M,60,Burnt Hills,NY,29:30,9:30,1,yes,Stephen j.,Obermayer,e_60_69,9
+62,63,Kevin,Quinn,M,38,Loudonville,NY,30:12,9:43,1,no,nomatch,nomatch,b_30_39,12
+63,64,Annette,Araujo,F,49,Niskayuna,NY,30:35,9:51,1,no,nomatch,nomatch,c_40_49,7
+64,65,Gene,Terwilliger,M,54,Glenville,NY,30:35,9:51,1,yes,Gene,Terwilliger,d_50_59,4
+65,66,Ray,Lewis,M,66,Ballston Lake,NY,30:47,9:55,1,no,nomatch,nomatch,e_60_69,10
+66,67,Denise,Greene,F,65,Latham,NY,30:53,9:57,1,yes,Denise,Greene,e_60_69,2
+67,68,Dan,Seymour,M,36,Burnt Hills,NY,30:57,9:58,1,no,nomatch,nomatch,b_30_39,13
+68,69,John,Bachandouris,M,53,Rensselaer,NY,31:02,10:00,1,no,nomatch,nomatch,d_50_59,5
+69,70,Katie,Wright,F,33,Halfmoon,NY,31:34,10:10,1,no,nomatch,nomatch,b_30_39,4
+70,71,Kathleen,Tersigni,F,50,Burnt Hills,NY,31:35,10:10,1,yes,Kathleen,Tersigni,d_50_59,5
+71,72,Adam,Hawrylchak,M,12,Guilderland,NY,31:38,10:11,1,no,nomatch,nomatch,a_open,9
+72,73,Michael,Hawrylchak,M,43,Guilderland,NY,31:39,10:11,1,no,nomatch,nomatch,c_40_49,10
+73,74,Jim,Fiore,M,74,Latham,NY,31:47,10:14,1,yes,James,Fiore,f_70+,3
+74,75,Martin,Knapp,M,65,Schenectady,NY,31:59,10:18,1,no,nomatch,nomatch,e_60_69,11
+75,76,Robyn,Gaouette,F,35,Ballston Spa,NY,32:01,10:19,1,no,nomatch,nomatch,b_30_39,5
+76,77,Mike,Washco,M,42,Waterford,NY,32:46,10:33,1,no,nomatch,nomatch,c_40_49,11
+77,78,Laurie,Brann,F,60,Niskayuna,NY,33:28,10:47,1,no,nomatch,nomatch,e_60_69,3
+78,79,Jeff,Hebert,M,54,Rexford,NY,33:39,10:50,1,no,nomatch,nomatch,d_50_59,6
+79,80,Thomas,McTernan,M,66,Scotia,NY,33:44,10:52,1,yes,Thomas,Mcternan,e_60_69,12
+80,81,Valerie,Burger,F,25,Altamont,NY,34:11,11:00,1,yes,Valerie,Burger,a_open,6
+81,82,Bronwyn,Perez,F,34,Niskayuna,NY,34:12,11:01,1,no,nomatch,nomatch,b_30_39,6
+82,83,Jim,Moore,M,81,Niskayuna,NY,34:47,11:12,1,yes,Jim,Moore,f_70+,4
+83,84,Suzanne,Nealon,F,71,Glens Falls,NY,34:49,11:13,1,yes,Suzanne,Nealon,f_70+,2
+84,85,Grace,Farrell,F,62,Albany,NY,35:37,11:28,1,yes,Grace,Farrell,e_60_69,4
+85,86,Alice,Carpenter,F,71,Delmar,NY,35:59,11:35,1,yes,Alice,Carpenter,f_70+,3
+86,87,Edwin,Litts,M,71,Schenectady,NY,36:17,11:41,1,yes,Edwin,Litts,f_70+,5
+87,88,Edward,Norton,M,62,Albany,NY,36:24,11:43,1,yes,Ned,Norton,e_60_69,13
+88,89,Kamesh,Penumarthy,M,48,Ballston Lake,NY,37:04,11:56,1,yes,Kamesh,Penumarthy,c_40_49,12
+89,90,Barb,Diamond,F,56,Schenectady,NY,37:17,12:00,1,yes,Barbara,Diamond,d_50_59,6
+90,91,Adrienne,Markowski,F,36,Maspeth,NY,37:41,12:08,1,no,nomatch,nomatch,b_30_39,7
+91,92,Matthew,Otoole,M,14,Mechanicvile,NY,38:00,12:14,1,no,nomatch,nomatch,a_open,10
+92,93,Julie,Otoole,F,53,Mechanicvile,NY,38:01,12:14,1,no,nomatch,nomatch,d_50_59,7
+93,94,Brian,Platt,M,62,Latham,NY,39:22,12:40,1,no,nomatch,nomatch,e_60_69,14
+94,95,John,Vavasour,M,72,Albany,NY,39:31,12:43,1,no,nomatch,nomatch,f_70+,6
+95,96,Alyssa,Gibbons,F,44,Niskayuna,NY,40:18,12:59,1,yes,Alyssa,Gibbons,c_40_49,8
+96,97,Teddy,Gibbons,M,10,Niskayuna,NY,40:21,12:59,1,no,nomatch,nomatch,a_open,11
+97,98,Katie,Wright,F,29,Westborough,MA,41:20,13:19,1,no,nomatch,nomatch,a_open,7
+98,99,Brenna,MacTurk,F,12,Rotterdam,NY,41:23,13:20,1,no,nomatch,nomatch,a_open,8
+99,100,Tim,Macturk,M,46,Rotterdam,NY,41:30,13:22,1,no,nomatch,nomatch,c_40_49,13
+100,101,Luc,Lagace,M,28,Scotia,NY,41:46,13:27,1,no,nomatch,nomatch,a_open,12
+101,102,Karyn,Hughes,F,40,Niskayuna,NY,42:37,13:43,1,no,nomatch,nomatch,c_40_49,9
+102,103,Rebecca,Wladis,F,10,Delmar,NY,42:45,13:46,1,no,nomatch,nomatch,a_open,9
+103,104,Lianne,Pinchuk,F,45,Delmar,NY,43:04,13:52,1,no,nomatch,nomatch,c_40_49,10
+104,105,Ray,Lee,M,79,Halfmoon,NY,44:22,14:17,1,yes,Ray,Lee,f_70+,7
+105,106,Jennifer,Torgersen,F,45,Albany,NY,46:46,15:04,1,no,nomatch,nomatch,c_40_49,11
+106,107,Leonard,Rowe,M,36,Latham,NY,47:18,15:14,1,yes,Leonard,Rowe,b_30_39,14
+107,108,Nancy,Johnston,F,75,Ballston Lake,NY,49:45,16:01,1,no,nomatch,nomatch,f_70+,4

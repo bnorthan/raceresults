@@ -28,6 +28,8 @@ class SimpleRace(tables.Table):
     city=tables.Column()
     time=tables.Column()
     member=tables.Column()
+    member_first_name=tables.Column()
+    member_last_name=tables.Column()
     category_10=tables.Column()
     points=tables.Column()
     race=tables.Column()

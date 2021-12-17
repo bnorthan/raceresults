@@ -19,6 +19,8 @@ class Result(models.Model):
     city=models.CharField(max_length=200, blank=True, null=True)
     time=models.DurationField(default=0, null=True);
     member=models.CharField(max_length=2, default='n', null=True);
+    member_first_name=models.CharField(max_length=200, default='unknown', blank=True)
+    member_last_name=models.CharField(max_length=200, default='unknown', blank=True)
     category_10=models.CharField(max_length=100, default='unknown', null=True);
     points=models.IntegerField(default=0,null=True); 
     race=models.ForeignKey(Race, on_delete=models.CASCADE)

@@ -42,7 +42,7 @@ def add_race(race_data, race_name, race_city,race_date):
         seconds=utils.time_to_seconds(r.time);
         duration=timedelta(seconds=seconds)
         
-        result=Result(first_name=r['first_name'],last_name=r['last_name'],gender=r.gender,city=r.city, time=duration,race=race,member=r.hmrrc, category_10=r['category_10'])
+        result=Result(first_name=r['first_name'],last_name=r['last_name'],gender=r.gender,city=r.city, time=duration,race=race,member=r.hmrrc, category_10=r['category_10'],member_first_name=r['member_first_name'], member_last_name=r['member_last_name'])
         print(r.last_name)
         result.save()
 
@@ -58,7 +58,16 @@ add_race(race, race_name='2017 Stockade-athon', race_city='Schenectedy', race_da
 
 race=pd.read_csv('../data/2016/stockade.csv')
 add_race(race, race_name='2016 Stockade-athon', race_city='Schenectedy', race_date='2016-11-13')
-'''
 
 race=pd.read_csv('../data/2021/LaborDay/LaborDay5k_parsed.csv')
 add_race(race, race_name='Labor Day 5k', race_city='Schenectedy', race_date='2021-09-06')
+
+race=pd.read_csv('../data/2021/Anniversary/Anniversary_parsed.csv')
+add_race(race, race_name='Anniversary 5.6 Miler', race_city='Albany', race_date='2021-09-26')
+race=pd.read_csv('/home/bnorthan/runnin/raceresults/data/2021/Marathon/Marathon_parsed.csv')
+add_race(race,race_name='2021 HMRRC Marathon',race_city='Capitol Region', race_date='2021-10-11')
+
+'''
+race=pd.read_csv('/home/bnorthan/runnin/raceresults/data/2021/Stockade/Stockade_parsed.csv')
+add_race(race,race_name='2021 Stockade-athon',race_city='Schenectady', race_date='2021-11-14')
+

@@ -1,0 +1,55 @@
+,place,first_name,last_name,gender,age,city,time,race_id,member,mfname,mlname,category_10,div_place
+17,18,Zoe,Barclay,F,20,Albany,45:10,1,no,nomatch,nomatch,a_open,2
+21,22,Andrew,Stercho,M,34,Watervliet,47:18,1,no,nomatch,nomatch,b_30_39,3
+0,1,Keith,Machabee,M,29,Delmar,33:06,1,yes,Keith,Machabee,a_open,1
+1,2,Chuck,Terry,M,39,Albany,33:50,1,yes,Chuck,Terry,b_30_39,1
+2,3,Bob,Irwin,M,48,Guilderland,36:56,1,yes,Robert,Irwin,c_40_49,1
+3,4,Ben,Heller,M,32,Troy,37:47,1,yes,Ben,Heller,b_30_39,2
+4,5,Dereck,Staley,M,63,Ballston Lake,37:50,1,yes,Derrick,Staley,e_60_69,1
+5,6,Ryan,McCann,M,49,Albany,38:51,1,yes,Ryan,Mccann,c_40_49,2
+6,7,Christian,Lietzau,M,58,Delmar,40:42,1,yes,Christian w.,Lietzau,d_50_59,1
+7,8,Russell,Lauer,M,59,Troy,40:50,1,yes,Russell,Lauer,d_50_59,2
+8,9,Courtney,Breiner,F,24,Troy,41:21,1,yes,Courtney,Breiner,a_open,1
+9,10,Ed,Menis,M,56,Schenectady,41:24,1,yes,Ed,Menis,d_50_59,3
+10,11,Neil,Sergott,M,49,Clifton Park,41:42,1,yes,Neil,Sergott,c_40_49,3
+11,12,Sarah,Parks,F,41,Troy,42:39,1,yes,Sarah,Parks,c_40_49,1
+12,13,Rick,Munson,M,64,Prattsville,43:23,1,yes,Richard a.,Munson,e_60_69,2
+13,14,Dave,Hart,M,60,Delmar,43:30,1,yes,Dave,Hart,e_60_69,3
+14,15,Edward,Hampston,M,53,Voorheesville,43:31,1,yes,Edward,Hampston,d_50_59,4
+15,16,Bill,Bean,M,61,Scotia,43:34,1,yes,William,Bean,e_60_69,4
+16,17,Mark,Dolan,M,57,Albany,44:26,1,yes,Mark,Dolan,d_50_59,5
+18,19,Chris,Kurktian,M,61,Ballston Lake,45:21,1,yes,Christopher,Kurkjian,e_60_69,5
+19,20,Mark,Nunez,M,65,Ballston Lake,45:28,1,yes,Mark,Nunez,e_60_69,6
+20,21,Jon,Rocco,M,54,Colonie,46:38,1,yes,Jon,Rocco,d_50_59,6
+22,23,Kacey,Sornbuger,F,46,Albany,47:32,1,yes,Kacey,Sornberger,c_40_49,2
+23,24,Chris,Varley,F,57,Albany,48:15,1,yes,Christine,Varley,d_50_59,1
+24,25,Richard,Clark,M,67,Feeding Hills,48:45,1,yes,Richard,Clark,e_60_69,7
+25,26,Paul,Bennett,M,70,Latham,49:01,1,yes,Paul,Bennett,f_70+,1
+26,27,Laurie,Hoyt,F,55,Schenectady,49:30,1,yes,Laurie,Hoyt,d_50_59,2
+27,28,Mike,O'Toole,M,46,Mechanicville,50:08,1,yes,Mike,Otoole,c_40_49,4
+28,29,Juergen,Reher,M,71,Wynantskill,51:45,1,yes,Juergen,Reher,f_70+,2
+29,30,Karen,Dott,F,65,Colonie,51:53,1,yes,Karen,Dott,e_60_69,1
+30,31,Victoria,Wagner,F,47,Altamont,51:52,1,yes,Victoria,Wagner,c_40_49,3
+31,32,Joanna,Tremper,F,52,E. Chatham,52:20,1,yes,Joanna,Tremper,d_50_59,3
+32,33,Seth,Engel,M,52,Ballston Lake,53:20,1,yes,Seth,Engel,d_50_59,7
+33,34,Will,Engel,M,29,Malta,53:20,1,yes,Will,Engel,a_open,2
+34,35,Michael,Thumann,M,72,Chatham,53:36,1,yes,Michael,Thumann,f_70+,3
+35,36,Heather,Machabee,F,52,Delmar,54:30,1,yes,Heather,Machabee,d_50_59,4
+36,37,Matt,Robinson‐Loffler,M,40,Albany,54:40,1,yes,Matthew,Robinson-loffler,c_40_49,5
+37,38,Lori,Schmidt,F,48,Albany,54:50,1,yes,Lori,Schmidt,c_40_49,4
+38,39,Beth,Rice,F,49,Voorheesville,55:34,1,yes,Beth,Rice,c_40_49,5
+39,40,Joe,Orsini,M,61,Guilderland,55:34,1,yes,Joseph,Orsini,e_60_69,8
+40,41,Rebecca,O'Connell,F,58,Coxsackie,56:36,1,yes,Rebecca,O'connell,d_50_59,5
+41,42,Mike,Kelly,M,51,Selkirk,57:26,1,yes,Michael j.,Kelly,d_50_59,8
+42,43,Leo,DiPierro,M,71,Cherry Plain,57:50,1,yes,Leo j.,Dipierro,f_70+,4
+43,44,Lindsey,Klinge,F,33,Troy,58:45,1,yes,Lindsey,Klinge,b_30_39,1
+44,45,Ashley,Peacock,F,45,Loudonville,61:08,1,yes,Ashley,Peacock,c_40_49,6
+45,46,Michelle,Peltier,F,49,Albany,63:45,1,yes,Michelle,Peltier,c_40_49,7
+46,47,Jocelyn,Sarrantonio,F,38,Niskayuna,63:49,1,yes,Jocelyn,Sarrantonio,b_30_39,2
+47,48,Craig,Williams,M,46,East Greenbush,64:20,1,yes,Craig,Williams,c_40_49,6
+48,49,Jim,Moore,M,81,Niskayuna,66:33,1,yes,Jim,Moore,f_70+,5
+49,50,Robert,Foulks,M,53,Albany,66:40,1,yes,Robert,Foulks,d_50_59,9
+50,51,Jim,Fiore,M,74,Latham,66:52,1,yes,James,Fiore,f_70+,6
+51,52,Susan,Wong,F,73,Glenmont,67:13,1,yes,Susan j.,Wong,f_70+,1
+52,53,Edwin,Litts,M,71,Schenectady,70:58,1,yes,Edwin,Litts,f_70+,7
+53,54,Ray,Lee,M,79,Halfmoon,83:06,1,yes,Ray,Lee,f_70+,8

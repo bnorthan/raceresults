@@ -19,8 +19,7 @@ from raceresults.models import Race
 from raceresults.models import Result
 from raceresults.models import Runner
 
-sys.path.append('../util/')
-import raceutil
+from scoreware.race import utils
 
 first_name="Erika"
 last_name="Oesterle"

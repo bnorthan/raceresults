@@ -3,15 +3,14 @@ from scoreware.race.utils import get_last_name
 
 def parse_general(df, headers, id):
     
-
     newdf=pd.DataFrame()
 
     print((type(headers)))
     for key in headers:
         print((headers[key]))
         for column in df.columns:
-            if column.lower() in headers[key]:
-                print((column.lower()+' matches'))
+            if column.lower().strip(' ') in headers[key]:
+                print((column.lower().strip(' ')+' matches'))
                 print(key)
                 print(key=='name')
 

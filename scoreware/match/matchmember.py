@@ -51,11 +51,16 @@ def match(members, runners, accept_score, ask_score):
                 
         print(answer)
         if (answer=='y'):
-            print('answer is yessssssss')
-            runners.at[i,'member']='yes'    
+            print('answer is yes')
+            runners.at[i,'member']='yes' 
+            runners.at[i,'mfname']=match_info[i][4].capitalize()
+            runners.at[i,'mlname']=match_info[i][5].capitalize()
         else:      
-            print('answer is nopernpopernopers')
+            print('answer is no')
             runners.at[i,'member']='no'
+            runners.at[i,'mfname']='nomatch'
+            runners.at[i,'mlname']='nomatch'
+ 
 
-        runners.at[i,'mfname']=match_info[i][4].capitalize()
-        runners.at[i,'mlname']=match_info[i][5].capitalize()
+
+    

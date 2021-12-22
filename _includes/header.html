@@ -1,0 +1,17 @@
+<aside>
+	<div class>
+		<nav>
+			<ul>
+<li style="float:left"><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
+{% for page in site.pages %} {% if page.title %}
+<li style="float:right"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+{% endif %} {% endfor %}
+			</li>
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+	<h1><a href="{{ site.baseurl }}/">Race Results{{ site.title }}</a></h1>
+</header>

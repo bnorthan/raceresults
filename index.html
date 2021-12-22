@@ -2,4 +2,11 @@
 layout: default
 ---
 
-<h1>{{ "Race Results"}}</h1>
+
+{% for post in site.results %}
+		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ "temp" }}</a></h3>
+{% endfor %}
+
+{% for post in site.posts %}
+		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} {{ post.date | date: "%b %-d, %Y" }}</a></h3>
+{% endfor %}

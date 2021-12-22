@@ -1,4 +1,4 @@
 baseurl: "/raceresults" # the subpath of your site, e.g. /blog
 include: ['_pages']
-
+pagetypes: [main, result]
    

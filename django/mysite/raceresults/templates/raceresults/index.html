@@ -1,3 +1,6 @@
+{% extends 'raceresults/base.html' %}
+{% block body_block %}
+
 {% if l_races %}
   <ul>
     {% for race in l_races %}
@@ -8,3 +11,4 @@
 <p>No races are listed</p>
 {% endif %}
   
+{% endblock %}

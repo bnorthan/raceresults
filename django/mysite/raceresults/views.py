@@ -86,3 +86,8 @@ def runner(request, runner_id):
     RequestConfig(request).configure(results)
 
     return render(request, 'runner/index.html', {'l_runner':results})
+
+from django.views.generic import TemplateView
+
+class AboutView(TemplateView):
+    template_name="about.html"

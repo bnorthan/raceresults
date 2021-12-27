@@ -27,13 +27,23 @@ class SimpleRace(tables.Table):
     gender=tables.Column()
     city=tables.Column()
     time=tables.Column()
+
+class DetailedRace(tables.Table):
+    class Meta:    
+        #model=Result
+        attrs={"class":"paleblue", "orderable":"True", "width":"100%"}
+  
+    first_name=tables.Column()
+    last_name=tables.Column()
+    gender=tables.Column()
+    city=tables.Column()
+    time=tables.Column()
     member=tables.Column()
     member_first_name=tables.Column()
     member_last_name=tables.Column()
     category_10=tables.Column()
     points=tables.Column()
     race=tables.Column()
-
 
 # view all results for a race in a table
 def race(request, race_id):
@@ -74,7 +84,6 @@ def gp(request, race_id):
     
     # render the table
     return render(request, 'gp/index.html', {'l_race':simple_list});
-
 
 # view all results for a runner in a table
 def runner(request, runner_id):

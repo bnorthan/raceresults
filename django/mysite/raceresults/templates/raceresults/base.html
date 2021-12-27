@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+  
+<html>
+    <head>
+        
+        <title>Race Results</title>
+        
+        {% load static %}
+        <link rel="stylesheet" type="text/css" href="{% static 'race/table1.css' %}">
+        <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}">
+
+        <link
+            href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600"
+            rel="stylesheet"
+            type="text/css"
+        />
+        <link
+            href="https://fonts.googleapis.com/css?family=Muli:400,300"
+            rel="stylesheet"
+            type="text/css"
+        />
+
+    </head>
+
+<aside>
+	<div class>
+		<nav>
+			<ul>
+
+                <li style="float:left"><a href="/raceresults/">Home </a></li>
+                <li style="float:left"><a href="/raceresults/about"">About </a></li>
+			</li>
+
+            </ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+	<h1><a href="test/">Race Results</a></h1>
+</header>
+
+
+    <body>
+        {% block body_block %}{% endblock %}
+    </body>
+</html>

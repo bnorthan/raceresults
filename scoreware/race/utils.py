@@ -68,8 +68,11 @@ def strip_leading_zeros(time):
 
 def get_last_name(full_name):
     split=full_name.split()
-    last_name=split[1];
-    for i in range(2,len(split)):
-        last_name=last_name+' '+split[i]
-        
+    if len(split)>1:
+        last_name=split[1];
+    
+        for i in range(2,len(split)):
+            last_name=last_name+' '+split[i]
+    else:
+        last_name=''    
     return last_name

@@ -30,8 +30,20 @@ def parse_general(df, headers, id):
                     #newdf['last_name']=df[column].apply(lambda x: x.split()[-1])
                     newdf['last_name']=df[column].apply(lambda x: get_last_name(x))
                     print(newdf['last_name'])
+                if (key=='lf_name'):
+                    df[column]=df[column].fillna(value='none none')
+                    df[column]=df[column].replace('nan', value='none none')
+                    df[column]=df[column].astype(str)
+                    newdf['last_name']=df[column].apply(lambda x: x.split()[0])
                     
+                    #newdf['last_name']=df[column].apply(lambda x: x.split()[-1])
+                    newdf['first_name']=df[column].apply(lambda x: get_last_name(x))
+                    print(newdf['last_name'])
+                  
                 else:
+                    if (key=='time'):
+                        df[column]=df[column].apply(lambda x: str(x).strip('*'))
+
                     if (key=='age'):
                         df[column]=df[column].fillna(value=-1)
                     else:

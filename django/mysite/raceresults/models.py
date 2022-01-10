@@ -15,7 +15,7 @@ class Runner(models.Model):
 class Result(models.Model):
     first_name=models.CharField(max_length=200)
     last_name=models.CharField(max_length=200)
-    gender=models.CharField(max_length=1, default='f', null=True)
+    gender=models.CharField(max_length=1, default='u', null=True)
     city=models.CharField(max_length=200, blank=True, null=True)
     time=models.DurationField(default=0, null=True);
     member=models.CharField(max_length=2, default='n', null=True);

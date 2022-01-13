@@ -3,6 +3,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from .models import Race
 from .models import Runner
+from .models import Result
 
 import django_tables2 as tables
 from django_tables2 import RequestConfig
@@ -90,6 +91,23 @@ def runner(request, runner_id):
     
     results=Runner.objects.get(pk=runner_id).result_set.all()
     
+    results=SimpleRace(results)
+
+    RequestConfig(request).configure(results)
+
+    return render(request, 'runner/index.html', {'l_runner':results})
+
+def search(request):
+    last=request.GET.get('last')
+    print('LAST',last)
+    results=Result.objects.filter(last_name__iexact=last)
+
+    print(results)
+
+    for r in results:
+        race=Race.objects.filter(id=r.race_id)
+        print(r.first_name, r.last_name, r.time, race[0].race_date)
+ 
     results=SimpleRace(results)
 
     RequestConfig(request).configure(results)

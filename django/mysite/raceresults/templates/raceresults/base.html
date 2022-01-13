@@ -42,6 +42,12 @@
 
 
     <body>
+
+        <form action="/raceresults/search/" method="get">
+          Search last name:<input type="text" name="last" id="id_last" value="{{ query }}"/>
+          <input type="submit" value="Search" />
+        </form>
+
         {% block body_block %}{% endblock %}
     </body>
 </html>

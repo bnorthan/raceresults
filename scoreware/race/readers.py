@@ -34,7 +34,7 @@ def parse_general(df, headers, id):
                     df[column]=df[column].fillna(value='none none')
                     df[column]=df[column].replace('nan', value='none none')
                     df[column]=df[column].astype(str)
-                    newdf['last_name']=df[column].apply(lambda x: x.split()[0])
+                    newdf['last_name']=df[column].apply(lambda x: x.split()[0].strip(','))
                     
                     #newdf['last_name']=df[column].apply(lambda x: x.split()[-1])
                     newdf['first_name']=df[column].apply(lambda x: get_last_name(x))

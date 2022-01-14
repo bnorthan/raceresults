@@ -25,9 +25,21 @@ class SimpleRace(tables.Table):
   
     first_name=tables.Column()
     last_name=tables.Column()
-    gender=tables.Column()
-    city=tables.Column()
+    #gender=tables.Column()
+    #city=tables.Column()
     time=tables.Column()
+
+class SimpleRaceWithYear(tables.Table):
+    class Meta:    
+        #model=Result
+        attrs={"class":"paleblue", "orderable":"True", "width":"100%"}
+  
+    first_name=tables.Column()
+    last_name=tables.Column()
+    #gender=tables.Column()
+    #city=tables.Column()
+    time=tables.Column()
+    race=tables.Column()
 
 class DetailedRace(tables.Table):
     class Meta:    
@@ -52,6 +64,9 @@ def race(request, race_id):
     # get all results for this race
     results=Race.objects.get(pk=race_id).result_set.all()
     
+    race=Race.objects.filter(pk=race_id)
+
+    race_name=race[0].race_name + ' '+str(race[0].race_date)
     # convert to simple race format
     results=SimpleRace(results)
     
@@ -59,7 +74,7 @@ def race(request, race_id):
     RequestConfig(request).configure(results)
 
     # render the table
-    return render(request, 'race/index.html', {'l_race':results})
+    return render(request, 'race/index.html', {'l_race':results,'l_name':race_name})
 
 # view all results for a race in a table
 def gp(request, race_id):
@@ -108,7 +123,7 @@ def search(request):
         race=Race.objects.filter(id=r.race_id)
         print(r.first_name, r.last_name, r.time, race[0].race_date)
  
-    results=SimpleRace(results)
+    results=SimpleRaceWithYear(results)
 
     RequestConfig(request).configure(results)
 

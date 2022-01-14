@@ -5,7 +5,7 @@ class Race(models.Model):
     city=models.CharField(max_length=200, blank=True)
     race_date=models.DateField('date of race', blank=True, null=True)    
     def __str__(self):
-        return self.race_name
+        return self.race_name+' '+str(self.race_date)
 
 class Runner(models.Model):
     first_name=models.CharField(max_length=200)

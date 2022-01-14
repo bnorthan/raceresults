@@ -5,7 +5,6 @@ from datetime import timedelta
 
 from scoreware.race import utils
 
-
 dates = pd.read_csv('/home/bnorthan/runnin/raceresults/data/All Stockade results/dates_.csv')
 
 for index, date in dates.iterrows():

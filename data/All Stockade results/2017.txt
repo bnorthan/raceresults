@@ -1,4 +1,4 @@
-Place Bib   Name                   Age S Div Sex Div   City               St 1st 5k  2nd 5k  3rd 5k  10k     9m      Last.3  Guntime Pace  Nettime Pace     
+Place Bib   Name                   Age S Div  SP Div   City               St  1st 5k  2nd 5k  3rd 5k  10k     9m      Last.3  Guntime Pace  Nettime Pace     
     1   489 Ricardo Estremera       31 M   1   1 OVA_M Albany             NY   16:49   15:56   15:03   32:44   46:24    1:23   47:47  5:08   47:47  5:08 
     2     3 Matt Brooker            27 M   2   2 OVA_M Albany             NY   16:49   15:56   15:19   32:45   46:41    1:24   48:04  5:10   48:02  5:10 
     3  1470 Steve Soprano           30 M   3   3 OVA_M Queensbury         NY   16:49   16:18   15:59   33:07   47:38    1:27   49:05  5:16   49:05  5:16 

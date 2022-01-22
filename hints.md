@@ -12,7 +12,7 @@ Use: ```lsvirtualenv``` to get a list of virtual environments
 
 then ```workon myvirtualenv``` to switch to the environment
 
-## CSS Files on Pythonanywhere
+## Static (css, images, etc) Files on Pythonanywhere
 
 On your own PC static files will be served by the django dev server. In a production setting like PythonAnywhere, you need to
 

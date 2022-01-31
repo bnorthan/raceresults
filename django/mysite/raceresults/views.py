@@ -1,4 +1,5 @@
 from scoreware.race import utils
+from scoreware.strava import stravautil
 from django.shortcuts import render
 from django.http import HttpResponse
 from .models import Race
@@ -131,5 +132,27 @@ def search(request):
 
 from django.views.generic import TemplateView
 
+def strava(request):
+    print()
+    print('get code from url')
+    code=request.GET.get('code')
+    print('CODE',code)
+    
+    if code != None:
+        try:
+            token = stravautil.get_athlete_token('77193', '0809ff532abda7541d9b324d122c04003b449001', code)
+            athlete = stravautil.get_athlete(token)
+            f_name=athlete['firstname']
+            l_name=athlete['lastname']
+        except:
+            f_name=None
+            l_name=None
+    else:
+        f_name=None
+        l_name=None
+    print('hello',f_name,l_name)
+    
+    return render(request, 'strava/index.html', {'f_name':f_name, 'l_name':l_name})
+    
 class AboutView(TemplateView):
     template_name="about.html"

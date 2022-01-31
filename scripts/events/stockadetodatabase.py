@@ -5,7 +5,9 @@ from datetime import timedelta
 
 from scoreware.race import utils
 
-dates = pd.read_csv('/home/bnorthan/runnin/raceresults/data/All Stockade results/dates_.csv')
+base_dir = '~'
+
+dates = pd.read_csv(base_dir+'/raceresults/data/All Stockade results/dates_.csv')
 
 for index, date in dates.iterrows():
     print(date.day, date.month, date.year)
@@ -16,7 +18,7 @@ for index, date in dates.iterrows():
     race_date=str(year)+'-11-'+str(day)
     race=Race(race_name="Stockade-athon",city='Schenectady',race_date=race_date)
     race.save()
-    file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
+    file = base_dir+'/raceresults/data/All Stockade results/'+str(year)+'.csv'
     df=pd.read_csv(file)
 
     for index, r in df.iterrows():

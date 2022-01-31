@@ -1,0 +1,17 @@
+{% extends 'raceresults/base.html' %}
+{% block body_block %}
+
+<h2>Strava</h2>
+
+
+<!--
+<a href="https://www.strava.com/oauth/authorize?redirect_uri=http://bnorthan.pythonanywhere.com/raceresults/strava/&response_type=code&scope=read,read_all,activity:read,activity:read_all,profile:read_all&client_id=77193">Authorize</a>
+-->
+
+{% if f_name == None %}
+<a href="https://www.strava.com/oauth/authorize?redirect_uri=http://localhost:8000/raceresults/strava/&response_type=code&scope=read,read_all,activity:read,activity:read_all,profile:read_all&client_id=77193">Authorize</a>
+{% else %}
+<p>Hello {{ f_name }} {{ l_name }}</p>
+{% endif %}
+
+{% endblock %}

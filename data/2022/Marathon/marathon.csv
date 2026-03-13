@@ -1,0 +1,415 @@
+PLACE,FIRST NAME,LAST NAME, AGE,SEX,CITY,ST,time
+1,Joseph,Whelan,31,M,Webster,NY,2:14:14
+2,Trevor,Conde,33,M,Bethlehem,PA,2:21:25
+3,David,Haines,23,M,Madison Township,PA,2:23:26
+4,Stephen,Monsulick,37,M,Strafford,NH,2:28:37
+5,Jason,Ayr,35,M,Philadelphia,PA,2:28:51
+6,Winter,Parts,24,M,State College,PA,2:33:24
+7,Collin,Smith,32,M,New York City,NY,2:34:50
+8,Ian,Denis,24,M,Burlington,VT,2:36:49
+9,Alexander,Bianconi,22,M,Ballston Lake,NY,2:36:57
+10,Jerry,Tylutki,42,M,Sauquoit,NY,2:45:21
+11,Thomas,Slicer,28,M,Oneonta,NY,2:46:29
+12,Mark,Pallai,29,M,Garden City,NY,2:46:44
+13,Alejandro,Gauna,39,M,Delmar,NY,2:47:02
+14,George,Krikorian,30,M,Bristol,VT,2:48:53
+15,Angus,Cropley,22,M,Albany,NY,2:49:10
+16,Samantha,Roecker,30,F,Charlton,NY,2:52:20
+17,Christopher,Herbs,29,M,Somerville,MA,2:53:03
+18,Dave,Dicerbo,42,M,Lafayette,NJ,2:53:11
+19,John,Deer,40,M,Slingerlands,NY,2:53:19
+20,Brady,Hall,32,M,Carmel,IN,2:53:38
+21,Jonah,Williams,28,M,Brookline,MA,2:53:47
+22,Alexander,Egan,38,M,New York,NY,2:53:58
+23,Daniel,Kupper,35,M,Wethersfield,CT,2:54:14
+24,Jared,Dybas,22,M,Port St Lucie,FL,2:55:19
+25,Alain,Chantal,48,M,St-Augustin-De-Desma,QC,2:56:22
+26,Marc,Sonnenberg,42,M,Plainview,NY,2:56:39
+27,Jonathan,Bekisz,32,M,New York,NY,2:57:17
+28,Matt,Becker,37,M,South Glens Falls,NY,2:57:31
+29,Adrian,Heffernan,43,M,Oceanside,NY,2:57:35
+30,Jessica,Charles,40,F,Oriskany,NY,2:57:48
+31,Erin,Rasco,34,F,Keeseville,NY,2:57:56
+32,Jared,Freedman,29,M,Boston,MA,2:58:01
+33,Kyle,Sullivan,29,M,Brooklyn,NY,2:58:02
+34,Ben,Keegan,21,M,Burlington,VT,2:58:06
+35,David,Putney,58,M,Newport,NY,2:58:06
+36,Ambrose,Schaffer,39,M,Canajoharie,NY,2:58:27
+37,J,Royston,44,M,Orlando,FL,2:58:38
+38,Dan,Fleming,36,M,Cambridge,MA,2:59:17
+39,Shawn,Rumery,36,M,Searsmont,ME,2:59:22
+40,Julian,Maldonado,23,M,Brooklym,NY,2:59:37
+41,Kyle,Mahoney,41,M,Ballston Lake,NY,3:00:39
+42,Ethan,Craig,24,M,New York,NY,3:00:47
+43,Lindsey,Funch,36,F,Durham,NC,3:00:56
+44,Zachary,Kinsella,27,M,Dorset,VT,3:02:41
+45,Russell,Merchant,25,M,Waterford,NY,3:02:50
+46,Christopher,Scoville,43,M,Kinderhook,NY,3:03:03
+47,Andrew,Knapp,36,M,Lincoln,RI,3:03:36
+48,Daniel,Valero,28,M,New York,NY,3:04:19
+49,Brian,Woods,37,M,Albany,NY,3:04:34
+50,David,Bailis,43,M,Brooklyn,NY,3:05:26
+51,Andrew,Spring,40,M,Boston,MA,3:07:36
+52,Jamal,Vazquez,24,M,Johnstown,NY,3:08:03
+53,Zhaolin,Cheng,48,M,Albany,NY,3:08:24
+54,Megan,Kopp,33,F,Cambridge,NY,3:08:50
+55,Greg,Ethier,49,M,Mechanicville,NY,3:08:52
+56,Tom,Amend,66,M,Gloucester,MA,3:10:17
+57,Hunter,Padgett,31,M,Rensselaer,NY,3:10:46
+58,Andrew,Mingo,45,M,North Attleboro,MA,3:11:12
+59,Eric,Lundblade,36,M,Troy,NY,3:11:33
+60,Joshua,Gregg,40,M,West Sand Lake,NY,3:12:07
+61,Alvin,Ying,43,M,Katonah,NY,3:12:28
+62,Kimberly,Milton,40,F,Clifton Park,NY,3:12:52
+63,Jordan,Greenberg,33,M,Mundelein,IL,3:13:00
+64,Ryan,Fisher,42,M,Ballston Spa,NY,3:13:35
+65,Zhanjie,Li,39,M,Clifton Park,NY,3:14:10
+66,Jian,Shen,51,M,Albany,NY,3:14:21
+67,Nina,Armstrong,25,F,Lake Placid,NY,3:14:46
+68,Jake,Reinert,30,M,Poughkeepsie,NY,3:14:46
+69,Macy,Keegan,23,F,New York,NY,3:15:22
+70,Dimitri,Coll,48,M,Montreal,QC,3:15:29
+71,Timothy,Collins,25,M,Brooklyn,NY,3:15:38
+72,Kate,Reid,40,F,San Francisco,CA,3:15:43
+73,Michael,Sikkema,53,M,Melrose,MA,3:15:54
+74,Feng,Chen,46,M,Schenectady,NY,3:16:50
+75,Brieanne,Smith,37,F,Horseheads,NY,3:17:09
+76,Michelle,Milton,40,F,Danvers,MA,3:17:11
+77,Craig,Dubois,59,M,Sprakers,NY,3:18:25
+78,Kevin,Zalaznik,37,M,Niskayuna,NY,3:18:28
+79,Reed,Williams,28,M,Albany,NY,3:18:38
+80,Chad,Huleatt,34,M,Walden,NY,3:18:52
+81,Elizabeth,Chauhan,38,F,Albany,NY,3:18:59
+82,Paul,Humphrey,55,M,Deerfield,NY,3:19:37
+83,Marc,Dingman,45,M,Port Matilda,PA,3:19:48
+84,Michael,Slattery,27,M,New York,NY,3:19:54
+85,Yanping,Shen,43,F,Saratoga Springs,NY,3:20:13
+86,Gregory,Holden,43,M,Ballston Lake,NY,3:20:32
+87,Christopher,Fess,51,M,Clifton Park,NY,3:20:39
+88,Gabriel,Benroth,45,M,Croton On Hudson,NY,3:20:57
+89,Monil,Patel,28,M,Niskayuna,NY,3:21:07
+90,Peter,Conboy,33,M,Albany,NY,3:21:43
+91,Molly,Kane,21,F,Rensselaer,NY,3:23:07
+92,Eric,Carrera,33,M,Brooklyn,NY,3:23:13
+93,Jennifer,Hanley,39,F,Jackson Heights,NY,3:24:17
+94,Vasil,Koleci,46,M,Albany,NY,3:25:18
+95,Phil,Spiezio,58,M,Greenwich,NY,3:25:21
+96,Christopher,Wilber,39,M,Albany,NY,3:25:29
+97,Emily,Reid,27,F,South Burlington,VT,3:26:13
+98,Joseph,Crowe,39,M,Albany,NY,3:27:58
+99,Keri,Girmindl,38,F,Philadelphia,PA,3:28:03
+100,Beth,Hudak,37,F,New York,NY,3:28:23
+101,Hannah,Jennings,45,F,Orlando,FL,3:28:27
+102,Patricia,Harmon,30,F,Glastonbury,CT,3:28:43
+103,Karen,Dolge,52,F,Valatie,NY,3:28:44
+104,Jesse,Robson,45,M,Bennington,VT,3:28:52
+105,Randal,Bushart,54,M,Selkirk,NY,3:29:04
+106,Matthew,Solo,32,M,Selkirk,NY,3:29:07
+107,Peter,Pochily,55,M,Jefferson,NY,3:29:08
+108,Brett,Harris,37,F,Albany,NY,3:29:13
+109,Allison,Konderwich,32,F,Valatie,NY,3:29:19
+110,Rachel,Brousseau,29,F,Craryville,NY,3:29:20
+111,Michael,Adams,26,M,Boston,MA,3:29:30
+112,Angela,Yang,26,F,Ridgewood,NJ,3:29:33
+113,Emma,Kober,33,F,Cambridge,MA,3:29:34
+114,Greg,Rashford,44,M,Niskayuna,NY,3:29:47
+115,Jamie,Stroffolino,37,M,Stormville,NY,3:29:59
+116,Christopher,Berardi,40,M,Washington,DC,3:30:15
+117,Michael,Snyder,32,M,Essex Junction,VT,3:30:35
+118,Kari,Deer,43,F,Slingerlands,NY,3:30:42
+119,Matthew,Gautier,38,M,New York City,NY,3:31:23
+120,Kevin,Kilmer,57,M,Hudson,FL,3:32:01
+121,Peter,Jones,40,M,Niskayuna,NY,3:32:10
+122,Meghan,Hale,24,F,Denver,CO,3:33:03
+123,Gabriel,McGarry,46,M,Slingerlands,NY,3:33:09
+124,Molly,Munsell,26,F,Brookline,MA,3:33:41
+125,Chloe,Meltz,29,F,Columbiaville,NY,3:33:50
+126,Katie,Gibbs,40,F,Syracuse,NY,3:34:00
+127,Jared,Zornitzer,20,M,Roseland,NJ,3:34:26
+128,Gintaras,Urmilevicius,49,M,East Greenbush,NY,3:34:30
+129,Patrick,Tyler,43,M,Highland Lakes,NJ,3:34:35
+130,Myungsung,Song,52,M,New York,NY,3:35:14
+131,Michael,McCarthy,36,M,Schenectady,NY,3:35:17
+132,Marcy,Sacks,53,F,Albion,MI,3:36:03
+133,Brian,Wood,52,M,Glenmont,NY,3:37:26
+134,Scott,Moler,34,M,Saratoga Springs,NY,3:37:32
+135,Anders,Fish,21,M,Lancaster,MA,3:37:42
+136,Lotfi,Sayahi,51,M,Voorheesville,NY,3:37:44
+137,Hwasoo,Lee,55,M,Clifton Park,NY,3:38:01
+138,Uri,Halevi,36,M,Easthampton,MA,3:38:18
+139,Aaron,Rubin,35,M,Rochester,NY,3:38:26
+140,Michael,Campbell,48,M,Chateaugay,NY,3:38:40
+141,Matthew,Getz,37,M,Somerville,MA,3:38:44
+142,Mary,Williams,39,F,N Attleboro,MA,3:38:50
+143,Sang Bin,Na,42,M,Harrington Park,NJ,3:39:16
+144,Kent,Rinehart,51,M,Red Hook,NY,3:39:23
+145,Jonathan,Bao,23,M,Albany,NY,3:39:28
+146,Madi,Clark,27,F,Boulder,CO,3:41:45
+147,Kaitlyn,Stinson,25,F,Schenectady,NY,3:41:56
+148,Jennifer,Adams,39,F,Selkirk,NY,3:42:01
+149,Seth,Blumerman,48,M,Clifton Park,NY,3:42:19
+150,Joon,Kim,43,M,North Hills,NY,3:42:28
+151,Dylan,Lolya,29,F,Wayne,NJ,3:42:45
+152,Kelsey,Wingate,31,F,Niskayuna,NY,3:43:07
+153,Mary,Dy,30,F,Boston,MA,3:43:32
+154,Aaron,Dy,31,M,Boston,MA,3:43:32
+155,Jaime,Farone,46,F,Saratoga Springs,NY,3:43:50
+156,Juan,Rivelo,59,M,Clifton Park,NY,3:44:08
+157,Kieran,Wall,44,M,Glenville,NY,3:44:13
+158,Jeffrey,Hull,61,M,Billerica,MA,3:44:29
+159,Michael,Rapp,47,M,Schenectady,NY,3:44:54
+160,Takashi,Yamada,52,M,Harrison,NY,3:45:00
+161,Franklin,Lee,42,M,Brooklyn,NY,3:45:39
+162,Kendal,Copping,33,M,Galway,NY,3:46:02
+163,Rachel,Toolan,46,F,Rensselaer,NY,3:46:03
+164,John,Evansky,44,M,Hudson Falls,NY,3:46:05
+165,Stephanie,Monteau,49,F,East Greenbush,NY,3:46:06
+166,Lauren,Galimi,28,F,Saratoga Springs,NY,3:46:14
+167,Kent,Pulfer,57,M,Wayne,NE,3:46:39
+168,Natasha,Malchak,29,F,Chenango Forks,NY,3:46:49
+169,Jennifer,Darnell,60,F,Crested Butte,CO,3:46:58
+170,Michael,Veeder,61,M,Earlton,NY,3:47:07
+171,Andrew,Kinley,44,M,Rensselaer,NY,3:47:47
+172,Joseph,Chiarenzelli,32,M,Albany,NY,3:48:11
+173,Tiffiny,Sheerer,39,F,Fort Edward,NY,3:48:15
+174,Dave,Kleckner,59,M,New York,NY,3:49:00
+175,Matthew,Mauriello,45,M,Fishkill,NY,3:49:18
+176,Rebecca,Scott,33,F,Mandeville,LA,3:49:25
+177,Mike,Bennett,54,M,Waterford,VA,3:49:29
+178,Vicki,Dingman,51,F,Clifton Park,NY,3:49:29
+179,Richard,Loud,57,M,Ballston Spa,NY,3:49:34
+180,Gretchen,Yallowitz,55,F,Little Falls,NY,3:49:46
+181,Tim,Hodson,43,M,Newark,DE,3:49:52
+182,John,Geesler,63,M,Saint Johnsville,NY,3:50:13
+183,Max,Boller,23,M,New York,NY,3:50:36
+184,Barbara,Cutler,47,F,Troy,NY,3:51:08
+185,Paul,Mackey,59,M,Garrison,NY,3:51:13
+186,Marta,Pulfer,23,F,Bryan,TX,3:51:27
+187,James,Rees,33,M,Troy,MT,3:51:38
+188,Roselyne,Men,44,F,Montreal,QC,3:52:08
+189,Tina,Simmons,41,F,Schenectady,NY,3:52:25
+190,Steve,Moody,59,M,Cornelius,NC,3:52:33
+191,Aimee,Bouchard,42,F,Springfield,MA,3:52:34
+192,James,Pedersen,26,M,Schenectady,NY,3:52:59
+193,Ryan,Venter,41,M,Glenmont,NY,3:53:07
+194,Sara,Graham,46,F,Ballston Lake,NY,3:53:11
+195,Barry,Macken,64,M,Schenectady,NY,3:53:57
+196,Dylan,Stufflebeam,30,M,West Sand Lake,NY,3:54:17
+197,Katie,Jensen,50,F,Burnt Hills,NY,3:54:20
+198,Robert,Weiss,46,M,Norwood,NJ,3:54:31
+199,Amy,Smyth,45,F,Melrose,NY,3:54:58
+200,Christopher,Clugston,39,M,Fleetwood,PA,3:55:18
+201,Otis,Fuqua,25,M,Astoria,NY,3:55:49
+202,Thomas,Swon,37,M,Far Hills,NJ,3:55:52
+203,Ryan,Szalkowski,34,M,Schenectady,NY,3:56:07
+204,Jenna,Doak,33,F,Saratoga Springs,NY,3:56:14
+205,Matt,Christensen,34,M,Clifton Park,NY,3:56:17
+206,Shirley,Toth,58,F,Rome,NY,3:56:51
+207,Stephen,White,31,M,Brooklyn,NY,3:57:26
+208,Craig,Fenoff,58,M,Ballston Spa,NY,3:57:46
+209,Laura,Kelly,49,F,Albany,NY,3:57:47
+210,Stacy,Patterson,47,F,Troy,NY,3:57:49
+211,Tiffany,Pierce,28,F,Albany,NY,3:57:50
+212,Matthew,Oster,25,M,Troy,NY,3:57:59
+213,Todd,Stinson,56,M,South Kortright,NY,3:58:07
+214,Samantha,Hutchison,49,F,Houston,TX,3:58:14
+215,Xiaozheng,He,44,M,Rexford,NY,3:58:49
+216,Richard,Newkirk,35,M,Albany,NY,3:59:09
+217,Joshua,Finch,47,M,Lake Katrine,NY,3:59:17
+218,Carolann,Koleci,50,F,Albany,NY,3:59:34
+219,Keith,Straw,67,M,Malvern,PA,3:59:48
+220,Dasia,Larusso,40,F,Hanover,MA,3:59:56
+221,Stephanie,Baird,41,F,Kingston,NY,4:00:02
+222,Belinda,Tipkelan,45,F,Woodside,NY,4:00:09
+223,Katy,Derrico,48,F,Madison,CT,4:00:10
+224,Matt,Sorbero,44,M,Ballston Spa,NY,4:01:17
+225,Amanda,Vitti,43,F,Rexford,NY,4:01:34
+226,Al,Raddock,34,M,Brooklyn,NY,4:01:35
+227,Mary,Kelley,36,F,Brookfield,WI,4:01:41
+228,Stephen,Forrest,58,M,Belchertown,MA,4:01:58
+229,Colin,Gaunt,25,M,Brooklyn,NY,4:02:06
+230,Jeff,Arnold,35,M,Averill Park,NY,4:02:34
+231,Hyun,Kim,55,F,New City,NY,4:02:44
+232,Jodi,Brodsky,67,F,Atlantic Beach,NY,4:03:02
+233,Yanni,Lambropoulos,56,M,Troy,NY,4:03:10
+234,Eric,Alemany,47,M,Montgomery,NY,4:03:31
+235,Cristobal,Gutierrez,34,M,Bronx,NY,4:03:50
+236,Matthew,Linden,36,M,Delmar,NY,4:04:54
+237,Yoshiko,Jo,57,F,Swarthmore,PA,4:04:55
+238,Judi,Barth,64,F,Centerville,MA,4:05:17
+239,Stephanie,Sipala,39,F,Westwood,NJ,4:05:24
+240,Mackenzie,Peryer,40,F,West Chazy,NY,4:05:39
+241,Aldrin,Vincent,48,M,Halfmoon,NY,4:05:55
+242,Aurora,Vasil,33,F,Jersey City,NJ,4:08:04
+243,Robert,Adams,41,M,Albany,NY,4:08:18
+244,Abby,Schaible,27,F,Jeffersonville,VT,4:08:45
+245,Rob,Greer,36,M,Delmar,NY,4:08:49
+246,Isaac,Jacobson,28,M,Ballston Spa,NY,4:08:49
+247,Minhua,Lu,60,F,Mohegan Lake,NY,4:08:58
+248,Jolene,Thompson,41,F,Broadalbin,NY,4:09:04
+249,Keith,Johnson,38,M,Castleton,NY,4:09:10
+250,Laura,Murray,38,F,Melrose,NY,4:09:12
+251,Rachel,Hyzny,21,F,Kennett Sq,PA,4:09:13
+252,Andrea,Edman,31,F,New York,NY,4:09:20
+253,Lydia,Miner,25,F,Queensbury,NY,4:11:12
+254,Andrew,Moroz,36,M,Lynchburg,VA,4:11:35
+255,Mohamed,Rahmane,59,M,Ballston Lake,NY,4:11:54
+256,Brian,Casey-Campbell,35,M,Rochester,NY,4:12:13
+257,Jim,Waterhouse,68,M,Valatie,NY,4:12:19
+258,Kyle,Fichtman,40,M,Clifton Park,NY,4:12:20
+259,Dean,Pasquerella,36,M,Latham,NY,4:12:44
+260,Maria,Skane,52,F,Niskayuna,NY,4:14:16
+261,Colin,Lacy,38,M,Albany,NY,4:14:24
+262,Cassandra,Guelfi,48,F,West Suffield,CT,4:14:35
+263,Lorenzo,Antinori,38,M,Cambridge,MA,4:14:43
+264,Alan,Yallowitz,56,M,Little Falls,NY,4:14:45
+265,David,Patalano,35,M,Rochester,NY,4:14:46
+266,Denis,Cote,52,M,East Berne,NY,4:14:48
+267,Caley,Grasso,25,F,Rensselaer,NY,4:14:52
+268,Jill,Rotondo,41,F,South Burlington,VT,4:14:52
+269,Julia,Savacool,47,F,Nyc,NY,4:14:57
+270,Mike,Morelli,46,M,Halfmoon,NY,4:15:39
+271,Kelly,Andre,49,F,Mechanicville,NY,4:16:14
+272,Kyle,Bennett,27,M,Ballston Spa,NY,4:16:33
+273,Kyle,Simmons,37,M,Albany,NY,4:16:43
+274,Alex,Glazebrook,35,M,Averill Park,NY,4:16:44
+275,Steven,Gromyko,45,M,Latham,NY,4:16:44
+276,Matt,Benson,50,M,Clifton Park,NY,4:16:47
+277,Lukas,Cassick,34,M,Latham,NY,4:17:12
+278,Brandon,Schneider,40,M,Danbury,CT,4:17:41
+279,Jennifer,Schneider,42,F,Danbury,CT,4:17:41
+280,Edward,Kuppinger,59,M,Pittsford,NY,4:18:36
+281,Kyle,Kommer,31,M,Schuylerville,NY,4:18:36
+282,Fred,Clark Jr.,44,M,Nassau,NY,4:19:05
+283,Elizabeth,Luscombe,63,F,Brooklyn,NY,4:19:38
+284,Victoria,Treadwell,26,F,Mohawk,NY,4:19:45
+285,Brooks,Morgan,48,M,Cranford,NJ,4:19:50
+286,Mike,Axler,27,M,Eastampton,NJ,4:19:59
+287,Jonathan,Rosen,33,M,Niskayuna,NY,4:20:01
+288,Charles,Ohrin,33,M,Castleton,NY,4:20:24
+289,David,Eckerson,65,M,Henrietta,NY,4:21:57  1
+290,Katie,Skiba,34,F,Glenville,NY,4:22:49  1
+291,Rachel,Tegiacchi,24,F,Halfmoon,NY,4:22:53  1
+292,Jordan,Roland,36,M,White Plains,NY,4:23:34  1
+293,Robyn,Easton,50,F,Delmar,NY,4:23:50  1
+294,Eric,Potts,41,M,Glenville,NY,4:23:57  1
+295,Kevin,Corrigan,59,M,Palenville,NY,4:24:09  1
+296,Megan,Seiter,37,F,Mechanicville,NY,4:24:44  1
+297,Justin,Donohue,29,M,Schenectady,NY,4:25:21  1
+298,Paul,Bohl,60,M,Cornelius,NC,4:25:54  1
+299,Govinda,Dhanai,31,M,Jamaica,NY,4:26:51  1
+300,Omar,Williams,36,M,Troy,NY,4:26:58  1
+301,Kelsey,Keicher,32,F,Guilderland,NY,4:27:23  1
+302,Chris,Sullivan,40,M,Halfmoon,NY,4:27:28  1
+303,Will,Kisiel,20,M,Pittsfield,MA,4:27:48  1
+304,Steven,Spuck,55,M,Albany,NY,4:27:58  1
+305,James,Girmindl,66,M,Niverville,NY,4:28:26  1
+306,Mirril,McMullen,65,M,High Bridge,NJ,4:28:35  1
+307,Paul,Bassette,64,M,Castleton On Hudson,NY,4:28:41  1
+308,Spencer,Bassette,32,M,Castleton,NY,4:28:41  1
+309,Allison,Lassoe,59,F,Sheffield,MA,4:29:03  1
+310,Christopher,Jones,53,M,Southlake,TX,4:29:44  1
+311,Nathan,Gillespie,24,M,Albany,NY,4:29:50  1
+312,Shannon,Collins,24,F,Albany,NY,4:29:50  1
+313,Brittany,Redman,35,F,Queensbury,NY,4:30:25  1
+314,Kate,Dempsey,37,F,Juneau,AK,4:31:01  1
+315,Helen,Romeyn,38,F,Sharon Springs,NY,4:31:01  1
+316,Cliff,Collins,65,M,Piscataway,NJ,4:31:40  1
+317,Alexander,Popovics,74,M,Summerville,SC,4:31:52  1
+318,Shig,Hosoyama,55,M,Latham,NY,4:32:08  1
+319,Molly,North,24,F,Guilderland,NY,4:32:34  1
+320,Reginald,Wren,26,M,Ballston Spa,NY,4:33:58  1
+321,Randy,Stewart,59,M,North Rose,NY,4:34:25  1
+322,Jennifer,Martin,33,F,Boston,MA,4:34:27  1
+323,Connor,Ferris,30,M,Scotia,NY,4:34:36  1
+324,Kayla,Goyer,30,F,Poestenkill,NY,4:34:59  1
+325,Marisa,Halm,50,F,West Hartford,CT,4:36:10  1
+326,Lindsay,Cartmill,35,F,Medusa,NY,4:36:11  1
+327,Jennifer,Braun,43,F,Stone Ridge,NY,4:36:39  1
+328,Jim,MacNeill,68,M,Saratoga Springs,NY,4:37:57  1
+329,Becky,Cornell,32,F,Fort Johnson,NY,4:38:12  1
+330,MacKenzie,Dumas,26,F,Plattsburgh,NY,4:38:30  1
+331,Andrew,Elliott,34,M,Poughkeepsie,NY,4:39:50  1
+332,Nicholas,Reekie,21,M,Carmel,NY,4:40:02  1
+333,Meghann,Chyla,43,F,New Windsor,NY,4:40:16  1
+334,Elisha,Rios,36,F,Royersford,PA,4:40:21  1
+335,Amanda,Nickerson,42,F,Selkirk,NY,4:42:27  1
+336,Seamus,Hodgkinson,73,M,Delmar,NY,4:44:06  1
+337,Matthew,Smith,57,M,Voorheesville,NY,4:45:01  1
+338,Steven,Sykes,45,M,Port Washington,NY,4:46:22  1
+339,Rui,Chen,47,F,Clifton Park,NY,4:46:38  1
+340,Stephanie,Marden,45,F,Lagrangeville,NY,4:46:53  1
+341,Ann,McAvoy,55,F,Troy,NY,4:46:55  1
+342,Juanita,Dobis,46,F,Woodhaven,NY,4:48:29  1
+343,Susan,Niefield,70,F,Saratoga Springs,NY,4:49:00  1
+344,Carly,Dickinson,38,F,Rochester,NY,4:51:35  1
+345,Domingo,Ferrer,48,M,Clifton Park,NY,4:51:59  1
+346,Charles,Piotrowski,53,M,Niskayuna,NY,4:52:57  1
+347,Romualdo,Cayetano,43,M,Clifton Park,NY,4:53:05  1
+348,Adrienne,Cook,54,F,Pittsburgh,PA,4:53:34  1
+349,Ryan,Morgan,43,F,Montclair,NJ,4:55:29  1
+350,Ralf,Lenigk,54,M,Niskayuna,NY,4:56:07  1
+351,Elizabeth,Morphy,45,F,Troy,NY,4:56:20  1
+352,Kevin,Yeh,48,M,Cohoes,NY,4:56:32  1
+353,Robert,Ball,56,M,Ballston Lake,NY,4:57:43  1
+354,Emmy,Stocker,64,F,Stamford,CT,5:00:18  1
+355,Michael,Reddig,69,M,Flagstaff,AZ,5:01:25  1
+356,Adam,Bryant,28,M,Latham,NY,5:01:41  1
+357,Ryan,Reibly,28,M,Irving,TX,5:01:46  1
+358,Lakota,Quanah,51,M,Honolulu,HI,5:02:45  1
+359,Leni,Ferner,23,F,Albany,NY,5:05:15  1
+360,Tracy,Breslin,47,F,Schenectady,NY,5:05:29  1
+361,Frank,Fallon,74,M,Islip,NY,5:05:35  1
+362,Michelle,Dingman,39,F,Port Matilda,PA,5:08:14  1
+363,Colleen,Axelrod,52,F,Lagrangeville,NY,5:08:50  1
+364,Meridith,Leubner,46,F,Pittsford,NY,5:09:48  1
+365,Lexi,Cerone,31,F,Altamont,NY,5:10:07  1
+366,Bill,Brigham,64,M,Troy,NY,5:10:24  1
+367,Robert,Ward,66,M,Albany,NY,5:10:28  1
+368,Richard,Youmans,42,M,Ballston Spa,NY,5:10:51  1
+369,Glenn,Lankowski,54,M,Bluffton,SC,5:11:19  1
+370,Amanda,Nabinger,31,F,Rochester,NY,5:11:38  1
+371,Nathan,Moodley,52,M,Sidney,NY,5:12:41  1
+372,Jason,Wilkie,49,M,Albany,NY,5:12:56  1
+373,Nick,Matthews,43,M,Niskayuna,NY,5:13:25  1
+374,Nick,Barnicle,56,M,Albany,NY,5:13:47  1
+375,Jamie,Christensen,47,F,Poestenkill,NY,5:13:58  1
+376,Debbie,Vitanza,61,F,Schertz,TX,5:14:57  1
+377,Shaw,Patton,34,M,Albany,NY,5:15:19  1
+378,Ron,Brenner,56,M,Lake Placid,NY,5:17:43  1
+379,Joanne,Vanhorne,49,F,Corinth,NY,5:18:13  1
+380,Suzane,Pontbriand,72,F,Deux Montagnes,QC,5:20:19  1
+381,Kait,Medina,27,F,Ballston Spa,NY,5:20:31  1
+382,Derrick,Rumenapp,52,M,Wynantskill,NY,5:22:03  1
+383,Eric,Ardis,42,M,Niskayuna,NY,5:22:10  1
+384,John,Evans,59,M,Malta,NY,5:22:22  1
+385,Nicole,Hale,35,F,Gloversville,NY,5:25:46  1
+386,Tyler,Stewart,33,M,Victor,NY,5:26:21  1
+387,Jaime,Puccioni,46,F,Niskayuna,NY,5:26:56  1
+388,Mary Ellen,Hennessy-Jones,65,F,Madison,NJ,5:29:00  1
+389,Philip,Greenwald,67,M,New York,NY,5:29:19  1
+390,Kayla,Wright,29,F,Slatington,PA,5:29:23  1
+391,Beth,Slotman,44,F,Germantown,MD,5:29:38  1
+392,Stephanie,Ruzicka,57,F,Branchville,NJ,5:30:20  1
+393,Emilie,Lewandowski,24,F,Little Falls,NY,5:31:33  1
+394,Dave,Cunningham,58,M,Superior,CO,5:31:44  1
+395,Fajer,Saeed Ebrahim,31,F,Seattle,WA,5:33:32  1
+396,David,Yu,71,M,Atlanta,GA,5:35:24  1
+397,Yuri,Lvov,52,M,Albany,NY,5:35:36  1
+398,Sriram,Boppana,27,M,Niskayuna,NY,5:36:09  1
+399,Brandon,Doyle,40,M,Astoria,NY,5:40:34  1
+400,Brian,Rice,54,M,Frankfort,KY,5:42:18  1
+401,James,M Coopey,47,M,Staten Island,NY,5:43:20  1
+402,James,Hagin,70,M,San Diego,CA,5:50:02  1
+403,Brian,Smyth,52,M,Harrison,NY,5:51:52  1
+404,Hannah,Pena,27,F,Woodside,NY,5:52:21  1
+405,Dean,Pena,26,M,Woodside,NY,5:52:22  1
+406,Leeana,Doolin,23,F,Berne,NY,5:53:24  1
+407,Kelly,Grace,35,F,Troy,NY,5:55:50  1
+408,Tyler,Schroeder,27,M,Schaghticoke,NY,5:55:51  1
+409,Medaalsa,Beharry,63,F,Schenectady,NY,5:57:01  1
+410,Patrick,Dicerbo,56,M,Niskayuna,NY,5:57:02  1
+411,Jennifer,Bruzdzinski,49,F,Clifton Park,NY,5:57:37  1
+412,Melina,Collins,40,F,Newnan,GA,5:58:10  1
+413,Nicholas,Funk,23,M,Kinderhook,NY,5:58:57  1
+414,Rachel,Tambling,41,F,Hartford,CT,6:00:32  1

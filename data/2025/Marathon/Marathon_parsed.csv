@@ -1,0 +1,603 @@
+,place,first_name,last_name,gender,age,city,state,race_id,member,mfname,mlname,category_10,div_place
+0,1,Dylan,Gearinger,M,28,Old Forge,PA,1,no,nomatch,nomatch,a_open,1.0
+1,2,Noah,Greski,M,22,Scotia,NY,1,no,nomatch,nomatch,a_open,2.0
+2,3,Brandon,Allen,M,30,Larchmont,NY,1,no,nomatch,nomatch,b_30_39,1.0
+3,4,Jeremy,Drowne,M,47,West Chazy,NY,1,no,nomatch,nomatch,c_40_49,1.0
+4,5,Chip,Ohara,M,44,Auburn,NY,1,no,nomatch,nomatch,c_40_49,2.0
+5,6,Michael,McBride,M,25,Rensselaer,NY,1,no,nomatch,nomatch,a_open,3.0
+6,7,Dereck,Bojanowski,M,39,Fairport,NY,1,no,nomatch,nomatch,b_30_39,2.0
+7,8,Travis,Glendenning,M,42,Baltimore,OH,1,no,nomatch,nomatch,c_40_49,3.0
+8,9,Brian,Lafleche,M,26,Brooklyn,NY,1,no,nomatch,nomatch,a_open,4.0
+9,10,Dave,Vona,M,43,Germantown,NY,1,yes,Dave,Vona,c_40_49,4.0
+10,11,Eric,Tai,M,30,New York,NY,1,no,nomatch,nomatch,b_30_39,3.0
+11,12,Jake,Craypo,M,20,Wallkill,NY,1,no,nomatch,nomatch,a_open,5.0
+12,13,Lucas,Carter,M,30,New York,NY,1,no,nomatch,nomatch,b_30_39,4.0
+13,14,Art,Gunther,M,54,Nyack,NY,1,no,nomatch,nomatch,d_50_59,1.0
+14,15,Leonid,Pavlovsky,M,37,Parsippany,NJ,1,no,nomatch,nomatch,b_30_39,5.0
+15,16,Christian,Canham,M,28,Bellevue,WA,1,no,nomatch,nomatch,a_open,6.0
+16,17,Matt,Mason,M,34,Glens Falls,NY,1,no,nomatch,nomatch,b_30_39,6.0
+17,18,Peter,Conboy,M,36,Albany,NY,1,yes,Peter,Conboy,b_30_39,7.0
+18,19,Jonathan,Moore,M,31,Albany,NY,1,no,nomatch,nomatch,b_30_39,8.0
+19,20,Taylor,Hogenkamp,M,35,Seattle,WA,1,no,nomatch,nomatch,b_30_39,9.0
+20,21,Camiel,Schroeder,M,23,Middlebury,VT,1,no,nomatch,nomatch,a_open,7.0
+21,22,Felipe,Arakawa,M,42,Campinas,none,1,no,nomatch,nomatch,c_40_49,5.0
+22,23,Malcolm,Gray,M,45,Darien,CT,1,no,nomatch,nomatch,c_40_49,6.0
+23,24,Scott,Colebourne,M,43,Gisborne,none,1,no,nomatch,nomatch,c_40_49,7.0
+24,25,Zachary,Haapaoja,M,33,Califon,NJ,1,no,nomatch,nomatch,b_30_39,10.0
+25,26,Kat,Morrissey,F,35,Springfield,MA,1,no,nomatch,nomatch,b_30_39,1.0
+26,27,Kevin,Long,M,37,Queensbury,NY,1,no,nomatch,nomatch,b_30_39,11.0
+27,28,Joseph,Dule,M,37,Rotterdam,NY,1,no,nomatch,nomatch,b_30_39,12.0
+28,29,Ben,Nilsestuen,M,43,Warwick,NY,1,no,nomatch,nomatch,c_40_49,8.0
+29,30,Paul,Joyce,M,30,Troy,NY,1,yes,Paul,Joyce,b_30_39,13.0
+30,31,Megan,Vianese,F,20,Saratoga Springs,NY,1,no,nomatch,nomatch,a_open,1.0
+31,32,Ryan,Murphy,M,36,Dedham,MA,1,no,nomatch,nomatch,b_30_39,14.0
+32,33,Ben,Heller,M,36,Albany,NY,1,no,nomatch,nomatch,b_30_39,15.0
+33,34,Dean,Kang,M,42,Bremerton,WA,1,no,nomatch,nomatch,c_40_49,9.0
+34,35,Aryan,Bhujbal,M,22,Princeton Junction,NJ,1,no,nomatch,nomatch,a_open,8.0
+35,36,Jonathan,Peffley,M,37,Halfmoon,NY,1,no,nomatch,nomatch,b_30_39,16.0
+36,37,David,Bailis,M,46,Brooklyn,NY,1,no,nomatch,nomatch,c_40_49,10.0
+37,38,Connor,Price,M,26,Menands,NY,1,no,nomatch,nomatch,a_open,9.0
+38,39,Kyle,Mahoney,M,44,Ballston Lake,NY,1,yes,Kyle,Mahoney,c_40_49,11.0
+39,40,Matthew,Roche,M,43,Delmar,NY,1,yes,Matthew,Roche,c_40_49,12.0
+40,41,Tara,Travis,F,29,Clifton Park,NY,1,no,nomatch,nomatch,a_open,2.0
+41,42,James,Kehoe,M,47,Gansevoort,NY,1,no,nomatch,nomatch,c_40_49,13.0
+42,43,Ohsoon,Park,M,53,Victor,NY,1,no,nomatch,nomatch,d_50_59,2.0
+43,44,Mike,Ciavarella,M,34,Secaucus,NJ,1,no,nomatch,nomatch,b_30_39,17.0
+44,45,Matt,Becker,M,40,South Glens Falls,NY,1,no,nomatch,nomatch,c_40_49,14.0
+45,46,Clyde,Marl,M,36,Delmar,NY,1,no,nomatch,nomatch,b_30_39,18.0
+46,47,Cj,Minchoff,M,42,Plattsburgh,NY,1,no,nomatch,nomatch,c_40_49,15.0
+47,48,Krishan,Guzzo,M,24,Cary,NC,1,no,nomatch,nomatch,a_open,10.0
+48,49,Rocco,Dicarlo,M,20,Troy,NY,1,no,nomatch,nomatch,a_open,11.0
+49,50,Jacob,Gilson,M,20,Niskayuna,NY,1,no,nomatch,nomatch,a_open,12.0
+50,51,Maruti,Kolluru,M,33,Middletown,RI,1,no,nomatch,nomatch,b_30_39,19.0
+51,52,Shaquille,Roberts,M,31,The Bronx,NY,1,no,nomatch,nomatch,b_30_39,20.0
+52,53,Eric,Ciocca,M,47,Northampton,MA,1,no,nomatch,nomatch,c_40_49,16.0
+53,54,Remy,Bennie,Y,31,Long Beach,CA,1,no,nomatch,nomatch,b_30_39,1.0
+54,55,Stefan,Ogle,M,37,Dalton,MA,1,no,nomatch,nomatch,b_30_39,21.0
+55,56,Inga,Simning,F,39,Pittsford,NY,1,no,nomatch,nomatch,b_30_39,2.0
+56,57,Tomás,Awad,M,54,Sao Paulo,none,1,no,nomatch,nomatch,d_50_59,3.0
+57,58,Caiden,White,M,22,Ballston Spa,NY,1,yes,Caiden,White,a_open,13.0
+58,59,Stacie,Minchoff,F,41,Plattsburgh,NY,1,no,nomatch,nomatch,c_40_49,1.0
+59,60,Samantha,Lee,F,31,New York Mills,NY,1,no,nomatch,nomatch,b_30_39,3.0
+60,61,Damian,Gilchrist,M,31,Latham,NY,1,no,nomatch,nomatch,b_30_39,22.0
+61,62,Mike,Marsh,M,27,Lawrenceville,NJ,1,no,nomatch,nomatch,a_open,14.0
+62,63,Taylor,Smith,M,39,Rochester,NY,1,no,nomatch,nomatch,b_30_39,23.0
+63,64,Verena,McClain,F,36,Rockville,MD,1,no,nomatch,nomatch,b_30_39,4.0
+64,65,Billy,Floyd,M,29,Glens Falls,NY,1,no,nomatch,nomatch,a_open,15.0
+65,66,Thomas,Favilla,M,40,Brooklyn,NY,1,no,nomatch,nomatch,c_40_49,17.0
+66,67,Nick,Whaley,M,45,Clifton Park,NY,1,no,nomatch,nomatch,c_40_49,18.0
+67,68,Brenden,Doster,M,31,Queensbury,NY,1,no,nomatch,nomatch,b_30_39,24.0
+68,69,Daniel,Seigers,M,42,Oneonta,NY,1,no,nomatch,nomatch,c_40_49,19.0
+69,70,Tom,Goldberg,M,44,Westbury,NY,1,no,nomatch,nomatch,c_40_49,20.0
+70,71,Paul,Giuliano,M,62,Bloomfield,NJ,1,no,nomatch,nomatch,e_60_69,1.0
+71,72,Greg,Loeb,M,35,Mount Kisco,NY,1,no,nomatch,nomatch,b_30_39,25.0
+72,73,Dan,Sobrinski,M,49,Bethlehem,PA,1,no,nomatch,nomatch,c_40_49,21.0
+73,74,Japhet,Ruiz,M,26,Beacon,NY,1,no,nomatch,nomatch,a_open,16.0
+74,75,Jason,Porter,M,55,Bedford,NH,1,no,nomatch,nomatch,d_50_59,4.0
+75,76,Derek,Pope,M,44,Kings Park,NY,1,no,nomatch,nomatch,c_40_49,22.0
+76,77,Matthew,Helm,M,35,Hummelstown,PA,1,no,nomatch,nomatch,b_30_39,26.0
+77,78,Angus,Cropley,M,25,Albany,NY,1,no,nomatch,nomatch,a_open,17.0
+78,79,Milo,Cowles,M,29,Brooklyn,NY,1,no,nomatch,nomatch,a_open,18.0
+79,80,Meghan,Mortensen,F,40,Glenville,NY,1,yes,Meghan,Mortensen,c_40_49,2.0
+80,81,Megan,Haley,F,44,Albany,NY,1,no,nomatch,nomatch,c_40_49,3.0
+81,82,Andrew,Mingo,M,48,North Attleboro,MA,1,no,nomatch,nomatch,c_40_49,23.0
+82,83,Sean,Lanza,M,31,Albany,NY,1,yes,Sean,Lanza,b_30_39,27.0
+83,84,Matthew,Gnall,M,39,Hudson,NY,1,no,nomatch,nomatch,b_30_39,28.0
+84,85,Rebekah,Conbeer,F,31,Fultonville,NY,1,no,nomatch,nomatch,b_30_39,5.0
+85,86,Chris,Adamski,M,24,Saratoga Springs,NY,1,no,nomatch,nomatch,a_open,19.0
+86,87,Joshua,Norkin,M,44,Troy,NY,1,no,nomatch,nomatch,c_40_49,24.0
+87,88,Gregory,Lee,M,47,Windsor,CT,1,no,nomatch,nomatch,c_40_49,25.0
+88,89,Pierre Oliv,Martel,M,43,Montréal,QC,1,no,nomatch,nomatch,c_40_49,26.0
+89,90,Tyler,Kopacki,M,37,Saratoga Springs,NY,1,no,nomatch,nomatch,b_30_39,29.0
+90,91,Corey,Slater,M,30,Poughkeepsie,NY,1,no,nomatch,nomatch,b_30_39,30.0
+91,92,Kevin,Navas,M,32,Flowery Branch,GA,1,no,nomatch,nomatch,b_30_39,31.0
+92,93,Keith,Benoit,M,61,Plattsburgh,NY,1,yes,Keith,Benoit,e_60_69,2.0
+93,94,Kendall,Cietek,F,31,Glenmont,NY,1,yes,Kendall,Cietek,b_30_39,6.0
+94,95,John,Casey,M,24,Rochester,NY,1,no,nomatch,nomatch,a_open,20.0
+95,96,Wyatt,Duval,M,20,Durham,NH,1,no,nomatch,nomatch,a_open,21.0
+96,97,Charles,Anderson,M,29,Boston,MA,1,no,nomatch,nomatch,a_open,22.0
+97,98,Brian,Savage,M,41,Mountain Lakes,NJ,1,no,nomatch,nomatch,c_40_49,27.0
+98,99,Bruce,Cleaver,M,38,Pittsford,VT,1,no,nomatch,nomatch,b_30_39,32.0
+99,100,Alexander,Leshkevich,M,29,Cohoes,NY,1,no,nomatch,nomatch,a_open,23.0
+100,101,Alexander,Turnquist,M,37,Hurley,NY,1,no,nomatch,nomatch,b_30_39,33.0
+101,102,Christopher,Miedema,M,34,Pattersonville,NY,1,yes,Christopher,Miedema,b_30_39,34.0
+102,103,Keith,Gregory,M,36,Cohoes,NY,1,no,nomatch,nomatch,b_30_39,35.0
+103,104,William,Dean,M,24,Rochester,MN,1,no,nomatch,nomatch,a_open,24.0
+104,105,Randell,Hansen,M,46,Sacramento,CA,1,no,nomatch,nomatch,c_40_49,28.0
+105,106,Ben,Guerin,M,23,Saratoga Springs,NY,1,no,nomatch,nomatch,a_open,25.0
+106,107,Nicholas,Grous,M,30,Croton On Hudson,NY,1,no,nomatch,nomatch,b_30_39,36.0
+107,108,Ryan,King,M,25,Schenectady,NY,1,no,nomatch,nomatch,a_open,26.0
+108,109,Joseph,Rose,M,35,Natick,MA,1,no,nomatch,nomatch,b_30_39,37.0
+109,110,Jian,Shen,M,54,Albany,NY,1,no,nomatch,nomatch,d_50_59,5.0
+110,111,Aya,Leitz,F,48,Jersey City,NJ,1,no,nomatch,nomatch,c_40_49,4.0
+111,112,James,Menousek,M,33,Framingham,MA,1,no,nomatch,nomatch,b_30_39,38.0
+112,113,Daniel,Happ,M,33,Rochester,NY,1,no,nomatch,nomatch,b_30_39,39.0
+113,114,John,Lynd,M,34,Brooklyn,NY,1,no,nomatch,nomatch,b_30_39,40.0
+114,115,Wilbert,Beachy,M,34,Hummelstown,PA,1,no,nomatch,nomatch,b_30_39,41.0
+115,116,Alex,Sobiecki,M,34,Glenmont,NY,1,no,nomatch,nomatch,b_30_39,42.0
+116,117,Michael,Sheehan,M,42,Phila,PA,1,no,nomatch,nomatch,c_40_49,29.0
+117,118,Thomas,Bogart,M,33,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,43.0
+118,119,Adam,Munn,M,22,Saratoga Springs,NY,1,no,nomatch,nomatch,a_open,27.0
+119,120,Dan,McGrady,M,39,Mountain Lakes,NJ,1,no,nomatch,nomatch,b_30_39,44.0
+120,121,Matthew,Iannone,M,24,Prospect,CT,1,no,nomatch,nomatch,a_open,28.0
+121,122,Russell,Merchant,M,28,Saratoga Springs,NY,1,no,nomatch,nomatch,a_open,29.0
+122,123,Abby,Grous,F,30,Croton On Hudson,NY,1,no,nomatch,nomatch,b_30_39,7.0
+123,124,Jack,Speshock,M,28,Ballston Spa,NY,1,no,nomatch,nomatch,a_open,30.0
+124,125,Jessica,Berschwinger,F,37,Voorheesville,NY,1,yes,Jessica,Berschwinger,b_30_39,8.0
+125,126,Rachel,Berschwinger,F,37,Voorheesville,NY,1,yes,Rachel,Berschwinger,b_30_39,9.0
+126,127,Mike,Griffin,M,44,Marlboro,NJ,1,no,nomatch,nomatch,c_40_49,30.0
+127,128,William,Wheeler,M,45,Belchertown,MA,1,no,nomatch,nomatch,c_40_49,31.0
+128,129,Conrad,Harris,M,56,New York,NY,1,no,nomatch,nomatch,d_50_59,6.0
+129,130,Romain,Lallement,M,43,Troy,NY,1,no,nomatch,nomatch,c_40_49,32.0
+130,131,Christina,Danosi,F,34,Manchester Center,VT,1,no,nomatch,nomatch,b_30_39,10.0
+131,132,Kevin,Horty,M,53,Canaan,NY,1,no,nomatch,nomatch,d_50_59,7.0
+132,133,Fabrice,Ah-Waye,M,54,Brossard,QC,1,no,nomatch,nomatch,d_50_59,8.0
+133,134,Chee Yuen,Cheung,M,48,Darien,CT,1,no,nomatch,nomatch,c_40_49,33.0
+134,135,Gina,Barbato,F,33,New York,NY,1,no,nomatch,nomatch,b_30_39,11.0
+135,136,Sean,Hannon,M,42,Altamont,NY,1,yes,Sean,Hannon,c_40_49,34.0
+136,137,Hugh,Stuart,M,35,New Rochelle,NY,1,no,nomatch,nomatch,b_30_39,45.0
+137,138,Dallas,Devries,M,48,Cohoes,NY,1,yes,Dallas,Devries,c_40_49,35.0
+138,139,Anna,McLoon,F,43,Albany,NY,1,yes,Anna,Mcloon,c_40_49,5.0
+139,140,Elizabeth,Chauhan,F,41,Albany,NY,1,yes,Elizabeth,Chauhan,c_40_49,6.0
+140,141,Tiffany,Pierce,F,31,Mechanicville,NY,1,yes,Tiffany,Pierce,b_30_39,12.0
+141,142,Benjamin,Corey,M,25,Binghamton,NY,1,no,nomatch,nomatch,a_open,31.0
+142,143,Jeremy,Oneil,M,41,North Bennington,VT,1,no,nomatch,nomatch,c_40_49,36.0
+143,144,Phillip,Monthie,M,38,Clifton Park,NY,1,no,nomatch,nomatch,b_30_39,46.0
+144,145,Justin,Clement,M,30,Clifton Park,NY,1,yes,Justin,Clement,b_30_39,47.0
+145,146,Bryan,Howard,M,29,Mechanicville,NY,1,no,nomatch,nomatch,a_open,32.0
+146,147,Charles,Santon,M,19,Broadalbin,NY,1,no,nomatch,nomatch,a_open,33.0
+147,148,Bridget,McGahen,F,35,Gloversville,NY,1,no,nomatch,nomatch,b_30_39,13.0
+148,149,Alexander,Glazebrook,M,38,Averill Park,NY,1,no,nomatch,nomatch,b_30_39,48.0
+149,150,Chad,Spielmann,M,42,Red Bank,NJ,1,no,nomatch,nomatch,c_40_49,37.0
+150,151,Davin,Ganpat,M,42,Levittown,NY,1,no,nomatch,nomatch,c_40_49,38.0
+151,152,Dennis,McKenna,M,59,Selkirk,NY,1,no,nomatch,nomatch,d_50_59,9.0
+152,153,Peter,Jones,M,43,Niskayuna,NY,1,no,nomatch,nomatch,c_40_49,39.0
+153,154,Daniel,Burke,M,29,Schenectady,NY,1,yes,Daniel,Burke,a_open,34.0
+154,155,Patrick,Kalish,M,33,Ballston Spa,NY,1,no,nomatch,nomatch,b_30_39,49.0
+155,156,Greg,Ethier,M,52,Ballston Lake,NY,1,yes,Greg,Ethier,d_50_59,10.0
+156,157,Jamie,Stroffolino,M,40,Stormville,NY,1,no,nomatch,nomatch,c_40_49,40.0
+157,158,John,Ryan,M,44,Clifton Park,NY,1,yes,John,Ryan,c_40_49,41.0
+158,159,Brian,Rancourt,M,48,Delmar,NY,1,no,nomatch,nomatch,c_40_49,42.0
+159,160,Frank,Dashnaw III,M,41,Cadyville,NY,1,no,nomatch,nomatch,c_40_49,43.0
+160,161,Alessandro,Pregel,M,36,Brooklyn,NY,1,no,nomatch,nomatch,b_30_39,50.0
+161,162,Lauren,Lounsbery,F,30,Poestenkill,NY,1,no,nomatch,nomatch,b_30_39,14.0
+162,163,Tim,Schmidt,M,41,Avenel,NJ,1,no,nomatch,nomatch,c_40_49,44.0
+163,164,Bonnie,Farinella,F,41,The Woodlands,TX,1,no,nomatch,nomatch,c_40_49,7.0
+164,165,Brett,Fajen,M,54,Nassau,NY,1,no,nomatch,nomatch,d_50_59,11.0
+165,166,Nairn,Chadwick,M,58,Shelburne Falls,MA,1,no,nomatch,nomatch,d_50_59,12.0
+166,167,Jeremy,Evans,M,49,Saranac Lake,NY,1,no,nomatch,nomatch,c_40_49,45.0
+167,168,Matthew,Marsh,M,39,Tyringham,MA,1,yes,Matthew,Marsh,b_30_39,51.0
+168,169,Tim,Hammond,M,46,Rutland,VT,1,no,nomatch,nomatch,c_40_49,46.0
+169,170,Alexander,Rebelo,M,26,Williamstown,MA,1,no,nomatch,nomatch,a_open,35.0
+170,171,Travis,West,M,34,Ballston Lake,NY,1,yes,Travis,West,b_30_39,52.0
+171,172,Brianna,Foley,F,29,Salisbury,VT,1,no,nomatch,nomatch,a_open,3.0
+172,173,Aidan,Hartmann,M,19,Voorheesville,NY,1,no,nomatch,nomatch,a_open,36.0
+173,174,Ashley,Bertorelli,F,41,Stephentown,NY,1,no,nomatch,nomatch,c_40_49,8.0
+174,175,James,Najarian,M,32,Brooklyn,NY,1,no,nomatch,nomatch,b_30_39,53.0
+175,176,Sean,Dingman,M,36,Glens Falls,NY,1,no,nomatch,nomatch,b_30_39,54.0
+176,177,Adam,French,M,36,Nassau,NY,1,no,nomatch,nomatch,b_30_39,55.0
+177,178,Kevin,Pachucki,M,42,Voorheesville,NY,1,no,nomatch,nomatch,c_40_49,47.0
+178,179,Andrew,Berger,M,28,Rensselaer,NY,1,yes,Andrew,Berger,a_open,37.0
+179,180,Michael,Barba,M,35,Delmar,NY,1,no,nomatch,nomatch,b_30_39,56.0
+180,181,John,Kulesa,M,35,New York,NY,1,no,nomatch,nomatch,b_30_39,57.0
+181,182,Elizabeth,Jansen Amell,F,34,Concord,NH,1,no,nomatch,nomatch,b_30_39,15.0
+182,183,David,Oldrich,M,19,Valatie,NY,1,no,nomatch,nomatch,a_open,38.0
+183,184,Michael,Costello,M,37,Guilderland,NY,1,no,nomatch,nomatch,b_30_39,58.0
+184,185,Michael,Spirko,M,46,Cedar Grove,NJ,1,no,nomatch,nomatch,c_40_49,48.0
+185,186,Gisele,Campoli,F,44,Campinas Sp,none,1,no,nomatch,nomatch,c_40_49,9.0
+186,187,Zoelena,Poore,F,27,Clifton Park,NY,1,yes,Zoelena,Poore,a_open,4.0
+187,188,Ryan,Venter,M,44,Glenmont,NY,1,yes,Ryan,Venter,c_40_49,49.0
+188,189,Mariana,Serback,F,31,Niskayuna,NY,1,yes,Mariana,Serback,b_30_39,16.0
+189,190,Joel,Wakesberg,M,40,Rockville,MD,1,no,nomatch,nomatch,c_40_49,50.0
+190,191,Gregory,Hoppe,M,32,North Palm Beach,FL,1,no,nomatch,nomatch,b_30_39,59.0
+191,192,Alexandra,Chakar,F,23,Danbury,CT,1,no,nomatch,nomatch,a_open,5.0
+192,193,Robert,Reif,M,27,New York City,NY,1,no,nomatch,nomatch,a_open,39.0
+193,194,Jake,Robinson,M,31,Saratoga Springs,NY,1,no,nomatch,nomatch,b_30_39,60.0
+194,195,Ian,Lewis,M,46,Stillwater,NY,1,no,nomatch,nomatch,c_40_49,51.0
+195,196,Andrew,Sylvester,M,33,Newburgh Ny,NY,1,no,nomatch,nomatch,b_30_39,61.0
+196,197,Sara,Emery,F,34,Gansevoort,NY,1,no,nomatch,nomatch,b_30_39,17.0
+197,198,Theresa,Costantino,F,44,Old Bridge,NJ,1,no,nomatch,nomatch,c_40_49,10.0
+198,199,Joseph,Phillips,M,31,Fishkill,NY,1,no,nomatch,nomatch,b_30_39,62.0
+199,200,Stephanie,Douglass,F,56,Agawam,MA,1,no,nomatch,nomatch,d_50_59,1.0
+200,201,Haynes,Wood,M,39,Corrales,NM,1,no,nomatch,nomatch,b_30_39,63.0
+201,202,Ericka,Emerson,F,54,Belchertown,MA,1,no,nomatch,nomatch,d_50_59,2.0
+202,203,Kyle,Jenkins,M,25,Glenville,NY,1,no,nomatch,nomatch,a_open,40.0
+203,204,Cornelius,Griffin,M,48,Barrington,RI,1,no,nomatch,nomatch,c_40_49,52.0
+204,205,Cameron,Jackson,F,34,Baltimore,MD,1,no,nomatch,nomatch,b_30_39,18.0
+205,206,Steve,Gélinas,M,43,Saint-Constant,QC,1,no,nomatch,nomatch,c_40_49,53.0
+206,207,Gerard,Hoban,M,61,New York,NY,1,no,nomatch,nomatch,e_60_69,3.0
+207,208,Nicholas,Lobosco,M,43,Ballston Spa,NY,1,no,nomatch,nomatch,c_40_49,54.0
+208,209,Kelsey,Lindsey,F,37,Washburn,WI,1,no,nomatch,nomatch,b_30_39,19.0
+209,210,Jessica,McNamee,F,39,Niagara Falls,NY,1,no,nomatch,nomatch,b_30_39,20.0
+210,211,Nathan,Mirin,M,20,Troy,NY,1,no,nomatch,nomatch,a_open,41.0
+211,212,Hayden,Rebelo,F,26,Williamstown,MA,1,no,nomatch,nomatch,a_open,6.0
+212,213,Emilie,Morin,F,44,Boucherville,QC,1,no,nomatch,nomatch,c_40_49,11.0
+213,214,Michael,Marchese,M,39,Gansevoort,NY,1,no,nomatch,nomatch,b_30_39,64.0
+214,215,Junhong,Zhu,M,53,New York,NY,1,no,nomatch,nomatch,d_50_59,13.0
+215,216,Mark,McDermott,M,63,Pittsfield,MA,1,no,nomatch,nomatch,e_60_69,4.0
+216,217,Val,Franzago,F,46,Mashpee,MA,1,no,nomatch,nomatch,c_40_49,12.0
+217,218,Michelle,Bailey,F,45,Kennebunkport,ME,1,no,nomatch,nomatch,c_40_49,13.0
+218,219,Brett,Harris,F,40,Albany,NY,1,no,nomatch,nomatch,c_40_49,14.0
+219,220,Joseph,Altobello,M,47,Troy,NY,1,no,nomatch,nomatch,c_40_49,55.0
+220,221,Travis,Contreras,M,27,Poughkeepsie,NY,1,no,nomatch,nomatch,a_open,42.0
+221,222,Nicholas,Fisher,M,18,Halfmoon,NY,1,no,nomatch,nomatch,a_open,43.0
+222,223,James,Cappiello,M,58,Brooklyn,NY,1,no,nomatch,nomatch,d_50_59,14.0
+223,224,Claire,McCoy,F,28,Somerville,MA,1,no,nomatch,nomatch,a_open,7.0
+224,225,Josh,Ellis,M,40,Troy,NY,1,no,nomatch,nomatch,c_40_49,56.0
+225,226,Nicole,Viscusi,F,40,Scotia,NY,1,no,nomatch,nomatch,c_40_49,15.0
+226,227,Jazmin,Abraham,F,43,Upper Saddle River,NJ,1,no,nomatch,nomatch,c_40_49,16.0
+227,228,Joshua,Turo,M,30,Cohoes,NY,1,no,nomatch,nomatch,b_30_39,65.0
+228,229,Sang,Choi,F,59,Palisades Park,NJ,1,no,nomatch,nomatch,d_50_59,3.0
+229,230,Sohil,Dharia,M,22,Glen Head,NY,1,no,nomatch,nomatch,a_open,44.0
+230,231,Eliot,Ephraim,M,58,Chicago,IL,1,no,nomatch,nomatch,d_50_59,15.0
+231,232,Meagan,Donaldson,F,36,Slingerlands,NY,1,no,nomatch,nomatch,b_30_39,21.0
+232,233,Vikram,Sharma,M,18,Lake Elmo,MN,1,no,nomatch,nomatch,a_open,45.0
+233,234,Nicole,Williamson,F,38,Greenfield,MA,1,no,nomatch,nomatch,b_30_39,22.0
+234,235,John,Evans,M,32,Rensselaer,NY,1,yes,John,Evans,b_30_39,66.0
+235,236,Brian,Kristel,M,28,Albany,NY,1,no,nomatch,nomatch,a_open,46.0
+236,237,Yahong,Ge,F,52,Watervliet,NY,1,no,nomatch,nomatch,d_50_59,4.0
+237,238,Michelle,Allen,F,45,Lenox,MA,1,no,nomatch,nomatch,c_40_49,17.0
+238,239,James,Murphy,M,24,Cambridge,MA,1,no,nomatch,nomatch,a_open,47.0
+239,240,John,Paniccia,M,58,Clifton Park,NY,1,yes,John,Paniccia,d_50_59,16.0
+240,241,Elizabeth,Giblin,F,53,Verona,NJ,1,no,nomatch,nomatch,d_50_59,5.0
+241,242,Jason,Stone,M,48,Albany,NY,1,yes,Jason,Stone,c_40_49,57.0
+242,243,Chad,Collishaw,M,35,Wimberley,TX,1,no,nomatch,nomatch,b_30_39,67.0
+243,244,Andrea,Scribner,F,43,Amsterdam,NY,1,no,nomatch,nomatch,c_40_49,18.0
+244,245,Ariel,Phillips,F,34,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,23.0
+245,246,Clement,Tanaka,M,63,Auburn,AL,1,no,nomatch,nomatch,e_60_69,5.0
+246,247,Kierstyn,Hunter,F,45,Great Barrington,MA,1,no,nomatch,nomatch,c_40_49,19.0
+247,248,Allison,Richards,F,39,Kennebunkport,ME,1,no,nomatch,nomatch,b_30_39,24.0
+248,249,J.D.,Wilson,M,40,Rensselaer,NY,1,no,nomatch,nomatch,c_40_49,58.0
+249,250,Jacob,Slyer-Fitch,M,29,East Greenbush,NY,1,yes,Jacob,Slyer-fitch,a_open,48.0
+250,251,Annette,Romano,F,61,Malta,NY,1,no,nomatch,nomatch,e_60_69,1.0
+251,252,Gabriel,McGarry,M,49,Slingerlands,NY,1,yes,Gabriel,Mcgarry,c_40_49,59.0
+252,253,Daniel,Sass,M,39,Ridgewood,NJ,1,no,nomatch,nomatch,b_30_39,68.0
+253,254,Daniel,Norton,M,49,East Greenbush,NY,1,no,nomatch,nomatch,c_40_49,60.0
+254,255,Gregory,Hawryluk,M,39,Franklin,NJ,1,no,nomatch,nomatch,b_30_39,69.0
+255,256,Paul,Brennan,M,59,Sutton,MA,1,no,nomatch,nomatch,d_50_59,17.0
+256,257,David,Maggiotto,M,42,New York,NY,1,no,nomatch,nomatch,c_40_49,61.0
+257,258,Mark,O'Brien,M,32,New York,NY,1,no,nomatch,nomatch,b_30_39,70.0
+258,259,Yanggi,Park,M,59,Palisades Park,NJ,1,no,nomatch,nomatch,d_50_59,18.0
+259,260,Brittany,Perry,F,38,Fort Ann,NY,1,no,nomatch,nomatch,b_30_39,25.0
+260,261,Charles,Weldon,M,40,Albany,NY,1,no,nomatch,nomatch,c_40_49,62.0
+261,262,Meghan,Bennison,F,30,Albany,NY,1,no,nomatch,nomatch,b_30_39,26.0
+262,263,Paul,Henke,M,30,Red Hook,NY,1,no,nomatch,nomatch,b_30_39,71.0
+263,264,Katy,Henke,F,25,Red Hook,NY,1,no,nomatch,nomatch,a_open,8.0
+264,265,A.J.,Markham,M,42,Winthrop,MA,1,no,nomatch,nomatch,c_40_49,63.0
+265,266,Elizabeth,Rueckert,F,38,Loudonville,NY,1,no,nomatch,nomatch,b_30_39,27.0
+266,267,Jongseok,Kim,M,45,Ridgewood,NJ,1,no,nomatch,nomatch,c_40_49,64.0
+267,268,Jonathan,Albert,M,47,Malta,NY,1,no,nomatch,nomatch,c_40_49,65.0
+268,269,Amy,O'Connor,F,54,Clifton Park,NY,1,no,nomatch,nomatch,d_50_59,6.0
+269,270,Michele,Machalani,F,48,Brooklyn,NY,1,no,nomatch,nomatch,c_40_49,20.0
+270,271,Sam,Goldenberg,M,30,Ballston Spa,NY,1,no,nomatch,nomatch,b_30_39,72.0
+271,272,Zachary,Plattner,M,36,Rockaway Park,NY,1,no,nomatch,nomatch,b_30_39,73.0
+272,273,Nick,Moscatiello,M,36,Albany,NY,1,no,nomatch,nomatch,b_30_39,74.0
+273,274,Jessica,Amyot,F,42,Clifton Park,NY,1,no,nomatch,nomatch,c_40_49,21.0
+274,275,Samuel,Morra,M,23,New York City,NY,1,no,nomatch,nomatch,a_open,49.0
+275,276,Hunter,Rice,M,27,Brooklyn,NY,1,no,nomatch,nomatch,a_open,50.0
+276,277,Andrew,Kil,M,31,Boston,MA,1,no,nomatch,nomatch,b_30_39,75.0
+277,278,Jacob,Barbato,M,32,Boston,MA,1,no,nomatch,nomatch,b_30_39,76.0
+278,279,Mason,Meredith,M,17,Kinderhook,NY,1,no,nomatch,nomatch,a_open,51.0
+279,280,Meaghan,Arzberger,F,40,Arundel,ME,1,no,nomatch,nomatch,c_40_49,22.0
+280,281,Tim,Saxe,M,29,Glenmont,NY,1,no,nomatch,nomatch,a_open,52.0
+281,282,Matt,Coonradt,M,50,Ballston Lake,NY,1,no,nomatch,nomatch,d_50_59,19.0
+282,283,Minnie,Zhang,F,61,Green Brook,NJ,1,no,nomatch,nomatch,e_60_69,2.0
+283,284,Victor,Angeline,M,33,Miami,FL,1,no,nomatch,nomatch,b_30_39,77.0
+284,285,Nicholas,Bohmer,M,28,Clifton Park,NY,1,no,nomatch,nomatch,a_open,53.0
+285,286,Peter,Kopke,M,56,New York,NY,1,no,nomatch,nomatch,d_50_59,20.0
+286,287,Christopher,Showers,M,56,Pawling,NY,1,no,nomatch,nomatch,d_50_59,21.0
+287,288,Weijun,Chen,M,31,Cary,NC,1,no,nomatch,nomatch,b_30_39,78.0
+288,289,Bowen,Cai,M,30,Buffalo,NY,1,no,nomatch,nomatch,b_30_39,79.0
+289,290,Jillian,Viup,F,36,Islip,NY,1,no,nomatch,nomatch,b_30_39,28.0
+290,291,Andrew,Creary,M,33,Rochester,NY,1,no,nomatch,nomatch,b_30_39,80.0
+291,292,Kevin,Farrell,M,25,East Greenbush,NY,1,no,nomatch,nomatch,a_open,54.0
+292,293,Jamie,Casline,M,66,Ballston Lake,NY,1,yes,Jamie,Casline,e_60_69,6.0
+293,294,Sarah,Conneely,F,44,Ventura,CA,1,no,nomatch,nomatch,c_40_49,23.0
+294,295,Jared,Carlisi,M,42,Congers,NY,1,no,nomatch,nomatch,c_40_49,66.0
+295,296,Guillermo,Camargo-Soriano,M,28,Poughkeepsie,NY,1,no,nomatch,nomatch,a_open,55.0
+296,297,Jinsang,Yu,M,56,Palisades Park,NJ,1,no,nomatch,nomatch,d_50_59,22.0
+297,298,Keith,Tully,M,54,Chilmark,MA,1,no,nomatch,nomatch,d_50_59,23.0
+298,299,Ari,Rosenblum,M,30,Albany,NY,1,no,nomatch,nomatch,b_30_39,81.0
+299,300,Joshua,Cordeira,M,42,Bethel,CT,1,no,nomatch,nomatch,c_40_49,67.0
+300,301,Patty,Tang,F,43,New York,NY,1,no,nomatch,nomatch,c_40_49,24.0
+301,302,Katie,Jensen,F,53,Burnt Hills,NY,1,no,nomatch,nomatch,d_50_59,7.0
+302,303,Eric,Ostrander,M,30,Saratoga Springs,NY,1,no,nomatch,nomatch,b_30_39,82.0
+303,304,Helen,Pennock,F,39,New York,NY,1,no,nomatch,nomatch,b_30_39,29.0
+304,305,Brandon,Doran,M,37,Albany,NY,1,no,nomatch,nomatch,b_30_39,83.0
+305,306,Paul,Filkins,M,31,Scotia,NY,1,yes,Paul,Filkins,b_30_39,84.0
+306,307,Christopher,Quigley,M,34,Rhinebeck,NY,1,no,nomatch,nomatch,b_30_39,85.0
+307,308,Henry,Grygas,M,25,Albany,NY,1,no,nomatch,nomatch,a_open,56.0
+308,309,Paris,Hercamp,F,27,Ballston Spa,NY,1,no,nomatch,nomatch,a_open,9.0
+309,310,Madison,Shea,F,29,Clifton Park,NY,1,no,nomatch,nomatch,a_open,10.0
+310,311,Kelsey,Gray,M,27,Smyrna,DE,1,no,nomatch,nomatch,a_open,57.0
+311,312,Nathan,Crews,M,28,Oneonta,NY,1,no,nomatch,nomatch,a_open,58.0
+312,313,Marian,Abao,F,32,Bronx,NY,1,no,nomatch,nomatch,b_30_39,30.0
+313,314,Janine,Griffith,F,39,Ballston Lake,NY,1,no,nomatch,nomatch,b_30_39,31.0
+314,315,Christoforo,Koumas,M,31,Carmel Hamlet,NY,1,no,nomatch,nomatch,b_30_39,86.0
+315,316,Peter,Pochily,M,58,Jefferson,NY,1,no,nomatch,nomatch,d_50_59,24.0
+316,317,Marcos,Salazar,M,31,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,87.0
+317,318,Laurie,Carter,F,45,Averill Park,NY,1,yes,Laurie,Carter,c_40_49,25.0
+318,319,Crispin,Long,Y,37,Brooklyn,NY,1,no,nomatch,nomatch,b_30_39,2.0
+319,320,Lewis,Siragusa,M,31,Troy,NY,1,yes,Lewis,Siragusa,b_30_39,88.0
+320,321,Shanyn,Rubinstein,F,35,Brooklyn,NY,1,no,nomatch,nomatch,b_30_39,32.0
+321,322,Emma,Cesare,F,21,Troy,NY,1,no,nomatch,nomatch,a_open,11.0
+322,323,Tj,Cummings,M,36,Ballston Spa,NY,1,no,nomatch,nomatch,b_30_39,89.0
+323,324,Phil,Wahba,M,55,New York City,NY,1,no,nomatch,nomatch,d_50_59,25.0
+324,325,David,King,M,23,Philadelphia,PA,1,no,nomatch,nomatch,a_open,59.0
+325,326,Allen,Wong,M,32,Beacon,NY,1,no,nomatch,nomatch,b_30_39,90.0
+326,327,Megan,Swanson,F,31,Albany,NY,1,no,nomatch,nomatch,b_30_39,33.0
+327,328,Charlie,Bailey,M,65,Brentwood,TN,1,no,nomatch,nomatch,e_60_69,7.0
+328,329,Richard,Newkirk,M,38,Albany,NY,1,no,nomatch,nomatch,b_30_39,91.0
+329,330,Samantha,McDevitt,F,29,Schenectady,NY,1,no,nomatch,nomatch,a_open,12.0
+330,331,Alexander,Bisset,M,39,New York,NY,1,no,nomatch,nomatch,b_30_39,92.0
+331,332,Ariel,Nowersztern,M,46,Washington,DC,1,no,nomatch,nomatch,c_40_49,68.0
+332,333,Saara,Johanson,F,40,Saratoga Springs,NY,1,no,nomatch,nomatch,c_40_49,26.0
+333,334,Chris,Herman,M,30,Niskayuna,NY,1,no,nomatch,nomatch,b_30_39,93.0
+334,335,Rachel,Poulos,F,24,Beacon Falls,CT,1,no,nomatch,nomatch,a_open,13.0
+335,336,Mary,Weeks,F,44,Canaan,NY,1,no,nomatch,nomatch,c_40_49,27.0
+336,337,Timothy,Sadrakula,M,34,Ballston Lake,NY,1,no,nomatch,nomatch,b_30_39,94.0
+337,338,Peachy,Violi,F,37,Astoria,NY,1,no,nomatch,nomatch,b_30_39,34.0
+338,339,Sam,Lawyer,M,60,Sharon Springs,NY,1,no,nomatch,nomatch,e_60_69,8.0
+339,340,Linnea,Riegel,F,39,Delmar,NY,1,no,nomatch,nomatch,b_30_39,35.0
+340,341,John,Schiavo,M,32,Pine Bush,NY,1,no,nomatch,nomatch,b_30_39,95.0
+341,342,Solveig,Comer,F,51,South  Kortright,NY,1,no,nomatch,nomatch,d_50_59,8.0
+342,343,Lindsey,Russo,F,33,Sleepy Hollow,NY,1,no,nomatch,nomatch,b_30_39,36.0
+343,344,Gary,Campbell,M,54,Long Island City,NY,1,no,nomatch,nomatch,d_50_59,26.0
+344,345,Alan,Winslow,M,41,Brookyln,NY,1,no,nomatch,nomatch,c_40_49,69.0
+345,346,William,Appelman,M,38,Dorset,VT,1,no,nomatch,nomatch,b_30_39,96.0
+346,347,Kurt,Schaefer,M,34,Greenwich,NY,1,no,nomatch,nomatch,b_30_39,97.0
+347,348,Teresa,Berschwinger,F,35,Oneonta,NY,1,no,nomatch,nomatch,b_30_39,37.0
+348,349,Mark,Ward,M,65,South Glens Falls,NY,1,no,nomatch,nomatch,e_60_69,9.0
+349,350,Kelsey,Miraldi,F,40,Stone Ridge,NY,1,no,nomatch,nomatch,c_40_49,28.0
+350,351,Joseph,Han,M,68,Ridgefield,NJ,1,no,nomatch,nomatch,e_60_69,10.0
+351,352,Margaret,Monson,F,39,Beacon,NY,1,no,nomatch,nomatch,b_30_39,38.0
+352,353,Chris,Johnson,M,43,Waterford,NY,1,no,nomatch,nomatch,c_40_49,70.0
+353,354,Thribhuvan,Parupalli,M,48,"Westborough, Ma 015",8MA,1,no,nomatch,nomatch,c_40_49,71.0
+354,355,Edward,Pollack,M,45,Albany,NY,1,no,nomatch,nomatch,c_40_49,72.0
+355,356,Rebecca,Maroney,F,47,Y,NY,1,no,nomatch,nomatch,c_40_49,29.0
+356,357,Kevin,Simpson,M,43,Burnt Hills,NY,1,no,nomatch,nomatch,c_40_49,73.0
+357,358,James,Boisvert,M,26,South Glens Falls,NY,1,no,nomatch,nomatch,a_open,60.0
+358,359,Stephanie,Feuker,F,42,Schenectady,NY,1,yes,Stephanie,Feuker,c_40_49,30.0
+359,360,Shawna,Walz,F,44,Waterford,NY,1,no,nomatch,nomatch,c_40_49,31.0
+360,361,Brandon,Macey,M,28,Menands,NY,1,no,nomatch,nomatch,a_open,61.0
+361,362,Gerald,Talens,M,49,Delmar,NY,1,no,nomatch,nomatch,c_40_49,74.0
+362,363,Steven,Aigner,M,32,Beacon,NY,1,no,nomatch,nomatch,b_30_39,98.0
+363,364,Brian,Bailey,M,50,Ballston Spa,NY,1,no,nomatch,nomatch,d_50_59,27.0
+364,365,Paul,Meier,M,46,Wilton,NY,1,no,nomatch,nomatch,c_40_49,75.0
+365,366,Lisa,Keary,F,40,Framingham,MA,1,no,nomatch,nomatch,c_40_49,32.0
+366,367,Alexander,Hamel,M,31,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,99.0
+367,368,Emily,Rettew,F,31,Johns Island,SC,1,no,nomatch,nomatch,b_30_39,39.0
+368,369,Hwasoo,Lee,M,58,Clifton Park,NY,1,yes,Hwasoo,Lee,d_50_59,28.0
+369,370,Chris,Sims,M,44,Troy,NY,1,no,nomatch,nomatch,c_40_49,76.0
+370,371,Arianna,Austin,F,42,Washburn,WI,1,no,nomatch,nomatch,c_40_49,33.0
+371,372,Alex,Odonnell,M,26,Rochester,NY,1,no,nomatch,nomatch,a_open,62.0
+372,373,Joey,Pompei,M,43,Albany,NY,1,yes,Joey,Pompei,c_40_49,77.0
+373,374,Sage,Baltrusaitis,M,29,Glenville,NY,1,no,nomatch,nomatch,a_open,63.0
+374,375,Sarah,Whitfield,F,36,Gainesville,FL,1,no,nomatch,nomatch,b_30_39,40.0
+375,376,Unn,Hidle,F,59,Bronx,NY,1,no,nomatch,nomatch,d_50_59,9.0
+376,377,Rashna,Meunier,F,39,Glens Falls,NY,1,no,nomatch,nomatch,b_30_39,41.0
+377,378,Ruth,Tian,F,25,Oakland,CA,1,no,nomatch,nomatch,a_open,14.0
+378,379,Sarah,Pringle,F,42,Huntington,MA,1,no,nomatch,nomatch,c_40_49,34.0
+379,380,Andrew,Patterson,M,48,Delmar,NY,1,yes,Andrew,Patterson,c_40_49,78.0
+380,381,Claire,Murphy,F,29,Queensbury,NY,1,no,nomatch,nomatch,a_open,15.0
+381,382,David,Poppel,M,61,Burlington,CT,1,no,nomatch,nomatch,e_60_69,11.0
+382,383,Jessica,Hoey,F,33,Clifton Park,NY,1,yes,Jessica,Hoey,b_30_39,42.0
+383,384,Ryan,Juchem,M,43,Troy Ny,NY,1,yes,Ryan,Juchem,c_40_49,79.0
+384,385,Max,Yun,M,55,Ramsey,NJ,1,no,nomatch,nomatch,d_50_59,29.0
+385,386,Josee,Tremblay,F,44,Boucherville,QC,1,no,nomatch,nomatch,c_40_49,35.0
+386,387,Antonio,Villani,M,26,Albany,NY,1,no,nomatch,nomatch,a_open,64.0
+387,388,Molly,Whalen,F,59,Albany,NY,1,no,nomatch,nomatch,d_50_59,10.0
+388,389,Juan,Rivelo,M,62,Clifton Park,NY,1,yes,Juan,Rivelo,e_60_69,12.0
+389,390,Stephanie,Norcia,F,44,Oakland,NJ,1,no,nomatch,nomatch,c_40_49,36.0
+390,391,Kaitlyn,Congdon,F,26,Cohoes,NY,1,no,nomatch,nomatch,a_open,16.0
+391,392,Stephanie,Sipala,F,42,Westwood,NJ,1,no,nomatch,nomatch,c_40_49,37.0
+392,393,Mason,Remington,M,21,Hatfield,MA,1,no,nomatch,nomatch,a_open,65.0
+393,394,Andrew,Lynch,M,30,Troy,NY,1,no,nomatch,nomatch,b_30_39,100.0
+394,395,Chelsea,Lynch,F,30,Troy,NY,1,no,nomatch,nomatch,b_30_39,43.0
+395,396,Dilip,Pokhrel,M,39,Troy,NY,1,no,nomatch,nomatch,b_30_39,101.0
+396,397,Jeanette,Bermejo,F,17,Cohoes,NY,1,no,nomatch,nomatch,a_open,17.0
+397,398,Andrew,Neubauer,M,48,Clifton Park,NY,1,no,nomatch,nomatch,c_40_49,80.0
+398,399,Ellen,Gauthier,F,52,Schenectady,NY,1,yes,Ellen,Gauthier,d_50_59,11.0
+399,400,Hannah,Meredith,F,22,Kinderhook,NY,1,no,nomatch,nomatch,a_open,18.0
+400,401,Allyson,Mead,F,39,Albany,NY,1,no,nomatch,nomatch,b_30_39,44.0
+401,402,Scott,Pierce,M,30,Ballston Spa,NY,1,no,nomatch,nomatch,b_30_39,102.0
+402,403,Peter,McMahon,M,41,Holyoke,MA,1,no,nomatch,nomatch,c_40_49,81.0
+403,404,Adam,Parker,M,44,Jackson Heights,NY,1,no,nomatch,nomatch,c_40_49,82.0
+404,405,Name,Withheld,F,21,none,none,1,no,nomatch,nomatch,a_open,19.0
+405,406,Audrey,Woinoski,F,33,Greenville,NY,1,no,nomatch,nomatch,b_30_39,45.0
+406,407,Jason,Woinoski,M,38,Greenville,NY,1,no,nomatch,nomatch,b_30_39,103.0
+407,408,Karen,Haag,F,42,Troy,NY,1,yes,Karen,Haag,c_40_49,38.0
+408,409,Barbara,Cutler,F,50,Troy,NY,1,no,nomatch,nomatch,d_50_59,12.0
+409,410,Joseph,Alfano,M,59,Holden,MA,1,no,nomatch,nomatch,d_50_59,30.0
+410,411,Robin,Garrand,M,51,Champlain,NY,1,no,nomatch,nomatch,d_50_59,31.0
+411,412,Venkatesh,Kidambi,M,54,Denville,NJ,1,no,nomatch,nomatch,d_50_59,32.0
+412,413,Nicholas,Arcolano,M,46,Watertown,MA,1,no,nomatch,nomatch,c_40_49,83.0
+413,414,Steven,Oaks,M,54,Waterloo,IA,1,no,nomatch,nomatch,d_50_59,33.0
+414,415,Gianni,Goldstein,M,19,Cohoes,NY,1,no,nomatch,nomatch,a_open,66.0
+415,416,Michael,King,M,43,Massena,NY,1,no,nomatch,nomatch,c_40_49,84.0
+416,417,Stephen,Foust,M,39,Waterford,NY,1,yes,Stephen,Foust,b_30_39,104.0
+417,418,Jillian,Savoie,F,39,Ballston Spa,NY,1,no,nomatch,nomatch,b_30_39,46.0
+418,419,Sara,Bordwell,F,41,Ballston Spa,NY,1,no,nomatch,nomatch,c_40_49,39.0
+419,420,Marc,Kornheiser,M,56,Queens,NY,1,no,nomatch,nomatch,d_50_59,34.0
+420,421,Tatum,Treherne,F,21,Stewartstown,PA,1,no,nomatch,nomatch,a_open,20.0
+421,422,George,Haines III,M,64,New York City,NY,1,no,nomatch,nomatch,e_60_69,13.0
+422,423,Michael,Jeanmaire,M,37,Halfmoon,NY,1,no,nomatch,nomatch,b_30_39,105.0
+423,424,Jennifer,Buzzatto,F,32,Carnegie,PA,1,no,nomatch,nomatch,b_30_39,47.0
+424,425,Stephen,Fulston,M,36,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,106.0
+425,426,Erin,Lynch,F,45,Glenmont,NY,1,no,nomatch,nomatch,c_40_49,40.0
+426,427,Brandon,Alexander,M,34,Alplaus,NY,1,no,nomatch,nomatch,b_30_39,107.0
+427,428,Kyle,Stewart,M,29,Washington,DC,1,no,nomatch,nomatch,a_open,67.0
+428,429,Mary,Tanner-Richter,F,53,Delmar,NY,1,no,nomatch,nomatch,d_50_59,13.0
+429,430,Marianne,Deignan,F,64,Lenox,MA,1,no,nomatch,nomatch,e_60_69,3.0
+430,431,Elena,Razenko,F,49,Saratoga Springs,NY,1,yes,Elena,Razenko,c_40_49,41.0
+431,432,Arielle,Disick,F,34,Perrineville,NJ,1,no,nomatch,nomatch,b_30_39,48.0
+432,433,Jurgen,Bach,M,24,Saratoga Springs,NY,1,no,nomatch,nomatch,a_open,68.0
+433,434,Jodie,Smith,F,41,Owatonna,MN,1,no,nomatch,nomatch,c_40_49,42.0
+434,435,Jenna,Monisoff,F,33,Union,NJ,1,no,nomatch,nomatch,b_30_39,49.0
+435,436,Arie,Shaus,M,45,Northampton,MA,1,no,nomatch,nomatch,c_40_49,85.0
+436,437,Olivia,Langdon,F,24,Worcester,MA,1,no,nomatch,nomatch,a_open,21.0
+437,438,Brett,Holberg,M,34,Mendon,NY,1,no,nomatch,nomatch,b_30_39,108.0
+438,439,Neil,Swami,M,40,Boston,MA,1,no,nomatch,nomatch,c_40_49,86.0
+439,440,Christopher,Szady,M,31,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,109.0
+440,441,Josephine,Cook,F,25,Saratoga Springs,NY,1,no,nomatch,nomatch,a_open,22.0
+441,442,Becky,Cornell,F,35,Fort Johnson,NY,1,no,nomatch,nomatch,b_30_39,50.0
+442,443,Camden,Malone,M,24,Bridgeport,CT,1,no,nomatch,nomatch,a_open,69.0
+443,444,Maarten,Vandersman,M,60,New York,NY,1,no,nomatch,nomatch,e_60_69,14.0
+444,445,Andrew,Fraterrigo,M,26,Rotterdam,NY,1,no,nomatch,nomatch,a_open,70.0
+445,446,Brooke,Iannone,F,22,Prospect,CT,1,no,nomatch,nomatch,a_open,23.0
+446,447,Josey,Brady,F,30,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,51.0
+447,448,Mary Kate,Coseo,F,45,Wilton,NY,1,no,nomatch,nomatch,c_40_49,43.0
+448,449,Alex,Holdaway,M,26,Brooklyn,NY,1,no,nomatch,nomatch,a_open,71.0
+449,450,Will,Dawson,M,34,South Glens Falls,NY,1,no,nomatch,nomatch,b_30_39,110.0
+450,451,Angelia,Abbott,F,44,Granville,NY,1,no,nomatch,nomatch,c_40_49,44.0
+451,452,Sean,Stephens,M,41,Latham,NY,1,no,nomatch,nomatch,c_40_49,87.0
+452,453,Lizzy,Rosenberg,F,31,Cornwallville,NY,1,no,nomatch,nomatch,b_30_39,52.0
+453,454,Michael,Fosmire,M,57,Fort Edward,NY,1,no,nomatch,nomatch,d_50_59,35.0
+454,455,Nina,Bahar,F,36,Albany,NY,1,yes,Nina,Bahar,b_30_39,53.0
+455,456,Samantha,Davies,F,41,Salem,OR,1,no,nomatch,nomatch,c_40_49,45.0
+456,457,Lindsay,Vallone,F,42,Webster,NY,1,no,nomatch,nomatch,c_40_49,46.0
+457,458,Savanna,Hardt,F,23,Malta,NY,1,no,nomatch,nomatch,a_open,24.0
+458,459,Ryley,Starta,F,23,Somerville,MA,1,no,nomatch,nomatch,a_open,25.0
+459,460,Connor,Ferris,M,33,Scotia,NY,1,no,nomatch,nomatch,b_30_39,111.0
+460,461,John,Mullin,M,29,Green Island,NY,1,no,nomatch,nomatch,a_open,72.0
+461,462,Kenneth,Yuan,M,47,Glen Rock,NJ,1,no,nomatch,nomatch,c_40_49,88.0
+462,463,Prasad,Parulekar,M,50,Wayland,MA,1,no,nomatch,nomatch,d_50_59,36.0
+463,464,Ryan,Freihofer,M,19,Scotia,NY,1,no,nomatch,nomatch,a_open,73.0
+464,465,Paul,Liguori,M,26,Green Island,NY,1,no,nomatch,nomatch,a_open,74.0
+465,466,Nicole,Russell,F,33,Troy,NY,1,yes,Nicole,Russell,b_30_39,54.0
+466,467,Sophia,Loukides,F,24,Schenectady,NY,1,no,nomatch,nomatch,a_open,26.0
+467,468,Francis,Peruzzi,M,48,Herkimer,NY,1,no,nomatch,nomatch,c_40_49,89.0
+468,469,Evan,Delmolino,M,27,Adams,MA,1,no,nomatch,nomatch,a_open,75.0
+469,470,Daniel,Clark,M,39,Clifton Park,NY,1,no,nomatch,nomatch,b_30_39,112.0
+470,471,Bryanna,Escalante,F,25,Woodhaven,NY,1,no,nomatch,nomatch,a_open,27.0
+471,472,Sheila,Cintron,F,54,Troy,NY,1,no,nomatch,nomatch,d_50_59,14.0
+472,473,Justin,Cioffi,M,24,Wynantskill,NY,1,no,nomatch,nomatch,a_open,76.0
+473,474,Wendy,Zunitch,F,50,Pittsfield,MA,1,no,nomatch,nomatch,d_50_59,15.0
+474,475,Elan,Schlossberg,M,44,Latham,NY,1,yes,Elan,Schlossberg,c_40_49,90.0
+475,476,Kathleen,Barclay,F,48,Ballston Spa,NY,1,no,nomatch,nomatch,c_40_49,47.0
+476,477,Jonathan,Duperre,M,33,Castleton,NY,1,no,nomatch,nomatch,b_30_39,113.0
+477,478,Jayme,Torelli,F,43,Glenmont,NY,1,yes,Jayme,Torelli,c_40_49,48.0
+478,479,Jason,Young,M,35,Hoboken,NJ,1,no,nomatch,nomatch,b_30_39,114.0
+479,480,Lorin,Williams,F,39,Amsterdam,NY,1,no,nomatch,nomatch,b_30_39,55.0
+480,481,Jason,Young,M,42,Schenectady,NY,1,no,nomatch,nomatch,c_40_49,91.0
+481,482,Michelle,Michelin,F,32,Schnectady,NY,1,no,nomatch,nomatch,b_30_39,56.0
+482,483,Brooke,Fitzgerald,F,27,New York Mills,NY,1,no,nomatch,nomatch,a_open,28.0
+483,484,Steven,Menard,M,29,Glenville,NY,1,no,nomatch,nomatch,a_open,77.0
+484,485,Avery,Lifton-Jochnowitz,M,20,Austin,TX,1,no,nomatch,nomatch,a_open,78.0
+485,486,Samantha,Drake,F,20,Clifton Park,NY,1,no,nomatch,nomatch,a_open,29.0
+486,487,Lauren,Drake,F,27,Clifton Park,NY,1,no,nomatch,nomatch,a_open,30.0
+487,488,Emily,Drake,F,23,Clifton Park,NY,1,no,nomatch,nomatch,a_open,31.0
+488,489,Sarah,Robinson,F,28,Cambridge,MA,1,no,nomatch,nomatch,a_open,32.0
+489,490,Leah,McIntosh,F,18,Schodack Landing,NY,1,yes,Leah,Mcintosh,a_open,33.0
+490,491,Erin,Desantis,F,47,Jay,NY,1,no,nomatch,nomatch,c_40_49,49.0
+491,492,Adriana,Freeman,F,33,Indianapolis,IN,1,no,nomatch,nomatch,b_30_39,57.0
+492,493,Stephanie,Herrick,F,47,Castleton,NY,1,no,nomatch,nomatch,c_40_49,50.0
+493,494,Matthew,Grygas,M,39,Altamont,NY,1,no,nomatch,nomatch,b_30_39,115.0
+494,495,Shaw,Patton,M,37,Albany,NY,1,yes,Shaw,Patton,b_30_39,116.0
+495,496,Alyssa,Preston,F,30,Ferrisburgh,VT,1,no,nomatch,nomatch,b_30_39,58.0
+496,497,Emily,Deblasi,F,33,Kew Gardens,NY,1,no,nomatch,nomatch,b_30_39,59.0
+497,498,Jessica,Harris,F,40,Ballston Lake,NY,1,no,nomatch,nomatch,c_40_49,51.0
+498,499,Mary,Delgrande,F,37,Brooklyn,NY,1,no,nomatch,nomatch,b_30_39,60.0
+499,500,Matthew,Leopold,M,53,Pleasantville,NY,1,no,nomatch,nomatch,d_50_59,37.0
+500,501,Jean-Franco,Guay,M,60,Ste-Julie,QC,1,no,nomatch,nomatch,e_60_69,15.0
+501,502,Jean-Philip,Fortin,M,48,Lac-Beauport,QC,1,no,nomatch,nomatch,c_40_49,92.0
+502,503,Annie,Tremblay,F,50,Waterford,NY,1,no,nomatch,nomatch,d_50_59,16.0
+503,504,Logan,Beringer,M,21,Halfmoon,NY,1,no,nomatch,nomatch,a_open,79.0
+504,505,Glenn,Smith,M,45,Baltimore,MD,1,no,nomatch,nomatch,c_40_49,93.0
+505,506,Jason,Owney,M,26,Albany,NY,1,no,nomatch,nomatch,a_open,80.0
+506,507,John,Evans,M,62,Malta,NY,1,no,nomatch,nomatch,e_60_69,16.0
+507,508,Alexandre,Durand,M,48,Miami Beach,FL,1,no,nomatch,nomatch,c_40_49,94.0
+508,509,Brian,Steinmuller,M,47,Stillwater,NY,1,no,nomatch,nomatch,c_40_49,95.0
+509,510,James,Morance,M,35,Rutherford,NJ,1,no,nomatch,nomatch,b_30_39,117.0
+510,511,David,Farrar,M,69,Bangor,ME,1,no,nomatch,nomatch,e_60_69,17.0
+511,512,Nicole,Farrar,F,33,Manchester,NH,1,no,nomatch,nomatch,b_30_39,61.0
+512,513,Joe,Thayer,M,23,Halfmoon,NY,1,no,nomatch,nomatch,a_open,81.0
+513,514,Joseph,Pugliese,M,33,Poughkeepsie,NY,1,no,nomatch,nomatch,b_30_39,118.0
+514,515,Nicole,Johnson,F,49,North Haledon,NJ,1,no,nomatch,nomatch,c_40_49,52.0
+515,516,Isabel,Celio,F,25,Needham,MA,1,no,nomatch,nomatch,a_open,34.0
+516,517,Dhiraj,Shrotri,M,30,Albany,NY,1,yes,Dhiraj,Shrotri,b_30_39,119.0
+517,518,Angelina,Pollen,F,30,Fishkill,NY,1,no,nomatch,nomatch,b_30_39,62.0
+518,519,Jim,Dewan,M,47,Clifton Park,NY,1,no,nomatch,nomatch,c_40_49,96.0
+519,520,Sarah,Faas,F,34,Rensselaer,NY,1,yes,Sarah,Faas,b_30_39,63.0
+520,521,Melanie,Sheldon,F,31,Nassau,NY,1,yes,Melanie,Sheldon,b_30_39,64.0
+521,522,John,Funk,M,59,Kinderhook,NY,1,no,nomatch,nomatch,d_50_59,38.0
+522,523,Michele,Brown,F,51,Freehold,NY,1,yes,Michele,Brown,d_50_59,17.0
+523,524,Leah,Christensen,F,55,Branchville,NJ,1,no,nomatch,nomatch,d_50_59,18.0
+524,525,Songdong,Tian,M,57,West Hartford,CT,1,no,nomatch,nomatch,d_50_59,39.0
+525,526,Steven,Sharp,M,40,Albany,NY,1,no,nomatch,nomatch,c_40_49,97.0
+526,527,Tyler,Schroeder,M,30,Schaghticoke,NY,1,no,nomatch,nomatch,b_30_39,120.0
+527,528,Stephen,Cruise,M,50,Dover Plains,NY,1,no,nomatch,nomatch,d_50_59,40.0
+528,529,Robert,Ward,M,69,Albany,NY,1,no,nomatch,nomatch,e_60_69,18.0
+529,530,William,Ruzza,M,36,Schenectady,NY,1,yes,William,Ruzza,b_30_39,121.0
+530,531,Nicholas,Gross,M,23,Delmar,NY,1,no,nomatch,nomatch,a_open,82.0
+531,532,Abigail,Searles,F,25,Schenectady,NY,1,no,nomatch,nomatch,a_open,35.0
+532,533,Evan,Putman,M,39,Charlton,NY,1,no,nomatch,nomatch,b_30_39,122.0
+533,534,Claudia,Fountain,F,24,Waterford,NY,1,no,nomatch,nomatch,a_open,36.0
+534,535,Carlie,Snyder,F,30,Canajoharie,NY,1,no,nomatch,nomatch,b_30_39,65.0
+535,536,Max,Foster,M,31,New York,NY,1,no,nomatch,nomatch,b_30_39,123.0
+536,537,Callie,Peone,F,33,Cato,NY,1,no,nomatch,nomatch,b_30_39,66.0
+537,538,Vivek,Gupta,M,50,Cohoes,NY,1,yes,Vivek,Gupta,d_50_59,41.0
+538,539,Erin,Labarge,F,38,Loudonville,NY,1,no,nomatch,nomatch,b_30_39,67.0
+539,540,Parker,Matzen,M,19,Rocky Point,NY,1,no,nomatch,nomatch,a_open,83.0
+540,541,Calvin,Gramling,M,19,Ferrisburgh,VT,1,no,nomatch,nomatch,a_open,84.0
+541,542,Andrew,Hall,M,38,Cohoes,NY,1,no,nomatch,nomatch,b_30_39,124.0
+542,543,Daniel,Clark,M,35,Gaithersburg,MD,1,no,nomatch,nomatch,b_30_39,125.0
+543,544,Megi,Rexhepaj,F,37,Gaithersburg,MD,1,no,nomatch,nomatch,b_30_39,68.0
+544,545,Liubov,Moskalenko,F,33,New York,NY,1,no,nomatch,nomatch,b_30_39,69.0
+545,546,Alexander,Nikola,M,22,Saratoga Springs,NY,1,no,nomatch,nomatch,a_open,85.0
+546,547,Shig,Hosoyama,M,58,Latham,NY,1,yes,Shig,Hosoyama,d_50_59,42.0
+547,548,Stephanie,Ruzicka,F,60,Branchville,NJ,1,no,nomatch,nomatch,e_60_69,4.0
+548,549,Jonathan,Sheehan,M,46,Stillwater,NY,1,no,nomatch,nomatch,c_40_49,98.0
+549,550,Matthew,Baer,M,34,Albany,NY,1,no,nomatch,nomatch,b_30_39,126.0
+550,551,Christopher,Damitz,M,31,Binghamton,NY,1,no,nomatch,nomatch,b_30_39,127.0
+551,552,Suzanna,Robinson,F,26,Akron,NY,1,no,nomatch,nomatch,a_open,37.0
+552,553,Seon,Na,M,44,Cohoes,NY,1,no,nomatch,nomatch,c_40_49,99.0
+553,554,Cris Lawren,Laurente,M,33,Ticonderoga,NY,1,no,nomatch,nomatch,b_30_39,128.0
+554,555,Sara,Hogevoll,F,47,Portland,OR,1,no,nomatch,nomatch,c_40_49,53.0
+555,556,Rachel,Henrich,F,41,South Glens Falls,NY,1,no,nomatch,nomatch,c_40_49,54.0
+556,557,Noah,Clo,M,21,Gloversville,NY,1,no,nomatch,nomatch,a_open,86.0
+557,558,Benhur,Paspula,M,48,Stirling,NJ,1,no,nomatch,nomatch,c_40_49,100.0
+558,559,Ella,Chiarelli,F,20,Toronto,ON,1,no,nomatch,nomatch,a_open,38.0
+559,560,Glenn,Lankowski,M,57,Bluffton,SC,1,no,nomatch,nomatch,d_50_59,43.0
+560,561,Lizzie,Redkey,F,56,Latham,NY,1,yes,Lizzie,Redkey,d_50_59,19.0
+561,562,Sherri,Wiemeier,F,38,Baldwinsville,NY,1,no,nomatch,nomatch,b_30_39,70.0
+562,563,Mutti,Anggitta,F,38,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,71.0
+563,564,Timothy,Liu,M,60,Bearsville,NY,1,no,nomatch,nomatch,e_60_69,19.0
+564,565,Jared,High,M,36,Clifton Park,NY,1,no,nomatch,nomatch,b_30_39,129.0
+565,566,Stephen,Bugbee,M,71,Amsterdam,NY,1,no,nomatch,nomatch,f_70+,1.0
+566,567,Amy,Lara,F,52,Prairie Village,KS,1,no,nomatch,nomatch,d_50_59,20.0
+567,568,Mark,Wolfe,M,55,Albany,NY,1,no,nomatch,nomatch,d_50_59,44.0
+568,569,Jeremy,Rhoades,M,34,Scotia,NY,1,no,nomatch,nomatch,b_30_39,130.0
+569,570,Russell,Seguin,M,68,Pflugerville,TX,1,no,nomatch,nomatch,e_60_69,20.0
+570,571,Rachael,Scullion,F,43,Waterford,CT,1,no,nomatch,nomatch,c_40_49,55.0
+571,572,Darcie,Abbatiello,F,47,Albany,NY,1,no,nomatch,nomatch,c_40_49,56.0
+572,573,Anna,Smith,F,38,West Henrietta,NY,1,no,nomatch,nomatch,b_30_39,72.0
+573,574,Stephanie,Languell,F,59,Schenectady,NY,1,yes,Stephanie,Languell,d_50_59,21.0
+574,575,Tasha,Davis,F,34,Troy,NY,1,yes,Tasha,Davis,b_30_39,73.0
+575,576,Jesse,Simonetty,M,22,Albant,NY,1,no,nomatch,nomatch,a_open,87.0
+576,577,Julia,Conley,F,19,Troy,NY,1,no,nomatch,nomatch,a_open,39.0
+577,578,Mark,Nersesian,M,36,Albany,NY,1,no,nomatch,nomatch,b_30_39,131.0
+578,579,Kim,Kelly-Smith,F,58,Hudson Falls,NY,1,no,nomatch,nomatch,d_50_59,22.0
+579,580,Joanna,Garcia,F,44,Bernalillo,NM,1,no,nomatch,nomatch,c_40_49,57.0
+580,581,Jackie,Mazariego,F,29,Tuckahoe,NY,1,no,nomatch,nomatch,a_open,40.0
+581,582,Cristian,Camacho,M,29,White Plains,NY,1,no,nomatch,nomatch,a_open,88.0
+582,583,Ashley,Quartararo,F,41,Saratoga Springs,NY,1,no,nomatch,nomatch,c_40_49,58.0
+583,584,Olivia,Pattee,F,31,Schenectady,NY,1,no,nomatch,nomatch,b_30_39,74.0
+584,585,Erin,Burgert,F,45,Olathe,KS,1,no,nomatch,nomatch,c_40_49,59.0
+585,586,Aashish Noe,Paspula,M,20,Stirling,NJ,1,no,nomatch,nomatch,a_open,89.0
+586,587,Matt,Richmond,M,30,Green Island,NY,1,no,nomatch,nomatch,b_30_39,132.0
+587,588,Ame,Nickerson,F,45,Selkirk,NY,1,no,nomatch,nomatch,c_40_49,60.0
+588,589,Nancy,Tran,F,28,Schenectady,NY,1,no,nomatch,nomatch,a_open,41.0
+589,590,Alexandra,Whisenhunt,F,30,Niskayuna,NY,1,no,nomatch,nomatch,b_30_39,75.0
+590,591,Jim,Hidalgo,M,18,Bronx,NY,1,no,nomatch,nomatch,a_open,90.0
+591,592,Anton,Rud,M,18,Kew Gardens,NY,1,no,nomatch,nomatch,a_open,91.0
+592,593,Greg,Brunell,M,47,Charlton City,MA,1,no,nomatch,nomatch,c_40_49,101.0
+593,594,Allison,Walkley,F,31,Castleton-On-Hudson,NY,1,no,nomatch,nomatch,b_30_39,76.0
+594,595,Ellen,Gianakis,F,34,Denville,NJ,1,no,nomatch,nomatch,b_30_39,77.0
+595,596,Donna,Capriglione,F,43,Montclair,NJ,1,no,nomatch,nomatch,c_40_49,61.0
+596,597,James,Girmindl,M,69,Niverville,NY,1,no,nomatch,nomatch,e_60_69,21.0
+597,598,Anne,Tyrrell,F,75,Albany,NY,1,yes,Anne,Tyrrell,f_70+,1.0
+598,599,Tylyn,Seaman-Lawton,F,30,Altamonte Springs,FL,1,no,nomatch,nomatch,b_30_39,78.0
+599,600,Mike,Kinn,M,42,Schenectady,NY,1,no,nomatch,nomatch,c_40_49,102.0
+600,601,Rachel,Tambling,F,44,Newington,CT,1,no,nomatch,nomatch,c_40_49,62.0
+601,602,Philip,Greenwald,M,70,New York,NY,1,no,nomatch,nomatch,f_70+,2.0

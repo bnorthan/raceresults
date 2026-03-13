@@ -1,0 +1,122 @@
+Place,last name,first name,Gender,Age,City,Time
+1,Estremera,Ricardo,M,37,Albany,56:52
+2,Donegan,Shaun,M,38,Malta,57:11
+3,Merlis,Josh,M,42,Monterey,58:06
+4,Mallery,Caleb,M,23,Albany,58:42
+5,Morrissey,Tyler,M,27,Clifton Park,58:52
+6,O'Grady,Thomas,M,38,Slingerlands,59:22
+7,Rosell,Pete,M,35,Albany,1:00:39
+8,Ninneman,Matt,M,31,Albany,1:01:09
+9,Bertasso-Hughes,Karen,F,39,Selkirk,1:01:15
+10,Heller,Ben,M,36,Watervliet,1:01:22
+11,Gabriel,Thomas,M,36,Niskayuna,1:02:09
+12,James,Tim,M,44,Berne,1:03:02
+13,Mahoney,Kyle,M,42,Ballston Lake,1:03:10
+14,Bubany,Shawn,M,45,Delhi,1:03:53
+15,Crave,Matt,M,46,Schenectady,1:04:06
+16,Joyce,Paul,M,28,Albany,1:04:42
+17,Tinkler,Steven,M,58,Clifton Park,1:04:45
+18,Pavlou,Andrew,M,36,Guilderland,1:04:51
+19,Diamond,Robbie,M,32,Latham,1:06:46
+20,McCann,Ryan,M,49,Albany,1:08:45
+21,DiNicola,Michael,M,48,Malta,1:08:58
+23,Menis,Ed,M,59,Schenectady,1:09:37
+25,Koleci,Vasil,M,47,Albany,1:09:54
+26,Taft,Emily,F,33,Albany,1:09:58
+27,Finder,Alan,M,35,Albany,1:09:58
+28,Lodovice,Clay,M,48,Voorheesville,1:10:08
+29,Farrell,Joshua,M,48,Albany,1:10:16
+30,Aussems,Amanda,F,30,Slingerlands,1:11:34
+31,Mortensen,Meghan,F,38,Glenville,1:11:34
+32,Sergott,Neil,M,52,Clifton Park,1:12:09
+33,Stadtlander,David,M,49,Albany,1:12:17
+34,Cordeira,Jason,M,40,Delmar,1:12:34
+35,Cordeira,Joshua,M,40,Bethel,1:12:35
+36,Beck,Joe,M,25,Clifton Park,1:12:20
+37,DeBraccio,Brian,M,58,Schenectady,1:13:09
+38,Newman,David,M,43,Albany,1:14:36
+39,Leavitt,Christopher,M,36,Schenectady,1:14:47
+40,Johnson,Sydney,F,25,Albany,1:14:37
+41,Torrens,Jorge,M,58,Albany,1:14:57
+42,Bentz,Matthew,M,28,Albany,1:15:57
+43,Conley,Rachel,F,27,Albany,1:15:58
+44,Compa,Damian,M,55,Rexford,1:16:22
+45,Fouche,Jenny,F,40,Altamont,1:16:27
+46,Beattie,Kevin,M,53,Niskayuna,1:16:55
+47,Babitts,Andrew,M,42,Rensselaer,1:17:05
+48,Cooper,Ryan,M,42,Clifton Park,1:17:13
+49,Carboni,Christopher,M,15,Schenectady,1:17:16
+50,panepento,mary,F,24,albany,1:17:24
+51,Bryant,Jennifer,F,42,Albany,1:17:34
+52,Heaphy,Alison,F,57,Troy,1:17:39
+53,Fitzgerald,Amanda,F,35,East Greenbush,1:18:24
+54,Kelly,Scott,M,52,Delmar,1:18:47
+55,Roy,David,M,68,Schoharie,1:19:00
+56,Lyons,Elisha,F,48,Hoosick Falls,1:19:06
+57,Smyth,Amy,F,47,Melrose,1:19:06
+58,Gish,Matilda,F,15,Albany,1:19:20
+59,Rand,Janne,F,39,Rexford,1:19:42
+60,Ordish,Robert,M,38,Niskayuna,1:19:55
+61,Sullivan,Joseph,M,44,Schenectady,1:19:57
+62,Wingate,Kelsey,F,32,Niskayuna,1:20:14
+63,Johnson,Keith,M,39,Castleton,1:20:44
+64,Stewart,Megan,F,39,Burnt Hills,1:21:01
+65,Podlaski,Meaghan,F,26,Albany,1:21:01
+66,Bove,Alyssa,F,25,Amsterdam,1:21:35
+67,Rickmyre,Laura,F,40,Schenectady,1:21:24
+68,Hoyt,Laurie,F,58,Schenectady,1:21:35
+69,Sestito,John,M,60,Johnsonville,1:21:43
+70,Carroll,Edward,M,52,Clifton Park,1:21:56
+71,Carter,Chris,M,45,Averill Park,1:22:59
+73,Demos,Nick,M,59,Ballston Lake,1:23:12
+74,Nunez,Mark,M,67,Ballston Lake,1:23:56
+75,Bennett,Paul,M,72,Latham,1:24:55
+76,Foust,Stephen,M,37,Waterford,1:25:03
+77,Tromp,David,M,48,Glenmont,1:25:24
+79,Sassone,Rebecca,F,28,Menands,1:26:10
+80,OToole,Mike,M,48,Mechanicville,1:26:18
+81,Rieffel,Simon,M,16,Ballston Lake,1:26:33
+82,McDonald,Rebecca,F,34,Guilderland,1:26:37
+83,Catlett,Lauren,F,43,East Chatham,1:26:48
+84,Diamond,Krystina,F,32,Latham,1:25:57
+85,Kelly,Laura,F,51,Albany,1:27:25
+86,Soldani,Nick,M,25,Clifton Park,1:26:53
+87,Weidner,Kieran,M,55,Ballston Lake,1:28:05
+88,Macneil,Nicola,F,50,Rotterdam Junction,1:28:15
+90,Maychack,Dan,M,50,Altamont,1:28:30
+91,Maychack,Kelly,F,40,Altamont,1:28:32
+92,Kircher,Dillon,M,48,Albany,1:28:48
+93,Reid,Kelly,F,47,Saugerties,1:30:29
+94,Golden,Christopher,M,25,Glenville,1:31:52
+95,McGuire,Tom,M,72,Slingerlands,1:33:55
+96,Todd,Craig,M,51,Mechanicville,1:34:53
+97,Christian,James,M,41,Albany,1:34:57
+98,Wagner,Victoria,F,55,Altamont,1:35:05
+99,Newton,Theresa,F,58,Halfmoon,1:36:37
+100,Dougherty,Kathleen,F,59,Troy,1:39:09
+101,Dott,Karen,F,67,Colonie,1:39:10
+102,Kelly,Tami,F,50,Delmar,1:39:09
+103,Kumta,Sunil,M,60,Guilderland,1:39:45
+104,Galeo,Jen,F,43,Halfmoon,1:40:27
+105,Viggiano,Kathy,F,55,Delmar,1:41:23
+106,Lowry,Anna,F,14,Delanson,1:41:51
+107,Lowry,Ethan,M,44,Delanson,1:42:00
+108,White,Donovan,M,43,Albany,1:42:14
+109,Harwood,Smitha,F,50,Ballston Lake,1:42:15
+110,Herbs,Lauren,F,61,Rexford,1:43:17
+111,Berry,Daniel,M,74,Delmar,1:44:35
+112,DeDominicis,Linda,F,55,Menands,1:44:46
+113,Vnuk,Steve,M,68,Delmar,1:45:18
+114,DeGrazia,Martha,F,72,Slingerlands,1:45:58
+115,Luz,Ashley,F,31,Latham,1:47:23
+116,Sullivan,Kelly,F,44,Schenectady,1:48:17
+117,Halusic,Lonnie,F,55,Ballston Spa,1:48:17
+118,Peltier,Michelle,F,51,Albany,1:52:31
+119,Richardson,Joanne,F,63,Clifton Park,1:52:43
+120,Lindley,Molly,F,65,Averill Park,1:52:44
+121,Tolley,Rebekah,F,47,Pattersonville,1:53:37
+122,D?????,Joe,M,24,East Greenbush,1:55:55
+123,Gaura,Alejandro,M,42,Delmar,1:55:56
+124,Litts,Edwin,M,74,Schenectady,2:03:47
+125,Williams,Craig,M,49,East Greenbush,2:04:18
+126,Stark,Mark,M,59,Clifton Park,2:20:27

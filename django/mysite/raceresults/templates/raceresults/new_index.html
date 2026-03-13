@@ -1,0 +1,22 @@
+{% extends 'raceresults/base.html' %}
+
+{% block body_block %}
+  {% for race in race_names %}
+    <li><a href="/raceresults/races/{{ race.race_name|slugify }}/">{{ race.race_name }}</a></li>
+  {% empty %}
+    <li>No races are listed</li>
+  {% endfor %} 
+
+  {% if selected_race %}
+    <h2>{{ selected_race }}</h2>
+    {% if race_dates %}
+      <ul>
+        {% for race_date in race_dates %}
+          <li><a href="/raceresults/race/{{ selected_race }}/{{ race_date }}/">{{ race_date }}</a></li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No dates are listed for {{ selected_race }}</p>
+    {% endif %}
+  {% endif %}
+{% endblock %}

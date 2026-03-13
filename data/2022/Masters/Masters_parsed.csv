@@ -1,0 +1,46 @@
+,place,first_name,last_name,full_name,gender,age,city,state,time,pace,race_id,member,mfname,mlname,category_10,div_place
+0,1,Meg,Versteegen,Meg Versteegen,F,44,Schenectady,NY,40:30,6:31,1,yes,Meg,Versteegen,c_40_49,1.0
+1,2,Ryan,McCann,Ryan McCann,M,48,Albany,NY,40:58,6:36,1,yes,Ryan,Mccann,c_40_49,1.0
+2,3,Dennis,VanVlack,Dennis VanVlack,M,50,Duanesburg,NY,41:21,6:40,1,yes,Dennis,Vanvlack,d_50_59,1.0
+3,4,David,Stadtlander,David Stadtlander,M,48,Albany,NY,41:55,6:45,1,yes,David,Stadtlander,c_40_49,2.0
+4,5,Brian,Northan,Brian Northan,M,48,Guilderland,NY,42:22,6:49,1,yes,Brian,Northan,c_40_49,3.0
+5,6,Gil,Chorbajian,Gil Chorbajian,M,53,Schenectady,NY,42:48,6:54,1,yes,Gil,Chorbajian,d_50_59,2.0
+6,7,Neil,Sergott,Neil Sergott,M,51,Clifton Park,NY,44:08,7:07,1,yes,Neil,Sergott,d_50_59,3.0
+7,8,Samuel,Mercado,Samuel Mercado,M,60,Saratoga Spring,NY,44:23,7:09,1,yes,Sam,Mercado,e_60_69,1.0
+8,9,Russ,Hoyer,Russ Hoyer,M,62,Voorheesville,NY,47:17,7:37,1,yes,Russ,Hoyer,e_60_69,2.0
+9,10,David,Roy,David Roy,M,68,Schoharie,NY,48:02,7:44,1,yes,David,Roy,e_60_69,3.0
+10,11,Sue,Demos,Sue Demos,F,56,Queensbury,NY,48:41,7:51,1,yes,Sue,Demos,d_50_59,1.0
+11,12,Mark,Nunez,Mark Nunez,M,66,Ballston Lake,NY,49:22,7:57,1,yes,Mark,Nunez,e_60_69,4.0
+12,13,Christine,Varley,Christine Varley,F,59,Albany,NY,49:25,7:58,1,yes,Christine,Varley,d_50_59,2.0
+13,14,Jason,Pensabene,Jason Pensabene,M,46,Latham,NY,49:51,8:02,1,yes,Jason,Pensabene,c_40_49,4.0
+14,15,Nick,Demos,Nick Demos,M,58,Queensbury,NY,50:49,8:11,1,yes,Nick,Demos,d_50_59,4.0
+15,16,Rebecca,Chapman,Rebecca Chapman,F,41,Altamont,NY,50:56,8:12,1,no,nomatch,nomatch,c_40_49,2.0
+16,17,Nicola,Macneil,Nicola Macneil,F,49,Rotterdam Junct,NY,51:27,8:17,1,yes,Nicola,Macneil,c_40_49,3.0
+17,18,Jessica,Northan,Jessica Northan,F,47,Guilderland,NY,51:28,8:17,1,yes,Jessica,Northan,c_40_49,4.0
+18,19,C,J Chartrand,C J Chartrand,M,62,Castleton On Hu,NY,51:36,8:19,1,yes,C j,Chartrand,e_60_69,5.0
+19,20,Paul,Bennett,Paul Bennett,M,71,Latham,NY,51:50,8:21,1,yes,Paul,Bennett,f_70+,1.0
+20,21,Tom,McGuire,Tom McGuire,M,71,Slingerlands,NY,52:25,8:26,1,yes,Tom,Mcguire,f_70+,2.0
+21,22,Kacey,Sornberger,Kacey Sornberger,F,47,Albany,NY,52:53,8:31,1,yes,Kacey,Sornberger,c_40_49,5.0
+22,23,Walter,Armstrong,Walter Armstrong,M,45,Sloansville,NY,53:45,8:39,1,yes,Walter,Armstrong,c_40_49,5.0
+23,24,Bob,Mead,Bob Mead,M,73,East Greenbush,NY,55:14,8:54,1,yes,Bob,Mead,f_70+,3.0
+24,25,Erika,Oesterle,Erika Oesterle,F,71,Stamford,NY,55:35,8:57,1,yes,Erika,Oesterle,f_70+,1.0
+25,26,Matt,Robinson,Matt Robinson,M,42,Albany,NY,55:37,8:57,1,yes,Matt,Robinson,c_40_49,6.0
+26,27,Christopher,Kunkel,Christopher Kunkel,M,66,Oradell,NJ,55:39,8:58,1,yes,Christopher,Kunkel,e_60_69,6.0
+27,28,Mark,Macutek,Mark Macutek,M,59,Loudonville,NY,56:54,9:10,1,yes,Mark,Macutek,d_50_59,5.0
+28,29,Anne,Hurley,Anne Hurley,F,60,Delmar,NY,59:22,9:34,1,yes,Anne,Hurley,e_60_69,1.0
+29,30,Kevin,Corrigan,Kevin Corrigan,M,60,Palenville,NY,59:31,9:35,1,yes,Kevin,Corrigan,e_60_69,7.0
+30,31,Linda,DeDominicis,Linda DeDominicis,F,54,Menands,NY,59:40,9:37,1,yes,Linda,Dedominicis,d_50_59,3.0
+31,32,Carolyn,Bur George,Carolyn Bur George,F,69,Albany,NY,1:00:12,9:42,1,yes,Carolyn burke,George,e_60_69,2.0
+32,33,Martha,DeGrazia,Martha DeGrazia,F,72,Slingerlands,NY,1:00:34,9:45,1,yes,Martha,Degrazia,f_70+,2.0
+33,34,Denis,Hurley,Denis Hurley,M,60,Delmar,NY,1:00:50,9:48,1,yes,Denis,Hurley,e_60_69,8.0
+34,35,steven,silverberg,steven silverberg,M,64,Schenectady,NY,1:00:53,9:48,1,yes,Steven,Silverberg,e_60_69,9.0
+35,36,Morris,Auster,Morris Auster,M,52,Niskayuna,NY,1:01:22,9:53,1,yes,Morris,Auster,d_50_59,6.0
+36,37,Susan,Wong,Susan Wong,F,75,Glenmont,NY,1:02:01,9:59,1,yes,Susan,Wong,f_70+,3.0
+37,38,John,Mesevage,John Mesevage,M,69,Ghent,NY,1:04:25,10:22,1,no,nomatch,nomatch,e_60_69,10.0
+38,39,John,Brunner,John Brunner,M,56,Colonie,NY,1:05:47,10:36,1,yes,John,Brunner,d_50_59,7.0
+39,40,Heidi,Collins,Heidi Collins,F,55,Hudson Falls,NY,1:09:07,11:08,1,no,nomatch,nomatch,d_50_59,4.0
+40,41,Leo,J. DiPierro,Leo J. DiPierro,M,72,Cherry Plain,NY,1:11:48,11:34,1,yes,Leo j.,Dipierro,f_70+,4.0
+41,42,Jenny,Lee,Jenny Lee,F,63,Selkirk,NY,1:14:37,12:01,1,yes,Jenny,Lee,e_60_69,3.0
+42,43,Ned,Norton,Ned Norton,M,64,Albany,NY,1:20:34,12:58,1,yes,Ned,Norton,e_60_69,11.0
+43,44,David,Durkin,David Durkin,M,73,Rensselaer,NY,1:21:41,13:09,1,yes,David,Durkin,f_70+,5.0
+44,45,Raymond,"Lee, Jr","Raymond Lee, Jr",M,81,Halfmoon,NY,1:33:38,15:04,1,yes,Raymond,"Lee, jr",f_70+,6.0

@@ -5,6 +5,7 @@ from .views import AboutView
 
 urlpatterns = [
     path('', views.index, name='index'),
+    path('races/<str:race_name>/', views.races, name='races'),
     path('about/', AboutView.as_view(), name='about.html'),
     path('runners/', views.runners, name='runners'),
     path('strava/', views.strava, name='strava'),
@@ -12,5 +13,6 @@ urlpatterns = [
     url(r'^gp/(?P<race_id>[0-9]+)/$', views.gp, name='gp'),
     url(r'^runner/(?P<runner_id>[0-9]+)/$', views.runner, name='runner'),
     url(r'^search/$', views.search, name='search'),
+    #url(r'^strava/$', views.search, name='search'),
 ]
 

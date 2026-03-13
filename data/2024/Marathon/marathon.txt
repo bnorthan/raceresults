@@ -1,0 +1,514 @@
+PLACE   FIRST NAME        LAST NAME           AGESEX   CITY           ST   
+      1 Paolo             Fiore                29M     Sleepy Hollow  NY   
+      2 Brandon           Talisesky            33M     High Falls     NY   
+      3 Dave              Vona                 42M     Germantown     NY   
+      4 Paul              Nichols              26M     Latham         NY   
+      5 Michael           Stoker               26M     South Windsor  CT   
+      6 Alex              Hislop               23M     Clifton Park   NY   
+      7 Skyler            Teague               26M     Albany         NY   
+      8 William           Flugrad              39M     Framingham     MA   
+      9 Robert            Etien                50M     Schenectady    NY   
+     10 Jake              Craypo               19M     Wallkill       NY   
+     11 Max               Hoffman              23M     Buffalo        NY   
+     12 Whit              Kendall              30M     Jackson        MS   
+     13 Josh              Perez                28M     Fayetteville   NY   
+     14 Peter             Conboy               35M     Albany         NY   
+     15 Michael           Hamilton             37M     Oneonta        NY   
+     16 Kevin             Sawyer               34M     Queensbury     NY   
+     17 Robert            Ashe                 31M     New York       NY   
+     18 Eddie             Chen                 44M     Ashburn        VA   
+     19 Leonid            Pavlovsky            36M     Parsippany     NJ   
+     20 Eliza             Kerschner            35F     Old Town       ME   
+     21 Tyler             Koon                 34M     Ashburn        VA   
+     22 Kevin             Davis                31M     Camden         NY   
+     23 Anthony           Chillemi             39M     South Salme    NY   
+     24 Max               Griffith             29M     Catskill       NY   
+     25 Dave              Dicerbo              44M     Glen Gardner   NJ   
+     26 Luke              Tyrrell              35M     Saranac        NY   
+     27 Joshua            Shirazi              29M     Rockville      MD   
+     28 Andy              Doherty              37M     Ballston Spa   NY   
+     29 Luccas            Makita               23M     New York       NY   
+     30 Noah              Valvo                25M     Delanson       NY   
+     31 Vincent           Nolette              27M     Astoria        NY   
+     32 Jack              May                  54M     Guilford       VT   
+     33 Daniel            Morelli              34M     Ridgewood      NJ   
+     34 Matthew           Bentz                28M     Albany         NY   
+     35 Nick              Johnson              29M     Hoboken        NJ   
+     36 Nicholas          Minio                26M     Kenilworth     NJ   
+     37 Joe               Marasco              28M     South Glens Fa NY   
+     38 Stefanie          Berggren             32F     Clifton Park   NY   
+     39 Ayden             Funiciello           21M     Schenectady    NY   
+     40 Jessica           Charles              42F     Oriskany       NY   
+     41 Daniel            Fogarty              38M     Malta          NY   
+     42 Nick              Whaley               44M     Clifton Park   NY   
+     43 Sean              Lanza                30M     Albany         NY   
+     44 Tony              Eckel                57M     Bothell        WA   
+     45 Jonathan          Ethier               38M     Mont-Royal     QC   
+     46 Madeleine         Wood                 27F     Brooklyn       NY   
+     47 Ryan              Bernstein            24M     Clifton Park   NY   
+     48 Jacob             Burke                29M     Brooklyn       NY   
+     49 Taushah           Crawford             41F     Carmel         IN   
+     50 Sydney            Vokus                20F     Roanoke        VA   
+     51 Ethan             McHatten             34M     Brewer         ME   
+     52 David             Jasinski             28M     Glenville Ny   NY   
+     53 Patrick           CotÃ©             45  M  M  ontrÃ©al          M45
+     54 Michael           Perczyszyn           35M     London         ON   
+     55 Matthew           Brennan              36M     Albany         NY   
+     56 Nicholas          Mastropietro         19M     Schenectady    NY   
+     57 Michael           Oleynek              27M     Queensbury     NY   
+     58 Aaron             Rubin                37M     Rochester      NY   
+     59 Dylan             Thomarie             49M     Northville     NY   
+     60 Matthew           Gnall                38M     Hudson         NY   
+     61 Keith             Benoit               60M     Plattsburgh    NY   
+     62 Feng              Chen                 48M     Niskayuna      NY   
+     63 Connor            Price                25M     Menands        NY   
+     64 Sydney            Johnson              25F     Albany         NY   
+     65 Michael           Dolan                57M     Hamden         CT   
+     66 Greg              Ethier               51M     Ballston Lake  NY   
+     67 Meg               Versteegen           45F     Schenectady    NY   
+     68 Rafael            Salomao              41M     Paulinia      
+     69 Meghan            Mortensen            39F     Glenville      NY   
+     70 Alex              Diotte               20M     St-Eustache    QC   
+     71 Vasil             Koleci               48M     Albany         NY   
+     72 Craig             Dubois               61M     Sprakers       NY   
+     73 Karen             Benway               52F     Williston      VT   
+     74 Laurel            Wassner              49F     Jersey City    NJ   
+     75 Jake              Dubay                27M     Malta          NY   
+     76 Rebeccah          Wassner              49F     New Paltz      NY   
+     77 Douglas           Marks                35M     Brooklyn       NY   
+     78 Wudu              Girma                31M              12306 NY   
+     79 Kamille           Ayotte               28F     Brossard       QC   
+     80 Derek             Pope                 43M     Kings Park     NY   
+     81 Kimberly          Milton               42F     Clifton Park   NY   
+     82 Eddie             Martinez             25M     Seattle        WA   
+     83 Michael           Dinicola             49M     Ballston Spa   NY   
+     84 Sarah             Lavoie               26F     Sherbrooke     QC   
+     85 Brian             Nowicki              39M     Schenectady    NY   
+     86 Daniel            Medici               27M     Watervliet     NY   
+     87 Thomas            Dansereau            37M     Troy           NY   
+     88 Emmet             McDonnell            23M     Old Chatham    NY   
+     89 Tyler             Kopacki              36M     Saratoga Sprin NY   
+     90 Jessica           Berschwinger         36F     Voorheesville  NY   
+     91 Rachel            Berschwinger         36F     Voorheesville  NY   
+     92 Kevin             Valois               55M     Schenectady    NY   
+     93 Thomas            Eschen               36M     Saratoga Sprin NY   
+     94 Caroline          Mahoney              23F     Poughquag      NY   
+     95 Katherine         McGuire              30F     New Orleans    LA   
+     96 Ryan              Venter               43M     Glenmont       NY   
+     97 Jian              Shen                 53M     Albany         NY   
+     98 Lindsey           Burdick              42F     Jamesville     NY   
+     99 Keith             Gregory              35M     Cohoes         NY   
+    100 Cory              Domina               34M     Niskayuna      NY   
+    101 Ann Marie         Moskal               44F     Ballston Spa   NY   
+    102 Rich              Sturim               58M     Charlotte      VT   
+    103 Sam               Sturim               23M     Boston         MA   
+    104 Emily             Barreca              32F     Brooklyn       NY   
+    105 Elizabeth         Chauhan              40F     Albany         NY   
+    106 Joseph            Hunter               25M     Rensselaer Ny  NY   
+    107 Benjamin          Howard               25M     Troy           NY   
+    108 Jamie             Stroffolino          39M     Stormville     NY   
+    109 Joe               Roberts              57M     Brewer         ME   
+    110 Randy             Reardon              57M     Bangor         ME   
+    111 Joel              Wakesberg            39M     Rockville      MD   
+    112 Rachel            Waller               38F     Burnt Hills    NY   
+    113 Isaiah            Van Buren            26M     Albany         NY   
+    114 ChloÃ©           yotte              30  F  L  ongueuil       C    F
+    115 Mark              Coviello             38M     North Adams    MA   
+    116 Erin              Rightmyer            40F     Delmar         NY   
+    117 Brian             Godish               34M     State College  PA   
+    118 Caitlin           Maher                34F     State College  PA   
+    119 Kenneth           Spadaccini           24M     Cresskill      NJ   
+    120 Brian             Kristel              27M     Schenectady    NY   
+    121 Salim             Bousleiman           56M     Bayville       NY   
+    122 James             Barker               35M     Latham         NY   
+    123 Anthony           Pasqualino           34M     Rensselaer     NY   
+    124 Sang Bin          Na                   44M     Harrington Par NJ   
+    125 Chris             Bright               58M     Ottawa         ON   
+    126 Brenden           Doster               30M     Queensbury     NY   
+    127 Lauren            Lounsbery            29F     Poestenkill    NY   
+    128 William           Dodds                50M     Watervliet     NY   
+    129 Victor            Zirkelbach           44M     Olney          MD   
+    130 Christina         Danosi               33F     Manchester Cen VT   
+    131 Gregg             Johnson              54M     Hampden        ME   
+    132 Michael           Sheehan              41M     Philadelphia   PA   
+    133 Luke              Kalinoski            34M     East Walpole   MA   
+    134 Philippe          Turcotte             25M     Sherbrooke     QC   
+    135 Matthew           Reed                 40M     Albany         NY   
+    136 James             Mahoney              58M     Poughquag      NY   
+    137 Michael           Brezina              24M     Mt. Joy        PA   
+    138 Ellie             Sommers              24F     Manlius        NY   
+    139 Maria             Fusco                31F     Mechanicville  NY   
+    140 Aaron             Kim                  23M     Albany         NY   
+    141 Justin            Clement              29M     Clifton Park   NY   
+    142 Jordan            Healy                28M     Menands        NY   
+    143 Brett             Fajen                53M     Nassau         NY   
+    144 Andrew            Michos               31M     Ocean City     NJ   
+    145 Elizabeth         Millner              40F     Greenfield     MA   
+    146 Chloe             Peer                 26F     Hammondsport   NY   
+    147 David             Patalano             37M     Rochester      NY   
+    148 Elena             Fyfe                 44F     Dalton         MA   
+    149 Stephanie         Lau                  39F     Troy           NY   
+    150 Jake              Bryan                24M     Greenville     SC   
+    151 Peter             Jones                42M     Niskayuna      NY   
+    152 Pete              Paluch               27M     Oneonta        NY   
+    153 Justine           Popik                35F     New Paltz      NY   
+    154 Lauren            Hamilton             60F     Schenectady    NY   
+    155 Rosanne           Cui                  20F     Clifton Park   NY   
+    156 Jun               Simons               19M     Clifton Park   NY   
+    157 Alex              Python               26M     Ithaca         NY   
+    158 Reed              Williams             30M     Albany         NY   
+    159 Brooke            Trotta               41F     Delanson       NY   
+    160 Mackenzie         Boucher              27F     Saratoga Sprin NY   
+    161 Adrienne          Doherty              35F     Ballston Spa   NY   
+    162 Michael           Woyce                36M     Denville       NJ   
+    163 Bill              Dorrian              49M     Lake Ariel     PA   
+    164 John              Mosier               26M     Gansevoort     NY   
+    165 Catherine         Beaudoin             40F     Mont St-Hilair QC   
+    166 Bruno             Cloutier             58M     St-Hubert      QC   
+    167 Eliana            Fox                  27F     Burlington     VT   
+    168 Gert              Schmitt              50M     Sand Lake      NY   
+    169 Hilary            Hurley               40F     Middle Grove   NY   
+    170 Danielle          Wroblewski           46F     Schenectady    NY   
+    171 Kurt              Benedict             45M     Troy           NY   
+    172 Zachary           Kogut                27M     Fabius         NY   
+    173 Thomas            Bogart               32M     Schenectady    NY   
+    174 Travis            West                 33M     Ballston Lake  NY   
+    175 Megan             Anderson             39F     Bangor         ME   
+    176 Christopher       Edick                40M     New York Mills NY   
+    177 Charin            Chansetthakul        53M     Albany        
+    178 Stephanie         Briere               50F     La Prairie     QC   
+    179 Matthew           Mitchell             25M     Melrose        NY   
+    180 Cristen           Murray               46F     Cape Elizabeth ME   
+    181 Gary              Shelnutt             62M     Troy           NY   
+    182 Meg               Rowley               37F     Fairfax        VT   
+    183 Leonard           Rienks               22M     Freiburg      
+    184 Mike              Halasinski           61M     Cheshire       CT   
+    185 Carolann          Koleci               52F     Albany         NY   
+    186 Celia             Parts                24F     Baltimore      MD   
+    187 Tyler             Regan                24M     Orchard Park   NY   
+    188 Mykola            Taran                34M     Nebyliv       
+    189 Sam               Bourne               22M     Lafayette      IN   
+    190 Robert            Cox                  30M     Ballston Spa   NY   
+    191 Matt              Benson               52M     Clifton Park   NY   
+    192 Tiffany           Miller               37F     Syracuse       NY   
+    193 Jon               Gurney               61M     Albany         NY   
+    194 Dylan             Hedderman            32M     Waterford      NY   
+    195 Brian             Noone                23M     Stamford       CT   
+    196 Martin            Wong                 47M     Cazenovia      NY   
+    197 Thomas            Passolo              49M     Plainview      NY   
+    198 Michael           Beyer                31M     Ballston Spa   NY   
+    199 Frankie           Pearson              29F     Delmar         NY   
+    200 Olivia            Beltrani             30F     Troy           NY   
+    201 Douglas           Rosenberg            53M     Newton Centre  MA   
+    202 Joseph            Altobello            46M     Troy           NY   
+    203 Cailin            Brennan              46F     Guilderland    NY   
+    204 Dilip             Pokhrel              38M     Troy           NY   
+    205 S                 Ullrich              34F     New York       NY   
+    206 Mylene            Gadoury              50F     Boucherville   QC   
+    207 Sean              Dingman              35M     Glens Falls    NY   
+    208 Ashley            Bertorelli           40F     Stephentown    NY   
+    209 Garrett           Bernardo             31M     Ballston Spa   NY   
+    210 Kevin             Cheng                42M     Forest Hills   NY   
+    211 Kayla             Napper               27F     Ellenburg Depo NY   
+    212 Kelly             Schettini            44F     Senoia         GA   
+    213 Georges           Labreche             40M     Ridgewood      NY   
+    214 Brett             Harris               39F     Albany         NY   
+    215 Fernando          Martinez             29M     Fort Drum      NY   
+    216 Emily             Sharpe               28F     Gansevoort     NY   
+    217 John              Paniccia             57M     Clifton Park   NY   
+    218 Nick              Demos                60M     Ballston Lake  NY   
+    219 Daniel            Esper                64M     Slingerlands   NY   
+    220 Robert            Weiss                48M     Norwood        NJ   
+    221 Craig             Rees                 32M     Akron          OH   
+    222 Richard           Mark                 45M     Monroe         CT   
+    223 Michael           Glinski              27M     Grahamsville   NY   
+    224 Daniel            Wallace              49M     Queensbury     NY   
+    225 Julie             Lamoureux            48F     Ste-Julie      QC   
+    226 Una               O Reilly             36F     Queens         NY   
+    227 Sebastien         Niel                 25M     Canaan         NH   
+    228 John              Liao                 49M     New Hyde Park  NY   
+    229 Andrea            Hernandez            38F     Southampton    NY   
+    230 Sarah             Yi                   23F     Hudson         NH   
+    231 Elizabeth         Giblin               52F     Verona         NJ   
+    232 Michele           Machalani            47F     Brooklyn       NY   
+    233 James             Pedersen             28M     Schenectady    NY   
+    234 Paul              Lee                  48M     Albertson      NY   
+    235 Jonathan          Berk                 39M     Dallas         TX   
+    236 Raymond           Hickok               30M     Schenectady    NY   
+    237 Meagan            Donaldson            35F     Slingerlands   NY   
+    238 Chad              Richards             38M     Windham        NY   
+    239 Kim               Hafner               32F     Brooklyn       NY   
+    240 Mary              Buck                 61F     Mechanicville  NY   
+    241 Joey              Pompei               42M     Albany         NY   
+    242 Katie             Jensen               52F     Burnt Hills    NY   
+    243 Stacy             Patterson            49F     Troy           NY   
+    244 Alexander         Glazebrook           37M     Averill Park   NY   
+    245 Anastasia         Satsuk               47F     Smithfield     RI   
+    246 Samantha          McDevitt             28F     Niskayuna      NY   
+    247 Kay               McGovern             30F     Pittsfield     MA   
+    248 Amanda            Vitti                45F     Rexford        NY   
+    249 Paul              Morrison             60M     Boston         MA   
+    250 Andrew            Sylvester            32M     Newburgh       NY   
+    251 Janine            Griffith             38F     Ballston Lake  NY   
+    252 Yanni             Lambropoulos         58M     Troy           NY   
+    253 Dave              Hart                 63M     Delmar         NY   
+    254 Mei Mei           Zuo                  23F     Albany         NY   
+    255 Abigail           Hickok               28F     Montclair      NJ   
+    256 Luis              Cruz                 37M     Schenectady    NY   
+    257 Theo              Rose                 24M     Round Lake     NY   
+    258 Nicholas          Hickok               28M     Ballston Lake  NY   
+    259 Ryan              Zielinski            33M     Albany         NY   
+    260 Kent              Rinehart             53M     Red Hook       NY   
+    261 Scott             Kleeschulte          24M     Clifton Park   NY   
+    262 Shannon           Dillard              34F     Hoosick Falls  NY   
+    263 Christine         Stanavich            53F     Amsterdam      NY   
+    264 Michael           McCabe               36M     Castleton      NY   
+    265 Joseph            Esposito             28M     Brooklyn       NY   
+    266 Alisa             Grossberg            46F     New City       NY   
+    267 Richard           Newkirk              37M     Albany         NY   
+    268 Angelina          Ferritto             23F     Albany         NY   
+    269 Nicholas          Arcolano             45M     Watertown      MA   
+    270 Dustin            Rounds               38M     Wynantskill    NY   
+    271 Barak             Hurvitz              31M     Brooklyn       NY   
+    272 Ashley            Bevill               38F     Wynantskill    NY   
+    273 Laurie            Carter               44F     Averill Park   NY   
+    274 Shing             Yeung                47M     Staten Island  NY   
+    275 Brad              Willows              30M     Clifton Park   NY   
+    276 Gabriel           McGarry              48M     Slingerlands   NY   
+    277 Amanda            Wilson               41F     Broadalbin     NY   
+    278 Mackenzie         Peryer               42F     West Chazy     NY   
+    279 Jason             Crosby               55M     Tonawanda      NY   
+    280 Mike              Veeder               63M     Earlton        NY   
+    281 Garrett           Greenwood            37M     Ballston Spa   NY   
+    282 Alexandra         Higgins              34F     Georgia        VT   
+    283 Rafael            Martinez             26M     Fort Drum      NY   
+    284 Edie              Statham              26F     Albany         NY   
+    285 Eddie             Brown                32M     Schenectady    NY   
+    286 Michael           Newhouse             54M     Ballston Spa   NY   
+    287 Timothy           Welch                43M     Johnsonville   NY   
+    288 Andrew            Fraterrigo           25M     Schenectady    NY   
+    289 Kristian          Montenegro           41M     Slingerlands   NY   
+    290 Ryan              Schroeck             37M     Queensbury     NY   
+    291 Bradford          Goz                  70M     New York       NY   
+    292 Joshua            Turo                 29M     Cohoes         NY   
+    293 Michael           Kosich               30M     Plymouth       MA   
+    294 Mark              Smith                24M     Clifton Park   NY   
+    295 John              Wilson               39M     Ticonderoga    NY   
+    296 Nick              Hunsinger            34M     Hudson Falls   NY   
+    297 Winnie            Brown                51F     Richmond       VA   
+    298 Sierra            Markelon             29F     Goshen         CT   
+    299 Mark              Jones                66M     Congers        NY   
+    300 Daniel            Norton               48M     East Greenbush NY   
+    301 Nicholas          Chakmakas            26M     Cohoes         NY   
+    302 Michael           Kenyon               38M     Delmar         NY   
+    303 Sarah             Mycek                41F     Amsterdam      NY   
+    304 Brandon           Doran                36M     Albany         NY   
+    305 Barbara           Cutler               49F     Troy           NY   
+    306 Michael           McCarthy             38M     Schenectady    NY   
+    307 Ariel             Phillips             33F     Schenectady    NY   
+    308 David             Rothman              47M     Green Island   NY   
+    309 Jacob             Rychcik              24M     Voorheesville  NY   
+    310 Griffin           Rule                 28M     Waltam         MA   
+    311 Abby              Rosenberg            50F     Newton Centre  MA   
+    312 Garrett           Domblewski           33M     Watertown      NY   
+    313 Jacob             James                30M     Albany         NY   
+    314 Maccabee          Avishur              50M     Teaneck        NJ   
+    315 Solveig           Comer                50F     South Kortrigh NY   
+    316 Wade              Morasco              64M     Richmond       VA   
+    317 Averell           Hilton               55M     Guilderland    NY   
+    318 Nick              Moscatiello          35M     Albany         NY   
+    319 Megan             Weigand              26F     Albany         NY   
+    320 Melanie           Szymanowski          41F     Cicero         NY   
+    321 David             Andrews              50M     Glenville      NY   
+    322 Jordan            Jensen               22F     Burnt Hills    NY   
+    323 Julio             Martinez             57M     Albany         NY   
+    324 Sean              McGarry              29M     Albany         NY   
+    325 Patrick           McGarry              27M     Albany         NY   
+    326 Jon               Hazilla              68M     Brighton       MA   
+    327 Gerardo           Toledo               57M     Hopkinton      MA   
+    328 Karen             Burns                61F     Ottawa         ON   
+    329 Eric              Lundin               42M     Slingerlands   NY   
+    330 Scott             Owen                 29M     Rensselaer     NY   
+    331 Mireille          Vincelette           42F     Rouyn-Noranda  QC   
+    332 Robert            Whitman              42M     Bennington     VT   
+    333 Robert            Paley                60M     Watervliet     NY   
+    334 Michelle          Berthiaume           64F     St-Lambert     QC   
+    335 Pavel             Beliakov             54M     Union City     NJ   
+    336 Jenna             Espey                26F     Ballston Spa   NY   
+    337 Hillary           Guadagno             40F     Gansevoort     NY   
+    338 Jessica           Bodkin               40F     Cossayuna      NY   
+    339 Jennifer          Rizzo                51F     Clifton Park   NY   
+    340 Amanda            Case                 32F     Delmar         NY   
+    341 Stephanie         Settevendemie        45F     Somers         CT   
+    342 Mariana           Rincon               66F     Milwaukee      WI   
+    343 Ann               Watts                46F     Morrisonville  NY   
+    344 Neil              Poddar               21M     Troy           NY   
+    345 Courtnee          Denton               26F     Albany         NY   
+    346 Madelyn           Arnold               26F     Watertown      NY   
+    347 George            Gabechava            30M     Troy           NY   
+    348 Jonathan          Cann                 42M     Greenfield Cen NY   
+    349 Grant             Martin               45M     Medway         MA   
+    350 Clervil           Buissereth           67M     Somerset       NJ   
+    351 Nicola            Benatti              31M     New York       NY   
+    352 Peter             Boeri                27M     Schenectady    NY   
+    353 Brian             Farmer               44M     Ware           MA   
+    354 Hadley            Martins              45F     Topsfield      MA   
+    355 Peg               Hillriegel           60F     Pine Bush      NY   
+    356 Sheila            Quick                45F     Bedford        NH   
+    357 Martha            Kemp-Neilson         23F     New Rochelle   NY   
+    358 Raymond           Roque                45M     Albany         NY   
+    359 Alexis            Kimball              41F     Loudonville    NY   
+    360 Michael           Allen                35M     Clifton Park   NY   
+    361 Kevin             Lambert              42M     Rouyn-Noranda  QC   
+    362 Becky             Cornell              34F     Fort Johnson   NY   
+    363 Omar              Luna                 53M     North Adams    MA   
+    364 Kristen           Kopper               32F     Schenectady    NY   
+    365 Annabella         Schiavi              23F     Niskayuna      NY   
+    366 Emily             Autrey               35F     Yonkers        NY   
+    367 Elena             Razenko              48F     Saratoga Sprin NY   
+    368 Aldrin            Vincent              50M     Halfmoon       NY   
+    369 Keith             Straw                69M     Malvern        PA   
+    370 Stephen           Harris               37M     Clifton Park   NY   
+    371 Phil              Sheehan              35M     Troy           NY   
+    372 Daniel            Clark                38M     Clifton Park   NY   
+    373 Alexandra         Mercer               36F     Ballston Lake  NY   
+    374 Daniel            Sweeney              41M     Trumansburg    NY   
+    375 Trevor            Oldham               27M     Castleton      NY   
+    376 Derik             Lawler               19M     Altamont       NY   
+    377 Raul              Barcelona-Alvar      46M     Union City     NJ   
+    378 Nicole            Tuszynski            39F     New York       NY   
+    379 Autumn            Wright               37F     Ballston Spa   NY   
+    380 Daniel            Archambault          33M     Fort Edward    NY   
+    381 Nicole            Russell              32F     Troy           NY   
+    382 Kim               Laurenzo             38F     Albany         NY   
+    383 Rachel            Tierney              38F     Ballston Lake  NY   
+    384 Nathan            Trough               39M     Ballston Spa   NY   
+    385 Elizabeth         Owens                21F     Averill Park   NY   
+    386 Stephanie         Feuker               41F     Schenectady    NY   
+    387 Aidan             Hartmann             18M     Voorheesville  NY   
+    388 Emily             Davis                30F     Hoboken        NJ   
+    389 Chrystel          Flores               45F     Peekskill      NY   
+    390 Ami               Gorelikow            45F     Burlington     CT   
+    391 Alexandra         Bennett              32F     Matawan        NJ   
+    392 Allison           Demetriou            35F     Delmar         NY   
+    393 Santino           Johnson              32M     Wappingers Fal NY   
+    394 Kimberly          Nuzzi                51F     Glenville      NY   
+    395 Elah              Ginsburg             22F     Troy           NY   
+    396 Thomas            Toal                 38M     Queens         NY   
+    397 Mandi             Croniser             39F     Boonville      NY   
+    398 Maeleah           Tabolt-Pitts         41F     Boonville      NY   
+    399 Catie             Magil                42F     Niskayuna      NY   
+    400 Kelsey            West-Lawton          30F     Coxsackie      NY   
+    401 Kathleen          Boucher-Lavigne      38F     South Hampton  NH   
+    402 Carly             Tracy                26F     Saratoga Sprin NY   
+    403 Cortney           Harding              44F     Brooklyn       NY   
+    404 Rebekah           Tregger              43F     Northborough   MA   
+    405 Tiffany           Morgan               49F     Ballston Lake  NY   
+    406 Margaret          Raydo                31F     Guilderland    NY   
+    407 Stephen           McDonnell            24M     Albany         NY   
+    408 Jenna             Derario              30F     Ithaca         NY   
+    409 Sarah             Allen                34F     New York       NY   
+    410 Ruth              Petteys              52F     Hudson Falls   NY   
+    411 Michele           Brown                50F     Freehold       NY   
+    412 Joe               Gross                24M     Equinunk       PA   
+    413 Andrew            Davis                32M     Gambrills      MD   
+    414 Ellie             Basch                50F     Richmond       VA   
+    415 Ryan              Heniges              26M     Durham         NC   
+    416 Cora              Smith                33F     Menands        NY   
+    417 Dilon             Vose                 24M     Amsterdam      NY   
+    418 Hope              Obrien               49F     Ballston Lake  NY   
+    419 Kathleen          Dougherty            60F     Troy           NY   
+    420 Grace             Paster               47F     Albany         NY   
+    421 Ellen             Cook                 22F     Becket         MA   
+    422 Careen            Joscelyn             45F     Delmar         NY   
+    423 Jodi              Brodsky              69F     Atlantic Beach NY   
+    424 Jacob             Schneider            27M     Ballston Spa   NY   
+    425 Tara              Murray               51F     Delmar         NY   
+    426 Mark              Pelersi              33M     Saratoga Sprin NY   
+    427 Scott             Mosebach             36M     Saratoga Sprin NY   
+    428 Steven            Scotten              54M     Clifton Park   NY   
+    429 Gerald            Talens               48M     Delmar         NY   
+    430 Ellen             Gauthier             51F     Schenectady    NY   
+    431 Timothy           Liu                  59M     Bearsville     NY   
+    432 Joseph            McCaden              34M     Burlington Tow NJ   
+    433 Stephen           Dillard              53M     Hoosick Falls  NY   
+    434 Michael           Szydlo               36M     Albany         NY   
+    435 Laura             Lee                  46F     Livingston     NJ   
+    436 Sam               Lansing              34M     Schenectady    NY   
+    437 Darla             Mariduena            25F     Albany         NY   
+    438 Amy               Leung                23F     Albany         NY   
+    439 Peter             Van Galen            29M     Stamford       CT   
+    440 Shaw              Patton               36M     Albany         NY   
+    441 Katie             Kencsan              34F     Scotia         NY   
+    442 Mary              Kelley               21F     Canton         MA   
+    443 Jessica           Hoey                 32F     Clifton Park   NY   
+    444 Jen               Burdi                38F     Albany         NY   
+    445 Dominic           Bianco               33M     White Plains   NY   
+    446 Catherine         Croson               23F     Troy           NY   
+    447 Mark              Nersesian            35M     Albany         NY   
+    448 Eric              Michelitsch          31M     Oneonta        NY   
+    449 James             Girmindl             68M     Niverville     NY   
+    450 Mike              Horne                67M     Ottawa         ON   
+    451 Jason             Wilkie               51M     Albany         NY   
+    452 Matthew           Schwarzfeld          43M     New Orleans    LA   
+    453 Mary Ann          McGough              58F     Voorheesville  NY   
+    454 Gregory           Matthei              60M     Voorheesville  NY   
+    455 Chris             Christiano           43M     Lansdale       PA   
+    456 Katelynn          Carroll              35F     Delmar         NY   
+    457 Samantha          Rose                 19F     Norwood        MA   
+    458 Evin              Guinan               27M     Albany         NY   
+    459 Logan             Beringer             20M     Williamstown   MA   
+    460 Peter             McManus              44M     Saratoga Sprin NY   
+    461 Ryan              Legg                 43M     Troy           NY   
+    462 Laura             Miller               38F     Castleton      NY   
+    463 Leah              Christensen          54F     Branchville    NJ   
+    464 Lori              Crytal               60F     Castle Rock    CO   
+    465 Justin            Stack                43M     Saratoga Sprin NY   
+    466 Joseph Rafa       Cabahug              25M     Albany         NY   
+    467 Jeremy            Gregware             22M     Wynantskill    NY   
+    468 Melanie           Swain                52F     Richmond       VA   
+    469 Bill              Mims                 67M     Richmond       VA   
+    470 Realle            Simon                29F     Brooklyn       NY   
+    471 Meg               Farrell              39F     Ballston Spa   NY   
+    472 Patricia          Paone                60F     Scotia         NY   
+    473 Karl              Schwarzfeld          48M     Mount Kisco    NY   
+    474 Caitlin           Gorss                25F     Greenfield Cen NY   
+    475 Rebecca           Drumm                27F     Halfmoon       NY   
+    476 Frank             Kennedy              29M     Newburgh       NY   
+    477 Stephanie         Pohl                 63F     Atlanta        GA   
+    478 Matt              Richmond             29M     Green Island   NY   
+    479 Chul              Hyun                 70M     Palisades      NY   
+    480 James             Van Valkenburgh      37M     Latham         NY   
+    481 Jessica           Angle                21F     Cobleskill     NY   
+    482 Alex              Whisenhunt           29F     Philadelphia   PA   
+    483 Stephanie         Ruzicka              59F     Branchville    NJ   
+    484 John              Evans                61M     Malta          NY   
+    485 Amanda            Purdy                38F     Preston Hollow NY   
+    486 Thomas            Leung                49M     Niskayuna      NY   
+    487 Nichole           Dooling              39F     Ballston Spa   NY   
+    488 Mark              Wolfe                54M     Albany         NY   
+    489 Christian         Rountry              56Y     Accord         NY   
+    490 Matthew           Hull                 46M     South Glens Fa NY   
+    491 Glenn             Lankowski            56M     Bluffton       SC   
+    492 Alison            Choate               25F     Albany         NY   
+    493 Riley             Callahan             21F     Schenectady    NY   
+    494 David             Sherman              65M     Brooklyn       NY   
+    495 Maarika           Sterling             42F     Albany         NY   
+    496 Matt              O'Brien              32M     Guilderland    NY   
+    497 Emily             Paulsen              32F     Guilderland    NY   
+    498 Amanda            Schweitzer           25F     Annapolis      MD   
+    499 Hanna             Kent                 25F     Albany         NY   
+    500 Brian             Gamache              51M     Webster        NY   
+    501 Joan              Celentano            71F     Schenectady    NY   
+    502 Rachael           Scullion             42F     Waterford      CT   
+    503 Colleen           Wendt                38F     Schenectady    NY   
+    504 Karen             Boilard              45F     Schenectady    NY   
+    505 Kavita            Liladhar             39F     Schenectady    NY   
+    506 Alec              Carter               33M     New London     CT   
+    507 Mary              McMahon              34F     Delmar         NY   
+    508 Lauren            Simpfenderfer        29F     Poughkeepsie   NY   
+    509 Trish             Croke                54F     Hopewell Junct NY   
+    510 Derrick           Rumenapp             54M     Wynantskill    NY   
+    511 Daniel            Gulko                25M     Albany         NY   
+    512 Rachel            Tambling             43F     Newington      CT   
+    513 Richard           Brodsky              72M     Atlantic Beach NY   

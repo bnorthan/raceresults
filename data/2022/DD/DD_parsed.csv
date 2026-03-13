@@ -1,0 +1,157 @@
+,place,first_name,last_name,full_name,gender,age,city,state,div_place,time,pace,race_id,member,mfname,mlname,category_10
+0,1,Jack,Huber,Jack Huber,M,22.0,Delmar,NY,1.0,26:45,5:21,1,no,nomatch,nomatch,a_open
+1,2,Chuck,Terry,Chuck Terry,M,40.0,Albany,NY,1.0,27:26,5:30,1,yes,Chuck,Terry,c_40_49
+2,3,Peter,Rowell,Peter Rowell,M,34.0,Albany,NY,1.0,28:02,5:37,1,yes,Peter,Rowell,b_30_39
+3,4,Alejandro,Gauna,Alejandro Gauna,M,40.0,Delmar,NY,2.0,29:59,6:00,1,yes,Alejandro,Gauna,c_40_49
+4,5,Michael,Cooley,Michael Cooley,M,43.0,Delmar,NY,3.0,30:06,6:02,1,no,nomatch,nomatch,c_40_49
+5,6,Ben,Heller,Ben Heller,M,34.0,Troy,NY,2.0,30:16,6:04,1,yes,Ben,Heller,b_30_39
+6,7,Michael,Austin,Michael Austin,M,41.0,Slingerlands,NY,4.0,30:31,6:07,1,yes,Michael,Austin,c_40_49
+7,8,Emily,Taft,Emily Taft,F,32.0,Albany,NY,1.0,30:47,6:10,1,yes,Emily,Taft,b_30_39
+8,9,Peter,Koch,Peter Koch,M,41.0,Delmar,NY,5.0,31:07,6:14,1,yes,Peter,Koch,c_40_49
+9,10,Thomas,Kracker,Thomas Kracker,M,58.0,Delmar,NY,1.0,31:21,6:17,1,yes,Thomas,Kracker,d_50_59
+10,11,Jack,Zieber,Jack Zieber,M,15.0,Rotterdam,NY,2.0,32:03,6:25,1,yes,Jack,Zieber,a_open
+11,12,Brina,Seguine,Brina Seguine,F,33.0,Rensselaer,NY,2.0,32:06,6:26,1,yes,Brina,Seguine,b_30_39
+12,13,Andrew,Rickert,Andrew Rickert,M,44.0,Delmar,NY,6.0,32:07,6:26,1,yes,Andrew,Rickert,c_40_49
+13,14,Meghan,Mortensen,Meghan Mortensen,F,37.0,Glenville,NY,3.0,32:16,6:28,1,yes,Meghan,Mortensen,b_30_39
+14,15,Russell,Brown,Russell Brown,M,30.0,East Greenbush,NY,3.0,32:58,6:37,1,no,nomatch,nomatch,b_30_39
+15,16,Christopher,McClosk,Christopher McClosk,M,41.0,Glenmont,NY,7.0,33:17,6:41,1,no,nomatch,nomatch,c_40_49
+16,17,Sean,Garrity,Sean Garrity,M,15.0,Delmar,NY,3.0,33:30,6:43,1,no,nomatch,nomatch,a_open
+17,18,Thomas,Dansereau,Thomas Dansereau,M,36.0,Troy,NY,4.0,33:51,6:47,1,yes,Thomas,Dansereau,b_30_39
+18,19,Rylee,Davis,Rylee Davis,F,17.0,Delmar,NY,1.0,34:05,6:50,1,yes,Rylee,Davis,a_open
+19,20,Brian,Debraccio,Brian Debraccio,M,58.0,Schenectady,NY,2.0,34:06,6:50,1,no,nomatch,nomatch,d_50_59
+20,21,Michael,Stalker,Michael Stalker,M,60.0,Chestertown,NY,1.0,34:15,6:51,1,yes,Michael,Stalker,e_60_69
+21,22,David,Newman,David Newman,M,43.0,Albany,NY,8.0,34:16,6:52,1,yes,David,Newman,c_40_49
+22,23,Lisa,Chase,Lisa Chase,F,37.0,Albany,NY,4.0,34:28,6:54,1,yes,Lisa,Chase,b_30_39
+23,24,Lauren,Carnahan,Lauren Carnahan,F,40.0,Latham,NY,1.0,34:37,6:56,1,yes,Lauren,Carnahan,c_40_49
+24,25,Cameron,Volk,Cameron Volk,M,15.0,Albany,NY,4.0,34:43,6:58,1,no,nomatch,nomatch,a_open
+25,26,John,Clements,John Clements,M,39.0,Albany,NY,5.0,34:44,6:58,1,yes,John,Clements,b_30_39
+26,27,Samuel,Mercado,Samuel Mercado,M,60.0,Palm Coast,FL,2.0,34:59,7:01,1,yes,Samuel,Mercado,e_60_69
+27,28,Diana,Tobon-Knobloc,Diana Tobon-Knobloc,F,41.0,none,NY,2.0,35:01,7:01,1,yes,Diana,Tobon-knobloch,c_40_49
+28,29,Erik,Koenitzer,Erik Koenitzer,M,46.0,Delanson,NY,9.0,35:24,7:06,1,yes,Erik,Koenitzer,c_40_49
+29,30,Sarah,Parks,Sarah Parks,F,42.0,Troy,NY,3.0,35:25,7:06,1,yes,Sarah,Parks,c_40_49
+30,31,Gabriel,McGarry,Gabriel McGarry,M,46.0,Slingerlands,NY,10.0,35:32,7:07,1,yes,Gabriel,Mcgarry,c_40_49
+31,32,Beth,Stalker,Beth Stalker,F,63.0,Chestertown,NY,1.0,35:46,7:10,1,yes,Beth,Stalker,e_60_69
+32,33,John,Sestito,John Sestito,M,59.0,Johnsonville,NY,3.0,36:08,7:15,1,yes,John,Sestito,d_50_59
+33,34,Amanda,Fitzgerald,Amanda Fitzgerald,F,34.0,East Greenbush,NY,5.0,36:22,7:17,1,no,nomatch,nomatch,b_30_39
+34,35,Al,Faller,Al Faller,M,44.0,Delmar,NY,11.0,36:28,7:19,1,no,nomatch,nomatch,c_40_49
+35,36,Erin,Rightmyer,Erin Rightmyer,F,38.0,Delmar,NY,6.0,36:29,7:18,1,no,nomatch,nomatch,b_30_39
+36,37,Steven,Jankowski,Steven Jankowski,M,49.0,Amsterdam,NY,12.0,36:36,7:20,1,yes,Steven,Jankowski,c_40_49
+37,38,Kevin,M Grossman,Kevin M Grossman,M,43.0,Delmar,NY,13.0,36:44,7:21,1,yes,Kevin,Grossman,c_40_49
+38,39,Mark,Weidner,Mark Weidner,M,61.0,Queensbury,NY,3.0,37:10,7:27,1,no,nomatch,nomatch,e_60_69
+39,40,Erin,Gregory,Erin Gregory,F,46.0,Clifton Park,NY,4.0,37:12,7:27,1,yes,Erin,Gregory,c_40_49
+40,41,Emily,Bryans,Emily Bryans,F,55.0,Delanson,NY,1.0,37:12,7:27,1,no,nomatch,nomatch,d_50_59
+41,42,John,Williams-Searl,John Williams-Searl,M,55.0,Albany,NY,4.0,37:17,7:29,1,yes,John,Williams-searle,d_50_59
+42,43,Russell,Lauer,Russell Lauer,M,60.0,Troy,NY,4.0,37:30,7:31,1,yes,Russell,Lauer,e_60_69
+43,44,Kristen,Kuhn,Kristen Kuhn,F,44.0,Delmar,NY,5.0,37:31,7:32,1,yes,Kristen,Kuhn,c_40_49
+44,45,Darrick,Priester,Darrick Priester,M,39.0,Delmar,NY,6.0,37:39,7:33,1,no,nomatch,nomatch,b_30_39
+45,46,Judy,Guzzo,Judy Guzzo,F,55.0,Niskayuna,NY,2.0,37:52,7:35,1,no,nomatch,nomatch,d_50_59
+46,47,Patrick,Lynskey,Patrick Lynskey,M,50.0,Clifton Park,NY,5.0,37:55,7:36,1,yes,Patrick,Lynskey,d_50_59
+47,48,Kari,Deer,Kari Deer,F,44.0,Slingerlands,NY,6.0,38:41,7:45,1,yes,Kari,Deer,c_40_49
+48,49,John,Deer,John Deer,M,40.0,Slingerlands,NY,14.0,38:42,7:46,1,yes,John,Deer,c_40_49
+49,50,Jeffrey,Kuhn,Jeffrey Kuhn,M,45.0,none,none,15.0,38:50,7:48,1,no,nomatch,nomatch,c_40_49
+50,51,Adam,Burn,Adam Burn,M,34.0,Guilderland,NY,7.0,38:54,7:48,1,no,nomatch,nomatch,b_30_39
+51,52,Sarah,Popovitch,Sarah Popovitch,F,30.0,Clifton Park,NY,7.0,39:19,7:53,1,yes,Sarah,Popovitch,b_30_39
+52,53,Emily,Chromczak,Emily Chromczak,F,36.0,Delmar,NY,8.0,39:40,7:57,1,yes,Emily,Chromczak,b_30_39
+53,54,Dan,Coffey,Dan Coffey,M,60.0,Delmar,NY,5.0,39:50,7:59,1,yes,Dan,Coffey,e_60_69
+54,55,Brian,Greenhill,Brian Greenhill,M,45.0,Delmar,NY,16.0,40:00,8:02,1,yes,Brian,Greenhill,c_40_49
+55,56,Brett,Wunsch,Brett Wunsch,M,30.0,Albany,NY,8.0,40:09,8:04,1,yes,Brett,Wunsch,b_30_39
+56,57,Christine,Varley,Christine Varley,F,59.0,Cohoes,NY,3.0,40:15,8:04,1,yes,Christine,Varley,d_50_59
+57,58,Chip,Barnes,Chip Barnes,M,47.0,none,none,17.0,40:16,8:04,1,no,nomatch,nomatch,c_40_49
+58,59,Jennifer,Bergeron,Jennifer Bergeron,F,42.0,Delmar,NY,7.0,40:23,8:06,1,yes,Jennifer,Bergeron,c_40_49
+59,60,Erin,Murphy,Erin Murphy,F,43.0,Albany,NY,8.0,40:29,8:07,1,yes,Erin,Murphy,c_40_49
+60,61,Tom,McGuire,Tom McGuire,M,71.0,Slingerlands,NY,1.0,40:49,8:11,1,yes,Tom,Mcguire,f_70+
+61,62,Wendy,Rescott,Wendy Rescott,F,62.0,West Sand Lake,NY,2.0,41:11,8:15,1,no,nomatch,nomatch,e_60_69
+62,63,Rachel,Toolan,Rachel Toolan,F,47.0,Rensselaer,NY,9.0,41:22,8:18,1,yes,Rachel,Toolan,c_40_49
+63,64,Melie,Gilder,Melie Gilder,F,42.0,Mae Sot - Thailand,none,10.0,41:25,8:18,1,no,nomatch,nomatch,c_40_49
+64,65,Brian,Reilly,Brian Reilly,M,47.0,Delmar,NY,18.0,42:01,8:26,1,yes,Brian,Reilly,c_40_49
+65,66,Allison,Anderson,Allison Anderson,F,27.0,Albany,NY,2.0,42:01,8:26,1,no,nomatch,nomatch,a_open
+66,67,Mark,Macutek,Mark Macutek,M,59.0,Loudonville,NY,6.0,42:03,8:27,1,yes,Mark,Macutek,d_50_59
+67,68,Sue,Meyer,Sue Meyer,F,40.0,Delmar,NY,11.0,42:20,8:30,1,no,nomatch,nomatch,c_40_49
+68,69,Samantha,Scanu,Samantha Scanu,F,28.0,Troy,NY,3.0,43:06,8:40,1,yes,Samantha,Scanu,a_open
+69,70,Sean,Whitman,Sean Whitman,M,30.0,Selkirk,NY,9.0,43:19,8:41,1,no,nomatch,nomatch,b_30_39
+70,71,Dan,Keefe,Dan Keefe,M,54.0,Delmar,NY,7.0,43:26,8:44,1,yes,Dan,Keefe,d_50_59
+71,72,Adam,Gerstenberger,Adam Gerstenberger,M,29.0,Voorheesville,NY,5.0,43:28,8:44,1,no,nomatch,nomatch,a_open
+72,73,Jean,Lange,Jean Lange,F,57.0,Schenectady,NY,4.0,43:56,8:50,1,yes,Jean,Lange,d_50_59
+73,74,Matthew,Barron,Matthew Barron,M,32.0,Delmar,NY,10.0,44:02,8:51,1,no,nomatch,nomatch,b_30_39
+74,75,Douglas,Secor,Douglas Secor,M,43.0,Glenville,NY,19.0,44:04,8:50,1,yes,Douglas,Secor,c_40_49
+75,76,Kieran,Rock,Kieran Rock,M,27.0,Albany,NY,6.0,44:08,8:52,1,yes,Kieran,Rock,a_open
+76,77,Stephen,Jones,Stephen Jones,M,68.0,Averill Park,NY,6.0,44:34,8:57,1,yes,Stephen,Jones,e_60_69
+77,78,Craig,Connelly,Craig Connelly,M,37.0,Delmar,NY,11.0,44:41,8:58,1,yes,Craig,Connelly,b_30_39
+78,79,Dan,Hallenback,Dan Hallenback,M,44.0,none,none,20.0,45:15,9:05,1,no,nomatch,nomatch,c_40_49
+79,80,Alison,Johnson,Alison Johnson,F,53.0,none,NY,5.0,45:19,9:05,1,yes,Alison,Johnson,d_50_59
+80,81,none,none,none none,none,-1.0,none,none,1.0,45:41,9:09,1,no,nomatch,nomatch,
+81,82,Brian,Whitman,Brian Whitman,M,64.0,Selkirk,NY,7.0,45:44,9:10,1,no,nomatch,nomatch,e_60_69
+82,83,Vince,Juliano,Vince Juliano,M,65.0,Delanson,NY,8.0,45:57,9:12,1,no,nomatch,nomatch,e_60_69
+83,84,Joe,Benoit,Joe Benoit,M,65.0,Albany,NY,9.0,46:24,9:18,1,yes,Joe,Benoit,e_60_69
+84,85,Jodi,A Lubba,Jodi A Lubba,F,65.0,Cohoes,NY,3.0,46:26,9:18,1,yes,Jodi,Lubba,e_60_69
+85,86,Molly,Ruhlman,Molly Ruhlman,F,35.0,Delmar,NY,9.0,46:30,9:21,1,no,nomatch,nomatch,b_30_39
+86,87,Philip,Del,Philip Del,M,-1.0,Boston,MA,2.0,46:53,9:25,1,no,nomatch,nomatch,
+87,88,George,Baranauskas,George Baranauskas,M,69.0,Scotia,NY,10.0,47:07,9:27,1,yes,George,Baranauskas,e_60_69
+88,89,David,Merkle,David Merkle,M,25.0,Glen Rock,NJ,7.0,47:14,9:29,1,no,nomatch,nomatch,a_open
+89,90,Colleen,Walsh,Colleen Walsh,F,66.0,Troy,NY,4.0,47:17,9:29,1,yes,Colleen,Walsh,e_60_69
+90,91,Peter,De Bock,Peter De Bock,M,44.0,Clifton Park,NY,21.0,47:27,9:32,1,yes,Peter,De bock,c_40_49
+91,92,Tricia,Stevenson,Tricia Stevenson,F,37.0,Ballston Spa,NY,10.0,47:32,9:34,1,yes,Tricia,Stevenson,b_30_39
+92,93,Katie,McNamara,Katie McNamara,F,32.0,Albany,NY,11.0,47:41,9:35,1,yes,Katie kurtessis,Mcnamara,b_30_39
+93,94,Larissa,Read,Larissa Read,F,46.0,Delmar,NY,12.0,48:07,9:39,1,no,nomatch,nomatch,c_40_49
+94,95,Susan,Wong,Susan Wong,F,75.0,Glenmont,NY,1.0,48:33,9:44,1,yes,Susan,Wong,f_70+
+95,96,Laura,Tranes,Laura Tranes,F,36.0,Delmar,NY,12.0,48:45,9:48,1,no,nomatch,nomatch,b_30_39
+96,97,Patricia,Johnson,Patricia Johnson,F,61.0,none,NY,5.0,48:51,9:48,1,no,nomatch,nomatch,e_60_69
+97,98,Joshua,Wickert,Joshua Wickert,M,35.0,Schenectady,NY,12.0,48:58,9:51,1,no,nomatch,nomatch,b_30_39
+98,99,Bill,Marinello,Bill Marinello,M,64.0,Slingerlands,NY,11.0,49:06,9:50,1,yes,Bill,Marinello,e_60_69
+99,100,Carolyn,Bur George,Carolyn Bur George,F,69.0,Albany,NY,6.0,49:12,9:52,1,yes,Carolyn burke,George,e_60_69
+100,101,Richard,Kelly,Richard Kelly,M,66.0,Schenectady,NY,12.0,49:25,9:55,1,yes,Richard,Kelly,e_60_69
+101,102,Eric,Niehaus,Eric Niehaus,M,62.0,Glenmont,NY,13.0,49:35,9:57,1,yes,Eric,Niehaus,e_60_69
+102,103,Gina,Sacco,Gina Sacco,F,39.0,Saratoga Springs,NY,13.0,50:04,0:05,1,no,nomatch,nomatch,b_30_39
+103,104,George,Gilder,George Gilder,M,83.0,Tyringham,MA,2.0,50:25,0:06,1,yes,George,Gilder,f_70+
+104,105,John,Sheehy,John Sheehy,M,65.0,Menands,NY,14.0,50:38,0:10,1,yes,John,Sheehy,e_60_69
+105,106,none,none,none none,none,-1.0,none,none,3.0,50:51,0:11,1,no,nomatch,nomatch,
+106,107,Emily,Figueroa,Emily Figueroa,F,25.0,Hoboken,NJ,4.0,51:05,0:15,1,no,nomatch,nomatch,a_open
+107,108,John,Brunner,John Brunner,M,56.0,Schenectady,NY,8.0,51:07,0:14,1,yes,John,Brunner,d_50_59
+108,109,Kelly,Grace,Kelly Grace,F,35.0,Troy,NY,14.0,51:11,0:17,1,no,nomatch,nomatch,b_30_39
+109,110,Lisa,Suders,Lisa Suders,F,35.0,Schenectady,NY,15.0,51:11,0:17,1,no,nomatch,nomatch,b_30_39
+110,111,Allison,Potolski,Allison Potolski,F,29.0,Rotterdam,NY,5.0,51:51,0:24,1,yes,Allison,Potolski,a_open
+111,112,Debra,Kelley,Debra Kelley,F,69.0,Albany,NY,7.0,52:17,0:29,1,yes,Debra,Kelley,e_60_69
+112,113,Diane,Macri,Diane Macri,F,42.0,Albany,NY,13.0,52:17,0:29,1,yes,Diane,Macri,c_40_49
+113,114,Christos,Tsolakis,Christos Tsolakis,M,32.0,Saratoga Springs,NY,13.0,52:20,0:30,1,yes,Christos,Tsolakis,b_30_39
+114,115,Christopher,Maestro,Christopher Maestro,M,66.0,Delmar,NY,15.0,52:57,0:38,1,yes,Christopher,Maestro,e_60_69
+115,116,Nancy,Piche,Nancy Piche,F,63.0,Loudonville,NY,8.0,52:57,0:38,1,yes,Nancy,Piche',e_60_69
+116,117,Bob,Sneeringer,Bob Sneeringer,M,59.0,Loudonville,NY,9.0,53:13,0:42,1,yes,Bob,Sneeringer,d_50_59
+117,118,Eugene,Sneeringer,Eugene Sneeringer,M,68.0,Slingerlands,NY,16.0,53:23,0:44,1,yes,Gene,Sneeringer,e_60_69
+118,119,Leo,J. Dipierro,Leo J. Dipierro,M,72.0,Cherry Plain,NY,3.0,53:44,0:47,1,yes,Leo j.,Dipierro,f_70+
+119,120,Shawn,Lynch,Shawn Lynch,M,52.0,Guilderland,NY,10.0,53:53,0:48,1,yes,Shawn,Lynch,d_50_59
+120,121,Anna,Lowry,Anna Lowry,F,13.0,Delanson,NY,6.0,54:11,0:53,1,yes,Anna,Lowry,a_open
+121,122,Jean,Lange,Jean Lange,F,57.0,Schenectady,NY,6.0,54:31,0:57,1,yes,Jean,Lange,d_50_59
+122,123,Kate,Dubois-Huskie,Kate Dubois-Huskie,F,37.0,Ballston Spa,NY,16.0,55:00,1:04,1,yes,Kate,Dubois-huskie,b_30_39
+123,124,Teresa,Grant,Teresa Grant,F,50.0,Glenville,NY,7.0,55:09,1:04,1,yes,Teresa,Grant,d_50_59
+124,125,Jeremy,Knox,Jeremy Knox,M,42.0,Delmar,NY,22.0,55:40,1:10,1,no,nomatch,nomatch,c_40_49
+125,126,Cindy,Mast,Cindy Mast,F,41.0,none,none,14.0,56:05,1:14,1,no,nomatch,nomatch,c_40_49
+126,127,Anne,Miralles,Anne Miralles,F,56.0,Rensselaer,NY,8.0,56:05,1:16,1,yes,Anne,Miralles,d_50_59
+127,128,Vanessa,Westfall,Vanessa Westfall,F,39.0,Cohoes,NY,17.0,56:54,1:27,1,no,nomatch,nomatch,b_30_39
+128,129,Kathleen,Dansereau,Kathleen Dansereau,F,34.0,Troy,NY,18.0,56:56,1:26,1,yes,Kathleen,Dansereau,b_30_39
+129,130,Jameson,Phillips,Jameson Phillips,M,38.0,Nassau,NY,14.0,57:26,1:33,1,no,nomatch,nomatch,b_30_39
+130,131,Lindsay,Butler,Lindsay Butler,F,39.0,Niskayuna,NY,19.0,57:28,1:34,1,no,nomatch,nomatch,b_30_39
+131,132,Jamie,Phillips,Jamie Phillips,F,38.0,Nassau,NY,20.0,57:36,1:35,1,no,nomatch,nomatch,b_30_39
+132,133,Kathleen,Tersigni,Kathleen Tersigni,F,52.0,Burnt Hills,NY,9.0,58:09,1:41,1,yes,Kathleen,Tersigni,d_50_59
+133,134,Stephen,J. Obermaye,Stephen J. Obermaye,M,61.0,Burnt Hills,NY,17.0,58:13,1:41,1,yes,Stephen j.,Obermayer,e_60_69
+134,135,James,Fiore,James Fiore,M,75.0,none,NY,4.0,58:20,1:41,1,yes,James,Fiore,f_70+
+135,136,Preet,Nair,Preet Nair,F,45.0,Niskayuna,NY,15.0,58:34,1:45,1,yes,Preet,Nair,c_40_49
+136,137,Cathy,Soloyna,Cathy Soloyna,F,69.0,Wynantskill,NY,9.0,58:34,1:46,1,yes,Catherine,Soloyna,e_60_69
+137,138,Bharadwaj,Dhothre,Bharadwaj Dhothre,M,31.0,Albany,NY,15.0,59:11,1:54,1,no,nomatch,nomatch,b_30_39
+138,139,Frank,Klose,Frank Klose,M,80.0,Castleton,NY,5.0,59:50,1:59,1,yes,Frank,Klose,f_70+
+139,140,Sandra,Bauman,Sandra Bauman,F,58.0,Glen Rock,NJ,10.0,59:58,2:02,1,no,nomatch,nomatch,d_50_59
+140,141,Suzanne,Nealon,Suzanne Nealon,F,73.0,Glens Falls,NY,2.0,1:00:01,2:03,1,yes,Suzanne,Nealon,f_70+
+141,142,Vincent,Wenger,Vincent Wenger,M,59.0,Schenectady,NY,11.0,1:00:11,2:05,1,yes,Vincent,Wenger,d_50_59
+142,143,Ned,Norton,Ned Norton,M,64.0,Albany,NY,18.0,1:00:36,2:09,1,yes,Ned,Norton,e_60_69
+143,144,Joanne,Kingston,Joanne Kingston,F,57.0,Feura Bush,NY,11.0,1:00:37,2:10,1,yes,Joanne,Kingston,d_50_59
+144,145,Georgia,Sullivan,Georgia Sullivan,F,67.0,Albany,NY,10.0,1:00:48,2:11,1,yes,Georgia,Sullivan,e_60_69
+145,146,Kelly,Honsaker,Kelly Honsaker,F,37.0,Ballston Spa,NY,21.0,1:00:48,2:11,1,yes,Kelly,Honsakerk,b_30_39
+146,147,Cecilia,Sanchez,Cecilia Sanchez,F,62.0,Glenmont,NY,11.0,1:01:24,2:20,1,yes,Cecilia,Sanchez,e_60_69
+147,148,Mary,Ann Macri,Mary Ann Macri,F,71.0,Albany,NY,3.0,1:01:45,2:23,1,yes,Mary ann,Macri,f_70+
+148,149,James,H. Allen,James H. Allen,M,64.0,Waterford,NY,19.0,1:08:08,3:41,1,yes,James h.,Allen,e_60_69
+149,150,Chris,Mast,Chris Mast,M,45.0,Saratoga,NY,23.0,1:08:15,3:40,1,no,nomatch,nomatch,c_40_49
+150,151,Amanda,Serafina,Amanda Serafina,F,51.0,none,none,12.0,1:10:04,4:03,1,yes,Amanda,Serafini,d_50_59
+151,152,Elizabeth,Kingston,Elizabeth Kingston,F,46.0,Albany,NY,16.0,1:11:39,4:23,1,no,nomatch,nomatch,c_40_49
+152,153,Tanya,Amodio-Kovacs,Tanya Amodio-Kovacs,F,45.0,Albany,NY,17.0,1:11:40,4:23,1,yes,Tanya,Amodio-kovacs,c_40_49
+153,154,Raymond,Lee Jr,Raymond Lee  Jr,M,81.0,Halfmoon,NY,6.0,1:12:39,4:35,1,yes,Raymond,"Lee, jr",f_70+
+154,155,Jill,Mehan,Jill Mehan,F,68.0,Troy,NY,12.0,1:14:15,4:55,1,yes,Jill,Mehan,e_60_69
+155,156,Charles,Scholes,Charles Scholes,M,80.0,Slingerlands,NY,7.0,1:15:19,5:08,1,yes,Charles,Scholes,f_70+

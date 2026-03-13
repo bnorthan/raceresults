@@ -2,6 +2,7 @@ from django.db import models
 
 class Race(models.Model):
     race_name=models.CharField(max_length=200)
+    slugified_race_name=models.CharField(max_length=200, null=True)
     city=models.CharField(max_length=200, blank=True)
     race_date=models.DateField('date of race', blank=True, null=True)    
     def __str__(self):

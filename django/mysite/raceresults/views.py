@@ -8,13 +8,30 @@ from .models import Result
 
 import django_tables2 as tables
 from django_tables2 import RequestConfig
+from django.utils.text import slugify
+from django.db.models.functions import Lower
 
+'''
 # Create your views here.
 def index(request):
     #return HttpResponse("Hello, world. You're at the race results index.")
     races=Race.objects.all()
     return render(request, 'raceresults/index.html', {'l_races':races})
+'''
+def index(request):
+    race_names = Race.objects.order_by('race_name').values('race_name').distinct()
+    return render(request, 'raceresults/new_index.html', {'race_names': race_names})
 
+def races(request, race_name):
+
+    print(race_name)
+    l_races = Race.objects.all().filter( slugified_race_name=race_name)
+    #Race.objects.annotate(tester=slugify('race_name'))
+    #l_races = Race.objects.annotate(slugified_name=slugify(race_name)).filter(slugified_name=race_name)
+    #l_races = Race.objects.annotate(lower_name=slugify(Lower('race_name'))).filter(lower_name=race_name.lower())
+    context = {'l_races': l_races, 'race_name': race_name}
+    return render(request, 'raceresults/races.html', context)
+   
 def runners(request):
     runners=Runner.objects.all()
     return render(request, 'runners/index.html', {'l_runners':runners})

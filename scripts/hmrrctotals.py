@@ -2,14 +2,14 @@ import pandas as pd
 import operator
 from difflib import SequenceMatcher
 
-xl=pd.ExcelFile('../data/2020/Grand_Prix_2020_Post_10Miler_Brian.xls')
+xl=pd.ExcelFile('/home/bnorthan/runnin/raceresults/data/2022/Totals/Grand_Prix_2022-23_Post_Tawasentha_Brian.xls')
 
 xl.sheet_names
 
 #who='Male'
-who='Male'
+who='Female'
 
-out_name='../data/2020/SpreadSheets/Totals_Post10Miler__'+who+'.csv'
+out_name='/home/bnorthan/runnin/raceresults/data/2022/Totals/Totals_'+who+'.csv'
 
 df=xl.parse(who)
 df.head()
@@ -68,14 +68,14 @@ def score(age_results):
    # return pd.DataFrame(sorted_totals, columns=['name', 'points'])
     return pd.DataFrame(sorted_totals)
 
-'''
+
 scored_df=pd.DataFrame()
 
 categories=['open', '30_39', '40_49', '50_59', '60_69', '70+']
 
 for i in range(6):
     
-    new=df.ix[:,1+i*2:1+(i+1)*2]
+    new=df.iloc[:,1+i*2:1+(i+1)*2]
     new=new.dropna()
     new=new.reset_index()
     temp=score(new)
@@ -88,4 +88,3 @@ for i in range(6):
 print(scored_df.head())
 
 scored_df.to_csv(out_name,index=False)
-'''

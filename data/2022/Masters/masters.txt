@@ -1,0 +1,46 @@
+Place Name                Age S City            St   Time   Pace     
+    1 Meg Versteegen       44 F Schenectady     NY   40:30  6:31 
+    2 Ryan McCann          48 M Albany          NY   40:58  6:36 
+    3 Dennis VanVlack      50 M Duanesburg      NY   41:21  6:40 
+    4 David Stadtlander    48 M Albany          NY   41:55  6:45 
+    5 Brian Northan        48 M Guilderland     NY   42:22  6:49 
+    6 Gil Chorbajian       53 M Schenectady     NY   42:48  6:54 
+    7 Neil Sergott         51 M Clifton Park    NY   44:08  7:07 
+    8 Samuel Mercado       60 M Saratoga Spring NY   44:23  7:09 
+    9 Russ Hoyer           62 M Voorheesville   NY   47:17  7:37 
+   10 David Roy            68 M Schoharie       NY   48:02  7:44 
+   11 Sue Demos            56 F Queensbury      NY   48:41  7:51 
+   12 Mark Nunez           66 M Ballston Lake   NY   49:22  7:57 
+   13 Christine Varley     59 F Albany          NY   49:25  7:58 
+   14 Jason Pensabene      46 M Latham          NY   49:51  8:02 
+   15 Nick Demos           58 M Queensbury      NY   50:49  8:11 
+   16 Rebecca Chapman      41 F Altamont        NY   50:56  8:12 
+   17 Nicola Macneil       49 F Rotterdam Junct NY   51:27  8:17 
+   18 Jessica Northan      47 F Guilderland     NY   51:28  8:17 
+   19 C J Chartrand        62 M Castleton On Hu NY   51:36  8:19 
+   20 Paul Bennett         71 M Latham          NY   51:50  8:21 
+   21 Tom McGuire          71 M Slingerlands    NY   52:25  8:26 
+   22 Kacey Sornberger     47 F Albany          NY   52:53  8:31 
+   23 Walter Armstrong     45 M Sloansville     NY   53:45  8:39 
+   24 Bob Mead             73 M East Greenbush  NY   55:14  8:54 
+   25 Erika Oesterle       71 F Stamford        NY   55:35  8:57 
+   26 Matt Robinson        42 M Albany          NY   55:37  8:57 
+   27 Christopher Kunkel   66 M Oradell         NJ   55:39  8:58 
+   28 Mark Macutek         59 M Loudonville     NY   56:54  9:10 
+   29 Anne Hurley          60 F Delmar          NY   59:22  9:34 
+   30 Kevin Corrigan       60 M Palenville      NY   59:31  9:35 
+   31 Linda DeDominicis    54 F Menands         NY   59:40  9:37 
+   32 Carolyn Bur George   69 F Albany          NY 1:00:12  9:42 
+   33 Martha DeGrazia      72 F Slingerlands    NY 1:00:34  9:45 
+   34 Denis Hurley         60 M Delmar          NY 1:00:50  9:48 
+   35 steven silverberg    64 M Schenectady     NY 1:00:53  9:48 
+   36 Morris Auster        52 M Niskayuna       NY 1:01:22  9:53 
+   37 Susan Wong           75 F Glenmont        NY 1:02:01  9:59 
+   38 John Mesevage        69 M Ghent           NY 1:04:25 10:22 
+   39 John Brunner         56 M Colonie         NY 1:05:47 10:36 
+   40 Heidi Collins        55 F Hudson Falls    NY 1:09:07 11:08 
+   41 Leo J. DiPierro      72 M Cherry Plain    NY 1:11:48 11:34 
+   42 Jenny Lee            63 F Selkirk         NY 1:14:37 12:01 
+   43 Ned Norton           64 M Albany          NY 1:20:34 12:58 
+   44 David Durkin         73 M Rensselaer      NY 1:21:41 13:09 
+   45 Raymond Lee, Jr      81 M Halfmoon        NY 1:33:38 15:04 

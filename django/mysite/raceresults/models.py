@@ -1,10 +1,14 @@
 from django.db import models
+from django.utils.text import slugify
 
 class Race(models.Model):
     race_name=models.CharField(max_length=200)
     slugified_race_name=models.CharField(max_length=200, null=True)
     city=models.CharField(max_length=200, blank=True)
-    race_date=models.DateField('date of race', blank=True, null=True)    
+    race_date=models.DateField('date of race', blank=True, null=True)
+    def save(self, *args, **kwargs):
+        self.slugified_race_name = slugify(self.race_name)
+        super().save(*args, **kwargs)
     def __str__(self):
         return self.race_name+' '+str(self.race_date)
 

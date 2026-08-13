@@ -1,0 +1,8 @@
+# Runtime deps for the Django site (django/mysite).
+# The parsing scripts under scripts/ need pandas too, which is already here.
+Django>=4.2,<5.0
+django-tables2
+pandas
+python-dateutil
+requests
+PyYAML

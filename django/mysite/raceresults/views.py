@@ -1,6 +1,6 @@
 from scoreware.race import utils
 from scoreware.strava import stravautil
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .models import Race
 from .models import Runner
@@ -23,12 +23,10 @@ def index(request):
     return render(request, 'raceresults/new_index.html', {'race_names': race_names})
 
 def races(request, race_name):
-
-    print(race_name)
-    l_races = Race.objects.all().filter( slugified_race_name=race_name)
-    #Race.objects.annotate(tester=slugify('race_name'))
-    #l_races = Race.objects.annotate(slugified_name=slugify(race_name)).filter(slugified_name=race_name)
-    #l_races = Race.objects.annotate(lower_name=slugify(Lower('race_name'))).filter(lower_name=race_name.lower())
+    l_races = Race.objects.filter(slugified_race_name=race_name)
+    # skip the list page if there's only one match — go straight to results
+    if l_races.count() == 1:
+        return redirect('race', race_id=l_races.first().id)
     context = {'l_races': l_races, 'race_name': race_name}
     return render(request, 'raceresults/races.html', context)
    

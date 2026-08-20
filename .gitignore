@@ -145,3 +145,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Member exports from Wild Apricot -- contain names and e-mail addresses
+data/*/Membership/

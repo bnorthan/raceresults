@@ -76,3 +76,26 @@ def get_last_name(full_name):
     else:
         last_name=''    
     return last_name
+
+
+def fix_mojibake(text):
+    """Undo utf-8 bytes that were decoded as a single-byte codec (possibly twice).
+
+    Fixed-width result files are byte-aligned, so they must be read with a
+    single-byte codec to keep the columns lined up; that turns a real utf-8
+    apostrophe into 'a<euro>(tm)'.  This walks that back.
+    """
+    if not isinstance(text, str):
+        return text
+    for _ in range(3):
+        for codec in ('cp1252', 'latin-1'):
+            try:
+                fixed = text.encode(codec).decode('utf-8')
+            except (UnicodeEncodeError, UnicodeDecodeError):
+                continue
+            if fixed != text:
+                text = fixed
+                break
+        else:
+            break
+    return text

@@ -1,0 +1,747 @@
+
+Place  lf_name                     Time    
+   1   Crowley, Steve              47:59
+   2   Keenan, Dale                48:07
+   3   Glover, Pat                 48:29
+   4   Frederick, Larry            48:36
+   5   Pollack, Lee                49:18
+   6   Boyer, Brian D.             49:20
+   7   Hurteau, Daniel             49:23
+   8   Robinson, Bill              49:28
+   9   Tourge, Jerry               49:34
+  10   Mindel, Mark                49:55
+  11   Bulger, Tom                 50:00
+  12   Wiegand, Heinz              50:04
+  13   Dilmore, Gary               50:20
+  14   Greene, Tom                 50:31
+  15   Coy, Peter                  50:36
+  16   Hawkins, Charles            50:58
+  17   Hurbert, Tim                51:06
+  10   Ebbets, Russ                51:00
+  19   Alaggio, Patrick            51:09
+  20   DeGiule, Joseph             51:14
+  21   Sweeney, Pat                51:17
+  22   Van Garderen, Peter         51:19
+  23   Barney, Neil                51:22
+  24   Littre11, Roland            51:38
+  25   Hudson, Dick                51:47
+  26   Cletcher, Paul              51:48
+  27   Ripple, Frank               52:00
+  28   Tallon, Daniel              52:02
+  29   Layden, Tia                 52:07
+  30   Murray, Paul                52:08
+  31   Hajjar, Peter               52:09
+  32   Ford, John                  52:13
+  33   Colose, Don                 52:16
+  34   Mason, Timothy              52:20
+  35   Cantwell, Dan               52:22
+  36   Douglas, Bill               52:22
+  37   Wilcox, Lee                 52:34
+  38   Baggenstoss, Paul M.        52:46
+  39   Dow, Glenn                  52:53
+  40   Miller, Doug                52:57
+  41   Irving, Richard             53:10
+  42   Picotte, Rob                53:13
+  43   Springer, Carl              53:18
+  44   Horan, Bob                  53:20
+  45   Shannon, John               53:28
+  46   Deblase, Michael            53:31
+  47   Nimmer, Ronald P.           53:33
+  43   Johnson, Peter L.           53:34
+  49   Marincic, Nom               53:35
+  50   Hennessy, Garret            53:38
+  52   Ca«ey, Charlie             53:41
+  52   Santos, Denis               53:42
+  53   Klapp, Kenneth              53:46
+  54   St, John, Kevin             53:49
+  55   Fernando, Feria             53:50
+  56   Huges, Jack                 53:53
+  57   Meehan, Bill                53:53
+  58   Scullion, Paul              54:03
+  59   Cole, R. Jeffrey            54:05
+  60   Derrick, Tim                54:03
+  61   Barrett, Kevin              54:10
+  62   Petro, Alec                 54:15
+  63   Cialek, Christopher         54:21
+  64   Palaszewski, Paul           54:22
+  65   Farnum, Timothy             54:30
+  66   Mele, Steve                 54:32
+  67   Christian, Richard          54:34
+  68   Evans, Craig L.             54:42
+  69   Stenard, Robert             54:48
+  ?0   Allen, Douglass             54:50
+  71   Bonvillc, Joe               54:53
+  72   Teague, Brian               54:59
+  73   Garratt, Roger              55:03
+  74   Bick, Ted                   55:03
+  75   Kisselback, Paul            55:07
+  76   Kolly, David G.             55:09
+  77   Mason, Michael              55:12
+  78   Fennell, Ed                 55:13
+  79   Connolly, Charles           55:16
+  80   Seacord, John               55:18
+  81   Wlntle, Carter A.           55:21
+  82   Abearn, Mike                55:26
+  83   Hayes, Don                  55:33
+  84   Morgan, Hubert              55:37
+  85   Montgomery, Lewe11          55:51
+  86   Norman, William             55:58
+  87   Spenello, James             55:59
+  88   McNamara, Timothy J.        56:02
+  89   Day, Thom                   56:03
+  90   Mowbray, Donald F.          56:10
+  91   Powers, Edward P.           56:11
+  92   Rightmycr, Jack             56:14
+  93   Morrow, Chris               56:16
+  94   David, Karl                 56:26
+  95   Dicerbo, John               56:28
+  96   Forbes, Jim                 56:30
+  97   Reddy, Steve                56;31
+  98   Noyes, Stephen              56:39
+  99   Maggs, Tim                  56:49
+ 100   Smith, Christopher J,       56:53
+ 101   Donnan, Edward              56:53 
+ 102   Spain, Frank                56:55 
+ J03   Weglarz, Ellea              56:57 
+ 104   Donald, Orland E.           57:02 
+ 105   Cotrofeld, Joe              57:11 
+ 106   Fuller, Richard             57;12 
+ 107   Denny, Norman               57:14 
+ 108   Stewart, Robert G.          57:16 
+ 109   Turner, James               5?;19 
+ 110   Husted, Robert              57:25 
+ 111   O'Connell, Jim              57:27 
+ 112   Misiaszek, Michael J.       57:37 
+ 113   Baller, Bill                57:38 
+ 114   Ferguson, Darryl            57:46 
+ 115   McClintock, Mike            57:50 
+ 116   Mahoney, Kevin              57:52 
+ 117   Scott, Anthony L.           57:58 
+ 118   St. Louis, Todd             57:59 
+ 119   McTague, Michael            58:04 
+ 120   Barber, Joe                 58:05 
+ 121   Simms, Robert M.            58:05 
+ 122   Muench, Scott B.            58:05 
+ 123   Schoonmaksr, Barry          58:07 
+ 124   Mangano, Tony               58:08 
+ 125   Kallio, Greg                58:09 
+ 126   Faulkner, Jeffrey J.        58:09 
+ 127   Bopp, Larry                 58:13 
+ 128   Bentley, David A.           58:14 
+ 129   Collins, William R.         58:19 
+ 130   Shoop, Lee                  58:20 
+ 131   Reilly, Herbert             58:22 
+ 132   Bandit Runner               58:23 
+ 133   Mott, Pete                  58:26 
+ 134   Berner, Blaine              58:27 
+ 135   Berube, Ray                 58:29 
+ 136   Demasi, Frank C.            58:30 
+ 137   West, Ronald                58:34 
+ 138   McNamee, Gary M.            58:36 
+ 139   Myers, Frank                58:38 
+ 140   Young, George W.            58:39 
+ 141   Kieran, Tom                 58:40 
+ 142   Cohen, D.                   58:41 
+ 143   Sluger, Arthur              58:42 
+ 144   Bowles, Chip                58:43 
+ 145   Hurley, John                58:45 
+ 144   Morey, Patrick              56:48 
+ 147   Herman, David B.            58:49 
+ 148   McHale, Francis 0..         58:50 
+ 249   Stockman, Wade              58:53 
+ 150   Bradley, John               58:53 
+ 151   Cialek, Grace C.            58:55 
+ 252   Brennan, J. F.              58:55 
+ 153   Tumidajewicz, Chet          58:55 
+ 154   Decker, Larry W.            58:56 
+ 155   Cacloppo                    58:59 
+ 156   Wronowaki, Dan              59:03
+ 157   Fancher, Bob                59:07
+ 158   Bagnoli, Ronald             59:08
+ 159   Brimmer, J.                 59:10
+ 160   Radwanski, Elaine           59:15
+ 161   Sparkman, Jim               59:17
+ 162   Leach, Jon                  59:19
+ 163 . Smith                       59:27
+ 164   Morgan, Morris              59:30
+ 165   Decker, Mark                59:31
+ 166   Griset, Doug                59:32
+ 167   Fitzgerald, Mike            59:32
+ 168   Devine, Dan                 59:36
+ 169   Louks, E. John              59:37
+ 170   Assa, Aabc                  59:38
+ 171   Neiles, Ed                  59:39
+ 172   Ahcam, Casey                59:42
+ 173   Cargioli, Joseph D.         59:45
+ 174   Milligan, Dean              59:45
+ 175   Harlow, Sel                 59:47
+ 176   Davison, Jim                59:47
+ 177   Flatt, Netl F.              59:48
+ 178   Brynda, Michael             59:49
+ 179   Schaefer, Joe               59:51
+ ISO   Frederick, Dean             59:53
+ 181   Constantine, Thomas         59:S3
+ 182   Castiglione, Carolyn        59:55
+ 183   Harrison, Mark A.           59:56
+ 184   Burian, Wayne A.            59:56
+ 185   Lukaclk, Gary               59:57
+ 186   Carlson, James              59:58
+ 187   Carlin, Michael             59:59
+ 188   Barnabc, Donald             60:01
+ 189   Christian, 6,               60:06
+ 190   Adler, Dick                 60:07
+ 191   Hamilton, Gordy             60:09
+ 192   Grignon, Butch              60:11
+ 193   Dewey, Jr., Donald          60:14
+ 194   Stokes, Andy                60:20
+ 195   Keegan, Timothy J.          60:20
+ 196   Herrington, Susan           60:21
+ 197   Lucas, Brent A.             60:23
+ 198   Maylotte, D. H.             60:26
+ 199   Joslin, Allen D.            60:30
+ 200   Heller, Jeff                60:30
+ 201   Nichols, Mike               60:34
+ 202   Gardeski, Ray               60:34
+ 203   Moak, Jr., Robert           60:38
+ 204   Bouneau, Victor 0.          60:45
+ 205   Alexander, Roger K.         60:46
+ 206   Myers, Joe                  60:47
+ 207   Brown, Richard D.           60:49
+ 208   Monahan, Thomas J.          60:54
+ 209   Edwards, Jim                60:55
+ 210   Kampf, E. J.                60:55
+ 211   Vogelien, Leo               60:56
+ 212   Ferris, D.                  60:57
+ 213   McDonald, Brian             60:58
+ 214   Cowie, Pete                 60:59
+ 215   Vickers, Larry              61:03
+ 216   McLaughlin-, Bill           61:06
+ 217   Bandit Runner               61:08
+ 218   Haynes, Clifford            61:08
+ 219   Nadler, Rosa                61:08
+ 220   Malone, Joe                 61:09
+ 221   Steadman, Hank              61:10
+ 222   Cherniak, Daniele           61:10
+ 223   Phillips, Scott             61:13
+ 224   Sheldon, Dan                61:19
+ 225   Morrison, Larry E.          61:22
+ 226   Hodgdon, David              61:23
+ 227   Keating, S.                 61:24
+ 228   Blandy, Ted                 61:24
+ 229   Tierney, Michael            61:26
+ 230   Doody, Mike                 61:27
+ 231   Howard, George              61:28
+ 232   Pollak, Liz                 61:29
+ 233   French, Dan                 61:30
+ 234   MacCormack, Stephen         61:30 
+ 235   Daniels, Erie R.            61:33
+ 236   McGuigan, James             61:36
+ 237   Nautel, Kieth               61:41
+ 238   Kemp, William               61:42
+ 239   Morphy, Pat                 61:43
+ 240   Shatynski, Stephen R.       61:44
+ 241   Richey, A1                  61:45
+ 242   Flint, Douglas              61:49
+ 243   Brady, Tom                  61:53
+ 244   Pilipczak, Joe P.           61:56
+ 245   Corr, Joe                   61:58
+ 246   Molnar, Dave                61:59
+ 247   Luczkovec, David            62:00
+ 246   Daley, Richard              62:00
+ 249   Kieft, Gary                 62:04
+ 250   Owens, Richard T.           62:04
+ 251   Interrante, L.              62:14
+ 252   King, Richard               62:16
+ 253   Bohllng, S.                 62:18
+ 254   Wood, Jack                  62:20
+ 255   Delarocha, Michael          62:23
+ 256   Talluer, Dick               62:25
+ 257   Provoncha, John             62:26
+ 258   Stcciuk, Robert             62:31
+ 259   Cashin, Michael             62:32
+ 260   Schimpf, Bud                62:35
+ 261   Moroney, John T.            62:36
+ 262   McFarland, Bob              62:37
+ 263   Handron, David G.           62:39
+ 264   Frambes, John               62:42
+ 265   Thomas, Ed                  62:43
+ 266   Kulmetiski, Andrew          62:43
+ 267   Mendoza, Robert             62:48
+ 268   Weaver, Michael             62:50
+ 269   Luberda, Edward J.          62:55
+ 270   Wong, Grand                 62:56
+ 271   Tichy, John                 62:57
+ 272   Aronson, John N.            62:58
+ 273   Trimarchi. Chuck            62:59
+ 274   Dashnaw, Jr., Arthur        63:01
+ 275   Madsen, Elizabeth           63:03
+ 276   Greenwalt, John             63:03
+ 277   O'Connor, Joan              63:04
+ 278   Flatt, Kevin J.             63:05
+ 279   Page, Lincoln E.            63:05
+ 280   Wallace, Bud                63:06
+ 281   HillIngas, Paul             63:07
+ 282   Sowa, John R.               63:09
+ 283   Camillo, Joseph A.          63:12
+ 284   Mullin, James               63:14
+ 285   Kuta, Paul D.               63:23
+ 286   Shelgren, Jay               63:24
+ 287   Parsons, Lanny              63:24
+ 288   Beebe, Robert L.            63:26
+ 289   Keegan, Mark                63:27
+ 290   Hinrichsen, Eric N.         63:37
+ 291   Walton, Ernest E.           63:39
+ 292   Carbone, Marty              63:43
+ 293   Karker, Charles             63:44
+ 294   Licrmann, Doug              63:46
+ 295   Weber, Jr., Alfred C.       63:52
+ 296   Warner, Tom                 63:54
+ 297   Drums, Ken                  63:56
+ 298   Backowski, Joe              63:56
+ 299   Gambruno, Gayle             63:58
+ 300   Rickard, Paul               64:00
+ 301   Pauze, Denis R.             65:01
+ 302   Rabbitt, Bill               64:05
+ 303   Kieft, Nora                 64:18
+ 304   McCabe, Don                 64:21
+ 305   Burncs, Jame3               64:28
+ 306   Maslyn, Robert              64:30
+ 307   Stobbe                      64:30
+ 308   Kieft, Donald               64:31
+ 309   Dowley, John M.             64:32
+ 310   Nichols, Eugene             64:33
+ 311   Christian, Charles R.       64:35
+ 312   Flynn, Don                  64:36
+ 313   Warner, Robert              64:37
+ 314   Allard, James               64:40
+ 315   Farmer, Chris               64:43
+ 316   Stearns, Charles            64:44
+ 3L7   Simms, Matthew E.           64:45
+ 318   Burns, John                 64:46
+ 319   Feyer, John D.              64:47
+ 320   Cole, Herb                  64:49
+ 321   Murphy, Thomas              64:50
+ 322   Pltz, Robert                64:51
+ 323   Currin, Hunter B.           64:54
+ 324   Smith, Jimcy                64:58
+ 325   Drapeau, Norman R.          65:01
+ 326   Vanalatine, Tracy           65:31
+ 327   Burns, Bob                  65:05
+ 328   LeBrou, Jim                 65:10
+ 329   Ludwig, A1                  65:12
+ 330   Turnbull, David E.          65:19
+ 331   Wrorowski, Douglas M.       65:22
+ 332   Stasiak, John J.            65:24
+ 333   Boorady, Carol              65:25
+ 334   Peacock, George             65:26
+ 335   Kieran, Shawn.              65:27
+ 336   Englcrt, Dennis M.          65:29
+ 337   Concordia, David            65:32
+ 338   Dunn, Rusjse.ll             65:32
+ 339   Engler, Melissa             65:32
+ 340   Smith, Ronald               65:33
+ 341   Powerahs, James R.          65:34 
+ 342   Starings, Gerald S.         65:35 
+ 343   Coffey, Andrew              65:38 
+ 344   Hetman, Denise A.           65:39 
+ 345   Howley, Thomas M.           65:39 
+ 346   Kollar, Thomas W.           65:40 
+ 347   Hill, Gerald                65:40 
+ 348   Bowdon, Doug                65:42 
+ 349   Randazzo, Diane             65:47 
+ 350   Johnson, Skip               65:50 
+ 351   Dixon, Bill                 65:51 
+ 352   Conner, Steven              65:52 
+ 353   Eadry, Michael              66:05 
+ 354   Gallagher, Joe              66:05 
+ 355   Morine, Dannie1 G.          66:07 
+ 356   Dahlguist, Janet            66:09 
+ 357   Hewitt, John L.             66:15 
+ 358   Reddy, Steve                66:17 
+ 359   Eckenbergcr, Jay            66:18 
+ 360   Todd, Mike                  66:23 
+ 361   Glidden, Janice             66:24 
+ 362   Donnelly, Dennis            66:25 
+ 363   Reily, Bob                  66:27 
+ 364   Eats, Jim                   66:27 
+ 365   Skorina, Prank              66:29 
+ 366   Lemay, R. P.                66:30 
+ 367   Derrick, Mary Beth          66:35 
+ 368   Naglem, Sylvain             66:37 
+ 369   Howley, Thomas M.           66:37 
+ 370   Reed, Bob                   66:38 
+ 371   Derry Michael D.            66:39 
+ 372   Cole, Herb                  66:40 
+ 373   Lane, Garrett               66:41 
+ 374   DeWolf, Gerry               66:41 
+ 375   Murphy, David R.            66:42 
+ 376   Hourihan, Edward P.         66:42 
+ 377   Kollgaard, Kevin            66:43 
+ 378   Hammer, Don                 66:44 
+ 379   Stockman, Anny              66:44 
+ 380   Cashin, Christine           66:45 
+ 381   Roberts, Don                66:48 
+ 382   Davidson, George            66:51 
+ 383   Bassanelli, Anthony G.      66:53 
+ 384   Harris, Larry               66:54 
+ 385   Shepherd, Larry             66:54 
+ 386   Wigon, Stuart L.            66:55 
+ 387   Bordwell                    66:56 
+ 388   Marzinsky, John J.          66:56 
+ 389   Ryon, Tom                   66:59 
+ 390   Hilferty, P.                67:01 
+ 391   Buhrmaster, John            67:04 
+ 392   Geer, Dan                   67:05 
+ 393   Willard, Walter             67:07 
+ 394   Leland, Lynn                67:13 
+ 395   Crair, Jayson               67:14 
+ 396   Breyo, John                 67:15
+ 397   Guy, Joseph L.              67:16
+ 398   Signorelli, Peter           67:17
+ 399   Barnade, Elaine             67:18
+ 400   O'Neill, John               67:19
+ 401   Kieran, Thomas              67:21
+ 402   Alber, George               67:21
+ 403   Murray, John A.             67:22
+ 404   Dashnaw III, Artie          67:23
+ 405   Szot, Penny                 67:24
+ 406   Curran, Michael             67:30
+ 407   Peacock, Gail               67:32
+ 408   Hein, Joseph                67:34
+ 409   Horrocks, David             67:38
+ 410   Rosenfeld. Richard          67:38
+ 411   Shirey, Richard             67:39
+ 412   Park, David A.              67:43
+ 413   Horan, Patrick              67:45
+ 414   D'Ambrosio, Frank M.        67:46
+ 415   Casey, Jack                 68:05
+ 416   Philipp, David              68:05
+ 417   Roach, Buddy J.             68:08
+ 428   Frering, Richard            68:10
+ 419   Sbuttoni, Michael           68:10
+ 420   Marcus, Dan                 68:13
+ 421   Rogers, John W.             68:17
+ 422   Culhana, Jr., Ed            68:19
+ 423   Rainey, Thomas              68:21
+ 424   Kelly, Joseph               68:23
+ 425   Springer, Dennis            68:24
+ 426   Zahnleuter, Rick            68:25
+ 427   Aronowitz, Mark             68:26
+ 428   Carter, Alan R.             66:Z7
+ 429   Knight, Frank               68:28
+ 430   Remmers, Patricia           68:28
+ 431   Sutton, Jay                 68:29
+ 432   Greco, Vince                68:30
+ 433   Thibodeau, John R.          68:31
+ 434   Reppen, Dag                 68:32
+ 435   Ireton, Sean                68:33
+ 436   Terryberry, Allan           68:41
+ 437   Deleo, John                 68:43
+ 438   Phibbs, Sandra Dee          68:47
+ 439   Barber, Joseph              68:49
+ 440   O'Leary, Jim                68:50
+ 441   Salvo, Jr., Edward J.       68:52
+ 442   Fenaroll, Christopher       68:56
+ 443   Lenane, Ed                  69:00
+ 444   Crosman, Coral              69:02
+ 445   Holley, Michael             69:04
+ 446   Lamond, Paul                69:06
+ 447   Hamel, D.                   69:08
+ 448   Dunnlvant, Sam              69:11
+ 449   Gibney, Jr., James J.       69:18
+ 450   Prendergast, David          69:19
+ 451   Carcich, Italo              69:20
+ 452   Friday, Peter               69:24
+ 453   Flanders, T. Patrick        69:28
+ 454   Martin, Ralph               69:28
+ 455   Slasinski, Brenda           69:29
+ 456   Grelfand, Michael L.        69:36
+ 457   Triplett, Michael D.        69:37
+ 458   Cote, Charles H.            69:38
+ 459   Nemecek, John               69:42
+ 460   D'Arcanglis, Carol L.       69:44
+ 461   Raymond, Edward D.          69:45
+ 462   Hunter, Nancy A.            69:46
+ 463   Flynn, Don                  69:46
+ 464   Gill, Robert                69:47
+ 465   Egan. Michael               69:47
+ 466   Salatinp, Mike              69:52
+ 467   Fragasso, Thomas            70:03
+ 468   Adams, John P.              70:11
+ 469   Turone, Ted                 70:12
+ 470   Stokoe, John                70:14
+ 471   Wiliams, Timothy W.         70:14
+ 472   Wiedemann, Carl             70:16
+ 473   Dunn, Jack                  70:21
+ 474   Beil, Jim                   70:23
+ 475   DeJulio, Joseph L.          70:26
+ 476   Patrick, Steve              70:27
+ 477   Gifford, Richard            70:28
+ 478   Testa, Peter J.             70:28
+ 479   Bandit Runner               70:28
+ 480   Berkery, John               70:29
+ 481   Dodge, Bert R.              70:30
+ 482   Mooney, Katie               70:32
+ 48?   Neale, Maurice              70:34
+ 484   Vrooman, Bruce              70:35
+ 485   Lochner, Joseph A.          70:36
+ 486   Robinson, Charles           70:36
+ 487   Howard, Brian               70:37
+ 488   Scherzer, Robert            70:39
+ 489   Golombiski, Ken             70:41
+ 490   Depold, Karl A.             70:42
+ 491   Pasko, M. S.                70:43
+ 492   Zegger, Nina                70:43
+ 493   Griffin, A1 A.              70:43
+ 494   Ostanek, Barbara            70:44
+ 495   Ostolski                    70:47
+ 496   McDonald, Rich              70:48
+ 497   Comisky, Mike               70:49
+ 49$   Baker, Raymond D.           70:49
+ 499   Becker, Christopher L.      70:51
+ 500   Wiles, Kenneth C.           70:51
+ 501   King, Ralph                 70:53
+ 502   Hayner, William J.          70:54
+ 503   Coffey, Peter E.            70:55
+ 504   Maddux, Robert              70:56
+ 505   Jacoon, Robert M.           70:57
+ 506   Davidson, Susan             70:59
+ 507   Griffin, Norman R.          70:59
+ 508   Crush, Janes                71:01
+ 509   Townsend                    71:02
+ 510   Lashway , Wayne             71:05
+ 511   Bourgeois, Paul             71:06
+ 512   Morris, Elaine              71:10
+ 513   Policastro, Jim             71:14
+ 514   Hudson, Robert M.           71:18
+ 515   Warnick, Spencer            71:20
+ 516   Costello, B. J.             71:22
+ 517   Posniewski, James           71:24
+ 518   Symanowscz, Donald          71:26
+ 519   Meyer, Winnie               71:28
+ 520   Bandit Runner               71:34
+ 521   Strait, Bill                71:37
+ 522   Bandit Runner               71:39
+ 523   Warren, Richard E.          71:41
+ 524   Donavan, Suzy               71:46
+ 525   McEckron, David W.          71:48
+ 526   Nordstrom, Mark A.          71:49
+ 527   Merkert, Shirley            71:51
+ 528   Terry, Julie                71:52
+ 529   Leveilee, Marc              71:55
+ 530   McHale, Michael             71:57
+ 531   Collins, George             71:58
+ 532   Gottheim, Bob               72:02
+ 533   Wagner, Any                 72:02
+ 534   Wagner, Tom                 72:03
+ 535   Schroeder, Gerard A.        72:05
+ 536   Serbent, Gary               72:05
+ 537   Kaczmarski, Kathy           72:05
+ 538   Smith, Eddie                72:06
+ 539   Regelman, Jeffrey A.        72:06
+ 540   Rudolph, Lionel             72:06
+ 541   Blcndell, James             72:08
+ 542   Morris, William F.          72:10
+ 543   Conway, Joe                 72:14
+ 544   Heher, John J.              72:18
+ 545   Ferris, R.                  72:19
+ 546   Sweeney, John               72:20
+ 547   Dellarocco, Michael         72:33
+ 548   Shea, Robert                72:33
+ 549   Schumacher, Richard         72:34
+ 550   Burr, Jerry                 72:34
+ 551   Naylor, Lawrence            72:35
+ 552   Williams, Liz               72:36
+ 553   Bentrovato, T>cma\6 k.      72:36
+ 554   Simms, Nathan               72:37
+ 555   Hillengas, Rosemary         72:39
+ 556   Zocco, Bill                 72:42
+ 557   Hcnrikson, Charles          72:44
+ 558   Green, Herman R.            72:45
+ 559   Arneson, Carl               72:46
+ 560   Axton, Dave                 72:47
+ 561   Donovan, B.                 72:50
+ 562   Zaloga, Frank               72:54
+ 563   Doten, Gene                 72:56
+ 564   Rosen, Ira                  72:56
+ 565   Freer, Edward W.            72:56
+ 566   Silver, David               72:57
+ 567   Morse, Dale                 72:59
+ 568   Naylor, Lawrence            73:02
+ 569   Lucas, Christopher          73:05
+ 570   Sprague, Edward             73:07
+ 571   Brond, David                73:09
+ 572   Letson, Laura               73:13
+ 573   Relies, Howard              73:16
+ 574   Febbie, Michael             73:21
+ 575   Bezak, Joseph tf.           73:23
+ 576   Robelee, William            73:27
+ 577   Fisher, Fred                73:40
+ 578   Pietzykowski, Paul J.       73:41
+ 579   Frost, Sandra M.            73:42
+ 580   Feck, James                 73:42
+ 581   Lochner, Kathy              73:43
+ 582   Lochner, Tom                73:43
+ 583   Boyer, Mark                 73:44
+ 584   Harper, Maryanne            73:47
+ 585   Lcadholm, Margard Ann       73:47
+ 586   Rasowsky, Berny             73:49
+ 587   Johnson, Edward J.          73:49
+ 588   Angerami, Rick              73:50
+ 589   Moran, Jack                 73:54
+ 590   Walker, F. William          73:54
+ 591   Miller, Martin              73:55
+ 592   Elden, Don                  73:56
+ 593   Lamb, Jim                   73:56
+ 594   Thomas, John B.             73:58
+ 595   Bandit Runner               74:00
+ 596   Patack, Louis               74:02
+ 597   Sheppeck, Jr., M. L.        74:02
+ 598   Sheppeck, John              74:03
+ 599   Hope, Frank                 74:04
+ 600   Stroble, Terry J.           74:05
+ 601   Rielle, Steven              74:07
+ 602   Lagasse, Robert             74:08
+ 603   Miers, Dave                 74:09
+ 604   Call, Michael               74:13
+ 605   Perrin, Janet               74:14
+ 606   Lee, Raymond W.             74:15
+ 607   Singiser, David E.          74:15
+ 608   Haydock, Bill               74:20
+ 609   Zuraf, Frank                74:21
+ 610   Becker, Craig               74:21
+ 611   Derrick, William            74:23
+ 612   Heeran, Roger               74:24
+ 613   Becker, Gerdner F.          74:38
+ 614   Brathwaite, Elaine          74:39
+ 615   Bandit Runner            '  74:42
+ 616   Thompson, Jr., Fred         74:47
+ 617   Rush, C. C.                 74:48
+ 618   Underhill, Fran             74:49
+ 619   Stewart, Bonnie M.          74:50
+ 620   Read, Jim                   74:52
+ 621   Powhida, Nancy              74:55
+ 622   Devries, Bob                74:57
+ 623   Amann, Lud                  74:59
+ 624   Bailey,   Dick              75:05
+ 625   Garmon,   John F.           75:13
+ 626   Ellett,   Debbie            75:14
+ 627   Agranov, Jay                75:17
+ 628   Castle, Herman              75:18
+ 629   Mangano, Tom                75:20
+ 630   Marsh, Michael J.           75:20
+ 631   Foster,   Mike              75:20
+ 632   Hull, Daryl J.              75:21
+ 633   Ferez, Maria                73:21
+ 634   McElhaney, Shirley          75:23
+ 635   Dawson, Barbara             75:25
+ 636   Mason, Ton                  75:36
+ 637   Kollgaard, Ron              75:37
+ 638   Apple, Bruce A.             75:44
+ 639   Wagner, Diane               75:50
+ 640   Chapin, Jr., Harlln W.      75:56
+ 641   Tattle, Jeanne              75:57
+ 642   Guzewlch, Marsha            75:58
+ 643   Robinson, Jesse             75:59
+ 644   Moak, Sr., Robert           76:01
+ 645   Sanderson, John             76:07
+ 646   Winne, David                76:10
+ 647   Tripoli, Lori               76:15
+ 648   Carpenter, Beth             76:15
+ 649   Hublckl, Don                76:18
+ 650   Blanton, John C.            76:27
+ 651   Clayton, Roger              76:36
+ 652   Pickett, Mike               76:47
+ 653   Fenaroli, Diane             76:50
+ 654   Johnson, Mike               76:50
+ 655   Ladd, Helen                 77:07
+ 656   Gregory, D.                 77:07
+ 657   Windester, William          77:12
+ 658   Lapo, Anne                  77:14
+ 659   Bandit Runner               77:19
+ 660   Remmers, Barbara            77:22
+ 661   Bandit Runner               77:24
+ 662   Brown, Joan M.              77:26
+ 663   Arbour, Ronald P.           77:27
+ 664   Curcio, James               77:38
+ 665   Coll, Helen                 77:43
+ 666   Tremante, Elizabeth         77:49
+ 667   Via, Alan                   77:58
+ 668   Jordan, Jan                 78:13
+ 669   Mlllis, Ronald              78:18
+ 670   Shrader, hill               70:33
+ 671   Dickson, John               78:35
+ 672   Amman, Dick                 78:37
+ 673   Hart, Robert L.             78:44
+ 674   McCarthy, Maureen           78:45
+ 675   Connolly, Erin              79:20
+ 676   Wood, Michael               79:28
+ 677   Paley, Warren               79:36
+ 678   Nicholls, Terry             79:39
+ 679   Atkins, Ellen               79:42 .
+ 680   O'Connor, William V.        79:55
+ 681   Dashnaw, Todd               79:59
+ 682   Boutelle, Richard           80:00
+ 683   Kurtik, Edward F.           80:02
+ 684   Gaul, Shiela                80:02
+ 685   Bandit Runner               80:33
+ 686   Barner, John C.             80:34
+ 687   Svanson, Ann                80:36
+ 688   Kiegley, Peggy              80:38
+ 689   Smith, Chris                80:52
+ 690   Campano, Jay                80:53
+ 691   Carol1, Linda               80:58
+ 692   Hawker, Brian               81:02
+ 693   Staufenberg, George         81:03
+ 694   Gasiorowskl, Stan           81:06
+ 695   Arneson, Valerie            81:07
+ 696   Nolan, Michael              81:09
+ 697   Becker, Jr., Robert E.      81:16
+ 698   Axelrod, Howard             81:19
+ 699   Davis, Maggie               81:19
+ 700   Weingerg, Leo               81:21
+ 701   Hamm, Ray                   81:21
+ 702   Anthos, George              81:26
+ 703   Lewis, Susie                81:30
+ 704   Berard, Deborah A.          82:00
+ 705   Kaplan, David               82:00
+ 706   McGarry, Amy                82:19
+ 707   Smith, Vicki                82:19
+ 708   Nash, Leo                   82:34
+ 709   Hatkoff                     82:42
+ 710   Stearns, Amy                82:57
+ 711   Bandit Runner               83:11
+ 712   Relies, Barbara             83:16
+ 713   Auten, T.                   83:34
+ 714   Sollecito, Vincent          83:51
+ 715   Okrent, Gary                83:51
+ 716   Flynn, Sr., Bob             83:54
+ 717   Shlshlkura, Megumi          83:55
+ 718   Collado, Marcia             83:56
+ 719   Selfridge                   84:16
+ 720   Curley, Joan                85:08
+ 721   Anderson, Lisa.             85:31
+ 722   Seibert, Suzy               85:32
+ 723   Cotrofeld, Any              85:38
+ 724   Marsh, Kim                  85:38
+ 725   Vandecar, Kyle              86:01
+ 726   Rogers, Kelly               86:10
+ 727   LeBrou, Sharon              86:30
+ 728   Williams, Jeanne            86:55
+ 729   Bourgeois, Anne             86:56
+ 730   Hannay, Scott               88:20
+ 731   Blandy, Gail                88:59
+ 732   Hallenbeck, A1              89:23
+ 733   McGiffin, Marcia            91:30
+ 734   Royce, Nola                 92:02
+ 735   Baker, Ed                   92:06
+ 736   Morman, Michael             92:56
+ 737   Brisley, Matt               93:03
+ 738   Dimaina, Pam                95:35
+ 739   Nocera, Mickey              96:22
+ 740   Boschelli, Sam              97:10
+ 741   Dashnaw, Frank A.          102:51
+ 742   Dashnaw, Angela            102:56
+ 743   Rush, Pat                  104:53
+ 744   Scrbent, Frank             106:48
+ 745   McMorrow, Patrice          106:49

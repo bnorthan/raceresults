@@ -15,6 +15,7 @@ of the race to the database of the Django raceresults plugin
 
 """
 
+import os
 import re
 import sys
 import pandas as pd
@@ -37,9 +38,14 @@ def stockade_csv(file, out_file):
 
 # function to read clean fixed width format
 def stockade_fwf(file,out_file):
-    race_=pd.read_fwf(file)    
+    # latin-1 keeps one byte == one character, which is what the fixed-width
+    # column positions were laid out against; utf-8 would shift any line
+    # containing a curly apostrophe.  Mojibake is undone after parsing.
+    race_=pd.read_fwf(file, encoding=(encoding or 'latin-1'))
     results=readers.parse_general(race_, header.RaceHeader.headers, 1)
-    results.head()
+    for col in ('first_name', 'last_name', 'city', 'full_name'):
+        if col in results.columns:
+            results[col]=results[col].apply(utils.fix_mojibake)
     results.to_csv(out_file)
 
 def get_lines(file):
@@ -48,377 +54,212 @@ def get_lines(file):
     return lines
 
 
-# regex to detect time in mm:ss format (ie 55:22, 65:34, 88:23, etc)
-time_pattern='[01]?[0-9][0-9]:[0-9][0-9]' 
+repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+data_dir  = os.path.join(repo_root, 'data')
+base_dir  = os.path.join(data_dir, 'Stockade-athon all time')
+txt_dir   = os.path.join(base_dir, 'txt')
+csv_dir   = os.path.join(base_dir, 'csv')
 
-# regex to detect time in hh:mm:ss format (ie 55:22, 1:05:34, 1:28:32, 2:05:11, etc)
-time_pattern='(?:[1-2]:)?[0-5][0-9]:[0-5][0-9]' 
-
-last_first=False
-method=1
-
-year=1997
-method=0
-
-'''
-year=2005
-method=0
-
-year=2004
-method=0
-
-year=2003
-method=0
-
-year=2002
-method=0
-
-year=2001
-method=0
-
-year=2000
-method=0
-
-year=1999
-method=0
-
-year=1998
-method=0
-
-year=1997
-method=0
-
-year=1996 #1994, 1995, 1996
-method=2
-encoding='cp1252'
-time_pattern='(?:[1-2]:)?[0-5][0-9]:[0-5][0-9]' 
-
-year=1994
-method=2
-encoding='cp1252'
-
-year=1993
-method=2
-encoding='cp1252'
-
-year=1992
-time_pattern='[01]?[0-9][0-9]\.[0-9][0-9]' 
-last_first=True
-method=1
-
-year=1991
-time_pattern='[01]?[0-9][0-9]\.[0-9][0-9]' 
-method=1
-
-year=1990
-time_pattern='[01]?[0-9][0-9]\.[0-9][0-9]' 
-last_first=True
-method=1
-'''
-
-'''
-year=1988
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-encoding='cp1252'
-
-year=1987
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-encoding='cp1252'
-
-year=1986
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-encoding='cp1252'
-
-year=1985
-file_m = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_m.txt'
-file_f = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_f.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-encoding='cp1252'
-
-year=1984
-file_m = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_m.txt'
-file_f = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_f.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-
-year=1983
-file_m = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_m.txt'
-file_f = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_f.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-
-year=1983
-file_m = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_m.txt'
-file_f = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_f.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-
-year=1982
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-
-year=1981
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-stockade_fwf(file,out_file)
-
-year=1980
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-stockade_fwf(file,out_file)
-
-year=1979
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-stockade_fwf(file,out_file)
-
-year=1977
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-stockade_fwf(file,out_file)
-
-year=1976
-file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-'''
-
-years=[2003,2004,2005,2006,2007,2008,2009,2010,2011]
-years=[2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021]
-
-years=[1981]
-method=0
-encoding=None
+# ============================================================
+# Set years to process. Examples:
+#   Single year:  years = [1986]
+#   Range:        years = list(range(1976, 2026))
+# ============================================================
+years = list(range(1976, 2026))
 
 for year in years:
-    
-    if (method==3):
-        file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'_.csv'
-        out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
-    else:
-        file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.txt'
-        out_file = '/home/bnorthan/runnin/raceresults/data/All Stockade results/'+str(year)+'.csv'
 
-    if (method==3):
-        stockade_csv(file, out_file)
-    
-    if (method==0):
+    file     = txt_dir + '/' + str(year) + '.txt'
+    file_m   = txt_dir + '/' + str(year) + '_m.txt'
+    file_f   = txt_dir + '/' + str(year) + '_f.txt'
+    out_file = csv_dir + '/' + str(year) + '.csv'
+
+    # skip years with no source data at all (1978, 2020)
+    if year in (1983, 1984, 1985):
+        needed = [file_m, file_f]
+    elif year == 2019:
+        needed = [os.path.join(data_dir, '2019', 'Stockade2019.csv')]
+    else:
+        needed = [file]
+    if not all(os.path.exists(f) for f in needed):
+        print(f'{year}: no source data -- skipping')
+        continue
+
+    # -- Per-year configuration --
+    # defaults
+    method       = 0
+    encoding     = None
+    last_first   = False
+    time_pattern = '(?:[1-2]:)?[0-5][0-9]:[0-5][0-9]'
+
+    if year == 1976:
+        # format: "N. First Last (age)   mm:ss"
+        encoding = 'utf-8'
+
+    elif year in range(1977, 1982):
+        # 1977-1981: fixed-width with column headers, utf-8
+        encoding = None
+        method   = 0
+
+    elif year == 1982:
+        # unique column format: "N  time  Last, First sex age"
+        encoding = 'cp1252'
+
+    elif year in (1983, 1984, 1985):
+        # split male/female files (_m.txt / _f.txt), cp1252
+        encoding = 'cp1252'
+
+    elif year in range(1986, 1990):
+        # format: "N N FIRST LAST (age) mm:ss.d"  Men's/Women's section headers, cp1252
+        # time is mm:ss.d -- match just mm:ss, ignore decimal tenths
+        encoding     = 'cp1252'
+        method       = 1
+        time_pattern = '[0-9][0-9]:[0-5][0-9]'
+        last_first   = False
+
+    elif year in range(1990, 1993):
+        # format: "N Last, First, age mm.ss"  Male/Female section headers, cp1252
+        # time uses dot separator (46.51 means 46:51)
+        encoding     = 'cp1252'
+        method       = 1
+        time_pattern = '[01]?[0-9][0-9]\\.[0-9][0-9]'
+        last_first   = True
+
+    elif year in range(1993, 1997):
+        # colon times, no gender section headers (gender stored as u), cp1252
+        encoding     = 'cp1252'
+        method       = 2
+        time_pattern = '(?:[1-2]:)?[0-5][0-9]:[0-5][0-9]'
+
+    elif year >= 1997:
+        # 1997+: fixed-width with column headers, utf-8
+        encoding = None
+        method   = 0
+
+    # -- Parsing --
+
+    if year == 1976:
+        # format: "N. First Last (age)   mm:ss"
+        rows = []
+        for line in get_lines(file):
+            pattern = '[0-9][0-9]:[0-5][0-9]'
+            time = re.findall(pattern, line)
+            if len(time) > 0:
+                name  = line.split('.')[1].split('(')[0].strip()
+                fname = name.split()[0]
+                lname = name.split()[1] if len(name.split()) > 1 else ' '
+                rows.append({'first_name': fname, 'last_name': lname, 'time': time[0]})
+        pd.DataFrame(rows).to_csv(out_file)
+
+    elif year == 2019:
+        # 2019 was never added to txt/; the raw csv lives under data/2019/
+        # columns: Place,Name,Age,S,City,St,Guntime,Pace  (full name, no div place)
+        stockade_csv(os.path.join(data_dir, '2019', 'Stockade2019.csv'), out_file)
+
+    elif year == 1982:
+        # format: "N  time  Last, First sex age"
+        errors  = 0
+        pattern = '[01]?[0-9][0-9]:[0-5][0-9]'
+        rows    = []
+        for line in get_lines(file):
+            time = re.findall(pattern, line)
+            if len(time) > 0:
+                try:
+                    line_ = line.split(maxsplit=2)[2].split(',')
+                    if len(line_) == 1:
+                        line_ = line_[0].split('.')
+                    lname = line_[0].strip()
+                    line_ = line_[1].split()
+                    fname = line_[0].strip()
+                    sex   = line_[1].strip()
+                    age   = line_[2].strip()
+                    rows.append({'first_name': fname, 'last_name': lname, 'time': time[0], 'age': age, 'gender': sex})
+                except:
+                    errors += 1
+                    print('error', line)
+        print(f'{year}: errors {errors}')
+        pd.DataFrame(rows).to_csv(out_file)
+
+    elif year in (1983, 1984, 1985):
+        # split male/female files
+        pattern      = '[01]?[0-9][0-9]:[0-5][0-9]'
+        age_pattern  = '([1-9]?[1-9][0-9])'
+        first_letter = '[^\\W\\d]'
+        rows = []
+        for lines, gender in [(get_lines(file_m), 'M'), (get_lines(file_f), 'F')]:
+            for line in lines:
+                line = line[2:]
+                time = re.findall(pattern, line)
+                if len(time) > 0:
+                    line_ = re.split(pattern, line)[0].strip()
+                    match = re.search(first_letter, line_)
+                    if not match:
+                        continue
+                    line_ = line_[match.start():]
+                    age   = re.findall(age_pattern, line_)
+                    age   = age[0] if len(age) > 0 else 0
+                    line_ = line_.split(maxsplit=2)
+                    fname = line_[0] if len(line_) > 0 else 'Nobody'
+                    lname = line_[1] if len(line_) > 1 else 'No-one'
+                    rows.append({'first_name': fname, 'last_name': lname, 'time': time[0], 'age': age, 'gender': gender})
+        pd.DataFrame(rows).to_csv(out_file)
+
+    elif method == 1:
+        # regex parser - detects gender from "Wom" / "Men" section header lines
+        # used for 1986-1992: decimal times like 46:06 (dot converted to colon)
+        age_pattern  = '([1-9]?[1-9][0-9])'
+        first_letter = '[^\\W\\d]'
+        gender = 'M'
+        rows   = []
+        for line in get_lines(file):
+            if line[0:3] == 'Wom':
+                gender = 'F'
+            line = line[2:]
+            time = re.findall(time_pattern, line)
+            if len(time) > 0:
+                time[0] = time[0].replace('.', ':')
+                line_   = re.split(time_pattern, line)[0].strip()
+                match   = re.search(first_letter, line_)
+                if not match:
+                    continue
+                line_   = line_[match.start():]
+                age     = re.findall(age_pattern, line_)
+                age     = age[0] if len(age) > 0 else 0
+                line_   = line_.split(maxsplit=2)
+                fname   = line_[0].strip(',') if len(line_) > 0 else 'Nobody'
+                lname   = line_[1].strip(',') if len(line_) > 1 else 'No-one'
+                if last_first:
+                    fname, lname = lname, fname
+                rows.append({'first_name': fname, 'last_name': lname, 'time': time[0], 'age': age, 'gender': gender})
+        pd.DataFrame(rows).to_csv(out_file)
+
+    elif method == 2:
+        # regex parser - no gender section headers (1993-1996), gender stored as 'u'
+        age_pattern  = '([1-9]?[1-9][0-9])'
+        first_letter = '[^\\W\\d]'
+        rows = []
+        for line in get_lines(file):
+            line = line[2:]
+            time = re.findall(time_pattern, line)
+            if len(time) > 0:
+                time[0] = time[0].replace('.', ':')
+                line_   = re.split(time_pattern, line)[0].strip()
+                match   = re.search(first_letter, line_)
+                if not match:
+                    continue
+                line_   = line_[match.start():]
+                age     = re.findall(age_pattern, line_)
+                age     = age[0] if len(age) > 0 else 0
+                line_   = line_.split(maxsplit=2)
+                fname   = line_[0].strip(',') if len(line_) > 0 else 'Nobody'
+                lname   = line_[1].strip(',') if len(line_) > 1 else 'No-one'
+                rows.append({'first_name': fname, 'last_name': lname, 'time': time[0], 'age': age, 'gender': 'u'})
+        pd.DataFrame(rows).to_csv(out_file)
+
+    elif method == 0:
+        # fixed-width format with column headers (1977-1981, 1997+)
         stockade_fwf(file, out_file)
 
-    if method==2:
-        df=pd.DataFrame(columns=['first_name','last_name','time','age','gender'])
-        lines=get_lines(file)
-        
-        age_pattern='([1-9]?[1-9][0-9])'
-        first_letter='[^\W\d]'
-
-        gender='u'
-        for line in lines:
-            line=line[2:]
-            time=re.findall(time_pattern,line)
-            if (len(time)>0):
-                time[0]=time[0].replace('.',':')
-                print(line,time[0])
-                seconds=utils.time_to_seconds(time[0]);
-                duration=timedelta(seconds=seconds)
-                line_=re.split(time_pattern,line)[0].strip()
-                pos=re.search(first_letter,line_).start()
-                line_=line_[pos:]
-
-                # age
-                age=re.findall(age_pattern, line_)
-                if(len(age)>0):
-                    age=age[0]
-                else:
-                    age=0
-
-                line_=line_.split(maxsplit=2)
-
-                if (len(line_)>0):
-                    fname=line_[0]
-                    fname=fname.strip(',')
-                else:
-                    fname='Nobody'
-
-                if (len(line_)>1):
-                    lname=line_[1]
-                    lname=lname.strip(',')
-                else:
-                    lname='No=one'
-
-                if last_first==True:
-                    temp=fname
-                    fname=lname
-                    lname=temp
-
-                print(fname,lname,gender,age,time[0])
-                df=df.append({'first_name':fname,'last_name':lname,'time':time[0],'age':age,'gender':gender}, ignore_index=True)
-                #print(fname,lname,line_[1])
-        df.to_csv(out_file)
-    
-    if method==1:
-        df=pd.DataFrame(columns=['first_name','last_name','time','age','gender'])
-        lines=get_lines(file)
-        
-        age_pattern='([1-9]?[1-9][0-9])'
-        first_letter='[^\W\d]'
-
-        gender='M'
-        for line in lines:
-            if line[0:3]=='Wom':
-                gender='F'
-            line=line[2:]
-            time=re.findall(time_pattern,line)
-            if (len(time)>0):
-                time[0]=time[0].replace('.',':')
-                print(line,time[0])
-                seconds=utils.time_to_seconds(time[0]);
-                duration=timedelta(seconds=seconds)
-                line_=re.split(time_pattern,line)[0].strip()
-                pos=re.search(first_letter,line_).start()
-                line_=line_[pos:]
-
-                # age
-                age=re.findall(age_pattern, line_)
-                if(len(age)>0):
-                    age=age[0]
-                else:
-                    age=0
-
-                line_=line_.split(maxsplit=2)
-
-                if (len(line_)>0):
-                    fname=line_[0]
-                    fname=fname.strip(',')
-                else:
-                    fname='Nobody'
-
-                if (len(line_)>1):
-                    lname=line_[1]
-                    lname=lname.strip(',')
-                else:
-                    lname='No=one'
-
-                if last_first==True:
-                    temp=fname
-                    fname=lname
-                    lname=temp
-
-                print(fname,lname,gender,age,time[0])
-                df=df.append({'first_name':fname,'last_name':lname,'time':time[0],'age':age,'gender':gender}, ignore_index=True)
-                #print(fname,lname,line_[1])
-        df.to_csv(out_file)
-            #lines=lines_m.append(lines_f)
-
-    if (year==1983)  or (year==1984) or (year==1985):
-        df=pd.DataFrame(columns=['first_name','last_name','time','age','gender'])
-        lines_m=get_lines(file_m)
-        lines_f=get_lines(file_f)
-        
-        pattern='[01]?[0-9][0-9]:[0-5][0-9]'
-        age_pattern='([1-9]?[1-9][0-9])'
-        first_letter='[^\W\d]'
-
-        lines_t=[lines_m, lines_f]
-        genders=['M','F']
-        for i in range(2):
-            lines=lines_t[i]
-            gender=genders[i]
-            for line in lines:
-                line=line[2:]
-                time=re.findall(pattern,line)
-                if (len(time)>0):
-                    #print(line)
-                    seconds=utils.time_to_seconds(time[0]);
-                    duration=timedelta(seconds=seconds)
-                    line_=re.split(pattern,line)[0].strip()
-                    pos=re.search(first_letter,line_).start()
-                    line_=line_[pos:]
-
-                    # age
-                    age=re.findall(age_pattern, line_)
-                    if(len(age)>0):
-                        age=age[0]
-                    else:
-                        age=0
-
-                    line_=line_.split(maxsplit=2)
-
-                    if (len(line_)>0):
-                        fname=line_[0]
-                    else:
-                        fname='Nobody'
-
-                    if (len(line_)>1):
-                        lname=line_[1]
-                    else:
-                        lname='No=one'
-
-                    print(fname,lname,gender,age,time[0])
-                    df=df.append({'first_name':fname,'last_name':lname,'time':time[0],'age':age,'gender':gender}, ignore_index=True)
-                #print(fname,lname,line_[1])
-        df.to_csv(out_file)
-            #lines=lines_m.append(lines_f)
-    errors=0
-    if (year==1982):
-        df=pd.DataFrame(columns=['first_name','last_name','time','age','gender'])
-        lines=get_lines(file)
-        pattern='[01]?[0-9][0-9]:[0-5][0-9]'
-        for line in lines:
-            time=re.findall(pattern,line)
-            if (len(time)>0):
-                #print(line)
-                seconds=utils.time_to_seconds(time[0]);
-                duration=timedelta(seconds=seconds)
-    
-                try:
-                    print(time[0])
-                    line_=re.split(pattern,line)[0].strip()
-                    line_=line.split(maxsplit=2)
-                    line_=line_[2].split(',')
-                    if (len(line_)==1):
-                        line_=line+[0].split('.')
-                    lname=line_[0].strip()
-                    line_=line_[1]
-                    line_=line_.split()
-                    fname=line_[0].strip()
-                    sex=line_[1].strip()
-                    age=line_[2].strip()
-                    
-                    print('lname',lname,'fname',fname,'sex',sex,'age',age)
-                    print()
-
-                    df=df.append({'first_name':fname,'last_name':lname,'time':time[0],'age':age,'gender':sex}, ignore_index=True)
-                except:
-                    errors=errors+1
-                    print('error',line_)
-        print('errors',errors)
-        df.to_csv(out_file)
-
-    if (year==1976):
-        df=pd.DataFrame(columns=['first_name','last_name','time'])
-        lines=get_lines(file)
-        for line in lines:
-            pattern='[0-9][0-9]:[0-5][0-9]'
-            time=re.findall(pattern,line)
-            if (len(time)>0):
-                print('time',time[0])
-                name=line.split('.')[1]
-                name=name.split('(')[0]
-                print('name',name)
-
-                seconds=utils.time_to_seconds(time[0]);
-                duration=timedelta(seconds=seconds)
-                name=name.strip()
-
-                fname=name.split()[0]
-
-                if len(name.split())>1:
-                    lname=name.split()[1]
-                else:
-                    lname=' '
-            
-                df=df.append({'first_name':fname,'last_name':lname,'time':time[0]}, ignore_index=True)
-
-        df.to_csv(out_file)
+    print(f'{year}: done -> {out_file}')
 
 

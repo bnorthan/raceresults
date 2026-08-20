@@ -23,8 +23,12 @@ def match(members, runners, accept_score, ask_score):
             gender1=row_runners.gender.strip()
             age1=row_runners.age
             
-            first2=row_members['First name'].lower()
-            last2=row_members['Last name'].lower()
+            # skip members with missing first or last name
+            if pd.isna(row_members['First name']) or pd.isna(row_members['Last name']):
+                continue
+
+            first2=str(row_members['First name']).lower()
+            last2=str(row_members['Last name']).lower()
             city2=str(row_members.City).lower()
             gender2=row_members.gender
             age2=row_members.age

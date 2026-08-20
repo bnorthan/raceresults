@@ -25,17 +25,60 @@ race_out_base_dir='../data/2025/Stockade/'
 race_out_base = 'Stockade'
 fixed_width=False
 
-# Race 3 Hangovere 
-members_name='../data/2025/Membership/2026-01-29 Members Hudson Mohawk Road Runners Club.csv'
-race_name='../data/2025/Hangover/hangover.csv'
-race_out_base_dir='../data/2025/Hangover/'
+# Race 3 Hangover 
+members_name='./data/2025/Membership/2026-01-29 Members Hudson Mohawk Road Runners Club.csv'
+race_name='./data/2025/Hangover/hangover.csv'
+race_out_base_dir='./data/2025/Hangover/'
 race_out_base = 'Hangover'
 
+# Race 4 10 Miler
+members_name='./data/2025/Membership/2026-04-05 Members Hudson Mohawk Road Runners Club.csv'
+race_name='./data/2025/10 Miler/10_miler.csv'
+race_out_base_dir='./data/2025/10 Miler/'
+race_out_base = '10 Miler'
 fixed_width=False
+
+# Race 4 ROTG 
+members_name='./data/2025/Membership/2026-04-05 Members Hudson Mohawk Road Runners Club.csv'
+race_name='/home/bnorthan/runnin/raceresults/data/2025/ROTG/rotg_2026.txt'
+race_out_base_dir='./data/2025/ROTG/'
+race_out_base = 'ROTG'
+fixed_width=True
+
+# Race 5 Delmar 
+members_name='./data/2025/Membership/2026-06-26 Members Hudson Mohawk Road Runners Club.csv'
+race_name='/home/bnorthan/runnin/raceresults/data/2025/Delmar/delmar.csv'
+race_out_base_dir='./data/2025/Delmar/'
+race_out_base = 'Delmar'
+fixed_width=False
+
+# Race 6 Masters
+members_name='./data/2025/Membership/2026-06-26 Members Hudson Mohawk Road Runners Club.csv'
+race_name='/home/bnorthan/runnin/raceresults/data/2025/Masters/masters.csv'
+race_out_base_dir='./data/2025/Masters/'
+race_out_base = 'Masters'
+fixed_width=False
+
+# Race 7 Valleycats
+members_name='./data/2025/Membership/2026-08-12 Members Hudson Mohawk Road Runners Club.csv'
+race_name='/home/bnorthan/runnin/raceresults/data/2025/Valleycats/valleycats.txt'
+race_out_base_dir='./data/2025/Valleycats/'
+race_out_base = 'Valleycats'
+fixed_width=True
+
+# Race 8 Colonie 
+members_name='./data/2025/Membership/2026-08-12 Members Hudson Mohawk Road Runners Club.csv'
+race_name='/home/bnorthan/runnin/raceresults/data/2025/Colonie/colonie.csv'
+race_out_base_dir='./data/2025/Colonie/'
+race_out_base = 'Colonie'
+fixed_width=False
+
+
 race_out_name=race_out_base_dir+race_out_base+'.csv'
 race_out_males=race_out_base_dir+race_out_base+'_males.csv'
 race_out_females=race_out_base_dir+race_out_base+'_females.csv'
 race_parsed_name=race_out_base_dir+race_out_base+'_parsed.csv'
+
 
 read_race_results=True
 
@@ -61,6 +104,14 @@ if read_race_results:
 
     racers.age = racers.age.astype(int)
     
+    bad = members[members['First name'].isna() | members['Last name'].isna()]
+    if len(bad) > 0:
+        print("\n*** Bad rows detected (missing First/Last name): ***")
+        print(bad[['First name','Last name']].to_string())
+        ans = input("Press Enter to continue or q to quit: ")
+        if ans.strip().lower() == 'q':
+            sys.exit()
+
     matchmember.match(members, racers, 4.5, 5.5)
 
     print (racers.head())

@@ -36,7 +36,7 @@ website                                   /raceresults/... (index, race, runner,
 
 ## Models (`django/mysite/raceresults/models.py`)
 
-- `Race` — name, slug (auto on save), city, date
+- `Race` — `race_name`, `slugified_race_name` (auto on save), city, `race_date`
 - `Result` — first/last name, gender, city, `time` (DurationField), member flag,
   matched member name, `category_10` age category, points, FK → `Race`, nullable FK → `Runner`
 - `Runner` — first/last name only; currently barely used (no results are linked to one)
@@ -95,6 +95,9 @@ point: none of this is a bet on replacement, it just isn't a bet against it.
 
 ## Running things
 
+Locally, use the conda env `rundataenv` (`conda activate rundataenv`); the base
+mambaforge `python` has no pandas/Django.
+
 ```bash
 # library, editable
 pip install -e .
@@ -114,21 +117,25 @@ cd django/mysite && python ../../scripts/makedjangotable.py
 `clean.sh` in `django/mysite` wipes the db to start over. See `hints.md` for
 PythonAnywhere deployment notes (static files, virtualenvs).
 
-## Current state (2026-08)
+## Current state (2026-10)
 
-- DB holds 41 races / ~40k results: Stockade-athon 1976–2017 (1978 missing).
-- csv exists for 1976–2017; `txt/2018.txt` is not converted; 2019–2025 results live
-  under `data/<year>/Stockade/` and are not part of the all-time set yet.
+- DB holds 49 races / ~49k results: every Stockade-athon 1976–2025 except 2020
+  (virtual race, no source data).
+- csv exists for every year except 2020, all built by `Stockadeathonalltime.py` from
+  `txt/` (2019 reads `data/2019/Stockade2019.csv` directly). Real race dates come from
+  `csv/dates.csv`; 2022–2025 are inferred (2nd Sunday of November), not official.
+- 1978 came from a spreadsheet-exported pdf (`pdf/`), converted with `pdftotext -layout`.
+  Two gender typos are overridden by place in its branch of the script.
 - `data/All Stockade results/` is an older duplicate of `data/Stockade-athon all time/`.
 
 ## Known rough edges
 
 - **1993 is truncated** (123 of ~830 finishers). The method-2 time regex
-  `(?:[1-2]:)?[0-5][0-9]:[0-5][0-9]` rejects times written as `64:41`. Check
-  1994–1996 for the same class of silent drop.
-- **Race dates are mostly wrong**: `makedjangotable.py` hardcodes only 1976–1981;
-  everything else defaults to `<year>-11-01`. `data/Stockade-athon all time/csv/dates.csv`
-  has the real dates and is unused.
+  `(?:[1-2]:)?[0-5][0-9]:[0-5][0-9]` rejects times written as `64:41`. 1994–96 row
+  counts are within ~10 of their source line counts, so they look unaffected.
+- **Reloading a race changes its id**: `makedjangotable.py` deletes and re-creates the
+  `Race`, so `/raceresults/race/<id>/` URLs break on every reload. This conflicts with
+  "URLs are forever" and needs a stable key (`slugified_race_name` or year) before the site is linked to.
 - Parsers fail silently — a line that doesn't match the time regex is skipped with no
   count. Always compare parsed row count against `wc -l` of the source.
 - csv schemas differ by era (1976 has only name+time; 1982–96 add age/gender;

@@ -1,0 +1,618 @@
+                         OV results
+
+ 1    1    1   Patrick   Glover        32   M   SM    0:48:21
+ 2    2    1   Chet      Bieganski     28   M   OM    0:48:33
+ 3    3    2   Bob       Fischer            M   SM    0:49:27
+ 4    4    2   Ismael    Cruz               M   OM    0:49:43
+ 5    5    1   Bob       Hartung            M   HSM   0:49:47
+ 6    6    3   Mark      Mindel        26   M   OM    0:50:08
+ 7    7    3   Bill      Robinson      31   M   SM    0:50:16
+ 8    8    4   Frank     Ripple        30   M   SM    0:50:26
+ 9    9    4   Dale      Keenan        28   M   OM    0:50:31
+10   10    2   David     Dellehunt     17   M   HSM   0:50:41
+11   11    3   Bob       Fancher       17   M   HSM   0:50:53
+12   12    5   Kevin     Hanley             M   SM    0:50:58
+13   13    6   Richard   D’Aleo             M   SM    0:51:00
+14   14    5   Mario     Marini             M   OM    0:51:01
+15   15    6   George    Guy                M   OM    0:51:04
+16   16    4   Mark      Schlogel           M   HSM   0:51:05
+17   17    7   Joe       Reinhart           M   OM    0:51:22
+18   18    5   Gary      Dilmore       17   M   HSM   0:51:38
+19   19    8   Mark      Sullivan      25   M   OM    0:51:41
+20   20    9   Paul      Baggenstoss        M   OM    0:51:53
+21   21    7   Pete      Vangarderen   37   M   SM    0:52:06
+22   22   10   John      Lerose             M   OM    0:52:10
+23   23   11   Mark      Harkness           M   OM    0:52:16
+24   24   12   Paul      Mann               M   OM    0:52:22
+25   25    8   Gust      Svanson            M   SM    0:52:26
+26   26    9   Ron       White         34   M   SM    0:52:31
+27   27    6   Dennis    Contois            M   HSM   0:52:36
+28   28   10   Dave      Hutchins           M   SM    0:52:39
+29   29    7   Mike      Derrick            M   HSM   0:52:40
+30   30   13   Daniel    Tallon        24   M   OM    0:52:43
+31   31   11   Andy      Urquhart      39   M   SM    0:52:47
+32   32    8   Bill      Douglas       17   M   HSM   0:52:52
+33   33   12   Doug      Allen              M   SM    0:52:53
+34   34   13   Pete      Donavan            M   SM    0:52:55
+35   35   14   Raymond   Marrero       19   M   OM    0:52:58
+36   36    1   Lowell    Montgomery    43   M   M     0:53:00
+37   37    9   Kevin     Woods              M   HSM   0:53:07
+38   38   15   Chris     Costigan           M   OM    0:53:11
+39   39   16   Bob       Arnold             M   OM    0:53:13
+40   40   17   Bill      Meehan             M   OM    0:53:16
+41   41   10   Mike      Manning            M   HSM   0:53:19
+42   42   11   Alec      Petro              M   HSM   0:53:24
+43   43   14   Andrew    Maslow             M   SM    0:53:31
+44   44   12   Russ      Hoyer         18   M   HSM   0:53:34
+45   45   18   Lars      Edwards            M   OM    0:53:38
+46   46   19   Paul      Rosenberg     26   M   OM    0:53:42
+47   47   13   Jim       Hill               M   HSM   0:53:44
+48   48   20   Dick      Samuels            M   OM    0:53:49
+49   49   14   Bob       Sanders            M   HSM   0:53:57
+
+
+                          Page 1
+                         OV results
+
+50   50    2   Ted       Bick         47   M   M     0:53:58
+51   51   21   Mark      Lahey             M   OM    0:54:00
+52   52   15   Brian     Sherman           M   HSM   0:54:03
+53   53   16   Mike      Devenich          M   HSM   0:54:05
+54   54   22   Jiim      McCarthy          M   OM    0:54:14
+55   55   23   Kevin     St John           M   OM    0:54:19
+56   56   15   Jim       Patterson    37   M   SM    0:54:20
+57   57   24   Barry     Jackson           M   OM    0:54:21
+58   58   16   Dennis    Coletta           M   SM    0:54:30
+59   59   17   Clarks    Connally          M   SM    0:54:39
+60   60   25   Jeff      Hickley           M   OM    0:54:48
+61   61   26   Ronald    Nimmer       28   M   OM    0:54:51
+62   62   18   Donald    Maylotte     37   M   SM    0:54:53
+63   63   17   David     Silva             M   HSM   0:54:55
+64   64   27   Dave      Goldberg          M   OM    0:55:02
+65   65   18   Paul      Guizard           M   HSM   0:55:03
+66   66   19   Scott     Woodward          M   SM    0:55:04
+67   67   20   David     Schroeder    30   M   SM    0:55:04
+68   68   19   Chris     LaDuke            M   HSM   0:55:16
+69   69   20   Jim       Obrien            M   HSM   0:55:23
+70   70   28   Don       Spriggs           M   OM    0:55:26
+71   71   21   Gene      Monaco       35   M   SM    0:55:27
+72   72   21   Edward    Pritchard         M   HSM   0:55:32
+73   73   29   Herb      Reilly Jr         M   OM    0:55:32
+74   74   22   Pete      Hajjar            M   HSM   0:55:37
+75   75   23   Lafe      Pottala           M   HSM   0:55:38
+76   76   22   Keith     Willis            M   SM    0:55:39
+77   77   30   William   Conlon            M   OM    0:55:41
+78   78   24   Jim       Pasquali          M   HSM   0:55:42
+79   79   31   Tom       Patterson         M   OM    0:55:43
+80   80   23   John      Hale              M   SM    0:55:55
+81   81   24   Paul      Doyle             M   SM    0:56:00
+82   82   25   Kevin     Sheehan           M   HSM   0:56:03
+83   83   26   Mike      Brisson           M   HSM   0:56:05
+84   84   25   Ed        Giblin            M   SM    0:56:09
+85   85   27   Shawn     Gorman            M   HSM   0:56:20
+86   86   26   Karl      David             M   SM    0:56:41
+87   87    3   John      Nitsky            M   M     0:56:44
+88   88   32   Chris     Carroll      22   M   OM    0:56:47
+89   89   33   Patrick   Morphy       29   M   OM    0:56:49
+90   90   34   Dennis    Pacelli           M   OM    0:56:53
+91   91   35   Timothy   Tattam            M   OM    0:56:56
+92   92   28   Mike      Mayble            M   HSM   0:57:00
+93   93   29   Ray       Beresford         M   HSM   0:57:02
+94   94   27   Art       Graves            M   SM    0:57:07
+95   95   36   Mike      Brinkman     24   M   OM    0:57:16
+96   96   37   Jack      Kyne              M   OM    0:57:18
+97   97   28   Rod       Kieft             M   SM    0:57:19
+98   98   38   Phil      Schreiber         M   OM    0:57:20
+
+
+                          Page 2
+                             OV results
+
+ 99    99   39   Dan         Quackenbush        M   OM    0:57:21
+100   100   29   Michael     Lancor        30   M   SM    0:57:23
+101   101    4   Austar      Schnore            M   M     0:57:25
+102   102   30   E           Uzgiris            M   SM    0:57:27
+103   103   40   Timothy     Keegan        26   M   OM    0:57:28
+104   104   30   Colin       Kelley             M   HSM   0:57:36
+105   105   31   Brent       Banker             M   HSM   0:57:44
+106   106   41   William     McLaughlin    26   M   OM    0:57:45
+107   107    5   Ron         Williamson         M   M     0:57:46
+108   108   31   Norman      Denny         34   M   SM    0:57:47
+109   109   32   Thomas      Kieran        38   M   SM    0:57:48
+110   110   32   John        David              M   HSM   0:57:50
+111   111   33   Tom         Rissberger    14   M   HSM   0:57:54
+112   112   42   Gary        Mineconzo          M   OM    0:57:55
+113   113   43   Bob         Miller             M   OM    0:57:57
+114   114   44   Gordon      Hamilton           M   OM    0:58:02
+115   115   34   Greg        Reilly             M   HSM   0:58:08
+116   116    6   Donald      Mowbray       41   M   M     0:58:11
+117   117   35   Rob         Saba               M   HSM   0:58:12
+118   118   36   Joe         Curtin             M   HSM   0:58:12
+119   119   45   Terri       Durrin             M   OM    0:58:13
+120   120   33   Robert      Devoe Jr           M   SM    0:58:13
+121   121   46   James       Boyer              M   OM    0:58:14
+122     1        Christine   Bergeron      17   F   HSF   0:58:18
+123   122   47   Glen        Bruno              M   OM    0:58:19
+124   123   37   Tim         Lewis              M   HSM   0:58:21
+125   124   34   James       Turner        33   M   SM    0:58:22
+126   125   38   Gary        Plunkett           M   HSM   0:58:23
+127   126    7   Tobias      De Boer            M   M     0:58:24
+128   127   48   Allen       Joslin             M   OM    0:58:27
+129   128   35   Ray         Gorham        39   M   SM    0:58:40
+130   129   36   Mike        Ahearn             M   SM    0:58:43
+131   130   39   Paul        Reali         16   M   HSM   0:58:43
+132   131   37   William     Williford          M   SM    0:58:44
+133   132   49   Richard     Kelly         23   M   OM    0:58:45
+134   133   50   Ted         Blandy             M   OM    0:58:47
+135   134   38   Joe         Cargioli      35   M   SM    0:58:53
+136   135   51   John        Lynch              M   OM    0:58:54
+137   136   52   Peter       Tomaszewski   19   M   OM    0:58:58
+138   137   40   Ellyson     Barnes             M   HSM   0:59:00
+139   138   53   Dave        Ward          22   M   OM    0:59:08
+140   139   54   Mark        Mason              M   OM    0:59:16
+141   140   41   Bill        Cerutti            M   HSM   0:59:19
+142   141   42   Tom         Lochner       18   M   HSM   0:59:25
+143   142   43   Chas        Mclean             M   HSM   0:59:26
+144   143   55   Alan        Molho              M   OM    0:59:29
+145   144   56   Gerry       Montgomery         M   OM    0:59:30
+146   145   57   Andy        Nelson             M   OM    0:59:31
+147   146    8   John        Sutherland         M   M     0:59:40
+
+
+                              Page 3
+                            OV results
+
+148   147   58   Chuck      Haugh             M   OM    0:59:41
+149   148   59   Tom        Mullen            M   OM    0:59:44
+150   149   39   Richard    Evans        28   M   SM    0:59:47
+151   150   40   Joseph     Vacca        34   M   SM    0:59:47
+152   151   60   Paul       Schmidt           M   OM    0:59:48
+153   152   41   Charles    Bowles       30   M   SM    0:59:52
+154   153   61   Tiim       Collins           M   OM    0:59:53
+155   154   44   Dave       Moehler      15   M   HSM   0:59:54
+156   155   62   Tim        Hickey            M   OM    0:59:54
+157   156   45   Joe        Cotrofield        M   HSM   0:59:55
+158   157   63   Tom        Carrigan     28   M   OM    0:59:56
+159   158   42   Paul       Page              M   SM    1:00:08
+160   159   43   Darrell    Youngblood        M   SM    1:00:10
+161   160   64   Mike       Cashin            M   OM    1:00:12
+162     2    1   Danielle   Cherniak          F   HSF   1:00:16
+163   161   46   Scott      Wiley             M   HSM   1:00:18
+164   162    9   John       Loucks       48   M   M     1:00:26
+165   163   10   Raymond    Berube       44   M   M     1:00:27
+166   164   44   Paul       Doigneault        M   SM    1:00:28
+167   165   47   Scott      Mastro            M   HSM   1:00:31
+168   166   65   Vince      Digialio          M   OM    1:00:35
+169   167   45   Robert     Carr              M   SM    1:00:35
+170   168   66   Andre      Labier       26   M   OM    1:00:36
+171   169   67   Frank      Myers        33   M   SM    1:00:37
+172   170   68   James      Mast              M   OM    1:00:38
+173   171   69   Charles    Gelber            M   OM    1:00:39
+174   172   46   Roger      Alexander         M   SM    1:00:40
+175   173   48   Kevin      Morrill           M   HSM   1:00:44
+176   174   47   Don        Cohen             M   SM    1:00:47
+177   175   48   Dan        Orne              M   SM    1:00:48
+178   176   49   Tom        Corrado           M   SM    1:00:51
+179   177   50   Darryl     Ferguson     32   M   SM    1:00:54
+180   178   70   Charles    Assini       22   M   OM    1:00:58
+181   179   11   Gerow      Carlson           M   M     1:00:59
+182   180   49   Mike       Burns             M   HSM   1:01:00
+183   181   71   Ernie      Wilder            M   OM    1:01:01
+184   182   51   Herb       Hunt              M   SM    1:01:02
+185   183   72   John       Notar             M   OM    1:01:05
+186   184   52   Doug       Griset       36   M   SM    1:01:09
+187   185   53   Alan       Tatlock           M   SM    1:01:12
+188   186   73   Ken        Hoyer             M   OM    1:01:17
+189   187    1   Rich       Reed              M   Y     1:01:21
+190   188   74   David      Bentley      26   M   OM    1:01:23
+191   189   54   William    Banovic           M   SM    1:01:25
+192   190   12   Bob        Mcfarland    45   M   M     1:01:32
+193   191   75   Bruce      Meyer             M   OM    1:01:33
+194   192   50   John       Kouzan            M   HSM   1:01:36
+195   193   76   Tom        Byer              M   OM    1:01:37
+196   194   55   John       Neary             M   SM    1:01:38
+
+
+                             Page 4
+                            OV results
+
+197   195   13   Larry      Montgomery        M   M     1:01:45
+198   196   51   Mike       Knaup             M   HSM   1:01:45
+199   197   56   Dwight     Wilson       30   M   SM    1:01:47
+200   198   77   John       Mahar        24   M   OM    1:01:48
+201   199   78   Sel        Harlow       25   M   OM    1:01:48
+202   200   52   Jon        Asbornsen         M   HSM   1:01:49
+203   201   57   Robert     Cooley            M   SM    1:01:49
+204   202   58   Joe        Paulsen      36   M   SM    1:01:52
+205   203   59   Pat        Dwyer             M   SM    1:01:54
+206   204   60   Bill       Film              M   SM    1:01:55
+207   205   61   Augustus   Lumia             M   SM    1:01:56
+208   206   53   Robert     Baugh             M   HSM   1:01:58
+209   207   54   Pat        Moroney           M   HSM   1:02:00
+210   208   79   Steven     Patrick      21   M   OM    1:02:01
+211   209   80   Arthur     Holmberg     29   M   OM    1:02:02
+212   210   62   Phil       Pillsworth   39   M   SM    1:02:04
+213   211   55   Dave       Czelusniak        M   HSM   1:02:07
+214   212   81   Charles    Christian         M   OM    1:02:10
+215   213   63   Larry      Shapiro      30   M   SM    1:02:12
+216   214   56   Allen      Gee          16   M   HSM   1:02:13
+217   215   64   Der        LaJeunesse        M   SM    1:02:16
+218   216   65   Charles    Burt         33   M   SM    1:02:18
+219   217   14   John       Aronson      44   M   M     1:02:19
+220   218   82   Eric       Vanallen          M   OM    1:02:25
+221   219   66   George     Hamilton          M   SM    1:02:32
+222   220   67   John       Tichy        35   M   SM    1:02:32
+223   221   83   Ed         Finnerty          M   OM    1:02:33
+224   222   68   Bill       Rabbiti      36   M   SM    1:02:34
+225   223   84   Joe        Notar Jr          M   OM    1:02:35
+226   224   69   Jim        Clarkson          M   SM    1:02:35
+227   225   70   Tom        Abele             M   SM    1:02:36
+228   226   71   Richard    Daley        26   M   SM    1:02:37
+229     3    1   Casey      Reynolds          F   OF    1:02:41
+230   227   57   Tim        Cahrenger         M   HSM   1:02:45
+231   228   58   Peter      Bielawski         M   HSM   1:02:46
+232   229   15   Joe        Dewolf       42   M   M     1:02:47
+233   230   59   Shawn      Gardner           M   HSM   1:02:51
+234   231   60   Anthony    Vecchio      17   M   HSM   1:02:54
+235   232   85   Chris      Cialek            M   OM    1:02:57
+236   233   61   John       Agosio            M   HSM   1:02:58
+237     4    2   Leslie     Warren            F   HSF   1:02:59
+238   234   86   Daniel     Ferris       26   M   OM    1:03:03
+239   235   87   Paul       Tessier           M   OM    1:03:11
+240   236   16   Stanley    Johnson           M   M     1:03:13
+241   237   88   Alan       Johnson           M   OM    1:03:23
+242   238   72   Fred       Gignac            M   SM    1:03:25
+243   239   17   Gage       Hotchkiss    46   M   M     1:03:29
+244   240   18   Andy       Meguin            M   M     1:03:29
+245   241   62   Michael    Hughes            M   HSM   1:03:34
+
+
+                             Page 5
+                             OV results
+
+246   242   73   Ray         Newkirk        34   M   SM    1:03:38
+247   243   89   Jim         Kehoe               M   OM    1:03:39
+248   244   74   Richard     Halle          31   M   SM    1:03:42
+249   245   75   John        Los                 M   SM    1:03:43
+250   246   90   Robert      Moak Jr        26   M   OM    1:03:49
+251   247   76   Jim         Peterson            M   SM    1:03:51
+252   248    2   Eddie       Smith           8   M   Y     1:03:54
+253     5    2   Ellen       Weglarz        20   F   OF    1:03:56
+254   249   91   Jim         Owens               M   OM    1:04:00
+255   250   19   Ken         Baker               M   M     1:04:01
+256   251   63   Leo         Montanye            M   HSM   1:04:03
+257   252   92   Kerry       Marsh               M   OM    1:04:04
+258   253   20   Salvatore   Papa                M   M     1:04:04
+259   254   77   Wayne       Kristel        38   M   SM    1:04:08
+260   255   21   Bob         Ruckierstahl        M   M     1:04:10
+261   256   78   Leroy       Major               M   SM    1:04:13
+262   257   22   John        Ellison             M   M     1:04:13
+263   258   64   Michael     Mastroianni         M   HSM   1:04:19
+264     6    1   Diane       Barone         31   F   SF    1:04:19
+265   259   79   Arthur      Sulger         33   M   SM    1:04:25
+266   260   65   Scott       Wright              M   HSM   1:04:29
+267   261   80   Mike        Marsh               M   SM    1:04:38
+268   262   23   William     Mcdowell            M   M     1:04:43
+269   263   81   Tom         Brady          32   M   SM    1:04:44
+270   264   82   Robert      Horowitz            M   SM    1:04:45
+271   265   83   Zoltan      Bedy                M   SM    1:04:46
+272   266   93   Mark        Harrison            M   OM    1:04:49
+273   267   94   Gerd        Guendel        28   M   OM    1:04:52
+274   268   24   DW          Brause              M   M     1:04:52
+275     7    3   Sandy       Miller              F   OF    1:04:56
+276   269   84   Donald      Bourgeois           M   SM    1:05:02
+277   270   85   Robert      Parillo             M   SM    1:05:03
+278   271   86   John        Mcgrath        39   M   SM    1:05:09
+279   272   87   Jim         Vroman              M   SM    1:05:10
+280   273   88   Joe         Malone         33   M   SM    1:05:11
+281   274    3   Marty       Finn                M   Y     1:05:14
+282   275   66   Jim         Mann           14   M   HSM   1:05:15
+283   276   67   Barry       Smith               M   HSM   1:05:16
+284   277   95   Allan       Baustin             M   OM    1:05:17
+285   278   89   David       Hayes          35   M   SM    1:05:17
+286   279   90   Mike        Domkowski           M   SM    1:05:18
+287   280   96   Tim         Coleman             M   OM    1:05:21
+288   281   68   Tom         Rildmueller         M   HSM   1:05:27
+289   282   91   Mike        Laflamme            M   SM    1:05:36
+290   283    4   Keith       Ireton              M   Y     1:05:37
+291   284   92   Italo       Carcich        35   M   SM    1:05:49
+292   285   93   Richard     Martin         31   M   SM    1:05:50
+293   286   97   Larry       Pohl           27   M   OM    1:05:53
+294   287   98   David       Ruff                M   OM    1:05:53
+
+
+                              Page 6
+                                OV results
+
+295   288    94   Damian        Monahan              M   SM    1:05:55
+296   289    95   Lincoln       Page            33   M   SM    1:05:55
+297   290    69   Mike          McClintock           M   HSM   1:05:59
+298   291    99   Gerald        Werhan          25   M   OM    1:06:00
+299   292    96   Ronald        Piracci         31   M   SM    1:06:00
+300   293   100   Mike          Donavon              M   OM    1:06:01
+301   294    97   Joe           Walters              M   SM    1:06:03
+302   295   101   William       Carroll              M   OM    1:06:11
+303   296   102   Tom           Carroll              M   OM    1:06:12
+304   297    98   Carl          Klinowski            M   SM    1:06:14
+305   298   103   Mike          Naylor               M   OM    1:06:15
+306   299    99   Jerry         Burr                 M   SM    1:06:16
+307     8     3   Lisa          Miller               M   HSF   1:06:18
+308   300    25   Eric          Hinrichsen      49   M   M     1:06:28
+309   301   100   Eugene        Nichols         36   M   SM    1:06:31
+310   302   104   Robert        Barnell         25   M   OM    1:06:32
+311   303   105   Daniel        Thomson         19   M   OM    1:06:33
+312   304   106   Chris         Vonkannewurff        M   OM    1:06:34
+313   305   101   Richard       Roberts              M   SM    1:06:35
+314   306    26   John          Hudson               M   M     1:06:36
+315   307   102   Leonard       Grubbs               M   SM    1:06:41
+316   308   103   Dick          Adler                M   SM    1:06:47
+317   309   104   Jonathan      Rogoff               M   SM    1:06:52
+318     9     2   Suzy          Donavan              F   SF    1:06:55
+319   310   105   Mark          Donavan              M   SM    1:07:00
+320   311   107   John          Franklin        29   M   OM    1:07:02
+321   312    27   Joe           O’Brien              M   M     1:07:04
+322    10     4   Deann         Greco                F   HSF   1:07:07
+323   313   106   John          Seacord         31   M   SM    1:07:14
+324   314    28   Thomas        Murphy               M   M     1:07:16
+325   315   108   Bill          Zocco           27   M   OM    1:07:19
+326   316   109   Rich          Kass                 M   OM    1:07:23
+327   317   107   Roger         Shearer              M   SM    1:07:24
+328   318    29   Ted           Turone          51   M   M     1:07:25
+329    11     4   Mary          Terziani             F   OF    1:07:28
+330   319   110   Peter         McDonald             M   OM    1:07:30
+331   320   108   Mike          Eadry                M   SM    1:07:35
+332    12     5   Christine     Siler                F   HSF   1:07:37
+333   321     5   Thomas        Murnane              M   Y     1:07:37
+334    13     5   Christianne   Gardner         19   F   OF    1:07:38
+335   322    30   Oliver        Leblanc              M   M     1:07:38
+336   323   109   Lanny         Parsons         33   M   SM    1:07:40
+337   324    31   Richard       Talleur              M   M     1:07:43
+338   325    70   Daniel        Leffler              M   HSM   1:07:48
+339   326    32   Robert        Ireton               M   M     1:07:49
+340   327   111   Barry         Jackson              M   OM    1:07:52
+341   328   112   Robert        Naples               M   OM    1:07:54
+342    14     6   Colleen       Morris               F   OF    1:07:54
+343    15     6   Donna         Morris               F   HSF   1:07:59
+
+
+                                 Page 7
+                            OV results
+
+344   329   110   Wayne     Lashway      38   M   SM    1:07:59
+345   330    33   Jim       Mullin       44   M   M     1:08:00
+346   331    34   Raymond   Heins             M   M     1:08:06
+347   332   113   Jim       Kalohn            M   OM    1:08:08
+348   333   111   George    Pilkey       37   M   SM    1:08:10
+349   334   112   Nils      Adlerbert         M   SM    1:08:14
+350    16     7   Mary      Zimmerman         F   OF    1:08:15
+351   335   113   William   Little            M   SM    1:08:16
+352   336   114   Frank     Demasi       29   M   OM    1:08:17
+353   337   115   Leo       Dipierro     28   M   OM    1:08:17
+354   338    71   Dave      Campbell          M   HSM   1:08:22
+355    17     7   Maria     Mason             F   HSF   1:08:24
+356   339     6   Clem      Bell              M   Y     1:08:25
+357   340   114   Richard   Delaney           M   SM    1:08:26
+358   341    35   Fred      Ohnmacht          M   M     1:08:27
+359   342   116   Tom       Wagner       32   M   OM    1:08:27
+360   343   115   Ernest    Skowronek         M   SM    1:08:29
+361   344   117   Gilbert   Smith             M   OM    1:08:32
+362   345     7   Ron       Hill              M   Y     1:08:43
+363   346   116   George    Stark             M   SM    1:08:45
+364   347   117   Larry     Forneris     38   M   SM    1:08:58
+365   348   118   Patrick   Horan        36   M   SM    1:09:01
+366   349   119   Darryl    Gianneiti         M   SM    1:09:04
+367    18     3   Betsy     Osborn            F   SF    1:09:05
+368   350   120   Doug      Hamel        39   M   SM    1:09:05
+369   351   121   John      Richman      30   M   SM    1:09:11
+370   352    72   Brian     Smith             M   HSM   1:09:14
+371   353   122   Richard   Frering      39   M   SM    1:09:14
+372   354   118   Mike      Hiser             M   OM    1:09:15
+373   355   123   George    Peacock           M   SM    1:09:15
+374   356     8   Sean      Ireton            M   Y     1:09:16
+375    19     8   Carol     Fegan             F   HSF   1:09:19
+376   357   124   Collin    Garstang          M   SM    1:09:24
+377   358   125   Fred      Strnisa           M   SM    1:09:28
+378   359   119   Gary      Karl              M   OM    1:09:31
+379   360    73   Jeff      Gorham            M   HSM   1:09:41
+380   361    36   Bernard   Gerberg           M   M     1:09:44
+381   362    74   Jim       Kelliher          M   HSM   1:09:45
+382    20     4   Coral     Crosman      37   F   SF    1:09:46
+383   363   120   Kenneth   Conklin           M   OM    1:09:48
+384   364   126   Ken       Drumm        30   M   SM    1:09:49
+385   365    37   Ira       Rosen        50   M   M     1:09:52
+386   366     9   John      Duffy             M   Y     1:09:53
+387   367    38   Martin    Cummings          M   M     1:09:54
+388   368   127   Peter     Newkirk      32   M   SM    1:09:55
+389   369    39   Edwin     Bentley      50   M   M     1:09:57
+390   370   128   William   Strait            M   SM    1:10:02
+391   371   129   Gary      Kieft        33   M   SM    1:10:03
+392   372   130   Jerry     Franciosa         M   SM    1:10:09
+
+
+                             Page 8
+                              OV results
+
+393   373   121   R Jeffrey   Cole         23   M   OM    1:10:11
+394   374    40   Rouman      Kieft             M   M     1:10:14
+395   375   122   Joe         Chapman           M   OM    1:10:16
+396    21     5   Sue         Cohen             F   SF    1:10:18
+397   376   131   Jim         Gibbons           M   SM    1:10:19
+398   377   123   Robert      Maslyn       26   M   OM    1:10:25
+399   378   132   Woody       High              M   SM    1:10:26
+400    22     9   Carol       Phillips          F   HSF   1:10:27
+401    23     8   Joanne      Baronner          F   OF    1:10:28
+402    24    10   Cheryl      Rice              F   HSF   1:10:33
+403   379    10   Brian       Girard            M   Y     1:10:34
+404   380    41   RC          Devries           M   M     1:10:35
+405   381    42   Tom         Mason        59   M   M     1:10:36
+406   382   124   John        Waterhouse   25   M   OM    1:10:39
+407   383    43   Claude      Rousseau          M   M     1:10:47
+408   384    44   Bob         McNamara          M   M     1:10:50
+409   385   125   Dan         Wall              M   OM    1:10:56
+410   386    45   Don F       Miller            M   M     1:11:03
+411   387   126   Mitchell    Singer       27   M   OM    1:11:06
+412    25    11   Rose        Byrne             F   HSF   1:11:10
+413   388    75   John        Joyce             M   HSM   1:11:15
+414    26     9   Grace       Cialek            F   OF    1:11:18
+415   389    46   Joe         Sullivan          M   M     1:11:19
+416   390    76   Michael     Grogan            M   HSM   1:11:20
+417   391    47   William     Shrader      62   M   M     1:11:22
+418   392    48   Gilbert     Smith             M   M     1:11:31
+419   393   133   Robert      Leffler           M   SM    1:11:33
+420   394    49   Mike        Joyce             M   M     1:11:37
+421    27    10   Kathy       Nass              F   OF    1:11:41
+422   395    50   Neil        Kemp              M   M     1:11:41
+423   396    51   Jon         Jacklet      43   M   M     1:11:41
+424   397   134   LE          Nunnery           M   SM    1:11:47
+425   398   135   Dominic     Caristo           M   SM    1:11:51
+426   399    52   Carl        Mindell      43   M   M     1:11:51
+427   400    53   Slyvain     Nagler       40   M   M     1:11:55
+428   401    54   Bob         Scrafford         M   M     1:11:57
+429    28     6   Lynn        Leland            F   SF    1:12:02
+430    29         Joan        De Buer           F   ?     1:12:03
+431   402    77   Carl        Adams             M   HSM   1:12:05
+432   403   127   Don         Krone             M   OM    1:12:11
+433    30    11   Christine   Cashin            F   OF    1:12:15
+434    31     7   Joanne      Finn              F   SF    1:12:16
+435   404   136   Larry       Morrison     37   M   SM    1:12:26
+436    32    12   Diane       McCudden          F   HSF   1:12:27
+437    33    12   Janet       Anderson          F   OF    1:12:29
+438   405   137   Scott       Anderson          M   SM    1:12:39
+439   406   138   Paul        Kuta         32   M   SM    1:12:40
+440   407   128   Rich        Amyot             M   OM    1:12:41
+441   408    55   Norbert     Soltysiak    47   M   M     1:12:41
+
+
+                               Page 9
+                             OV results
+
+442   409    11   Dave       Smith             M   Y     1:12:43
+443    34     8   Judy       Roberts           F   SF    1:12:49
+444   410   129   William    Nass              M   OM    1:12:50
+445   411   139   Joe        Ozarowski         M   SM    1:12:51
+446    35     9   Brenda     High              F   SF    1:12:52
+447   412    56   Joe        Mancuso           M   M     1:13:02
+448   413   140   James      Hughes       33   M   SM    1:13:12
+449   414   141   Pete       Wilkens           M   SM    1:13:33
+450   415    57   John       Hewitt       56   M   M     1:13:34
+451    36    13   Beth       Schmidt           F   HSF   1:13:38
+452   416   142   Jack       O’Connor          M   SM    1:13:39
+453   417   143   Paul       Markovich         M   SM    1:13:48
+454    37    13   Teresa     Mclaughlin   28   F   OF    1:13:48
+455    38    10   Barb       Matlee            F   SF    1:13:54
+456   418   144   Joseph     Camillo      38   M   SM    1:13:55
+457   419    58   Philip     Finn              M   M     1:13:55
+458    39    14   Ester      Ungerman          F   HSF   1:13:56
+459    40    15   Julie      Lowerhouse        F   HSF   1:14:06
+460   420    59   Wayne      Burnham           M   M     1:14:07
+461   421    78   Bradley    Quinn             M   HSM   1:14:07
+462   422   130   Daniel     Moffett           M   OM    1:14:08
+463   423   145   Richard    Pagliara          M   SM    1:14:25
+464    41    16   Carla      Carlsrud          F   HSF   1:14:25
+465   424    60   Gardner    Becker       40   M   M     1:14:43
+466   425    79   Chip       Giunco            M   HSM   1:14:47
+467   426    12   Frank      Horning           M   Y     1:14:50
+468   427   146   David      Lieberman         M   SM    1:15:00
+469   428    61   Jan        Zadoorian    40   M   M     1:15:00
+470   429   147   Harlan     Chapin            M   SM    1:15:00
+471    42    17   Dorothy    Martinez          F   HSF   1:15:06
+472    43    18   Joanne     Siler             F   HSF   1:15:09
+473    44    11   Charlene   Haykel            F   SF    1:15:10
+474    45    12   Patricia   Flynn             F   SF    1:15:21
+475   430   131   Ken        Maleck            M   OM    1:15:23
+476   431    80   Mark       Smith        14   M   HSM   1:15:24
+477    46    19   Lisa       VanAllen          F   HSF   1:15:26
+478    47    20   Cindy      Enfield           F   HSF   1:15:29
+479   432   148   Gerry      Thorpe            M   SM    1:15:32
+480    48    14   Bonnie     Howe              F   OF    1:15:32
+481    49    21   Lynda      Devenitch         F   HSF   1:15:33
+482   433    62   Peter      Oldow        45   M   M     1:15:35
+483   434    13   Steve      Tyksinski         M   Y     1:15:41
+484   435    63   Norman     Bauman            M   M     1:15:42
+485   436   149   Art        Edelstein    31   M   SM    1:15:46
+486   437   132   Mark       Keegan       29   M   OM    1:15:59
+487   438    64   Ivar       Giaever      49   M   M     1:16:02
+488   439   150   Russell    Bogardus          M   SM    1:16:05
+489   440    65   George     Anthos       50   M   M     1:16:10
+490   441    66   Dan        Mason             M   M     1:16:12
+
+
+                              Page 10
+                              OV results
+
+491    50    22   Paula       Seiferth          F   HSF   1:16:17
+492    51    23   Dianne      Barker            F   HSF   1:16:24
+493   442    67   W           McNeil       36   M   M     1:16:29
+494   443    14   Matt        Fitzgerald        M   Y     1:16:30
+495    52     1   Gloria      Daniels           F   MF    1:16:38
+496    53    15   Marilyn     Purtell           F   OF    1:16:45
+497    54    16   Peg         Moran             F   OF    1:16:56
+498    55         Laura       Duggan            F   FY    1:16:58
+499    56    13   Gail        Peacock           F   SF    1:17:00
+500    57     2   Gloria      Harris            F   MF    1:17:10
+501   444    68   Inger       Giaever           ?   M     1:17:26
+502    58    24   Michelle    Czarnecki         F   HSF   1:17:29
+503   445   151   Mike        Nolan             M   SM    1:17:43
+504    59         Mary        Derrick           F   YF    1:17:48
+505    60    14   Vickie      Smith             F   SF    1:17:53
+506    61    15   Marianna    Zacek             F   SF    1:17:57
+507   446    81   John        Moran        16   M   HSM   1:18:02
+508   447    82   Bernie      Scozzafava        M   HSM   1:18:17
+509   448   152   Don         Delaney           M   SM    1:18:25
+510   449   153   Tom         France       31   M   SM    1:18:31
+511   450   154   George      Repicky      38   M   SM    1:18:46
+512    62    25   Linda       Court             F   HSF   1:18:47
+513   451   155   Chuck       Layton       39   M   SM    1:18:54
+514   452   156   John        Berkery           M   SM    1:18:56
+515   453   133   Rick        Angerami          M   OM    1:19:15
+516    63    16   Diane       Wagner       30   F   SF    1:19:15
+517   454   157   Robert V    Smith             M   SM    1:19:16
+518    64    17   Margaret    Mirabelli         F   OF    1:19:32
+519    65    18   Patricia    Palitsch          F   OF    1:19:35
+520    66    19   Dana        Dietz             F   OF    1:19:36
+521   455    15   Trevor      Pottala           M   Y     1:19:48
+522   456   158   Ken         Harper            M   SM    1:19:50
+523    67    20   Ann         Svanson           F   OF    1:19:58
+524    68    21   Sue         Clarkson          F   OF    1:20:08
+525    69    17   Dorothy     Merwin            F   SF    1:20:11
+526   457    69   George      Sipos             M   M     1:20:11
+527    70    26   Kathy       Willis            F   HSF   1:20:27
+528   458   159   Thomas      Auten        39   M   SM    1:20:28
+529   459    70   Fred        Wight             M   M     1:21:27
+530   460    71   Bob         Moak              M   M     1:21:33
+531    71    18   Fredricka   Bogardus          F   SF    1:21:57
+532   461   160   Bruce       Siegel            M   SM    1:22:09
+533   462    72   Chaucy      Berdan            M   M     1:22:11
+534   463    73   Richard     Gallo             M   M     1:22:16
+535    72    19   Linda       Cooley            F   SF    1:22:25
+536   464   161   John        Sanderson    33   M   SM    1:22:30
+537   465    74   Floyd       Milbank           M   M     1:23:02
+538   466    75   Jim         Carter            M   M     1:23:39
+539    73    27   Tina        Ray               F   HSF   1:23:41
+
+
+                               Page 11
+                            OV results
+
+540    74    20   Marcia    Kingemain         F   SF    1:24:01
+541    75    21   Joanne    Rogoff            F   SF    1:24:10
+542    76    28   Cheryl    Barker            F   HSF   1:26:02
+543   467    16   Chris     Smith             M   Y     1:26:54
+544   468   162   Norbert   Kosinski          M   SM    1:26:54
+545   469    17   Scott     Burnham           M   Y     1:29:31
+546    77    29   Kathy     Nolan             F   HSF   1:29:55
+547   470    76   Jack      Moran        49   M   M     1:29:59
+548   471    18   Chuck     Borbuti           M   Y     1:30:10
+549    78    30   Deborah   Berard            F   HSF   1:30:40
+550   472   134   Mark      Hyland       24   M   OM    1:34:07
+551   473    77   Richard   Pannone           M   M     1:36:55
+552    79    22   Sharon    Montagnino        F   OF    1:44:28
+553    80    22   Kathy     Terrill           F   SF    1:47:34
+554    81     1   Angela    Dashnaw           F   YF    1:59:28
+555   474   163   Frank     Dashnaw      30   M   SM    1:59:28
+
+
+
+
+                             Page 12
+

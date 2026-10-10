@@ -74,7 +74,7 @@ for year in years:
     file_f   = txt_dir + '/' + str(year) + '_f.txt'
     out_file = csv_dir + '/' + str(year) + '.csv'
 
-    # skip years with no source data at all (1978, 2020)
+    # skip years with no source data at all (2020)
     if year in (1983, 1984, 1985):
         needed = [file_m, file_f]
     elif year == 2019:
@@ -94,6 +94,10 @@ for year in years:
 
     if year == 1976:
         # format: "N. First Last (age)   mm:ss"
+        encoding = 'utf-8'
+
+    elif year == 1978:
+        # pdftotext -layout of a spreadsheet-exported pdf, utf-8
         encoding = 'utf-8'
 
     elif year in range(1977, 1982):
@@ -155,6 +159,33 @@ for year in years:
         # 2019 was never added to txt/; the raw csv lives under data/2019/
         # columns: Place,Name,Age,S,City,St,Guntime,Pace  (full name, no div place)
         stockade_csv(os.path.join(data_dir, '2019', 'Stockade2019.csv'), out_file)
+
+    elif year == 1978:
+        # format: "place gender_place [div_place] First   Last   [age] sex div h:mm:ss"
+        # div_place and age are sometimes blank, sex is sometimes '?'.
+        # First and last are separate layout columns, so split on 2+ spaces
+        # (handles "St John", "Reilly Jr", "R Jeffrey").
+        pattern = re.compile(r'^\s*(\d+)\s+\d+\s+(?:(\d+)\s+)?(.+?)\s+(?:(\d+)\s+)?([MF?])\s+(\S+)\s+((?:[0-9]:)?[0-5][0-9]:[0-5][0-9])\s*$')
+        rows    = []
+        skipped = 0
+        for line in get_lines(file):
+            m = pattern.match(line)
+            if not m:
+                if re.match(r'^\s*\d+\s', line):
+                    skipped += 1
+                    print('error', line)
+                continue
+            place, div_place, name, age, sex, div, time = m.groups()
+            fname, lname = re.split(r'\s{2,}', name, maxsplit=1)
+            # source sex disagrees with the gender-place sequence
+            sex = {'307': 'F',   # Lisa Miller: 'M' in source, div HSF, women's place 8
+                   '501': 'M',   # Inger Giaever: '?' in source, men's place 444
+                   }.get(place, sex)
+            rows.append({'place': place, 'first_name': fname, 'last_name': lname,
+                         'gender': sex if sex in ('M', 'F') else 'u', 'age': age,
+                         'division': div, 'div_place': div_place, 'time': time})
+        print(f'{year}: {len(rows)} rows, {skipped} numbered lines skipped')
+        pd.DataFrame(rows).to_csv(out_file)
 
     elif year == 1982:
         # format: "N  time  Last, First sex age"

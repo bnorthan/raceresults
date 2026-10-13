@@ -1,0 +1,89 @@
+,place,first_name,last_name,gender,age,city,time,race_id,member,mfname,mlname,category_10,div_place
+0,1,Shaun,Donegan,M,40,Malta,57:15,1,yes,Shaun,Donegan,c_40_49,1.0
+1,2,Matthew,Brown,M,26,North Creek ,58:00,1,no,nomatch,nomatch,a_open,1.0
+2,3,Thomas,O'Grady,M,40,Slingerlands,59:55,1,yes,Thomas,O'grady,c_40_49,2.0
+3,4,Chuck,Terry,M,43,Albany,1:01:09,1,yes,Chuck,Terry,c_40_49,3.0
+4,5,Matt,Ninneman,M,33,Albany,1:01:11,1,yes,Matt,Ninneman,b_30_39,1.0
+5,6,Noah,Valvo,M,27,Delanson,1:01:56,1,yes,Noah,Valvo,a_open,2.0
+6,7,Alan,Finder,M,37,Albany,1:02:15,1,yes,Alan,Finder,b_30_39,2.0
+7,8,Tyler,Morrissey,M,29,Clifton Park ,1:02:49,1,no,nomatch,nomatch,a_open,3.0
+8,9,Christopher,Miedema,M,34,Esperance,1:03:37,1,yes,Christopher,Miedema,b_30_39,3.0
+9,10,Jacob,Andrews,M,32,Troy,1:04:00,1,yes,Jacob,Andrews,b_30_39,4.0
+10,11,Holden,Maynard,M,26,Cohoes,1:04:34,1,yes,Holden,Maynard,a_open,4.0
+11,12,Ryan,McCann,M,51,Albany,1:09:08,1,yes,Ryan,Mccann,d_50_59,1.0
+12,13,Meg,Versteegen,F,46,Schenectady,1:09:22,1,yes,Meg,Versteegen,c_40_49,1.0
+13,14,Marta,Dauphinee,F,47,Glenville,1:12:25,1,yes,Marta,Dauphinee,c_40_49,2.0
+14,15,Randal,Bushart,M,58,Selkirk,1:12:42,1,yes,Randal,Bushart,d_50_59,2.0
+15,16,Vasil,Koleci,M,49,Albany,1:13:03,1,yes,Vasil,Koleci,c_40_49,4.0
+16,17,Ed,Menis,M,61,Schenectady,1:13:30,1,yes,Ed,Menis,e_60_69,1.0
+17,18,Andrew,Berger,M,28,Rensselaer,1:14:42,1,yes,Andrew,Berger,a_open,5.0
+18,19,Jennifer,Bryant,F,44,Albany,1:15:02,1,yes,Jennifer,Bryant,c_40_49,3.0
+19,20,Joey,Tavarez,M,28,Troy,1:15:38,1,yes,Joey,Tavarez,a_open,6.0
+20,21,Dennis,McKenna,M,59,Selkirk,1:16:05,1,yes,Dennis,Mckenna,d_50_59,3.0
+21,22,Ryan,Cooper,M,44,Clifton Park ,1:16:08,1,yes,Ryan,Cooper,c_40_49,5.0
+22,23,Todd,Smith,M,51,Slingerlands,1:16:01,1,yes,Todd,Smith,d_50_59,4.0
+23,24,Damian,Compa,M,56,Rexford,1:17:30,1,yes,Damian,Compa,d_50_59,5.0
+24,25,David,Newman,M,45,Albany,1:17:59,1,yes,David,Newman,c_40_49,6.0
+25,26,Kerry,Byrd,F,35,East Greenbush ,1:18:17,1,no,nomatch,nomatch,b_30_39,1.0
+26,27,Olivia,McGranaghan,F,25,Albany,1:18:59,1,yes,Olivia,Mcgranaghan,a_open,1.0
+27,28,Megan,James,F,36,Charlton,1:19:29,1,yes,Megan,James,b_30_39,2.0
+28,29,Nicole,Moslander,F,38,Schenectady,1:19:30,1,yes,Nicole,Moslander,b_30_39,3.0
+29,30,Clay,Lodovice,M,50,Voorheesville,1:19:42,1,yes,Clay,Lodovice,d_50_59,6.0
+30,31,Rob,Ordish,M,40,Niskayuna,1:19:43,1,yes,Robert,Ordish,c_40_49,7.0
+31,32,Jack,Garrett,M,28,East Greenbush ,1:19:44,1,yes,Jack,Garrett,a_open,7.0
+32,33,Shylah,Andrews,F,37,Troy,1:19:44,1,yes,Shylah,Andrews,b_30_39,4.0
+33,34,Lyman,Tinc,M,41,Saratoga Springs ,1:19:45,1,yes,Lyman,Tinc,c_40_49,8.0
+34,35,Laura,Rickmyre,F,42,Schenectady,1:19:46,1,yes,Laura,Rickmyre,c_40_49,4.0
+35,36,Ari,Rosenblum,M,30,Albany,1:20:10,1,yes,Ari,Rosenblum,b_30_39,5.0
+36,37,Chris,Carter,M,47,Averill Park ,1:21:00,1,no,nomatch,nomatch,c_40_49,9.0
+37,39,Adam,Wingate,M,35,Niskayuna,1:21:39,1,yes,Adam,Wingate,b_30_39,6.0
+38,40,Kelsey,Wingate,F,34,Niskayuna,1:21:39,1,yes,Kelsey,Wingate,b_30_39,5.0
+39,41,Stephanie,Boyd,F,65,Williamstown,1:21:47,1,yes,Stephanie,Boyd,e_60_69,1.0
+40,42,Travis,Carr,M,33,Schenectady,1:21:47,1,yes,Travis,Carr,b_30_39,7.0
+41,43,Colleen,Murray,F,52,Voorheesville,1:21:47,1,yes,Colleen,Murray,d_50_59,1.0
+42,44,Laurie,Hoyt,F,60,Schenectady,1:22:37,1,yes,Laurie,Hoyt,e_60_69,2.0
+43,45,Dillon,Kircher,M,50,Albany,1:22:41,1,yes,Dillon,Kircher,d_50_59,7.0
+44,46,Meghan,Podlaski,F,28,Niskayuna,1:23:20,1,yes,Meaghan,Podlaski,a_open,2.0
+45,47,David,Roy,M,70,Schaharie,1:23:56,1,yes,David,Roy,f_70+,1.0
+46,48,Gary,Longhi,M,61,Colonie,1:24:00,1,yes,Gary,Longhi,e_60_69,2.0
+47,49,Emily,Coppenrath,F,42,Rensselaer,1:24:26,1,yes,Emily,Coppenrath,c_40_49,5.0
+48,50,Mark,Nunez,M,69,Ballston Lake ,1:25:08,1,yes,Mark,Nunez,e_60_69,3.0
+49,51,Ryan,Juchem,M,43,Brunswick,1:25:09,1,yes,Ryan,Juchem,c_40_49,10.0
+50,52,Laurie,Carter,F,46,Averill Park ,1:25:14,1,yes,Laurie,Carter,c_40_49,6.0
+51,53,Tina,Harris,F,44,Schenectady,1:25:15,1,yes,Tina,Harris,c_40_49,7.0
+52,54,Carolann,Koleci,F,53,Albany,1:25:23,1,yes,Carolann,Koleci,d_50_59,2.0
+53,55,Martha,Brown,F,35,Cohoes,1:25:25,1,yes,Martha,Brown,b_30_39,6.0
+54,56,Keith,Johnson,M,41,Castleton,1:25:55,1,yes,Keith,Johnson,c_40_49,11.0
+55,57,Kieran,Weidner,M,57,Ballston Lake ,1:25:34,1,yes,Kieran,Weidner,d_50_59,8.0
+56,58,Tim,Humphrey,M,35,Albany,1:26:24,1,yes,Tim,Humphrey,b_30_39,8.0
+57,59,David,Rowell,M,73,Albany,1:26:45,1,yes,David,Rowell,f_70+,2.0
+58,60,Kenneth,Lane,M,59,Castleton,1:26:50,1,yes,Kenneth,Lane,d_50_59,9.0
+59,61,Mike,OToole,M,50,Mechanicville,1:27:43,1,yes,Mike,Otoole,d_50_59,10.0
+60,62,Amanda,Belawski,F,40,Albany,1:28:55,1,yes,Amanda,Belawski,c_40_49,8.0
+61,63,Cortlandt,Tisch,M,29,Troy,1:30:50,1,yes,Cortlandt,Tisch,a_open,8.0
+62,64,Steve,Morse,M,62,Albany,1:31:15,1,yes,Steve,Morse,e_60_69,4.0
+63,65,John,Sullivan,M,54,Albany,1:31:21,1,yes,John,Sullivan,d_50_59,11.0
+64,66,Shawna,Walz,F,44,Halfmoon,1:32:50,1,yes,Shawna,Walz,c_40_49,9.0
+65,67,Nicole,Russell,F,33,Troy,1:33:02,1,yes,Nicole,Russell,b_30_39,7.0
+66,68,Brad,Leach,M,72,Albany,1:33:00,1,yes,Brad,Leach,f_70+,3.0
+67,69,Vicky,Tiberia,F,35,Albany,1:35:50,1,yes,Vicky,Tiberia,b_30_39,8.0
+68,71,Aly,Bohem(?),M,32,Latham,1:35:55,1,no,nomatch,nomatch,b_30_39,9.0
+69,72,Bob,Mead,M,76,East Greenbush ,1:36:05,1,yes,Bob,Mead,f_70+,4.0
+70,73,Guanghua,Wang,M,52,Clifton Park ,1:36:00,1,yes,Guanghua,Wang,d_50_59,12.0
+71,74,Bill,Moreland,M,60,Latham,1:36:06,1,yes,Bill,Moreland,e_60_69,5.0
+72,75,Amy,Fehringer,F,50,South Glens Falls ,1:36:09,1,yes,Amy,Fehringer,d_50_59,3.0
+73,76,Stephanie,Paswal,F,27,Albany,1:36:22,1,no,nomatch,nomatch,a_open,3.0
+74,77,Shannon,Pa,F,52,Rensselaer,1:37:00,1,no,nomatch,nomatch,d_50_59,4.0
+75,78,Sarah,James,F,36,Schenectady,1:41:30,1,yes,Sarah,James,b_30_39,9.0
+76,79,Anna,Lowry,F,16,Delanson,1:41:42,1,yes,Anna,Lowry,a_open,4.0
+77,80,John,Butler,M,59,Latham,1:41:47,1,yes,John,Butler,d_50_59,13.0
+78,81,Mark,Stark,M,61,Clifton Park ,1:43:07,1,yes,Mark,Stark,e_60_69,6.0
+79,82,Dylan,Thies,M,38,East Greenbush ,1:44:42,1,yes,Dylan,Thies,b_30_39,10.0
+80,83,Karen,Cutler,F,44,Castleton,1:43:47,1,yes,Karen,Cutler,c_40_49,10.0
+81,84,Alica,Dinuzzo,F,38,Albany,1:44:30,1,yes,Alicia,Dinuzzo,b_30_39,10.0
+82,85,Steve,Vnuk,M,70,Delmar,1:47:08,1,yes,Steve,Vnuk,f_70+,5.0
+83,86,William,Carpenter,M,67,Stony Point ,1:48:00,1,yes,William,Carpenter,e_60_69,7.0
+84,87,John,Brunner,M,59,Schenectady,1:50:06,1,yes,John,Brunner,d_50_59,14.0
+85,88,Martha,DeGrazia,F,74,Slingerlands,1:53:10,1,yes,Martha,Degrazia,f_70+,1.0
+86,89,Pilar,Arthur-Snead,F,54,Albany,2:05:51,1,yes,Pilar,Arthur-snead,d_50_59,5.0
+87,90,Chuck,Snead,M,61,Albany,2:06:49,1,yes,Charles,Snead,e_60_69,8.0

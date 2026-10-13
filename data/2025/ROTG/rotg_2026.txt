@@ -1,0 +1,179 @@
+Place  DivTot  Name                    No. Age S City            St   Time   Pace    
+    1   1/12   Ryan Udvadia            171  29 M Clifton Park    NY   15:31  5:00 
+    2   2/12   Devin Akerley             2  29 M Albany          NY   15:44  5:04 
+    3   1/21   Shaun Donegan            41  40 M malta           NY   15:44  5:04 
+    4   3/12   Austin Turner           169  29 M Delmar          NY   15:51  5:07 
+    5   1/7    Thomas Crowers           28  16 M North Benningto VT   16:25  5:17 
+    6   1/15   Brad Lewis               98  39 M Troy            NY   16:37  5:21 
+    7   2/15   John Longo              100  35 M Wynantskill     NY   16:41  5:22 
+    8   3/15   Ben Fazio                50  30 M Troy            NY   16:41  5:23 
+    9   2/21   Tom O'Grady             122  40 M Slingerlands    NY   16:43  5:23 
+   10   4/12   Brendon VanVlack        175  26 M Schenectady     NY   16:48  5:25 
+   11   3/21   Robert Ordish           125  40 M Niskayuna       NY   16:52  5:26 
+   12   1/12   Cara Udvadia            170  28 F Clifton Park    NY   16:53  5:26 
+   13   4/21   Chuck Terry             164  43 M Albany          NY   17:08  5:31 
+   14   5/12   Noah Valvo              173  27 M Delanson        NY   17:14  5:33 
+   15   2/12   Kerry Flower             53  25 F Schenectady     NY   17:20  5:35 
+   16   2/7    Jayden Thomas           166  19 M Bennington      VT   17:24  5:36 
+   17   6/12   Peter Maroko            193  22 M Nyack           NY   17:33  5:39 
+   18   7/12   Matthew Voynovich       183  20 M Roslyn heights  NY   17:38  5:41 
+   19   8/12   Alex Tong               194  22 M Penville        NV   17:39  5:41 
+   20   9/12   Tyler Stroup            162  22 M Mendham         NJ   17:40  5:42 
+   21   1/11   Tricia Longo            101  36 F Wynantskill     NY   17:41  5:42 
+   22   5/21   michael cooley          197  46 M 91 western ave  NY   17:53  5:46 
+   23   1/17   Karen Bertasso            6  41 F Selkirk         NY   18:00  5:48 
+   24   4/15   Matt Ninneman           118  33 M Albany          NY   18:06  5:50 
+   25   6/21   Ramon Dominguez         195  49 M Saratoga Spring NY   18:15  5:53 
+   26   2/11   Nicole Moslander        116  38 F Schenectady     NY   18:21  5:55 
+   27   3/12   Karina Bolton             7  28 F Delmar          NY   18:27  5:57 
+   28   5/15   Alan Finder              52  37 M Albany          NY   18:36  6:00 
+   29  10/12   Brad Houska              70  28 M Schenectady     NY   18:40  6:01 
+   30   3/11   Lisa Chase               20  39 F Delmar          NY   18:40  6:01 
+   31   4/11   Sarah Cottone            27  31 F Malta           NY   18:43  6:02 
+   32   2/17   Megan Haley              63  45 F Albany          NY   18:58  6:07 
+   33   7/21   John Deer                31  43 M Slingerlands    NY   19:00  6:07 
+   34   8/21   Greg Potestio           132  40 M Delmar          NY   19:05  6:09 
+   35   9/21   Noah White              186  47 M Slingerlands    NY   19:08  6:10 
+   36   3/7    Levi Hawrylchak          65  14 M Guilderland     NY   19:22  6:14 
+   37   6/15   John John               199  31 M Albany          NY   19:30  6:17 
+   38   5/11   Stefanie Berggren         5  33 F Clifton Park    NY   19:35  6:18 
+   39   4/12   Lindsey Gallagher        25  25 F Guilderland     NY   19:43  6:21 
+   40   5/12   Laura Klang              84  26 F Troy            NY   19:45  6:22 
+   41   6/12   Cate Chamberlain         19  28 F Albany          NY   19:51  6:24 
+   42   1/16   Dean Geesler             57  53 M Slingerlands    NY   19:52  6:24 
+   43   2/16   Ryan McCann             106  51 M Albany          NY   19:57  6:26 
+   44  10/21   Clay Lodovice            99  49 M Voorheesville   NY   20:01  6:27 
+   45   3/17   Meg Versteegen          179  46 F Schenectady     NY   20:10  6:30 
+   46   4/17   Ann Marie Moskal        115  46 F Ballston Spa    NY   20:17  6:32 
+   47   3/16   Michael DiNicola        201  51 M Malta           NY   20:18  6:32 
+   48   4/16   Edward Carroll           15  55 M Clifton Park    NY   20:33  6:37 
+   49   5/16   Greg Ethier              49  52 M Ballston Lake   NY   20:39  6:39 
+   50  11/21   Vasil Koleci             89  49 M Albany          NY   20:46  6:41  
+   51  12/21   Ryan Venter             178  44 M Glenmont        NY   20:49  6:42 
+   52   6/11   Brina Seguine           147  36 F Rensselaer      NY   20:53  6:44 
+   53   7/12   Olivia McGranaghan      198  25 F Albany          NY   21:00  6:46 
+   54   7/15   Tim Humphrey             71  36 M Albany          NY   21:09  6:49 
+   55   5/17   Gretchen Klingbeil       86  48 F Ballston Lake   NY   21:19  6:52 
+   56  13/21   Michael Van Flue        174  43 M GUILDERLAND     NY   21:21  6:53 
+   57   7/11   Maria Fusco              54  32 F Mechanicville   NY   21:24  6:54 
+   58   6/16   Frank Horn              191  56 M Albany          NY   21:26  6:54 
+   59   7/16   William Dodds            39  51 M Watervliet      NY   21:30  6:56 
+   60  14/21   Jason Stone             161  48 M Albany          NY   21:33  6:56 
+   61   6/17   Kari Deer                30  47 F Slingerlands    NY   21:42  6:59 
+   62   8/15   Dylan Hedderman          67  33 M Albany          NY   21:45  7:00 
+   63   7/17   Lauren Carnahan          13  43 F LATHAM          NY   21:50  7:02 
+   64   1/17   John Sestito            148  62 M JOHNSONVILLE    NY   21:56  7:04 
+   65   8/17   Sarah Parks             127  45 F Troy            NY   22:11  7:09 
+   66   8/16   Rick Zachgo             188  55 M Rexford         NY   22:26  7:14 
+   67   9/17   Laura Rickmyre          141  42 F Schenectady     NY   22:29  7:15 
+   68   2/17   Gary Shelnutt           151  63 M Troy            NY   22:32  7:16 
+   69   1/17   Beth Stalker            159  66 F Chestertown     NY   22:39  7:18 
+   70   2/17   Colleen Brackett          8  65 F Albany          NY   22:42  7:19 
+   71  15/21   Daniel McConnelee       107  46 M Pattersonville  NY   22:47  7:20 
+   72  11/12   Giovanni DellaPorta      33  22 M Schenectady     NY   22:50  7:21 
+   73  10/17   Katherine Guilfoyle      62  40 F Ballston Spa    NY   22:51  7:22 
+   74   9/16   David Shumpert          154  55 M Clifton Park    NY   22:55  7:23 
+   75   3/17   Lauren Hamilton          64  61 F Schenectady     NY   23:24  7:32 
+   76   1/12   David Roy               144  71 M Schoharie       NY   23:28  7:34 
+   77  16/21   Ethan Lowry             102  47 M Delanson        NY   23:30  7:34 
+   78   1/8    Emily Bryans             10  58 F Delanson        NY   23:37  7:36 
+   79  17/21   Core Walsh              185  42 M Averill PArk    NY   23:40  7:37 
+   80  18/21   CJ Imperial              74  45 M Colonie         NY   23:48  7:40 
+   81  19/21   Gabriel McGarry         189  48 M Slingerlands    NY   23:49  7:40 
+   82   9/15   Evan Dwyer               45  36 M Albany          NY   23:53  7:42 
+   83   8/12   Amelia Geesler           56  22 F Glenmont        NY   23:55  7:42 
+   84   4/17   Kristen Hislop           68  61 F Halfmoon        NY   24:05  7:45 
+   85   3/17   Mark Nunez              121  69 M Ballston Lake   NY   24:16  7:49 
+   86   2/8    Nicola MacNeil          104  52 F Rotterdam junct NY   24:21  7:50 
+   87  10/16   Denis Cote               26  54 M E. Berne        NY   24:21  7:51 
+   88   4/7    Aaron Levin              97  17 M Schenectady     NY   24:30  7:54 
+   89   2/12   David Rowell            143  73 M Albany          NY   24:41  7:57 
+   90  11/17   Susan Knapp              87  47 F Schenectady     NY   25:01  8:04 
+   91   3/8    Carolann Koleci          88  53 F Albany          NY   25:02  8:04 
+   92   5/7    Maxx Schlag             145  13 M Schenectady     NY   25:06  8:05 
+   93   8/11   Taylor Mead-Patterson   110  33 F Schenectady     NY   25:06  8:05 
+   94   4/17   Daniel Esper             48  65 M Slingerlands    NY   25:10  8:06 
+   95   1/7    Anna Lowry              103  16 F Delanson        NY   25:30  8:13 
+   96   5/17   Terry Langlois           93  66 M Niskayuna       NY   25:42  8:17 
+   97  11/16   Stefan Smith            156  55 M SCOTIA          NY   25:49  8:19 
+   98   9/12   Casey Vincelette        180  29 F Delmar          NY   25:55  8:21 
+   99  10/15   Jay Lee                  94  32 M Latham          NY   26:18  8:28 
+  100   6/17   Dennis Quinn            136  61 M Niskayuna       NY   26:46  8:37 
+  101   3/12   Stephen Jones            77  71 M averill Park    NY   26:54  8:40 
+  102  11/15   Matthew Miller          112  34 M Schenectady     NY   27:04  8:43 
+  103   2/7    Haley Smeaton           155  14 F Schenectady     NY   27:13  8:46 
+  104   3/7    Skylar Smeaton          196  12 F Rotterdam       NY   27:20  8:48 
+  105   9/11   Cassandra Johnson        76  38 F Schenectady     NY   27:31  8:52 
+  106   4/8    Lianne Pinchuk          129  50 F Delmar          NY   27:44  8:56 
+  107   6/7    Angelo Vaccaro          172  15 M Schenectady     NY   27:53  8:59 
+  108   4/7    Lily DeRocher            34  15 F Rotterdam       NY   27:54  8:59 
+  109   7/17   Vince Juliano            78  68 M Delanson        NY   28:09  9:04 
+  110   4/12   Steve Vnuk              182  70 M Delmar          NY   28:12  9:05 
+  111   8/17   Peter Butryn             12  68 M Schenectady     NY   28:14  9:06 
+  112  12/12   Dylan Chevalier          21  22 M Schenectady     NY   28:15  9:06 
+  113   5/17   Kathleen Dougherty       42  61 F Troy            NY   28:22  9:08 
+  114  12/16   John Brunner              9  59 M Schenectady     NY   28:25  9:09 
+  115  12/17   Lindsay McConnelee      108  44 F Pattersonville  NY   28:58  9:20 
+  116   1/5    Carolyn George           58  72 F Albany          NY   29:09  9:23 
+  117   6/17   Patricia Greenwood       61  68 F Schenectady     NY   29:19  9:26 
+  118   7/17   Anne Hurley              72  63 F Delmar          NY   29:36  9:32 
+  119  12/15   Patrick Snider          157  30 M Rensselaer      NY   29:41  9:34 
+  120   8/17   Karen Quinn             135  61 F Niskayuna       NY   29:43  9:34 
+  121   5/7    Gianna Ostrander        126  16 F Princetown      NY   29:44  9:35 
+  122  13/15   John Tremblay           200  32 M Albany          NY   29:46  9:35 
+  123   9/17   Joanne Richardson       139  65 F Clifton Park    NY   29:55  9:38 
+  124  13/17   Alejandra Escudero       47  44 F Altamont        NY   30:24  9:48 
+  125   9/17   Dave cole                24  68 M troy            NY   30:27  9:48 
+  126  10/17   Karen Gerstenberger      59  68 F Colonie         NY   30:31  9:50 
+  127  10/11   Valerie Dunn             44  36 F Schenectady     NY   30:36  9:51 
+  128   7/7    Ethan Walsh             184   9 M Averill PArk    NY   30:41  9:53 
+  129  14/17   Jessica Montgomery      114  48 F Guilderland     NY   30:48  9:55 
+  130  11/17   Gail Doering             40  60 F Loudonville     NY   31:15 10:04 
+  131   5/8    Mary Insogna             75  53 F Schenectady     NY   31:15 10:04 
+  132   5/12   George Baranauskas        4  72 M Scotia          NY   31:39 10:12 
+  133  10/17   Daniel Vincelette       181  63 M Selkirk         NY   31:44 10:13 
+  134   6/8    Eileen kurtz             90  56 F ALBANY          NY   31:47 10:14 
+  135  11/17   Richard Kelly            80  69 M Schenectady     NY   32:04 10:20 
+  136  12/17   Denis Hurley             73  63 M Delmar          NY   32:11 10:22 
+  137   2/5    Martha DeGrazia          32  75 F Slingerlands    NY   32:17 10:24 
+  138   7/8    Linda DeDominicis        29  57 F Menands         NY   32:21 10:25 
+  139  13/16   Daniel Pollay           131  56 M Delanson        NY   32:23 10:26 
+  140  14/16   Jason DiPierro           37  52 M Cherry Plain    NY   32:32 10:29 
+  141  10/12   Maddie Norton           119  21 F Albany          NY   32:35 10:30 
+  142  11/12   Maggie Burkart           11  27 F Fort Edward     NY   32:53 10:35 
+  143  20/21   Phil Dudek               43  49 M Saratoga Spring NY   33:13 10:42 
+  144  14/15   jainesh Shah            149  37 M guilderland     NY   34:06 10:59 
+  145  13/17   Mark Wojcik             187  65 M Troy            NY   34:08 11:00 
+  146  14/17   Dale Lamphere            91  63 M Canajoharie     NY   34:45 11:11 
+  147  12/17   Randie Lamphere          92  60 F Canajoharie     NY   34:45 11:11 
+  148  12/12   Isabella Burritt        192  25 F Clifton Park    NY   34:54 11:14 
+  149  13/17   Sarah Reed-Esper        137  60 F Slingerlands    NY   35:02 11:17 
+  150  14/17   Shaula Rickmyre         142  69 F Schenectady     NY   35:31 11:26 
+  151   8/8    Jenifer Kish             83  52 F Albany          NY   36:23 11:43 
+  152   3/5    Joan Celentano           18  72 F Schenectady     NY   36:31 11:46 
+  153   6/7    Emma James              190   7 F Charlton        NY   36:49 11:51 
+  154   6/12   Leo J. DiPierro          38  75 M Cherry Plain    NY   36:50 11:52 
+  155  11/11   Valerie Neyman          117  30 F Duanesburg      NY   36:51 11:52 
+  156  15/17   Mary Kristi Mazmanian   105  48 F Delmar          NY   37:12 11:59 
+  157   7/12   Tim Leonard              96  77 M Clifton park    NY   38:04 12:15 
+  158   4/5    Susan Klim               85  70 F Altamont        NY   38:16 12:19 
+  159  15/17   Ned Norton              120  67 M Albany          NY   38:23 12:22 
+  160   5/5    Georgia Sullivan        163  70 F Albany          NY   39:22 12:41 
+  161  21/21   Ryan Kircher             81  48 M albany          NY   39:37 12:45 
+  162   8/12   Peter kircher            82  73 M Albany          NY   39:38 12:46 
+  163  16/17   Harry Ching              22  63 M Clifton Park    NY   39:44 12:48 
+  164  17/17   Brian Platt             130  67 M Latham          NY   39:55 12:51 
+  165   9/12   Ralph Feinstein          51  72 M Scotia          NY   40:53 13:10 
+  166  16/17   Samantha Pratt          133  48 F Cairo           NY   41:53 13:29 
+  167  10/12   Daniel Rickmyre         140  79 M Schenectady     NY   42:03 13:33 
+  168  15/17   Michelle Ching           23  65 F Clifton Park    NY   42:54 13:49 
+  169   7/7    Genevieve Sheward       153   9 F Schenectady     NY   43:23 13:58 
+  170  15/15   Justin Sheward          152  37 M Schenectady     NY   43:24 13:58 
+  171  15/16   Patrick Caton            16  50 M Clifton Park    NY   47:19 15:14 
+  173  11/12   Daniel Quandt           134  74 M Amsterdam       NY   47:44 15:22 
+  174  17/17   Jennifer Torgersen      168  49 F Albany          NY   47:53 15:25 
+  175  12/12   John Vavasour           177  77 M albany          NY   48:29 15:37 
+  176  16/17   NANCY KANIZAR            79  60 F MELROSE         NY   48:37 15:39 
+  177   1/1    Raymond Lee              95  84 M Halfmoon        NY   50:41 16:19 
+  178  16/16   Jonathan Goldstein       60  57 M Albany          NY   59:07 19:02 
+  179  17/17   Camille Hean             66  68 F Albany          NY   59:08 19:02 

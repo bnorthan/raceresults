@@ -1,0 +1,74 @@
+,place,first_name,last_name,full_name,gender,age,city,state,time,pace,race_id,member,mfname,mlname,category_10,div_place
+0,1,Noah,Valvo,Noah Valvo,M,27,Delanson,none,18:16,none,1,yes,Noah,Valvo,a_open,1.0
+1,2,Cameron,Volk,Cameron Volk,M,18,Albany,none,19:39,none,1,yes,Cameron,Volk,a_open,2.0
+2,3,Pete,Rowell,Pete Rowell,M,37,Albany,none,20:03,none,1,yes,Peter,Rowell,b_30_39,1.0
+3,4,Lisa,Chase,Lisa Chase,F,40,Delmar,none,20:29,none,1,yes,Lisa,Chase,c_40_49,1.0
+4,5,Ryan,McCann,Ryan McCann,M,51,Albany,none,20:40,none,1,yes,Ryan,Mccann,d_50_59,1.0
+5,6,Emily,Taft,Emily Taft,F,36,Albany,none,20:54,none,1,yes,Emily,Taft,b_30_39,1.0
+6,7,Mike,Austin,Mike Austin,M,44,Slingerlands,none,21:04,none,1,yes,Michael,Austin,c_40_49,1.0
+7,8,Meghan,Mortensen,Meghan Mortensen,F,41,Glenville,none,22:13,none,1,yes,Meghan,Mortensen,c_40_49,2.0
+8,9,Clay,Lodovice,Clay Lodovice,M,51,Voorheesville,none,22:25,none,1,yes,Clay,Lodovice,d_50_59,2.0
+9,10,Meg,Versteegen,Meg Versteegen,F,44,Schenectady,none,22:25,none,1,yes,Meg,Versteegen,c_40_49,3.0
+10,11,Tim,Van Orden,Tim Van Orden,M,58,Bennington,VT,22:48,none,1,no,nomatch,nomatch,d_50_59,3.0
+11,12,Aaron,Major,Aaron Major,M,47,Pattersonville,none,23:18,none,1,yes,Aaron,Major,c_40_49,2.0
+12,13,Tim,Humphrey,Tim Humphrey,M,36,Albany,none,23:53,none,1,yes,Tim,Humphrey,b_30_39,2.0
+13,14,Adama,Clark,Adama Clark,M,14,Slingerlands,none,23:57,none,1,no,nomatch,nomatch,a_open,3.0
+14,15,Elijah,Phillips,Elijah Phillips,M,15,Schenectady,none,24:00,none,1,no,nomatch,nomatch,a_open,4.0
+15,16,Evan,Demina,Evan Demina,M,31,Guilderland,none,24:10,none,1,yes,Evan,Denning,b_30_39,3.0
+16,17,Ashton,Versteegen,Ashton Versteegen,M,13,Schenectady,none,24:25,none,1,yes,Ashton,Versteegen,a_open,5.0
+17,18,Emma,Stone,Emma Stone,F,16,Menands,none,24:29,none,1,yes,Emma,Stone,a_open,1.0
+18,19,Reagan,Durant,Reagan Durant,F,13,Cohoes,none,24:36,none,1,no,nomatch,nomatch,a_open,2.0
+19,20,Dan,Murphy,Dan Murphy,M,51,Delmar,none,24:40,none,1,yes,Daniel,Murphy,d_50_59,4.0
+20,21,Shaw,Patton,Shaw Patton,M,30,Albany,none,25:14,none,1,yes,Shaw,Patton,b_30_39,4.0
+21,22,Kari,Deer,Kari Deer,F,47,Slingerlands,none,25:27,none,1,yes,Kari,Deer,c_40_49,4.0
+22,23,Jennifer,Bryant,Jennifer Bryant,F,44,Albany,none,25:39,none,1,yes,Jennifer,Bryant,c_40_49,5.0
+23,24,Megan,James,Megan James,F,37,Charlton,none,25:41,none,1,yes,Megan,James,b_30_39,2.0
+24,25,Daniel,Abbott,Daniel Abbott,M,18,Schenectady,none,25:37,none,1,no,nomatch,nomatch,a_open,6.0
+25,26,Keith,Weiss,Keith Weiss,M,43,Loudonville,none,26:08,none,1,yes,Keith,Weiss,c_40_49,3.0
+26,27,Evie,Weiss,Evie Weiss,F,13,Loudonville,none,26:16,none,1,yes,Evie,Weiss,a_open,3.0
+27,28,Trent,Rapeav,Trent Rapeav,M,35,Ballston Spa,none,26:20,none,1,no,nomatch,nomatch,b_30_39,5.0
+28,29,Brian,Schult,Brian Schult,M,46,Schenectady,none,26:25,none,1,no,nomatch,nomatch,c_40_49,4.0
+29,30,Brandon,Murray,Brandon Murray,M,32,Albany,none,26:36,none,1,no,nomatch,nomatch,b_30_39,6.0
+30,31,Dan,Connan,Dan Connan,M,33,Troy,none,27:08,none,1,yes,Dan,Loman,b_30_39,7.0
+31,32,Darcy,O'Donoghue,Darcy O'Donoghue,F,9,Loudonville,none,27:52,none,1,yes,Darcy,O'donoghue,a_open,4.0
+32,33,Sawyer,Weiss,Sawyer Weiss,M,11,Loudonville,none,27:53,none,1,yes,Sawyer,Weiss,a_open,7.0
+33,34,Rourke,O'Donoghue,Rourke O'Donoghue,M,7,Loudonville,none,27:53,none,1,yes,Rourke,O'donoghue,a_open,8.0
+34,35,Nicola,MacNeil,Nicola MacNeil,F,52,Rotterdam Junction,none,28:12,none,1,yes,Nicola,Macneil,d_50_59,1.0
+35,36,Stephen,Camino,Stephen Camino,M,63,Schenectady,none,28:25,none,1,yes,Stephen,Camino,e_60_69,1.0
+36,37,Maia,Knobloch,Maia Knobloch,F,9,Niskayuna,none,28:46,none,1,no,nomatch,nomatch,a_open,5.0
+37,38,Elliott,Lodovice,Elliott Lodovice,F,14,Voorheesville,none,28:44,none,1,yes,Elliott,Lodovice,a_open,6.0
+38,39,Camilo,Knobloch,Camilo Knobloch,M,9,Niskayuna,none,28:49,none,1,yes,Camilo,Knobloch,a_open,9.0
+39,40,Aaron,Knobloch,Aaron Knobloch,M,50,Niskayuna,none,28:50,none,1,yes,Aaron,Knobloch,d_50_59,5.0
+40,41,Diana,Knobloch,Diana Knobloch,F,45,Niskayuna,none,28:54,none,1,yes,Diana,Tobon-knobloch,c_40_49,6.0
+41,42,Megan,Stewart,Megan Stewart,F,41,Burnt Hills,none,29:00,none,1,yes,Megan,Stewart,c_40_49,7.0
+42,43,Shelley,Gatto,Shelley Gatto,F,54,Niskayuna,none,29:29,none,1,yes,Shelley,Gatto,d_50_59,2.0
+43,44,Jameson,Brodie,Jameson Brodie,M,14,Guilderland,none,29:59,none,1,no,nomatch,nomatch,a_open,10.0
+44,45,Saleem,Naina,Saleem Naina,M,51,Slingerlands,none,29:52,none,1,yes,Saleem,Naina,d_50_59,6.0
+45,46,Kendall,Doroska,Kendall Doroska,F,15,Schenectady,none,30:10,none,1,no,nomatch,nomatch,a_open,7.0
+46,47,Liz,Chauhan,Liz Chauhan,F,41,Albany,none,30:15,none,1,yes,Elizabeth,Chauhan,c_40_49,8.0
+47,48,Joanna,Tremper,Joanna Tremper,F,56,East Chatham,none,30:57,none,1,yes,Joanna,Tremper,d_50_59,3.0
+48,49,Jim,Tremper,Jim Tremper,M,33,Guilderland,none,30:58,none,1,yes,Jim,Tremper,b_30_39,8.0
+49,50,Chris,Varley,Chris Varley,F,62,Latham,none,31:00,none,1,yes,Christine,Varley,e_60_69,1.0
+50,51,Margaret,O'Donoghue,Margaret O'Donoghue,F,41,Loudonville,none,31:13,none,1,yes,Margaret,O'donoghue,c_40_49,9.0
+51,52,Lily,Stone,Lily Stone,F,14,Albany,none,31:45,none,1,no,nomatch,nomatch,a_open,8.0
+52,53,Garrett,Bling,Garrett Bling,M,20,Latham,none,31:44,none,1,no,nomatch,nomatch,a_open,11.0
+53,54,Leah,Johnson,Leah Johnson,F,52,Voorheesville,none,31:45,none,1,no,nomatch,nomatch,d_50_59,4.0
+54,55,Bill,Bartlett,Bill Bartlett,M,55,Amsterdam,none,32:13,none,1,no,nomatch,nomatch,d_50_59,7.0
+55,56,Robyn,Lawyer,Robyn Lawyer,F,48,Rotterdam,none,32:15,none,1,yes,Robyn,Lawyer,c_40_49,10.0
+56,57,David,Halloran,David Halloran,M,54,Colonie,none,32:22,none,1,yes,David,Halloran,d_50_59,8.0
+57,58,Ken,Klapp,Ken Klapp,M,76,Guilderland,none,32:50,none,1,yes,Kenneth,Klapp,f_70+,1.0
+58,59,Jim,Giglio,Jim Giglio,M,64,Albany,none,33:53,none,1,yes,Jim,Giglio,e_60_69,2.0
+59,60,Karen,Dott,Karen Dott,F,70,Colonie,none,34:15,none,1,yes,Karen,Dott,f_70+,1.0
+60,61,Seamus,Hodgkinson,Seamus Hodgkinson,M,77,Delmar,none,34:22,none,1,yes,Seamus,Hodgkinson,f_70+,2.0
+61,62,Carmelo,Rao,Carmelo Rao,M,69,Burnt Hills,none,34:36,none,1,yes,Carmelo,Rao,e_60_69,3.0
+62,63,Deb,Springer,Deb Springer,F,52,Durham,NC,35:06,none,1,no,nomatch,nomatch,d_50_59,5.0
+63,64,Tory,McGuire,Tory McGuire,M,74,Slingerlands,none,35:07,none,1,yes,Tom,Mcguire,f_70+,3.0
+64,65,Dan,Coffey,Dan Coffey,M,64,Delmar,none,35:37,none,1,yes,Dan,Coffey,e_60_69,4.0
+65,66,Hillary,Weiss,Hillary Weiss,F,44,Loudonville,none,35:44,none,1,yes,Hillary,Weiss,c_40_49,11.0
+66,67,Steven,Sliverberg,Steven Sliverberg,M,68,Schenectady,none,36:17,none,1,yes,Steven,Silverberg,e_60_69,5.0
+67,68,Dave,Cole,Dave Cole,M,68,North Greenbush,none,36:19,none,1,yes,Dave,Cole,e_60_69,6.0
+68,69,Patricia,Greenwood,Patricia Greenwood,F,68,Schenectady,none,37:27,none,1,yes,Patricia,Greenwood,e_60_69,2.0
+69,70,Melissa,Volk,Melissa Volk,F,46,Albany,none,38:28,none,1,yes,Melissa,Volk,c_40_49,12.0
+70,71,Rebekah,Tolley,Rebekah Tolley,F,50,Pattersonville,none,39:10,none,1,yes,Rebekah,Tolley,d_50_59,6.0
+71,72,Sara,Lester,Sara Lester,F,29,Rensselaer,none,40:35,none,1,no,nomatch,nomatch,a_open,9.0
+72,73,Collin,Kapusinsky,Collin Kapusinsky,M,24,Altamont,none,40:35,none,1,no,nomatch,nomatch,a_open,12.0

@@ -1,0 +1,111 @@
+place,age_place,name,age,sex,city,state,time,pace
+1,1/6,Chuck Terry,43,M,Albany,NY,28:12,5:39
+2,1/8,Karen Bertasso-Hughe,41,F,selkirk,,28:35,5:43
+3,1/1,Jayden Thomas,19,M,Bennington,VT,28:42,5:45
+4,1/7,Matt Ninneman,33,M,Albany,NY,28:59,5:48
+5,1/7,Ben Heller,37,M,Albany,NY,29:17,5:52
+6,2/8,Lisa Chase,40,F,Delmar,NY,30:11,6:03
+7,2/7,Michael Danaher,34,M,Ballston Lake,NY,30:38,6:08
+8,1/13,Emily Taft,35,F,Albany,NY,30:44,6:09
+9,2/7,Adam Wingate,35,M,Niskayuna,NY,32:48,6:34
+10,1/2,Lucas Hurley,25,M,Albany,,34:23,6:53
+11,2/13,Catie Balnis,38,F,Delmar,NY,34:42,6:57
+12,1/4,Natalie Oliver,23,F,NISKAYUNA,NY,34:46,6:58
+13,3/7,Dylan Hedderman,33,M,Albany,NY,34:52,6:59
+14,2/6,Loren Thomas,41,M,SCHENECTADY,NY,34:55,6:59
+15,1/2,Kelsey Wingate,34,F,Niskayuna,NY,35:04,7:01
+16,1/6,David Hettrich,61,M,Delmar,NY,35:48,7:10
+17,1/7,William Dodds,51,M,Watervliet,NY,35:52,7:11
+18,2/7,Daniel Murphy,51,M,DELMAR,NY,36:13,7:15
+19,1/8,Kari Deer,47,F,Slingerlands,NY,36:40,7:20
+20,3/6,John Deer,43,M,Slingerlands,NY,36:40,7:20
+21,3/13,Molly Ruhlman,38,F,Delmar,NY,36:41,7:21
+22,4/7,Anthony Umina,31,M,Delmar,NY,36:55,7:23
+23,1/7,James Thorp,57,M,Delmar,NE,37:22,7:29
+24,4/13,Adriane Hao,38,F,Delmar,NY,37:50,7:34
+25,5/7,William Grady,30,M,Delmar,NE,37:52,7:35
+26,1/2,Cj Imperial,45,M,Colonie,,37:53,7:35
+27,1/2,Casey Vincelette,29,F,DELMAR,NY,38:17,7:40
+28,2/2,Douglas Fish,47,M,DELMAR,NY,38:19,7:40
+29,2/8,Jennifer Bergeron,45,F,Delmar,NY,38:38,7:44
+30,3/7,Nathaniel Reichman,50,M,Delmar,NY,39:04,7:49
+31,,Denis Cote,,M,,,39:11,7:51
+32,3/7,Christopher Stewart,36,M,DELMAR,NY,39:00,7:48
+33,4/6,Michael Gargiulo,44,M,Albany,NY,39:22,7:53
+34,1/4,Nicola MacNeil,52,F,Rotterdam Junct,NY,39:30,7:54
+35,4/7,Matthew Barron,35,M,Delmar,NY,39:35,7:55
+36,1/5,Paul Salerni,69,M,Little Neck,NE,39:40,7:56
+37,6/7,Joe Balnis,32,M,Delmar,NY,39:42,7:57
+38,5/13,Sarah James,36,F,SCHENECTADY,NY,40:18,8:04
+39,6/13,Bridget Schultz,37,F,Albany,NY,40:41,8:09
+40,1/2,Wendy Rescott,65,F,WEST SAND LAKE,NY,41:09,8:14
+41,2/7,Michael Verdichizzi,58,M,Glenmont,NY,41:13,8:15
+42,2/4,Carissa Cavanna,24,F,Albany,NY,41:30,8:18
+43,3/7,Steven Spuck,59,M,Albany,NY,42:28,8:30
+44,7/7,Frazer Lonie,33,M,Delmar,NY,42:45,8:33
+45,3/8,Amy Shatsoff,45,F,Delmar,NY,42:59,8:36
+46,3/8,Kristine Welliver,41,F,Delmar,NE,43:00,8:36
+47,2/6,Dan Coffey,63,M,Delmar,NY,43:09,8:38
+48,7/13,Katlin Young,35,F,Delmar,NY,43:11,8:39
+49,8/13,Kate Jones,37,F,Delmar,NY,43:15,8:39
+50,4/8,Jennifer Richardson,45,F,ALBANY,NY,43:30,8:42
+51,4/8,Claire Zartarian,44,F,Delmar,NY,43:56,8:48
+52,9/13,Megan Morris,38,F,Delmar,NY,43:58,8:48
+53,4/7,Joseph Lasch,55,M,DELMAR,NY,44:03,8:49
+54,4/7,Geoffry Gillespe,50,M,DELMAR,NY,44:09,8:50
+55,5/7,John Brunner,59,M,Schenectady,NY,44:42,8:57
+56,2/2,Michael Stanek,28,M,Halfmoon,NY,44:43,8:57
+57,5/7,Kevin Burke,37,M,Slingerlands,NE,44:50,8:58
+58,1/4,Stephen Jones,71,M,Averill Park,NY,44:56,9:00
+59,5/8,Lindy Davis,44,F,Delmar,,45:10,9:02
+60,5/7,Ravi Chauhan,50,M,Albany,NY,45:16,9:04
+61,2/5,Vince Juliano,68,M,DELANSON,NY,45:35,9:07
+62,1/1,Dylan Chevalier,22,M,Schenectady,NY,46:08,9:14
+63,2/2,Karen Gerstenberger,68,F,Colonie,NY,46:10,9:14
+64,10/13,Kelly Grace,38,F,Rensselaer,NY,46:38,9:20
+65,6/8,Nicole Lanoue,44,F,Troy,NE,46:45,9:21
+66,1/4,Anne Hurley,63,F,Delmar,NY,46:53,9:23
+67,6/7,John Dudek,39,M,Kingston,,46:55,9:23
+68,3/4,Samantha Robinson,24,F,Albany,NY,47:02,9:25
+69,2/2,Maddy Dunne,25,F,Saratoga Spring,NE,47:35,9:31
+70,3/6,Lie Mandiamy,60,M,Albany,NE,48:01,9:37
+71,7/7,Phil Dec,35,M,Delmar,NY,48:05,9:37
+72,1/2,Erika Oesterle,74,F,Stamford,NY,48:14,9:39
+73,4/4,Jaycee Greer,24,F,Albany,NY,48:35,9:43
+74,6/7,David Stutsrim,56,M,Selkirk,,48:46,9:46
+75,11/13,Katie McNamara,36,F,Delmar,NY,48:53,9:47
+76,6/7,Arup De,52,M,Delmar,NY,49:01,9:49
+77,4/6,Denis Hurley,63,M,Delmar,NY,49:04,9:49
+78,2/4,Tom McGuire,74,M,SLINGERLANDS,NY,49:10,9:50
+79,5/8,Nicole Clemens,47,F,Albany,NY,49:16,9:52
+80,6/8,Ashley Abraham,45,F,Berne,NY,50:59,10:12
+81,2/4,Su Yang,61,F,Niskayuna,,51:20,10:16
+82,7/7,Patrick Anderson,55,M,Mechanicville,NY,51:28,10:18
+83,3/5,John Sheehy,68,M,Menands,NY,51:40,10:20
+84,,Ashley Moak I',,F,Delmar,NY,52:09,10:26
+85,5/6,Bob Sneeringer,62,M,Loudonville,NE,52:30,10:30
+86,3/4,Eugene Sneeringer,71,M,SLINGERLANDS,NY,52:45,10:33
+87,3/4,Michelle Grogan,62,F,Delmar,NY,53:08,10:38
+88,6/6,Edward Grogan,64,M,Delmar,NY,53:08,10:38
+89,4/4,George Baranauskas,72,M,Scotia,,53:16,10:40
+90,2/2,Brittani Kane,34,F,Slingerlands,NE,54:37,10:56
+91,5/6,Jonathan Banker,44,M,Troy,NY,55:26,11:06
+92,4/4,Suzanne Sullivan,62,F,DELMAR,NY,55:26,11:06
+93,12/13,Genevieve Monthie,36,F,Slingerlands,NY,55:38,11:08
+94,7/7,Brian Monthie,50,M,Slingerlands,NY,55:40,11:08
+95,7/8,Maria Valent,49,F,Delmar,NY,56:14,11:15
+96,6/6,Stephen Shaw,42,M,CUMMINGTON,MA,56:14,11:15
+97,7/8,Elizabeth Burhans,44,F,Slingerlands,NE,57:32,11:31
+98,13/13,Rebecca Russell,35,F,Albany,NE,58:09,11:38
+99,1/2,Anne Tyrrell,75,F,Albany,NE,58:16,11:40
+100,4/5,Don Ball,67,M,Delmar,NY,59:38,11:56
+101,,Althea Pestine-Steven,38,,Albany,NY,59:56,12:00
+102,1/2,Leo J. Dipierro,75,M,Cherry plain,NY,1:00:05,12:01
+103,2/4,Pilar Arthur-Snead,54,F,Albany,NY,1:00:35,12:07
+104,8/8,Jill Webber,46,F,Glenville,NY,1:00:36,12:08
+105,2/2,Suzanne Nealon,76,F,Saratoga Spring,NE,1:00:37,12:08
+106,,Charles Snead,,M,ALBANY,NY,1:00:54,12:11
+107,3/4,Dawn Turley,53,F,Albany,NY,1:01:20,12:16
+108,5/5,James H. Allen,67,M,Waterford,NY,1:02:54,12:35
+109,2/2,Paul Hancock,82,M,Glens Falls,NY,1:02:55,12:35
+110,2/2,Martha McCormick,71,F,Delmar,NY,1:06:47,13:22

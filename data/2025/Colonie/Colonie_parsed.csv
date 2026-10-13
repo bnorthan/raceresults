@@ -1,0 +1,96 @@
+,place,first_name,last_name,full_name,gender,age,city,state,time,pace,race_id,member,mfname,mlname,category_10,div_place
+0,1,Devin,Finn,Devin Finn,M,20,Albany,none,4:29.84,none,1,no,nomatch,nomatch,a_open,1.0
+1,2,Pete,Rowell,Pete Rowell,M,37,Albany,none,4:47.0,none,1,yes,Peter,Rowell,b_30_39,1.0
+2,3,Cameron,Volk,Cameron Volk,M,18,Albany,none,4:47.0,none,1,yes,Cameron,Volk,a_open,2.0
+3,4,Ebisa,Gaul,Ebisa Gaul,M,17,Albany,none,4:48.63,none,1,no,nomatch,nomatch,a_open,3.0
+4,5,Russell,Brown,Russell Brown,M,33,East Greenbush,none,4:48.82,none,1,yes,Russell,Brown,b_30_39,2.0
+5,6,Connor,Price,Connor Price,M,27,Menands,none,4:48.82,none,1,no,nomatch,nomatch,a_open,4.0
+6,7,Jayden,Thomas,Jayden Thomas,M,20,Bennington,VT,4:49.3,none,1,yes,Jayden,Thomas,a_open,5.0
+7,8,Chuck,Terry,Chuck Terry,M,44,Albany,none,4:51.0,none,1,yes,Chuck,Terry,c_40_49,1.0
+8,9,Noah,Valvo,Noah Valvo,M,27,Delanson,none,4:53.61,none,1,yes,Noah,Valvo,a_open,6.0
+9,10,Ethan,Casserly,Ethan Casserly,M,13,Rexford,none,4:58.9,none,1,yes,Ethan,Casserly,a_open,7.0
+10,11,Conor,O'Grady,Conor O'Grady,M,15,Slingerlands,none,4:59.0,none,1,yes,Conor,O'grady,a_open,8.0
+11,12,Nicholas,Curelop,Nicholas Curelop,M,38,W Stockbridge,MA,5:00.49,none,1,yes,Nicholas,Curelop,b_30_39,3.0
+12,13,Lisa,Chase,Lisa Chase,F,40,Delmar,none,5:06.97,none,1,yes,Lisa,Chase,c_40_49,1.0
+13,14,Tim,VanOrden,Tim VanOrden,M,58,Bennington,VT,5:08.0,none,1,no,nomatch,nomatch,d_50_59,1.0
+14,15,Luke,McMorrow,Luke McMorrow,M,30,Albany,none,5:16.0,none,1,no,nomatch,nomatch,b_30_39,4.0
+15,16,Emily,Taft,Emily Taft,F,36,Albany,none,5:24.8,none,1,yes,Emily,Taft,b_30_39,1.0
+16,17,Nicholas,Sheridan,Nicholas Sheridan,M,13,Ballston Spa,none,5:26.0,none,1,no,nomatch,nomatch,a_open,9.0
+17,18,Adam,Loomis,Adam Loomis,M,14,Malta,none,5:26.0,none,1,no,nomatch,nomatch,a_open,10.0
+18,19,Keith,Casserly,Keith Casserly,M,52,Rexford,none,5:28.54,none,1,yes,Keith,Casserly,d_50_59,2.0
+19,20,Steven,Methe,Steven Methe,M,27,Rensselaer,none,5:36.0,none,1,no,nomatch,nomatch,a_open,11.0
+20,21,Samson,Dikeman,Samson Dikeman,M,37,Albany,none,5:37.0,none,1,no,nomatch,nomatch,b_30_39,5.0
+21,22,Nicole,Moslander,Nicole Moslander,F,39,Schenectady,none,5:37.0,none,1,yes,Nicole,Moslander,b_30_39,2.0
+22,23,Ashton,Versteegen,Ashton Versteegen,M,13,Schenectady,none,5:40.0,none,1,yes,Ashton,Versteegen,a_open,12.0
+23,24,Augustus,Montgomery,Augustus Montgomery,M,13,Delmar,none,5:40.28,none,1,yes,Augustus,Montgomery,a_open,13.0
+24,25,Ryan,McCann,Ryan McCann,M,51,Schenectady,none,5:40.55,none,1,yes,Ryan,Mccann,d_50_59,3.0
+25,26,Brendon,Cartia,Brendon Cartia,M,39,Brunswick,none,5:40.99,none,1,no,nomatch,nomatch,b_30_39,6.0
+26,27,Ed,Menis,Ed Menis,M,61,Schenectady,none,5:43.0,none,1,yes,Ed,Menis,e_60_69,1.0
+27,28,Lindsey,Gallagher,Lindsey Gallagher,F,25,Waterford,none,5:44.66,none,1,yes,Lindsey,Gallagher,a_open,1.0
+28,29,Greg,Ethier,Greg Ethier,M,52,Ballston Lake,none,5:47.2,none,1,yes,Greg,Ethier,d_50_59,4.0
+29,30,Tim,Humphrey,Tim Humphrey,M,36,Albany,none,5:48.0,none,1,yes,Tim,Humphrey,b_30_39,7.0
+30,31,Meg,Versteegen,Meg Versteegen,F,47,Schenectady,none,5:48.0,none,1,yes,Meg,Versteegen,c_40_49,2.0
+31,32,Emma,Stone,Emma Stone,F,16,Albany,none,5:53.0,none,1,yes,Emma,Stone,a_open,2.0
+32,33,Greg,Stevens,Greg Stevens,M,42,Charlton,none,5:53.0,none,1,no,nomatch,nomatch,c_40_49,2.0
+33,34,Conor,O'Leary,Conor O'Leary,M,14,Troy,none,5:53.0,none,1,no,nomatch,nomatch,a_open,14.0
+34,35,Emma,Casserly,Emma Casserly,F,12,Rexford,none,5:55.48,none,1,yes,Emma,Casserly,a_open,3.0
+35,36,Jason,Stone,Jason Stone,M,48,Albany,none,5:59.0,none,1,yes,Jason,Stone,c_40_49,3.0
+36,37,Shawn,Bennett,Shawn Bennett,M,31,Rotterdam,none,6:03.0,none,1,no,nomatch,nomatch,b_30_39,8.0
+37,38,Dan,Murphy,Dan Murphy,M,51,Delmar,none,6:06.8,none,1,yes,Daniel,Murphy,d_50_59,5.0
+38,39,Jennifer,Bryant,Jennifer Bryant,F,44,Albany,none,6:08.4,none,1,yes,Jennifer,Bryant,c_40_49,3.0
+39,40,Ryan,Pandolfini,Ryan Pandolfini,M,45,Niskayuna,none,6:25.0,none,1,no,nomatch,nomatch,c_40_49,4.0
+40,41,Carl,Rigler,Carl Rigler,M,16,Rexford,none,6:25.0,none,1,no,nomatch,nomatch,a_open,15.0
+41,42,Michael,Bugley,Michael Bugley,M,17,Schaghticoke,none,6:28.0,none,1,no,nomatch,nomatch,a_open,16.0
+42,43,Reagan,Durant,Reagan Durant,F,12,Latham,none,6:30.0,none,1,no,nomatch,nomatch,a_open,4.0
+43,44,Megan,James,Megan James,F,37,Charlton,none,6:34.86,none,1,yes,Megan,James,b_30_39,3.0
+44,45,Liz,Chauhan,Liz Chauhan,F,41,Albany,none,6:42.0,none,1,yes,Elizabeth,Chauhan,c_40_49,4.0
+45,46,Emma,Silver,Emma Silver,F,13,Albany,none,6:43.0,none,1,no,nomatch,nomatch,a_open,5.0
+46,47,Evie,Weiss,Evie Weiss,F,13,Loudonville,none,6:43.0,none,1,no,nomatch,nomatch,a_open,6.0
+47,48,Jennifer,Bannigan,Jennifer Bannigan,F,48,Slingerlands,none,6:55.0,none,1,yes,Jennifer,Bannigan,c_40_49,5.0
+48,49,Brady,Shoemaker,Brady Shoemaker,M,13,Burnt Hills,none,6:56.0,none,1,no,nomatch,nomatch,a_open,17.0
+49,50,Calvin,Stevens,Calvin Stevens,M,12,Charlton,none,6:56.0,none,1,no,nomatch,nomatch,a_open,18.0
+50,51,Jac,Cohn,Jac Cohn,F,41,Schenectady,none,6:56.5,none,1,yes,Kristina,Cohen,c_40_49,6.0
+51,52,Mary,Ellen Moslander,Mary Ellen Moslander,F,14,Rotterdam,none,6:59.33,none,1,no,nomatch,nomatch,a_open,7.0
+52,53,Laurie,Hoyt,Laurie Hoyt,F,60,Schenectady,none,6:59.9,none,1,yes,Laurie,Hoyt,e_60_69,1.0
+53,54,Eric,Jackson,Eric Jackson,M,71,Delmar,none,7:01.0,none,1,yes,Eric,Jackson,f_70+,1.0
+54,55,Natalie,Kurick,Natalie Kurick,F,17,Rotterdam,none,7:07.0,none,1,no,nomatch,nomatch,a_open,8.0
+55,56,Francesca,Pandolfini,Francesca Pandolfini,F,10,Niskayuna,none,7:09.0,none,1,no,nomatch,nomatch,a_open,9.0
+56,57,Elton,Babcock,Elton Babcock,M,43,Halfmoon,none,7:13.0,none,1,no,nomatch,nomatch,c_40_49,5.0
+57,58,Nathan,Durkia,Nathan Durkia,M,17,Melrose,none,7:15.0,none,1,no,nomatch,nomatch,a_open,19.0
+58,59,Owen,Howley,Owen Howley,M,13,East Greenbush,none,7:16.0,none,1,no,nomatch,nomatch,a_open,20.0
+59,60,Ryan,David,Ryan David,M,10,Latham,none,7:17.0,none,1,no,nomatch,nomatch,a_open,21.0
+60,61,Lou,??,Lou ??,M,41,Latham,none,7:18.0,none,1,no,nomatch,nomatch,c_40_49,6.0
+61,62,Mark,Nunez,Mark Nunez,M,69,Ballston Lake,none,7:19.16,none,1,yes,Mark,Nunez,e_60_69,2.0
+62,63,Lily,Stone,Lily Stone,F,14,Albany,none,7:21.0,none,1,no,nomatch,nomatch,a_open,10.0
+63,64,David,Rowell,David Rowell,M,74,Albany,none,7:25.0,none,1,yes,David,Rowell,f_70+,2.0
+64,65,Paul,Bennett,Paul Bennett,M,75,Latham,none,7:37.0,none,1,yes,Paul,Bennett,f_70+,3.0
+65,66,Rachel,Torrey,Rachel Torrey,F,25,Waterford,none,7:37.0,none,1,yes,Rachel,Torrey,a_open,11.0
+66,67,Keira,Howley,Keira Howley,F,15,East Greenbush,none,7:39.0,none,1,no,nomatch,nomatch,a_open,12.0
+67,68,Nicola,MacNeil,Nicola MacNeil,F,52,Rotterdam Jct,none,7:41.0,none,1,yes,Nicola,Macneil,d_50_59,1.0
+68,69,Collan,Crave,Collan Crave,M,6,Schenectady,none,7:41.0,none,1,no,nomatch,nomatch,a_open,22.0
+69,70,Robert,Tario,Robert Tario,M,43,Latham,none,7:45.0,none,1,no,nomatch,nomatch,c_40_49,7.0
+70,71,Ken,Klapp,Ken Klapp,M,76,Schenectady,none,7:45.0,none,1,yes,Kenneth,Klapp,f_70+,4.0
+71,72,David,Halloran,David Halloran,M,54,Colonie,none,7:50.0,none,1,yes,David,Halloran,d_50_59,6.0
+72,73,Teagan,Hallahan,Teagan Hallahan,F,40,Altamont,none,7:52.0,none,1,yes,Teagan,Hallahan,c_40_49,7.0
+73,74,Alison,Howley,Alison Howley,F,44,East Greenbush,none,8:07.0,none,1,no,nomatch,nomatch,c_40_49,8.0
+74,75,Addie,Chase,Addie Chase,F,8,Delmar,none,8:19.78,none,1,no,nomatch,nomatch,a_open,13.0
+75,76,Sonia,McLoon,Sonia McLoon,F,8,Albany,none,8:21.12,none,1,yes,Sonia,Mcloon,a_open,14.0
+76,77,Will,Chase,Will Chase,M,6,Delmar,none,8:22.89,none,1,yes,Will,Chase,a_open,23.0
+77,78,Patricia,Greenwood,Patricia Greenwood,F,68,Schenectady,none,8:25.0,none,1,yes,Patricia,Greenwood,e_60_69,2.0
+78,79,Karen,Dott,Karen Dott,F,70,Colonie,none,8:33.0,none,1,yes,Karen,Dott,f_70+,1.0
+79,80,Karen,Gerstenberger,Karen Gerstenberger,F,48,Colonie,none,8:52.0,none,1,yes,Karen,Gerstenberger,c_40_49,9.0
+80,81,Evelyn,O'Grady,Evelyn O'Grady,F,8,Slingerlands,none,8:52.0,none,1,no,nomatch,nomatch,a_open,15.0
+81,82,Emma,Crave,Emma Crave,F,7,Schenectady,none,8:58.0,none,1,no,nomatch,nomatch,a_open,16.0
+82,83,Matt,Crave,Matt Crave,M,49,Schenectady,none,8:58.0,none,1,no,nomatch,nomatch,c_40_49,8.0
+83,84,Paul,Rosenberg,Paul Rosenberg,M,73,Albany,none,9:05.0,none,1,yes,Paul,Rosenberg,f_70+,5.0
+84,85,Brian,Shoemaker,Brian Shoemaker,M,53,Glenville,none,9:27.0,none,1,no,nomatch,nomatch,d_50_59,7.0
+85,86,Daniel,O'Leary,Daniel O'Leary,M,45,Troy,none,9:35.0,none,1,no,nomatch,nomatch,c_40_49,9.0
+86,87,John,Sheehy,John Sheehy,M,68,Menands,none,9:36.0,none,1,yes,John,Sheehy,e_60_69,3.0
+87,88,Christina,Raymond,Christina Raymond,F,55,Troy,none,9:41.0,none,1,yes,Christina,Raymond,d_50_59,2.0
+88,89,Fiora,O'Leary,Fiora O'Leary,F,11,Troy,none,9:41.0,none,1,no,nomatch,nomatch,a_open,17.0
+89,90,Martha,DeGrazia,Martha DeGrazia,F,75,Slingerlands,none,9:43.0,none,1,yes,Martha,Degrazia,f_70+,2.0
+90,91,Chelsey,Hernandez,Chelsey Hernandez,F,31,Waterford,none,9:53.0,none,1,no,nomatch,nomatch,b_30_39,4.0
+91,92,Melissa,O'Leary,Melissa O'Leary,F,43,Troy,none,10:27.0,none,1,no,nomatch,nomatch,c_40_49,10.0
+92,93,Greg,Rickes,Greg Rickes,M,76,Latham,none,10:33.0,none,1,yes,Greg,Rickes,f_70+,6.0
+93,94,Edwin,Litts,Edwin Litts,M,76,Schenectady,none,10:47.0,none,1,yes,Edwin,Litts,f_70+,7.0
+94,95,Ralph,Feinsein,Ralph Feinsein,M,72,Scotia,none,11:42.0,none,1,yes,Ralph,Feinstein,f_70+,8.0

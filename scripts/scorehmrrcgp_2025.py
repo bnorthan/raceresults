@@ -73,6 +73,22 @@ race_out_base_dir='./data/2025/Colonie/'
 race_out_base = 'Colonie'
 fixed_width=False
 
+# Race 8 Colonie 
+members_name='./data/2025/Membership/2026-08-12 Members Hudson Mohawk Road Runners Club.csv'
+race_name='/home/bnorthan/runnin/raceresults/data/2025/Colonie/colonie.csv'
+race_out_base_dir='./data/2025/Colonie/'
+race_out_base = 'Colonie'
+fixed_width=False
+
+
+# Race 8 Colonie 
+members_name='./data/2025/Membership/2026-09-01 Members Hudson Mohawk Road Runners Club.csv'
+race_name='/home/bnorthan/runnin/raceresults/data/2025/Tawasentha/tawasentha.csv'
+race_out_base_dir='./data/2025/Tawasentha/'
+race_out_base = 'Tawasentha'
+fixed_width=False
+
+
 
 race_out_name=race_out_base_dir+race_out_base+'.csv'
 race_out_males=race_out_base_dir+race_out_base+'_males.csv'

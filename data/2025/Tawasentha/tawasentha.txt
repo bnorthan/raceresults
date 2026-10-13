@@ -1,0 +1,100 @@
+Place Name Time M/F Age City
+1 Noah Valvo 18:16:00 M 27 Delanson
+2 Cameron Volk 19:39:00 M 18 Albany
+3 Pete Rowell 20:03:00 M 37 Albany
+4 Lisa Chase 20:29:00 F 40 Delmar
+5 Ryan McCann 20:40:00 M 51 Albany
+6 Emily Taft 20:54:00 F 36 Albany
+7 Mike Austin 21:04:00 M 44 Slingerlands
+8 Meghan Mortensen 22:13:00 F 41 Glenville
+9 Clay Lodovice 22:25:00 M 51 Voorheesville
+10 Meg Versteegen 22:25:00 F 44 Schenectady
+11 Tim Van Orden 22:48:00 M 58 Bennington, VT
+12 Aaron Major 23:18:00 M 47 Pattersonville
+13 Tim Humphrey 23:53:00 M 36 Albany
+14 Adama Clark 23:57:00 M 14 Slingerlands
+15 Elijah Phillips 24:00:00 M 15 Schenectady
+16 Evan Demina 24:10:00 M 31 Guilderland
+17 Ashton Versteegen 24:25:00 M 13 Schenectady
+18 Emma Stone 24:29:00 F 16 Menands
+19 Reagan Durant 24:36:00 F 13 Cohoes
+20 Dan Murphy 24:40:00 M 51 Delmar
+21 Shaw Patton 25:14:00 M 30 Albany
+22 Kari Deer 25:27:00 F 47 Slingerlands
+23 Jennifer Bryant 25:39:00 F 44 Albany
+24 Megan James 25:41:00 F 37 Charlton
+25 Daniel Abbott 25:37:00 M 18 Schenectady
+26 Keith Weiss 26:08:00 M 43 Loudonville
+27 Evie Weiss 26:16:00 F 13 Loudonville
+28 Trent Rapeav 26:20:00 M 35 Ballston Spa
+29 Brian Schult 26:25:00 M 46 Schenectady
+30 Brandon Murray 26:36:00 M 32 Albany
+31 Dan Connan 27:08:00 M 33 Troy
+32 Darcy O'Donoghue 27:52:00 F 9 Loudonville
+33 Sawyer Weiss 27:53:00 M 11 Loudonville
+34 Rourke O'Donoghue 27:53:00 M 7 Loudonville
+35 Nicola MacNeil 28:12:00 F 52 Rotterdam Junction
+36 Stephen Camino 28:25:00 M 63 Schenectady
+37 Maia Knobloch 28:46:00 F 9 Niskayuna
+38 Elliott Lodovice 28:44:00 F 14 Voorheesville
+39 Camilo Knobloch 28:49:00 M 9 Niskayuna
+40 Aaron Knobloch 28:50:00 M 50 Niskayuna
+41 Diana Knobloch 28:54:00 F 45 Niskayuna
+42 Megan Stewart 29:00:00 F 41 Burnt Hills
+43 Shelley Gatto 29:29:00 F 54 Niskayuna
+44 Jameson Brodie 29:59:00 M 14 Guilderland
+45 Saleem Naina 29:52:00 M 51 Slingerlands
+46 Kendall Doroska 30:10:00 F 15 Schenectady
+47 Liz Chauhan 30:15:00 F 41 Albany
+48 Joanna Tremper 30:57:00 F 56 East Chatham
+49 Jim Tremper 30:58:00 M 33 Guilderland
+50 Chris Varley 31:00:00 F 62 Latham
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+Margaret O'Donoghue 31:13:00 F 41 Loudonville
+Lily Stone 31:45:00 F 14 Albany
+Garrett Bling 31:44:00 M 20 Latham
+Leah Johnson 31:45:00 F 52 Voorheesville
+Bill Bartlett 32:13:00 M 55 Amsterdam
+Robyn Lawyer 32:15:00 F 48 Rotterdam
+David Halloran 32:22:00 M 54 Colonie
+Ken Klapp 32:50:00 M 76 Guilderland
+Jim Giglio 33:53:00 M 64 Albany
+Karen Dott 34:15:00 F 70 Colonie
+Seamus Hodgkinson 34:22:00 M 77 Delmar
+Carmelo Rao 34:36:00 M 69 Burnt Hills
+Deb Springer 35:06:00 F 52 Durham, NC
+Tory McGuire 35:07:00 M 74 Slingerlands
+Dan Coffey 35:37:00 M 64 Delmar
+Hillary Weiss 35:44:00 F 44 Loudonville
+Steven Sliverberg 36:17:00 M 68 Schenectady
+Dave Cole 36:19:00 M 68 North Greenbush
+Patricia Greenwood 37:27:00 F 68 Schenectady
+Melissa Volk 38:28:00 F 46 Albany
+Rebekah Tolley 39:10:00 F 50 Pattersonville
+Sara Lester 40:35:00 F 29 Rensselaer
+Collin Kapusinsky 40:35:00 M 24 Altamont
+Martha DeGrazia 41:03:00 F 75 Slingerland
+

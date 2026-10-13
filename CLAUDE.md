@@ -119,8 +119,16 @@ PythonAnywhere deployment notes (static files, virtualenvs).
 
 ## Current state (2026-10)
 
-- DB holds 49 races / ~49k results: every Stockade-athon 1976–2025 except 2020
+- DB holds 49 races / 49,964 results: every Stockade-athon 1976–2025 except 2020
   (virtual race, no source data).
+- Race pages are keyed by slug: `/raceresults/race/1976-stockade-athon/`. Old
+  `/race/<id>/` links redirect. The loader reuses the `Race` row on reload, so ids are
+  stable too.
+- Data fixes are data: `Stockade-athon all time/corrections.csv` is applied to the
+  derived csv (txt is never edited); `problems.csv` is the running list of open issues.
+- `/raceresults/stockade/{most-races,active-streaks,longest-streaks,records}/` read csvs
+  written by `python scripts/events/stockade_leaders.py` — re-run it after any data fix.
+  Person linking is `scoreware/runner/cluster.py`; age grading `scoreware/race/agegrade.py`.
 - csv exists for every year except 2020, all built by `Stockadeathonalltime.py` from
   `txt/` (2019 reads `data/2019/Stockade2019.csv` directly). Real race dates come from
   `csv/dates.csv`; 2022–2025 are inferred (2nd Sunday of November), not official.
@@ -130,14 +138,9 @@ PythonAnywhere deployment notes (static files, virtualenvs).
 
 ## Known rough edges
 
-- **1993 is truncated** (123 of ~830 finishers). The method-2 time regex
-  `(?:[1-2]:)?[0-5][0-9]:[0-5][0-9]` rejects times written as `64:41`. 1994–96 row
-  counts are within ~10 of their source line counts, so they look unaffected.
-- **Reloading a race changes its id**: `makedjangotable.py` deletes and re-creates the
-  `Race`, so `/raceresults/race/<id>/` URLs break on every reload. This conflicts with
-  "URLs are forever" and needs a stable key (`slugified_race_name` or year) before the site is linked to.
-- Parsers fail silently — a line that doesn't match the time regex is skipped with no
-  count. Always compare parsed row count against `wc -l` of the source.
+- Parsers keep every finisher (an unreadable time becomes blank + a `note`), but the
+  loader skips the ~616 with no time because `Result.time` can't be null. Still compare
+  parsed row count against `wc -l` of the source after any parser change.
 - csv schemas differ by era (1976 has only name+time; 1982–96 add age/gender;
   1997+ add city/state/pace/div_place). Anything consuming them must tolerate missing columns.
 - `readers.parse_general` prints heavily and has an `if/else` bug: the `full_name` branch

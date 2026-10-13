@@ -101,7 +101,7 @@
 99,100,Clyde,Hess Jr,Clyde Hess Jr,M,56.0,Queensbury,NY,1:04:37,6:57,1
 100,101,Tom,Benoit,Tom Benoit,M,31.0,Oneonta,NY,1:04:39,6:58,1
 101,102,Sam,Acevedo,Sam Acevedo,M,15.0,Schenectady,NY,1:04:40,6:58,1
-102,103,Sarah,Conboy-Claridg,Sarah Conboy-Claridg,F,32.0,Watervliet,NY,1:04:41,6:58,1
+102,103,Sarah,Conboy-Claridge,Sarah Conboy-Claridge,F,32.0,Watervliet,NY,1:04:41,6:58,1
 103,104,Russ,Hoyer,Russ Hoyer,M,42.0,Voorheesville,NY,1:04:42,6:58,1
 104,105,Larry,Badger,Larry Badger,M,55.0,New York Mills,NY,1:04:44,6:58,1
 105,106,Michael,Van Beuren,Michael Van Beuren,M,50.0,Annapolis,MD,1:04:49,6:59,1
@@ -722,7 +722,7 @@
 720,721,Amy,Hart,Amy Hart,F,41.0,Saratoga Spring,NY,1:26:57,9:21,1
 721,722,Carole,Bieber,Carole Bieber,F,51.0,Slingerlands,NY,1:26:58,9:21,1
 722,723,Ann,Vella,Ann Vella,F,66.0,Pittsfield,MA,1:27:00,9:22,1
-723,724,Deedee,Diccicco-Craf,Deedee Diccicco-Craf,F,40.0,West Sand Lake,NY,1:27:02,9:22,1
+723,724,Deedee,Diccicco-Craft,Deedee Diccicco-Craft,F,40.0,West Sand Lake,NY,1:27:02,9:22,1
 724,725,Michael,Comisky,Michael Comisky,M,45.0,Brant Lake,NY,1:27:02,9:22,1
 725,726,Bernard,Witkowski,Bernard Witkowski,M,53.0,Scotia,NY,1:27:08,9:23,1
 726,727,Brian,McGarry,Brian McGarry,M,45.0,Schenectady,NY,1:27:12,9:23,1
@@ -831,150 +831,150 @@
 829,830,William,Lysogorski,William Lysogorski,M,63.0,Loudonville,NY,1:32:34,9:58,1
 830,831,Molly,Lindley,Molly Lindley,F,43.0,Averill Park,NY,1:32:46,9:59,1
 831,832,Debbie,Smith,Debbie Smith,F,39.0,Guilderland,NY,1:32:49,9:59,1
-832,833,Ed,Thomas,Ed Thomas,M,64.0,Delmar,NY,1:32:53,0:00,1
-833,834,Andrea,Ambros,Andrea Ambros,F,39.0,Hartland,VT,1:32:57,0:00,1
-834,835,Lori,Christina,Lori Christina,F,42.0,Clifton Park,NY,1:32:58,0:00,1
-835,836,Joyce,Richardson,Joyce Richardson,F,49.0,Rome,NY,1:33:17,0:02,1
-836,837,Gary,Hughes,Gary Hughes,M,51.0,Schenectady,NY,1:33:25,0:03,1
-837,838,Beth,Searl,Beth Searl,F,39.0,Valatie,NY,1:33:30,0:04,1
-838,839,Jennalee,Wright,Jennalee Wright,F,15.0,Schenectady,NY,1:33:41,0:05,1
-839,840,Eva,Weyers,Eva Weyers,F,16.0,Delanson,NY,1:33:41,0:05,1
-840,841,Ellie,George,Ellie George,F,47.0,Amsterdam,NY,1:33:45,0:05,1
-841,842,Alissa,Faber,Alissa Faber,F,15.0,Delanson,NY,1:33:46,0:05,1
-842,843,Jennifer,Gaunt,Jennifer Gaunt,F,27.0,Scotia,NY,1:33:53,0:06,1
-843,844,Karen,Koskowski,Karen Koskowski,F,38.0,Latham,NY,1:34:02,0:07,1
-844,845,Ken,Orner,Ken Orner,M,72.0,Albany,NY,1:34:16,0:09,1
-845,846,Melinda,Mackesey,Melinda Mackesey,F,38.0,Altamont,NY,1:34:20,0:09,1
-846,847,Doris,Romero,Doris Romero,F,40.0,Latham,NY,1:34:21,0:09,1
-847,848,Audrey,Calvino,Audrey Calvino,F,26.0,Castleton,NY,1:34:22,0:09,1
-848,849,Dayna,Maniccia,Dayna Maniccia,F,34.0,Schenectady,NY,1:34:23,0:09,1
-849,850,Lisa,Lorman,Lisa Lorman,F,39.0,Amsterdam,NY,1:34:32,0:10,1
-850,851,Richard,Dixon,Richard Dixon,M,56.0,Mayfield,NY,1:34:36,0:11,1
-851,852,Margaret,Mangano,Margaret Mangano,F,56.0,Saratoga Spring,NY,1:34:37,0:11,1
-852,853,Lori,Kunker,Lori Kunker,F,32.0,Latham,NY,1:34:39,0:11,1
-853,854,Julie,Bevilacqua,Julie Bevilacqua,F,39.0,Colonie,NY,1:34:39,0:11,1
-854,855,Claire,Simon,Claire Simon,F,38.0,Wilmington,NY,1:34:40,0:11,1
-855,856,R.,Michael Scheer,R. Michael Scheer,M,51.0,Wilmington,NY,1:34:44,0:12,1
-856,857,Karen,Stillings,Karen Stillings,F,34.0,Marcy,NY,1:34:44,0:12,1
-857,858,Kevin,Snider,Kevin Snider,M,43.0,Rensselaer,NY,1:34:44,0:12,1
-858,859,Erika,Chamberlain,Erika Chamberlain,F,32.0,Cambridge,NY,1:34:45,0:12,1
-859,860,Maggie,Quinn,Maggie Quinn,F,43.0,Gansevoort,NY,1:35:03,0:14,1
-860,861,Erin,Keenan,Erin Keenan,F,35.0,S Glens Falls,NY,1:35:07,0:14,1
-861,862,Eileen,Cook,Eileen Cook,F,32.0,Ballston Spa,NY,1:35:08,0:14,1
-862,863,Christine,Eisenhower,Christine Eisenhower,F,16.0,Schenectady,NY,1:35:11,0:15,1
-863,864,Michelle,Lemme,Michelle Lemme,F,23.0,Guilderland,NY,1:35:14,0:15,1
-864,865,Glenn,Swalm,Glenn Swalm,M,53.0,Clifton Park,NY,1:35:17,0:15,1
-865,866,Arleen,Reyell,Arleen Reyell,F,40.0,Niskayuna,NY,1:35:24,0:16,1
-866,867,Debra,Gierka,Debra Gierka,F,38.0,Albany,NY,1:35:34,0:17,1
-867,868,Don,Baum,Don Baum,M,65.0,Utica,NY,1:35:38,0:17,1
-868,869,Michael,Craft,Michael Craft,M,47.0,West Sand Lake,NY,1:35:41,0:18,1
-869,870,Ed,Salvo Jr,Ed Salvo Jr,M,57.0,Scotia,NY,1:35:47,0:18,1
-870,871,Charles,Demarco,Charles Demarco,M,39.0,Clifton Park,NY,1:35:53,0:19,1
-871,872,Martin,Burke,Martin Burke,M,34.0,Albany,NY,1:35:58,0:20,1
-872,873,Deborah,Ossont,Deborah Ossont,F,32.0,Remsen,NY,1:36:00,0:20,1
-873,874,Michael,Kress,Michael Kress,M,37.0,Schenectady,NY,1:36:07,0:21,1
-874,875,Linda,Dahlin,Linda Dahlin,F,40.0,Schenectady,NY,1:36:15,0:21,1
-875,876,Meg,Fryling,Meg Fryling,F,28.0,Schenectady,NY,1:36:17,0:22,1
-876,877,Mary,Lou Hamel,Mary Lou Hamel,F,42.0,Schenectady,NY,1:36:19,0:22,1
-877,878,Maria,Van Baaren,Maria Van Baaren,F,31.0,Albany,NY,1:36:21,0:22,1
-878,879,David,Harrington,David Harrington,M,62.0,Queensbury,NY,1:36:21,0:22,1
-879,880,Lisa,Adelson,Lisa Adelson,F,34.0,Gansevoort,NY,1:36:44,0:25,1
-880,881,Jody,Hayes,Jody Hayes,F,32.0,Gansevoort,NY,1:36:45,0:25,1
-881,882,Meghan,Randle,Meghan Randle,F,16.0,Duanesburg,NY,1:37:04,0:27,1
-882,883,Maryann,Burke,Maryann Burke,F,43.0,Latham,NY,1:37:11,0:27,1
-883,884,Vikki,Casey,Vikki Casey,F,31.0,Albany,NY,1:37:12,0:27,1
-884,885,Tamara,Arnason,Tamara Arnason,F,34.0,Feura Bush,NY,1:37:12,0:28,1
-885,886,Meg,Mccabe,Meg Mccabe,F,40.0,Ballston Spa,NY,1:37:21,0:29,1
-886,887,Bernadine,Rousseau,Bernadine Rousseau,F,54.0,Rome,NY,1:37:28,0:29,1
-887,888,Leo,Brown,Leo Brown,M,13.0,Niskayuna,NY,1:37:45,0:31,1
-888,889,Amy,Kranick,Amy Kranick,F,33.0,Schenectady,NY,1:37:51,0:32,1
-889,890,David,Durkin,David Durkin,M,53.0,Rensselaer,NY,1:38:00,0:33,1
-890,891,Gloria,Broadbent,Gloria Broadbent,F,33.0,Utica,NY,1:38:19,0:35,1
-891,892,Bob,Reid,Bob Reid,M,50.0,Cobleskill,NY,1:38:22,0:35,1
-892,893,Ralph,Feinstein,Ralph Feinstein,M,48.0,Scotia,NY,1:38:51,0:38,1
-893,894,Linda,Sheehan,Linda Sheehan,F,56.0,Averill Park,NY,1:39:13,0:41,1
-894,895,Andrew,DiPalma,Andrew DiPalma,M,53.0,Clifton Park,NY,1:39:19,0:41,1
-895,896,Christine,Lynn,Christine Lynn,F,39.0,Latham,NY,1:39:22,0:41,1
-896,897,Raymond,Roohen III,Raymond Roohen III,M,35.0,Delmar,NY,1:39:26,0:42,1
-897,898,Pat,Peters,Pat Peters,F,44.0,Hoosick Falls,NY,1:39:27,0:42,1
-898,899,Deborah,Karlich,Deborah Karlich,F,33.0,Clifton Park,NY,1:39:28,0:42,1
-899,900,Linda,Plante,Linda Plante,F,54.0,Middle Grove,NY,1:39:37,0:43,1
-900,901,Suzanne,Forbes,Suzanne Forbes,F,53.0,Valley Falls,NY,1:39:46,0:44,1
-901,902,Susan,Mochrie,Susan Mochrie,F,46.0,Broadalbin,NY,1:39:58,0:45,1
-902,903,Cate,Tully,Cate Tully,F,47.0,Castleton,NY,1:40:14,0:47,1
-903,904,Mary,Mosher,Mary Mosher,F,42.0,Castleton,NY,1:40:16,0:47,1
-904,905,Karen,Connelly,Karen Connelly,F,43.0,Schenectady,NY,1:40:17,0:47,1
-905,906,Kathi,Wagner,Kathi Wagner,F,45.0,Catskill,NY,1:40:24,0:48,1
-906,907,Pam,Masick,Pam Masick,F,47.0,Schenectady,NY,1:40:33,0:49,1
-907,908,Amy,Chow,Amy Chow,F,16.0,Schenectady,NY,1:40:39,0:50,1
-908,909,Joanne,Vroman,Joanne Vroman,F,40.0,Glenmont,NY,1:40:43,0:50,1
-909,910,Kathy,Peek,Kathy Peek,F,43.0,Schenectady,NY,1:40:46,0:51,1
-910,911,Francis,Cocozza,Francis Cocozza,M,26.0,Gansevoort,NY,1:40:47,0:51,1
-911,912,Joanne,Mucci,Joanne Mucci,F,49.0,Albany,NY,1:40:59,0:52,1
-912,913,James,Holland,James Holland,M,71.0,Delmar,NY,1:41:01,0:52,1
-913,914,Kate,Murphy,Kate Murphy,F,26.0,Latham,NY,1:41:18,0:54,1
-914,915,Thomas,Gebhardt,Thomas Gebhardt,M,51.0,Delmar,NY,1:41:27,0:55,1
-915,916,Michael,LaRose,Michael LaRose,M,39.0,Clifton Park,NY,1:41:39,0:56,1
-916,917,G.l.,Brady,G.l. Brady,M,51.0,Albany,NY,1:41:57,0:58,1
-917,918,Kenneth,Gold,Kenneth Gold,M,49.0,Berkeley Hts,NJ,1:42:01,0:59,1
-918,919,Leonard,Kershaw,Leonard Kershaw,M,61.0,Latham,NY,1:42:03,0:59,1
-919,920,John,Dial,John Dial,M,38.0,Glenville,NY,1:42:14,1:00,1
-920,921,Ellen,Quinn,Ellen Quinn,F,39.0,Niskayuna,NY,1:42:22,1:01,1
-921,922,Ann,Seyse,Ann Seyse,F,16.0,Scotia,NY,1:42:30,1:02,1
-922,923,Bernie,Schunicht,Bernie Schunicht,M,63.0,Loudonville,NY,1:42:41,1:03,1
-923,924,Megan,Easterly,Megan Easterly,F,28.0,Gloversville,NY,1:42:44,1:03,1
-924,925,Christian,Sandel,Christian Sandel,M,28.0,Gloversville,NY,1:42:44,1:03,1
-925,926,Debbie,Beach,Debbie Beach,F,43.0,Scotia,NY,1:43:11,1:06,1
-926,927,Darryl,Caron,Darryl Caron,M,39.0,Clifton Park,NY,1:43:19,1:07,1
-927,928,Katharine,Briar-Laws,Katharine Briar-Laws,F,57.0,Wynantskill,NY,1:43:21,1:07,1
-928,929,Vicky,Rizzo,Vicky Rizzo,F,39.0,Scotia,NY,1:43:22,1:07,1
-929,930,William,Carey,William Carey,M,71.0,Dalton,MA,1:43:33,1:08,1
-930,931,Jesse,Markay,Jesse Markay,M,51.0,Schenectady,NY,1:43:41,1:09,1
-931,932,Vic,Carcich,Vic Carcich,M,52.0,Selkirk,NY,1:43:50,1:10,1
-932,933,Sharon,Spies,Sharon Spies,F,43.0,Schoharie,NY,1:44:06,1:12,1
-933,934,Linda,Fake,Linda Fake,F,34.0,Dolgeville,NY,1:44:11,1:13,1
-934,935,Alan,Hart,Alan Hart,M,55.0,Scotia,NY,1:44:12,1:13,1
-935,936,Kathryn,West,Kathryn West,F,51.0,Schenectady,NY,1:44:29,1:15,1
-936,937,John,Ciovacco,John Ciovacco,M,37.0,Schenectady,NY,1:44:30,1:15,1
-937,938,Marjorie,Cohan,Marjorie Cohan,F,56.0,Pittsfield,MA,1:44:34,1:15,1
-938,939,Walter,Berdan,Walter Berdan,M,53.0,Middleburgh,NY,1:44:42,1:16,1
-939,940,Lauren,Kukulka,Lauren Kukulka,F,26.0,Troy,NY,1:44:43,1:16,1
-940,941,Lorraine,Dolence,Lorraine Dolence,F,57.0,Amsterdam,NY,1:44:43,1:16,1
-941,942,Barbara,Roccio,Barbara Roccio,F,52.0,Catskill,NY,1:44:51,1:17,1
-942,943,Mark,Juda,Mark Juda,M,36.0,Ballston Spa,NY,1:45:15,1:19,1
-943,944,Jeanne,O'Connell,Jeanne O'Connell,F,43.0,Watervliet,NY,1:45:20,1:20,1
-944,945,Anthony,Izzo,Anthony Izzo,M,69.0,Pittsfield,MA,1:46:02,1:24,1
-945,946,Diane,Wagner,Diane Wagner,F,54.0,Latham,NY,1:46:37,1:28,1
-946,947,Herman,Okhuysen,Herman Okhuysen,M,56.0,Schenectady,NY,1:46:38,1:28,1
-947,948,Eiko,Bogue,Eiko Bogue,F,65.0,Schaghticoke,NY,1:47:54,1:37,1
-948,949,Bruce,Daly,Bruce Daly,M,47.0,Roseboom,NY,1:48:06,1:38,1
-949,950,Ned,Norton,Ned Norton,M,68.0,Albany,NY,1:48:51,1:43,1
-950,951,Donald,McBain,Donald McBain,M,70.0,Wynantskill,NY,1:48:52,1:43,1
-951,952,Kristi,Dean,Kristi Dean,F,29.0,Nassau,NY,1:49:30,1:47,1
-952,953,Tara,Kelley,Tara Kelley,F,29.0,Schenectady,NY,1:49:39,1:48,1
-953,954,Hector,Acevedo,Hector Acevedo,M,51.0,Schenectady,NY,1:49:43,1:48,1
-954,955,Jack,Berkery,Jack Berkery,M,54.0,Latham,NY,1:49:55,1:50,1
-955,956,Gary,Plunkett,Gary Plunkett,M,45.0,Rome,NY,1:50:04,1:51,1
-956,957,Joseph,Siracuse,Joseph Siracuse,M,32.0,Malta,NY,1:50:05,1:51,1
-957,958,Gregg,Hammond,Gregg Hammond,M,53.0,Delmar,NY,1:51:09,1:58,1
-958,959,S.,Michael Fuhrman,S. Michael Fuhrman,M,46.0,Delmar,NY,1:51:32,2:00,1
-959,960,Chuck,Layton,Chuck Layton,M,63.0,Schenectady,NY,1:52:10,2:04,1
-960,961,Kris,Reape,Kris Reape,F,32.0,Schenectady,NY,1:52:12,2:04,1
-961,962,Catherine,Guere,Catherine Guere,F,64.0,Amsterdam,NY,1:53:11,2:11,1
-962,963,Lucille,Desjardins,Lucille Desjardins,F,56.0,Niskayuna,NY,1:53:27,2:12,1
-963,964,Robin,Zimpel,Robin Zimpel,F,31.0,Cortland,NY,1:53:31,2:13,1
-964,965,Frank,Stewart,Frank Stewart,M,43.0,Schenectady,NY,1:53:44,2:14,1
-965,966,Robert,Schnell,Robert Schnell,M,70.0,Saugerties,NY,1:53:45,2:14,1
-966,967,Mike,Piatek,Mike Piatek,M,55.0,Latham,NY,1:53:57,2:16,1
-967,968,Marcia,Blair,Marcia Blair,F,45.0,Lanesboro,MA,1:53:58,2:16,1
-968,969,Bob,Sands,Bob Sands,M,63.0,Clifton Park,NY,1:54:08,2:17,1
-969,970,Ray,Gillen,Ray Gillen,M,44.0,Schenectady,NY,1:54:35,2:20,1
-970,971,Stephen,Powers,Stephen Powers,M,59.0,Scotia,NY,1:55:58,2:29,1
-971,972,James,Lindblade,James Lindblade,M,67.0,Warrensburg,NY,1:56:46,2:34,1
-972,973,Regina,Tumidajewicz,Regina Tumidajewicz,F,75.0,Amsterdam,NY,1:58:09,2:43,1
-973,974,Bj,Sotile,Bj Sotile,F,70.0,Niskayuna,NY,1:59:40,2:52,1
-974,975,Shirley,Simmers,Shirley Simmers,F,73.0,Stratford,NJ,2:04:19,3:22,1
-975,976,Rose,Mary Browne,Rose Mary Browne,F,59.0,Clifton Park,NY,2:07:42,3:44,1
-976,977,Vaughn,Jelenic,Vaughn Jelenic,M,53.0,Schenectady,NY,2:08:25,3:49,1
-977,978,Lisa,Frazer,Lisa Frazer,F,19.0,Corinth,NY,2:18:25,4:54,1
-978,979,Patricia,Monroe,Patricia Monroe,F,59.0,Niskayuna,NY,2:37:01,6:54,1
+832,833,Ed,Thomas,Ed Thomas,M,64.0,Delmar,NY,1:32:53,10:00,1
+833,834,Andrea,Ambros,Andrea Ambros,F,39.0,Hartland,VT,1:32:57,10:00,1
+834,835,Lori,Christina,Lori Christina,F,42.0,Clifton Park,NY,1:32:58,10:00,1
+835,836,Joyce,Richardson,Joyce Richardson,F,49.0,Rome,NY,1:33:17,10:02,1
+836,837,Gary,Hughes,Gary Hughes,M,51.0,Schenectady,NY,1:33:25,10:03,1
+837,838,Beth,Searl,Beth Searl,F,39.0,Valatie,NY,1:33:30,10:04,1
+838,839,Jennalee,Wright,Jennalee Wright,F,15.0,Schenectady,NY,1:33:41,10:05,1
+839,840,Eva,Weyers,Eva Weyers,F,16.0,Delanson,NY,1:33:41,10:05,1
+840,841,Ellie,George,Ellie George,F,47.0,Amsterdam,NY,1:33:45,10:05,1
+841,842,Alissa,Faber,Alissa Faber,F,15.0,Delanson,NY,1:33:46,10:05,1
+842,843,Jennifer,Gaunt,Jennifer Gaunt,F,27.0,Scotia,NY,1:33:53,10:06,1
+843,844,Karen,Koskowski,Karen Koskowski,F,38.0,Latham,NY,1:34:02,10:07,1
+844,845,Ken,Orner,Ken Orner,M,72.0,Albany,NY,1:34:16,10:09,1
+845,846,Melinda,Mackesey,Melinda Mackesey,F,38.0,Altamont,NY,1:34:20,10:09,1
+846,847,Doris,Romero,Doris Romero,F,40.0,Latham,NY,1:34:21,10:09,1
+847,848,Audrey,Calvino,Audrey Calvino,F,26.0,Castleton,NY,1:34:22,10:09,1
+848,849,Dayna,Maniccia,Dayna Maniccia,F,34.0,Schenectady,NY,1:34:23,10:09,1
+849,850,Lisa,Lorman,Lisa Lorman,F,39.0,Amsterdam,NY,1:34:32,10:10,1
+850,851,Richard,Dixon,Richard Dixon,M,56.0,Mayfield,NY,1:34:36,10:11,1
+851,852,Margaret,Mangano,Margaret Mangano,F,56.0,Saratoga Spring,NY,1:34:37,10:11,1
+852,853,Lori,Kunker,Lori Kunker,F,32.0,Latham,NY,1:34:39,10:11,1
+853,854,Julie,Bevilacqua,Julie Bevilacqua,F,39.0,Colonie,NY,1:34:39,10:11,1
+854,855,Claire,Simon,Claire Simon,F,38.0,Wilmington,NY,1:34:40,10:11,1
+855,856,R.,Michael Scheer,R. Michael Scheer,M,51.0,Wilmington,NY,1:34:44,10:12,1
+856,857,Karen,Stillings,Karen Stillings,F,34.0,Marcy,NY,1:34:44,10:12,1
+857,858,Kevin,Snider,Kevin Snider,M,43.0,Rensselaer,NY,1:34:44,10:12,1
+858,859,Erika,Chamberlain,Erika Chamberlain,F,32.0,Cambridge,NY,1:34:45,10:12,1
+859,860,Maggie,Quinn,Maggie Quinn,F,43.0,Gansevoort,NY,1:35:03,10:14,1
+860,861,Erin,Keenan,Erin Keenan,F,35.0,S Glens Falls,NY,1:35:07,10:14,1
+861,862,Eileen,Cook,Eileen Cook,F,32.0,Ballston Spa,NY,1:35:08,10:14,1
+862,863,Christine,Eisenhower,Christine Eisenhower,F,16.0,Schenectady,NY,1:35:11,10:15,1
+863,864,Michelle,Lemme,Michelle Lemme,F,23.0,Guilderland,NY,1:35:14,10:15,1
+864,865,Glenn,Swalm,Glenn Swalm,M,53.0,Clifton Park,NY,1:35:17,10:15,1
+865,866,Arleen,Reyell,Arleen Reyell,F,40.0,Niskayuna,NY,1:35:24,10:16,1
+866,867,Debra,Gierka,Debra Gierka,F,38.0,Albany,NY,1:35:34,10:17,1
+867,868,Don,Baum,Don Baum,M,65.0,Utica,NY,1:35:38,10:17,1
+868,869,Michael,Craft,Michael Craft,M,47.0,West Sand Lake,NY,1:35:41,10:18,1
+869,870,Ed,Salvo Jr,Ed Salvo Jr,M,57.0,Scotia,NY,1:35:47,10:18,1
+870,871,Charles,Demarco,Charles Demarco,M,39.0,Clifton Park,NY,1:35:53,10:19,1
+871,872,Martin,Burke,Martin Burke,M,34.0,Albany,NY,1:35:58,10:20,1
+872,873,Deborah,Ossont,Deborah Ossont,F,32.0,Remsen,NY,1:36:00,10:20,1
+873,874,Michael,Kress,Michael Kress,M,37.0,Schenectady,NY,1:36:07,10:21,1
+874,875,Linda,Dahlin,Linda Dahlin,F,40.0,Schenectady,NY,1:36:15,10:21,1
+875,876,Meg,Fryling,Meg Fryling,F,28.0,Schenectady,NY,1:36:17,10:22,1
+876,877,Mary,Lou Hamel,Mary Lou Hamel,F,42.0,Schenectady,NY,1:36:19,10:22,1
+877,878,Maria,Van Baaren,Maria Van Baaren,F,31.0,Albany,NY,1:36:21,10:22,1
+878,879,David,Harrington,David Harrington,M,62.0,Queensbury,NY,1:36:21,10:22,1
+879,880,Lisa,Adelson,Lisa Adelson,F,34.0,Gansevoort,NY,1:36:44,10:25,1
+880,881,Jody,Hayes,Jody Hayes,F,32.0,Gansevoort,NY,1:36:45,10:25,1
+881,882,Meghan,Randle,Meghan Randle,F,16.0,Duanesburg,NY,1:37:04,10:27,1
+882,883,Maryann,Burke,Maryann Burke,F,43.0,Latham,NY,1:37:11,10:27,1
+883,884,Vikki,Casey,Vikki Casey,F,31.0,Albany,NY,1:37:12,10:27,1
+884,885,Tamara,Arnason,Tamara Arnason,F,34.0,Feura Bush,NY,1:37:12,10:28,1
+885,886,Meg,Mccabe,Meg Mccabe,F,40.0,Ballston Spa,NY,1:37:21,10:29,1
+886,887,Bernadine,Rousseau,Bernadine Rousseau,F,54.0,Rome,NY,1:37:28,10:29,1
+887,888,Leo,Brown,Leo Brown,M,13.0,Niskayuna,NY,1:37:45,10:31,1
+888,889,Amy,Kranick,Amy Kranick,F,33.0,Schenectady,NY,1:37:51,10:32,1
+889,890,David,Durkin,David Durkin,M,53.0,Rensselaer,NY,1:38:00,10:33,1
+890,891,Gloria,Broadbent,Gloria Broadbent,F,33.0,Utica,NY,1:38:19,10:35,1
+891,892,Bob,Reid,Bob Reid,M,50.0,Cobleskill,NY,1:38:22,10:35,1
+892,893,Ralph,Feinstein,Ralph Feinstein,M,48.0,Scotia,NY,1:38:51,10:38,1
+893,894,Linda,Sheehan,Linda Sheehan,F,56.0,Averill Park,NY,1:39:13,10:41,1
+894,895,Andrew,DiPalma,Andrew DiPalma,M,53.0,Clifton Park,NY,1:39:19,10:41,1
+895,896,Christine,Lynn,Christine Lynn,F,39.0,Latham,NY,1:39:22,10:41,1
+896,897,Raymond,Roohen III,Raymond Roohen III,M,35.0,Delmar,NY,1:39:26,10:42,1
+897,898,Pat,Peters,Pat Peters,F,44.0,Hoosick Falls,NY,1:39:27,10:42,1
+898,899,Deborah,Karlich,Deborah Karlich,F,33.0,Clifton Park,NY,1:39:28,10:42,1
+899,900,Linda,Plante,Linda Plante,F,54.0,Middle Grove,NY,1:39:37,10:43,1
+900,901,Suzanne,Forbes,Suzanne Forbes,F,53.0,Valley Falls,NY,1:39:46,10:44,1
+901,902,Susan,Mochrie,Susan Mochrie,F,46.0,Broadalbin,NY,1:39:58,10:45,1
+902,903,Cate,Tully,Cate Tully,F,47.0,Castleton,NY,1:40:14,10:47,1
+903,904,Mary,Mosher,Mary Mosher,F,42.0,Castleton,NY,1:40:16,10:47,1
+904,905,Karen,Connelly,Karen Connelly,F,43.0,Schenectady,NY,1:40:17,10:47,1
+905,906,Kathi,Wagner,Kathi Wagner,F,45.0,Catskill,NY,1:40:24,10:48,1
+906,907,Pam,Masick,Pam Masick,F,47.0,Schenectady,NY,1:40:33,10:49,1
+907,908,Amy,Chow,Amy Chow,F,16.0,Schenectady,NY,1:40:39,10:50,1
+908,909,Joanne,Vroman,Joanne Vroman,F,40.0,Glenmont,NY,1:40:43,10:50,1
+909,910,Kathy,Peek,Kathy Peek,F,43.0,Schenectady,NY,1:40:46,10:51,1
+910,911,Francis,Cocozza,Francis Cocozza,M,26.0,Gansevoort,NY,1:40:47,10:51,1
+911,912,Joanne,Mucci,Joanne Mucci,F,49.0,Albany,NY,1:40:59,10:52,1
+912,913,James,Holland,James Holland,M,71.0,Delmar,NY,1:41:01,10:52,1
+913,914,Kate,Murphy,Kate Murphy,F,26.0,Latham,NY,1:41:18,10:54,1
+914,915,Thomas,Gebhardt,Thomas Gebhardt,M,51.0,Delmar,NY,1:41:27,10:55,1
+915,916,Michael,LaRose,Michael LaRose,M,39.0,Clifton Park,NY,1:41:39,10:56,1
+916,917,G.l.,Brady,G.l. Brady,M,51.0,Albany,NY,1:41:57,10:58,1
+917,918,Kenneth,Gold,Kenneth Gold,M,49.0,Berkeley Hts,NJ,1:42:01,10:59,1
+918,919,Leonard,Kershaw,Leonard Kershaw,M,61.0,Latham,NY,1:42:03,10:59,1
+919,920,John,Dial,John Dial,M,38.0,Glenville,NY,1:42:14,11:00,1
+920,921,Ellen,Quinn,Ellen Quinn,F,39.0,Niskayuna,NY,1:42:22,11:01,1
+921,922,Ann,Seyse,Ann Seyse,F,16.0,Scotia,NY,1:42:30,11:02,1
+922,923,Bernie,Schunicht,Bernie Schunicht,M,63.0,Loudonville,NY,1:42:41,11:03,1
+923,924,Megan,Easterly,Megan Easterly,F,28.0,Gloversville,NY,1:42:44,11:03,1
+924,925,Christian,Sandel,Christian Sandel,M,28.0,Gloversville,NY,1:42:44,11:03,1
+925,926,Debbie,Beach,Debbie Beach,F,43.0,Scotia,NY,1:43:11,11:06,1
+926,927,Darryl,Caron,Darryl Caron,M,39.0,Clifton Park,NY,1:43:19,11:07,1
+927,928,Katharine,Briar-Lawson,Katharine Briar-Lawson,F,57.0,Wynantskill,NY,1:43:21,11:07,1
+928,929,Vicky,Rizzo,Vicky Rizzo,F,39.0,Scotia,NY,1:43:22,11:07,1
+929,930,William,Carey,William Carey,M,71.0,Dalton,MA,1:43:33,11:08,1
+930,931,Jesse,Markay,Jesse Markay,M,51.0,Schenectady,NY,1:43:41,11:09,1
+931,932,Vic,Carcich,Vic Carcich,M,52.0,Selkirk,NY,1:43:50,11:10,1
+932,933,Sharon,Spies,Sharon Spies,F,43.0,Schoharie,NY,1:44:06,11:12,1
+933,934,Linda,Fake,Linda Fake,F,34.0,Dolgeville,NY,1:44:11,11:13,1
+934,935,Alan,Hart,Alan Hart,M,55.0,Scotia,NY,1:44:12,11:13,1
+935,936,Kathryn,West,Kathryn West,F,51.0,Schenectady,NY,1:44:29,11:15,1
+936,937,John,Ciovacco,John Ciovacco,M,37.0,Schenectady,NY,1:44:30,11:15,1
+937,938,Marjorie,Cohan,Marjorie Cohan,F,56.0,Pittsfield,MA,1:44:34,11:15,1
+938,939,Walter,Berdan,Walter Berdan,M,53.0,Middleburgh,NY,1:44:42,11:16,1
+939,940,Lauren,Kukulka,Lauren Kukulka,F,26.0,Troy,NY,1:44:43,11:16,1
+940,941,Lorraine,Dolence,Lorraine Dolence,F,57.0,Amsterdam,NY,1:44:43,11:16,1
+941,942,Barbara,Roccio,Barbara Roccio,F,52.0,Catskill,NY,1:44:51,11:17,1
+942,943,Mark,Juda,Mark Juda,M,36.0,Ballston Spa,NY,1:45:15,11:19,1
+943,944,Jeanne,O'Connell,Jeanne O'Connell,F,43.0,Watervliet,NY,1:45:20,11:20,1
+944,945,Anthony,Izzo,Anthony Izzo,M,69.0,Pittsfield,MA,1:46:02,11:24,1
+945,946,Diane,Wagner,Diane Wagner,F,54.0,Latham,NY,1:46:37,11:28,1
+946,947,Herman,Okhuysen,Herman Okhuysen,M,56.0,Schenectady,NY,1:46:38,11:28,1
+947,948,Eiko,Bogue,Eiko Bogue,F,65.0,Schaghticoke,NY,1:47:54,11:37,1
+948,949,Bruce,Daly,Bruce Daly,M,47.0,Roseboom,NY,1:48:06,11:38,1
+949,950,Ned,Norton,Ned Norton,M,68.0,Albany,NY,1:48:51,11:43,1
+950,951,Donald,McBain,Donald McBain,M,70.0,Wynantskill,NY,1:48:52,11:43,1
+951,952,Kristi,Dean,Kristi Dean,F,29.0,Nassau,NY,1:49:30,11:47,1
+952,953,Tara,Kelley,Tara Kelley,F,29.0,Schenectady,NY,1:49:39,11:48,1
+953,954,Hector,Acevedo,Hector Acevedo,M,51.0,Schenectady,NY,1:49:43,11:48,1
+954,955,Jack,Berkery,Jack Berkery,M,54.0,Latham,NY,1:49:55,11:50,1
+955,956,Gary,Plunkett,Gary Plunkett,M,45.0,Rome,NY,1:50:04,11:51,1
+956,957,Joseph,Siracuse,Joseph Siracuse,M,32.0,Malta,NY,1:50:05,11:51,1
+957,958,Gregg,Hammond,Gregg Hammond,M,53.0,Delmar,NY,1:51:09,11:58,1
+958,959,S.,Michael Fuhrman,S. Michael Fuhrman,M,46.0,Delmar,NY,1:51:32,12:00,1
+959,960,Chuck,Layton,Chuck Layton,M,63.0,Schenectady,NY,1:52:10,12:04,1
+960,961,Kris,Reape,Kris Reape,F,32.0,Schenectady,NY,1:52:12,12:04,1
+961,962,Catherine,Guere,Catherine Guere,F,64.0,Amsterdam,NY,1:53:11,12:11,1
+962,963,Lucille,Desjardins,Lucille Desjardins,F,56.0,Niskayuna,NY,1:53:27,12:12,1
+963,964,Robin,Zimpel,Robin Zimpel,F,31.0,Cortland,NY,1:53:31,12:13,1
+964,965,Frank,Stewart,Frank Stewart,M,43.0,Schenectady,NY,1:53:44,12:14,1
+965,966,Robert,Schnell,Robert Schnell,M,70.0,Saugerties,NY,1:53:45,12:14,1
+966,967,Mike,Piatek,Mike Piatek,M,55.0,Latham,NY,1:53:57,12:16,1
+967,968,Marcia,Blair,Marcia Blair,F,45.0,Lanesboro,MA,1:53:58,12:16,1
+968,969,Bob,Sands,Bob Sands,M,63.0,Clifton Park,NY,1:54:08,12:17,1
+969,970,Ray,Gillen,Ray Gillen,M,44.0,Schenectady,NY,1:54:35,12:20,1
+970,971,Stephen,Powers,Stephen Powers,M,59.0,Scotia,NY,1:55:58,12:29,1
+971,972,James,Lindblade,James Lindblade,M,67.0,Warrensburg,NY,1:56:46,12:34,1
+972,973,Regina,Tumidajewicz,Regina Tumidajewicz,F,75.0,Amsterdam,NY,1:58:09,12:43,1
+973,974,Bj,Sotile,Bj Sotile,F,70.0,Niskayuna,NY,1:59:40,12:52,1
+974,975,Shirley,Simmers,Shirley Simmers,F,73.0,Stratford,NJ,2:04:19,13:22,1
+975,976,Rose,Mary Browne,Rose Mary Browne,F,59.0,Clifton Park,NY,2:07:42,13:44,1
+976,977,Vaughn,Jelenic,Vaughn Jelenic,M,53.0,Schenectady,NY,2:08:25,13:49,1
+977,978,Lisa,Frazer,Lisa Frazer,F,19.0,Corinth,NY,2:18:25,14:54,1
+978,979,Patricia,Monroe,Patricia Monroe,F,59.0,Niskayuna,NY,2:37:01,16:54,1

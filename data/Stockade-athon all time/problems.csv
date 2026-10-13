@@ -1,0 +1,60 @@
+year,place,runner,source,problem,status,fix
+1982,10,Mark Mindel,"10     2 MINBEL, H       M 30 48:39","scan misread: M->H, D->B; initial-only result needs exact last name + initial to link",fixed,"corrections.csv (MINBEL, H -> MINDEL, M)"
+1983,10,Mark Mindel,10 3     MARK MIN DEL          (31) 49:35.0,space inside last name; parser keeps two words so last name = MIN,fixed,split_name() keeps every name word (fix 4)
+1986,160,Mark Mindel,160 30 MARK MINDEL (38) 58:04.0,age should be 34 (every other year agrees),workaround,clustering links it as 'age outlier'
+1989,163,Mark Mindel,163 26 Mark Mindel 37 59:3!,unreadable time; line was silently dropped,fixed,kept with blank time + note
+1991,,whole year,"1 John Trowse, 25 46.51","1991 is 'First Last', script treated 1990-92 as 'Last, First'",fixed,last_first = year != 1991
+1993,,whole year,"Mark Mindel, 41 73:45",time regex rejected minutes >= 60; 576 of 830 dropped,fixed,wider time regex
+1979,,whole year,Place AG lf_name OK Time,'AG' (division place) read as age via header alias 'ag',fixed,renamed AG -> div for 1979-80
+1980,,whole year,Place AG num lf_name OK Time,'AG' (division place) read as age via header alias 'ag',fixed,renamed AG -> div for 1979-80
+1978,307,Lisa Miller,307 8 3 Lisa Miller M HSF 1:06:18,sex 'M' but division HSF and women's place 8,fixed,override by place in 1978 branch
+1978,501,Inger Giaever,501 444 68 Inger Giaever ? M 1:17:26,"sex '?'; set M from men's place 444, but may be F (Ivar Giaever's wife was Inger)",fixed,override by place in 1978 branch; verify
+1983-89,,scan-damaged places,"'I6', '9S4', 'ii', 'III', '3!'",scanned place numbers were read as the runner name,fixed,strip_places() in parse_result_line
+1988,,several,"22 2 WILLIAM ROBINSON, 42 50:5 2.4","space inside seconds ('50:5 2.4', 1989 '60:4 1'); kept with blank time",open,could close up and recover the time
+1985,,several,37 II KIERAN MURPHY (20) 51;57,';' instead of ':' in time; kept with blank time,open,could accept ; as separator
+1993,,131 finishers,"9 Bob Pulz, 34 50:1",last digit of time missing in source,workaround,kept with blank time
+1991,,139 finishers,"79 James Forbes, 37 5","time cut off in source (5014, 5, 87.)",workaround,kept with blank time
+1990,106,Paul St. Onge,"106 St. Onge, Paul, 15 58.18","two-word last name in 'Last, First' year -> first=Onge last=St.",fixed,split_name() keeps every name word (fix 4)
+1992,34,Joseph Powers Jr,"34 Powers, Jr., Joseph, 25 52.46","'Last, Jr., First' -> blank name (also 253 McKinley, Jr., Michael)",fixed,split_name() keeps every name word (fix 4)
+1983,87,Ellen Weglarz Mindel,87  1 ELLEN WEGLARZ MINDEL   (26) 54:26.0,third name word dropped -> last = WEGLARZ,fixed,split_name() keeps every name word (fix 4)
+1982,,23 finishers,82   45 EBBETSf R         M 29 54:42,"scanned commas (f, i, t, ', ', >>) break the comma split; try/except drops the line",fixed,"parse_1982_line() reads by position, not commas"
+1982,103,E Weglarz-Mindel,"103   1 WE6LERZ-MINDEL, E F 24 55:19",scan misread inside name (6 for G),fixed,digit map + corrections.csv
+1984,,Beverly Maddalon,MADDALON1,scan residue in name,open,correction (fix 5)
+1988,,Ann George,"GEORGE,31",age glued to name,open,correction (fix 5)
+1989,,Dee Tichy,DeeTichy44,name and age glued together,open,correction (fix 5)
+1993,,Jeff Leach,JeH` Leach,scan residue (ff -> H`),open,correction (fix 5)
+1993,,Jack O'Sullivan,O’Su1livan,scan residue (l -> 1),open,correction (fix 5)
+1993,,Amy Hoffer?,HoH`er,scan residue (ff -> H`),open,correction (fix 5)
+1994,,Art Cotugno,ART COTUGNO: 39 1:21 :40,stray ':' after name,fixed,split_name() strips punctuation
+all,,loader,makedjangotable.py,"rows with a blank time are skipped, so no-time finishers are in the csv but not on the website",open,allow null time in Result
+1983,,6 finishers,,time unreadable in source (see note column),workaround,kept with blank time
+1984,,60 finishers,,time unreadable in source (see note column),workaround,kept with blank time
+1985,,64 finishers,,time unreadable in source (see note column),workaround,kept with blank time
+1986,,17 finishers,,time unreadable in source (see note column),workaround,kept with blank time
+1987,,4 finishers,,time unreadable in source (see note column),workaround,kept with blank time
+1988,,45 finishers,,time unreadable in source (see note column),workaround,kept with blank time
+1989,,103 finishers,,time unreadable in source (see note column),workaround,kept with blank time
+1990,,2 finishers,,time unreadable in source (see note column),workaround,kept with blank time
+1983-96,,middle initials,34 JAMES P. BURNES,middle initial was taken as the last name (last = 'P.'),fixed,split_name() keeps initials with the first name
+1984-91,,several,LAWRENCE YAPELL {46),"age bracket scanned as '{', '>' or '[' leaked into the name",fixed,name ends at any bracket
+1984-89,,several,DR. DON SYMANOWICZ / DONALD ORLAND MD,title taken as a name,fixed,split_name() drops Dr/Mr/Mrs/Ms and MD
+1983-96,,married women,"TRACEY HITCHEN BOYD, Eileen Skelly Frame",maiden + married last name; other years may list only one,workaround,clustering links a two-part name to either part ('name part')
+1983-96,,several,"MATIH EW GALVEZ, COURTN EY BROWN, EDM UND SILVERNAIL",scan split a first name in two,open,correction (fix 5)
+1985-90,,several,"MARYELLEN CUSANO, Maiy Jane Dashnaw",first names glued or misspelled vs other years ('Mary Ellen'),open,clustering fuzzy pass / correction
+1984,,placeholder,NO NAME ON TAG,not a runner,open,treat as placeholder in clustering
+1982,,several,"MORRELL, J  H 27 / MYERS, J  N 42","sex scanned as H/N/K (for M), age as '2?', 'ii', '7A'",fixed,"parse_1982_line(): H/N/K -> M, unreadable age blank"
+1982,,13 finishers,"50 5 CONKLIN, S (should be 49)","place number misread, so place column has duplicates",workaround,corrections match place AND old value
+1982,1041/330,Angela Dashnaw / Arthur Dashnaw Jr,"BASHNAW, A / DftSHNftU JR: A",scan misread in name,fixed,corrections.csv
+1982,,18 finishers,"55:il, 62:0?, 67;35",time unreadable in source,workaround,kept with blank time
+1979-81,,slowest finishers,616 183 Dashnaw Frank SM 106:12.3,100+ minute times lost their first digit (read_fwf sized columns from the first 100 rows only),fixed,fwf_colspecs() sizes columns from the whole file
+1997-2025,,"about 1,000 cells","Christophe, Miseno-Bow, Saratoga Sprin","long names and cities clipped, same cause",fixed,fwf_colspecs()
+1980,,several,"5l:53.O, S7:39.9","scanned letters in times (l=1, O=0, S=5)",fixed,clean_time() maps them; ?6:55.5 left blank
+1979,,several,63.49.7,dots for colons in time (was read as 63:00),fixed,clean_time()
+1986,341,Paul Kuta,341 56 PAUL KUTA (39) 611:29.0,time typo (also 659 Tillman 711:24.0); was cut to 11:29,workaround,left blank
+1993,,9 finishers,"817 Eugene Ellis, 49 100:10",100+ minute times read as 00:10,fixed,time regex allows 3-digit minutes
+1988,615,several,"615 116 MARK SCHMIEDESHOFF, 3872:17.3",age glued to time,fixed,repair_time() splits it off
+1994,355,Paul Prostowick,355 Paul Prostowick 41 1 1:07:09,stray digit before time,fixed,repair only when no valid time found
+1980-96,,12 results,1980 Susan May 36:50.4; 1985 Bruce Connelly 12:14; 1986 Kenneth Wilkes 82 67:20; 1996 Gar Burak 38:25,time (or age) impossible: faster than the world-level standard,workaround,"kept in results, excluded from records; full list printed by stockade_leaders.py"
+2001-14,,13 runners,"Whitlock Ed (2010), CORDING CARL, Roy Robert",first and last name swapped in the source,workaround,clustering links them ('swapped')
+1978-2025,,77 runners,"Bertasso-Hughes, Peterson Lynskey, Serth-Guzzo",married / maiden names,workaround,clustering links a two-part name to either part ('name part')
+1985,220/241,Luke Luyckx / Craig Dubois,220 44 LUKE LUYCKX (28) 643:01; 241 30 CRAIG DUBOIS (22) 645:33,time typo read as 43:01 / 45:33 -- showed as men's course record,workaround,time pattern no longer matches inside a number; left blank

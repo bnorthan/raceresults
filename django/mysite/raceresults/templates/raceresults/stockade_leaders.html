@@ -1,0 +1,55 @@
+{% extends 'raceresults/base.html' %}
+{% load render_table from django_tables2 %}
+{% block body_block %}
+<style>
+  .tabs { margin: 1.5em 0 1em; border-bottom: 2px solid #9fb6cd; }
+  .tabs a { display: inline-block; padding: 0.5em 1.2em; margin-right: 0.3em;
+            border: 2px solid #9fb6cd; border-bottom: none; text-decoration: none;
+            color: #333; background: #eef3f7; }
+  .tabs a.active { background: #fff; font-weight: bold; position: relative; top: 2px; }
+  .pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(22em, 1fr)); gap: 1.5em; }
+  table.records { border-collapse: collapse; width: 100%; margin-bottom: 1em; }
+  table.records th, table.records td { padding: 0.25em 0.6em; border-bottom: 1px solid #dde5ec; text-align: left; }
+  table.records th { background: #eef3f7; }
+  table.records td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  h4 { margin: 1.2em 0 0.4em; }
+</style>
+
+<h2>Stockade-athon leaders</h2>
+<div class="tabs">
+  <a href="/raceresults/stockade/most-races/" {% if tab == 'most' %}class="active"{% endif %}>Most finishes</a>
+  <a href="/raceresults/stockade/active-streaks/" {% if tab == 'active' %}class="active"{% endif %}>Active streaks</a>
+  <a href="/raceresults/stockade/longest-streaks/" {% if tab == 'longest' %}class="active"{% endif %}>Longest streaks</a>
+  <a href="/raceresults/stockade/records/" {% if tab == 'records' %}class="active"{% endif %}>Records</a>
+</div>
+
+<h3>{{ heading }}</h3>
+<p>
+  {{ intro }} The early results were typed or scanned by hand, so a misspelled name can
+  hide a finish &mdash; corrections welcome.
+</p>
+
+{% if table %}
+  {% render_table table %}
+{% endif %}
+
+{% if tab == 'records' %}
+  <h4>Overall</h4>
+  <div class="pair">
+    {% for label, rows in overall %}
+      {% include 'raceresults/records_table.html' with title=label rows=rows %}
+    {% endfor %}
+  </div>
+
+  <h4>Age groups</h4>
+  {% for group, men, women in age_groups %}
+    <div class="pair">
+      {% include 'raceresults/records_table.html' with title='Men '|add:group rows=men %}
+      {% include 'raceresults/records_table.html' with title='Women '|add:group rows=women %}
+    </div>
+  {% endfor %}
+
+  <h4>Age graded</h4>
+  {% include 'raceresults/records_table.html' with title='Top 10 age-graded performances' rows=graded graded=True %}
+{% endif %}
+{% endblock %}

@@ -1,0 +1,6 @@
+year,place,field,wrong,right,why
+1982,10,last_name,MINBEL,MINDEL,scan read D as B; Mark Mindel (M 30) - 10th in 1981 and 1983 too
+1982,10,first_name,H,M,scan read M as H; Mark Mindel
+1982,1041,last_name,BASHNAW,DASHNAW,scan read D as B; Angela Dashnaw is F 11 in 1983
+1982,330,last_name,DSHNU JR,DASHNAW JR,scan read A as 'ft'; Arthur Dashnaw Jr (A ... JR) in 1983-91
+1982,103,last_name,WEGLERZ-MINDEL,WEGLARZ-MINDEL,scan read G as 6 and A as E; Ellen Weglarz is F 20 in 1978

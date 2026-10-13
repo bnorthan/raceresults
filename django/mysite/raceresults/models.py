@@ -3,11 +3,14 @@ from django.utils.text import slugify
 
 class Race(models.Model):
     race_name=models.CharField(max_length=200)
-    slugified_race_name=models.CharField(max_length=200, null=True)
+    # the race's public url (/raceresults/race/<slug>/) -- set once, never recomputed,
+    # so renaming a race doesn't break links to it
+    slugified_race_name=models.CharField(max_length=200, null=True, unique=True)
     city=models.CharField(max_length=200, blank=True)
     race_date=models.DateField('date of race', blank=True, null=True)
     def save(self, *args, **kwargs):
-        self.slugified_race_name = slugify(self.race_name)
+        if not self.slugified_race_name:
+            self.slugified_race_name = slugify(self.race_name)
         super().save(*args, **kwargs)
     def __str__(self):
         return self.race_name+' '+str(self.race_date)

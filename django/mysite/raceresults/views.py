@@ -1,6 +1,6 @@
 from scoreware.race import utils
 from scoreware.strava import stravautil
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, get_object_or_404
 from django.http import HttpResponse
 from .models import Race
 from .models import Runner
@@ -26,7 +26,7 @@ def races(request, race_name):
     l_races = Race.objects.filter(slugified_race_name=race_name)
     # skip the list page if there's only one match — go straight to results
     if l_races.count() == 1:
-        return redirect('race', race_id=l_races.first().id)
+        return redirect('race', race_slug=l_races.first().slugified_race_name)
     context = {'l_races': l_races, 'race_name': race_name}
     return render(request, 'raceresults/races.html', context)
    
@@ -74,15 +74,21 @@ class DetailedRace(tables.Table):
     points=tables.Column()
     race=tables.Column()
 
+# old /race/<id>/ links -- ids aren't stable across db rebuilds, so a temporary
+# (not permanent) redirect to the slug url
+def race_by_id(request, race_id):
+    race = get_object_or_404(Race, pk=race_id)
+    return redirect('race', race_slug=race.slugified_race_name)
+
 # view all results for a race in a table
-def race(request, race_id):
+def race(request, race_slug):
+
+    race = get_object_or_404(Race, slugified_race_name=race_slug)
 
     # get all results for this race
-    results=Race.objects.get(pk=race_id).result_set.all()
-    
-    race=Race.objects.filter(pk=race_id)
+    results = race.result_set.all()
 
-    race_name=race[0].race_name + ' '+str(race[0].race_date)
+    race_name=race.race_name + ' '+str(race.race_date)
     # convert to simple race format
     results=SimpleRace(results)
     
@@ -171,3 +177,89 @@ def strava(request):
     
 class AboutView(TemplateView):
     template_name="about.html"
+
+# -- Stockade-athon leaders: most finishes, active streaks ----------------------
+import csv
+from pathlib import Path
+from django.conf import settings
+
+# these csvs are written by scripts/events/stockade_leaders.py
+LEADERS_DIR = Path(settings.BASE_DIR).parent.parent / 'data' / 'Stockade-athon all time'
+
+def read_leaders(name):
+    with open(LEADERS_DIR / name, newline='') as f:
+        rows=list(csv.DictReader(f))
+    for r in rows:
+        for key in ('rank', 'races', 'streak', 'active'):
+            r[key]=int(r[key]) if r.get(key) else None
+    return rows
+
+class MostRacesTable(tables.Table):
+    class Meta:
+        attrs={"class":"paleblue", "width":"100%"}
+
+    rank=tables.Column(verbose_name='#')
+    runner=tables.Column()
+    races=tables.Column()
+    streak=tables.Column(verbose_name='Longest streak')
+    years=tables.Column(orderable=False)
+
+class ActiveStreaksTable(tables.Table):
+    class Meta:
+        attrs={"class":"paleblue", "width":"100%"}
+
+    rank=tables.Column(verbose_name='#')
+    runner=tables.Column()
+    active=tables.Column(verbose_name='Active streak')
+    since=tables.Column()
+    races=tables.Column(verbose_name='Total races')
+
+class LongestStreaksTable(tables.Table):
+    class Meta:
+        attrs={"class":"paleblue", "width":"100%"}
+
+    rank=tables.Column(verbose_name='#')
+    runner=tables.Column()
+    streak=tables.Column(verbose_name='Longest streak')
+    streak_years=tables.Column(verbose_name='Years')
+    races=tables.Column(verbose_name='Total races')
+
+def stockade_leaders(request, tab, table, heading, intro):
+    RequestConfig(request, paginate=False).configure(table)
+    return render(request, 'raceresults/stockade_leaders.html',
+                  {'tab':tab, 'table':table, 'heading':heading, 'intro':intro})
+
+def most_races(request):
+    return stockade_leaders(request, 'most', MostRacesTable(read_leaders('most_races.csv')),
+        'Most finishes, 1976\u20132025',
+        'Every Stockade-athon result since 1976, matched across the years by name and age. '
+        'Streaks skip 2020, which was a virtual race with no results.')
+
+def longest_streaks(request):
+    return stockade_leaders(request, 'longest', LongestStreaksTable(read_leaders('longest_streaks.csv')),
+        'Longest streaks',
+        'The longest run of consecutive Stockade-athons each runner has finished, '
+        'whenever it happened. 2020 was a virtual race with no results, so it doesn\'t break a streak.')
+
+def records(request):
+    lists = {}
+    for r in read_leaders('records.csv'):
+        lists.setdefault(r['list'], []).append(r)
+    groups = [name[len('Men '):] for name in lists if name.startswith('Men ')]
+    return render(request, 'raceresults/stockade_leaders.html', {
+        'tab': 'records',
+        'heading': 'Course records',
+        'intro': 'The fastest Stockade-athon 15K times since 1976, one line per runner at their best. '
+                 'An age marked ~ is estimated from the runner\'s other years. Age grades use the 2025 '
+                 'road standards (Alan Jones, USATF Masters Long Distance Running); the age-graded list '
+                 'uses recorded ages only.',
+        'overall': [('Men', lists.get('Men', [])), ('Women', lists.get('Women', []))],
+        'age_groups': [(g, lists.get('Men ' + g, []), lists.get('Women ' + g, [])) for g in groups],
+        'graded': lists.get('Age graded', []),
+    })
+
+def active_streaks(request):
+    return stockade_leaders(request, 'active', ActiveStreaksTable(read_leaders('active_streaks.csv')),
+        'Active streaks',
+        'Runners who have finished every Stockade-athon since the year shown, up to the most '
+        'recent race. 2020 was a virtual race with no results, so it doesn\'t break a streak.')

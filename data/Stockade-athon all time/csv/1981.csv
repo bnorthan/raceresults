@@ -95,22 +95,22 @@
 93,94,David,Karl,56:26,1
 94,95,Dicerbo,John,56:28,1
 95,96,Forbes,Jim,56:30,1
-96,97,Reddy,Steve,56;31,1
+96,97,Reddy,Steve,,1
 97,98,Noyes,Stephen,56:39,1
 98,99,Maggs,Tim,56:49,1
-99,100,Smith,Christopher J,56:53,1
+99,100,Smith,"Christopher J,",56:53,1
 100,101,Donnan,Edward,56:53,1
 101,102,Spain,Frank,56:55,1
 102,J03,Weglarz,Ellea,56:57,1
 103,104,Donald,Orland E.,57:02,1
 104,105,Cotrofeld,Joe,57:11,1
-105,106,Fuller,Richard,57;12,1
+105,106,Fuller,Richard,,1
 106,107,Denny,Norman,57:14,1
 107,108,Stewart,Robert G.,57:16,1
-108,109,Turner,James,5?;19,1
+108,109,Turner,James,,1
 109,110,Husted,Robert,57:25,1
 110,111,O'Connell,Jim,57:27,1
-111,112,Misiaszek,Michael J,57:37,1
+111,112,Misiaszek,Michael J.,57:37,1
 112,113,Baller,Bill,57:38,1
 113,114,Ferguson,Darryl,57:46,1
 114,115,McClintock,Mike,57:50,1
@@ -161,7 +161,7 @@
 159,160,Radwanski,Elaine,59:15,1
 160,161,Sparkman,Jim,59:17,1
 161,162,Leach,Jon,59:19,1
-162,163,Smith,,59:27,1
+162,163 .,Smith,,59:27,1
 163,164,Morgan,Morris,59:30,1
 164,165,Decker,Mark,59:31,1
 165,166,Griset,Doug,59:32,1
@@ -179,7 +179,7 @@
 177,178,Brynda,Michael,59:49,1
 178,179,Schaefer,Joe,59:51,1
 179,ISO,Frederick,Dean,59:53,1
-180,181,Constantine,Thomas,59:S3,1
+180,181,Constantine,Thomas,59:53,1
 181,182,Castiglione,Carolyn,59:55,1
 182,183,Harrison,Mark A.,59:56,1
 183,184,Burian,Wayne A.,59:56,1
@@ -238,7 +238,7 @@
 236,237,Nautel,Kieth,61:41,1
 237,238,Kemp,William,61:42,1
 238,239,Morphy,Pat,61:43,1
-239,240,Shatynski,Stephen R,61:44,1
+239,240,Shatynski,Stephen R.,61:44,1
 240,241,Richey,A1,61:45,1
 241,242,Flint,Douglas,61:49,1
 242,243,Brady,Tom,61:53,1
@@ -293,7 +293,7 @@
 291,292,Carbone,Marty,63:43,1
 292,293,Karker,Charles,63:44,1
 293,294,Licrmann,Doug,63:46,1
-294,295,Weber,"Jr., Alfred C",63:52,1
+294,295,Weber,"Jr., Alfred C.",63:52,1
 295,296,Warner,Tom,63:54,1
 296,297,Drums,Ken,63:56,1
 297,298,Backowski,Joe,63:56,1
@@ -309,7 +309,7 @@
 307,308,Kieft,Donald,64:31,1
 308,309,Dowley,John M.,64:32,1
 309,310,Nichols,Eugene,64:33,1
-310,311,Christian,Charles R,64:35,1
+310,311,Christian,Charles R.,64:35,1
 311,312,Flynn,Don,64:36,1
 312,313,Warner,Robert,64:37,1
 313,314,Allard,James,64:40,1
@@ -329,7 +329,7 @@
 327,328,LeBrou,Jim,65:10,1
 328,329,Ludwig,A1,65:12,1
 329,330,Turnbull,David E.,65:19,1
-330,331,Wrorowski,Douglas M,65:22,1
+330,331,Wrorowski,Douglas M.,65:22,1
 331,332,Stasiak,John J.,65:24,1
 332,333,Boorady,Carol,65:25,1
 333,334,Peacock,George,65:26,1
@@ -381,7 +381,7 @@
 379,380,Cashin,Christine,66:45,1
 380,381,Roberts,Don,66:48,1
 381,382,Davidson,George,66:51,1
-382,383,Bassanelli,Anthony,66:53,1
+382,383,Bassanelli,Anthony G.,66:53,1
 383,384,Harris,Larry,66:54,1
 384,385,Shepherd,Larry,66:54,1
 385,386,Wigon,Stuart L.,66:55,1
@@ -426,7 +426,7 @@
 424,425,Springer,Dennis,68:24,1
 425,426,Zahnleuter,Rick,68:25,1
 426,427,Aronowitz,Mark,68:26,1
-427,428,Carter,Alan R.,66:Z7,1
+427,428,Carter,Alan R.,,1
 428,429,Knight,Frank,68:28,1
 429,430,Remmers,Patricia,68:28,1
 430,431,Sutton,Jay,68:29,1
@@ -439,15 +439,15 @@
 437,438,Phibbs,Sandra Dee,68:47,1
 438,439,Barber,Joseph,68:49,1
 439,440,O'Leary,Jim,68:50,1
-440,441,Salvo,"Jr., Edward J",68:52,1
-441,442,Fenaroll,Christophe,68:56,1
+440,441,Salvo,"Jr., Edward J.",68:52,1
+441,442,Fenaroll,Christopher,68:56,1
 442,443,Lenane,Ed,69:00,1
 443,444,Crosman,Coral,69:02,1
 444,445,Holley,Michael,69:04,1
 445,446,Lamond,Paul,69:06,1
 446,447,Hamel,D.,69:08,1
 447,448,Dunnlvant,Sam,69:11,1
-448,449,Gibney,"Jr., James J",69:18,1
+448,449,Gibney,"Jr., James J.",69:18,1
 449,450,Prendergast,David,69:19,1
 450,451,Carcich,Italo,69:20,1
 451,452,Friday,Peter,69:24,1
@@ -458,7 +458,7 @@
 456,457,Triplett,Michael D.,69:37,1
 457,458,Cote,Charles H.,69:38,1
 458,459,Nemecek,John,69:42,1
-459,460,D'Arcanglis,Carol L,69:44,1
+459,460,D'Arcanglis,Carol L.,69:44,1
 460,461,Raymond,Edward D.,69:45,1
 461,462,Hunter,Nancy A.,69:46,1
 462,463,Flynn,Don,69:46,1
@@ -497,7 +497,7 @@
 495,496,McDonald,Rich,70:48,1
 496,497,Comisky,Mike,70:49,1
 497,49$,Baker,Raymond D.,70:49,1
-498,499,Becker,Christopher,70:51,1
+498,499,Becker,Christopher L.,70:51,1
 499,500,Wiles,Kenneth C.,70:51,1
 500,501,King,Ralph,70:53,1
 501,502,Hayner,William J.,70:54,1
@@ -551,7 +551,7 @@
 549,550,Burr,Jerry,72:34,1
 550,551,Naylor,Lawrence,72:35,1
 551,552,Williams,Liz,72:36,1
-552,553,Bentrovato,T>cma\6,72:36,1
+552,553,Bentrovato,T>cma\6 k.,72:36,1
 553,554,Simms,Nathan,72:37,1
 554,555,Hillengas,Rosemary,72:39,1
 555,556,Zocco,Bill,72:42,1
@@ -576,14 +576,14 @@
 574,575,Bezak,Joseph tf.,73:23,1
 575,576,Robelee,William,73:27,1
 576,577,Fisher,Fred,73:40,1
-577,578,Pietzykowski,Paul J,73:41,1
+577,578,Pietzykowski,Paul J.,73:41,1
 578,579,Frost,Sandra M.,73:42,1
 579,580,Feck,James,73:42,1
 580,581,Lochner,Kathy,73:43,1
 581,582,Lochner,Tom,73:43,1
 582,583,Boyer,Mark,73:44,1
 583,584,Harper,Maryanne,73:47,1
-584,585,Lcadholm,Margard An,73:47,1
+584,585,Lcadholm,Margard Ann,73:47,1
 585,586,Rasowsky,Berny,73:49,1
 586,587,Johnson,Edward J.,73:49,1
 587,588,Angerami,Rick,73:50,1
@@ -638,7 +638,7 @@
 636,637,Kollgaard,Ron,75:37,1
 637,638,Apple,Bruce A.,75:44,1
 638,639,Wagner,Diane,75:50,1
-639,640,Chapin,"Jr., Harlln",75:56,1
+639,640,Chapin,"Jr., Harlln W.",75:56,1
 640,641,Tattle,Jeanne,75:57,1
 641,642,Guzewlch,Marsha,75:58,1
 642,643,Robinson,Jesse,75:59,1
@@ -695,7 +695,7 @@
 693,694,Gasiorowskl,Stan,81:06,1
 694,695,Arneson,Valerie,81:07,1
 695,696,Nolan,Michael,81:09,1
-696,697,Becker,"Jr., Robert",81:16,1
+696,697,Becker,"Jr., Robert E.",81:16,1
 697,698,Axelrod,Howard,81:19,1
 698,699,Davis,Maggie,81:19,1
 699,700,Weingerg,Leo,81:21,1
@@ -739,8 +739,8 @@
 737,738,Dimaina,Pam,95:35,1
 738,739,Nocera,Mickey,96:22,1
 739,740,Boschelli,Sam,97:10,1
-740,741,Dashnaw,Frank A.,02:51,1
-741,742,Dashnaw,Angela,02:56,1
-742,743,Rush,Pat,04:53,1
-743,744,Scrbent,Frank,06:48,1
-744,745,McMorrow,Patrice,06:49,1
+740,741,Dashnaw,Frank A.,102:51,1
+741,742,Dashnaw,Angela,102:56,1
+742,743,Rush,Pat,104:53,1
+743,744,Scrbent,Frank,106:48,1
+744,745,McMorrow,Patrice,106:49,1

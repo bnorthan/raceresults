@@ -91,19 +91,7 @@ csv_dir   = os.path.join(repo_root, 'data', 'Stockade-athon all time', 'csv')
 from scoreware.race import hmrrc_gp_util
 
 
-def load_stockade_dates():
-    """Real race dates from csv/dates.csv (day, month, year).  2022-2025 are
-    inferred from the 2nd-Sunday-of-November pattern, not from an official source."""
-    path = os.path.join(csv_dir, 'dates.csv')
-    dates = {}
-    d = pd.read_csv(path)
-    for _, r in d.iterrows():
-        stamp = f"{int(r['year'])}-{str(r['month']).strip()}-{int(r['day'])}"
-        dates[int(r['year'])] = pd.to_datetime(stamp).date()
-    return dates
-
-
-stockade_dates = load_stockade_dates()
+stockade_dates = readers.read_stockade_dates(csv_dir)
 
 
 def add_alltime_stockade(year):
@@ -112,21 +100,20 @@ def add_alltime_stockade(year):
         print(f'{year}: CSV not found at {csv_file} -- skipping')
         return
 
-    # delete all existing copies of this race (and their results via CASCADE)
-    race_name = str(year) + ' Stockade-athon'
-    existing = Race.objects.filter(race_name=race_name)
-    count = existing.count()
-    if count > 0:
-        existing.delete()
-
     df = pd.read_csv(csv_file)
     race_date = stockade_dates.get(year)
     if race_date is None:
         race_date = str(year) + '-11-01'
         print(f'{year}: no date in dates.csv, defaulting to {race_date}')
 
-    race = Race(race_name=race_name, city='Schenectady', race_date=race_date)
+    # reuse the existing Race row so its id and slug survive a reload -- only its
+    # results are replaced
+    race_name = str(year) + ' Stockade-athon'
+    race, _ = Race.objects.get_or_create(race_name=race_name)
+    race.city = 'Schenectady'
+    race.race_date = race_date
     race.save()
+    race.result_set.all().delete()
 
     # csv schemas differ by era - use whatever columns this year happens to have
     has = lambda c: c in df.columns

@@ -1,124 +1,831 @@
-,first_name,last_name,time,age,gender
-0,Thomas,Dalton,47:31,35,u
-1,Lance,Denning,48:32,32,u
-2,Vincent,O’Brien,48:39,27,u
-3,Eric,Niles,48:44,24,u
-4,Kevin,Williams,49:22,35,u
-5,Vinny,Reda,49:38,41,u
-6,Joseph,Nzau,49:41,44,u
-7,Rick,Bennett,49:56,31,u
-8,Ed,McGill,50:19,32,u
-9,Chris,Buckley,50:31,32,u
-10,Michael,Gross,50:36,26,u
-11,Jeff,Sullivan,50:41,31,u
-12,Chip,Button,50:43,41,u
-13,Robert,Brenner,50:52,32,u
-14,Michael,Sgambelluri,51:18,26,u
-15,Bob,Fancher,51:22,32,u
-16,Mark,Sepkowski,51:33,44,u
-17,Lori,Hewig,51:34,33,u
-18,Richard,Cummings,51:46,26,u
-19,Jake,Kearney,52:10,40,u
-20,Atlaw,Belilgwe,52:11,48,u
-21,Mark,McKenzie,52:18,31,u
-22,Mark,Smith,52:23,29,u
-23,Ian,Clements,52:25,29,u
-24,George,Bailie,52:26,38,u
-25,Joseph,Powers:,52:33,26,u
-26,Daniel,Cantwell,52:46,32,u
-27,Jim,Amell,52:47,34,u
-28,Ray,Kneer,52:50,51,u
-29,Peter,Gerardi,52:52,42,u
-30,Nicholas,Caswell,53:16,43,u
-31,Richard,Coughlin,53:22,33,u
-32,Robert,Colborn,53:23,39,u
-33,Kevin,Barrett,53:35,41,u
-34,Vance,Bleaux,53:41,31,u
-35,Ronald,Bagnoli,53:47,46,u
-36,Edward,Powers,54:15,43,u
-37,Pace,Kessenich,54:27,33,u
-38,Joseph,Porcaro,54:36,44,u
-39,Myron,Baker,54:46,45,u
-40,Norman,Green,54:47,61,u
-41,Dennis,Coletta,54:50,50,u
-42,Bill,Starz,54:59,26,u
-43,Derek,Grout,55:10,21,u
-44,Mark,Warner,55:13,35,u
-45,Jeff,Fumarola,55:26,32,u
-46,Lee,Pollock,55:29,41,u
-47,Edward,Frisillo,55:30,48,u
-48,Jason,Santarcangelo,55:43,17,u
-49,Brian,DeBraccio,55:46,27,u
-50,John,Geesler,55:47,34,u
-51,Michelle,Simone,55:48,25,u
-52,Paul,MacDonald,55:53,17,u
-53,Roger,Gocking,55:59,50,u
-54,James,Forbes,56:08,42,u
-55,William,Douglas,56:09,32,u
-56,Mark,Schmidt,56:11,31,u
-57,Roland,Cormier,56:16,53,u
-58,John,Barnes,56:28,37,u
-59,Randy,Spencer,56:31,32,u
-60,Kevin,Morrisroe,56:35,42,u
-61,Scott,Philipp,56:51,17,u
-62,John,Pelton,56:55,54,u
-63,Michael,Murtagh,56:56,33,u
-64,Jeflirey,Brooks,56:57,16,u
-65,George,Luke,57:11,53,u
-66,Dominic,Tocco,57:12,32,u
-67,Joseph,McCullen,57:13,23,u
-68,William,Austin,57:18,17,u
-69,Sean,Dolton,57:19,24,u
-70,Tom,Homeyer,57:30,45,u
-71,Cecil,Elmore,57:38,31,u
-72,John,Ford,57:39,40,u
-73,Amy,Herold-Russom,57:43,32,u
-74,Bruce,Yelich,57:47,37,u
-75,David,Marro,57:55,29,u
-76,Brian,Teague,57:58,34,u
-77,Christopher,Kranick,57:59,25,u
-78,Ron,Lammerts,58:11,36,u
-79,Hope,Wynkoop,58:13,26,u
-80,Charles,Parmalee,58:18,49,u
-81,Larry,George,58:23,43,u
-82,James,Lofthouse,58:24,38,u
-83,Bryan,Carnahan,58:25,18,u
-84,Michael,Fazioli,58:26,42,u
-85,Richard,Kokoszki,58:28,29,u
-86,Daniel,Cohen,58:33,57,u
-87,David,Glass,58:35,47,u
-88,Gary,Burak,58:39,35,u
-89,Hans,Blomer,58:44,34,u
-90,Mark,Sager,58:46,43,u
-91,Frederick,Chu,58:47,46,u
-92,Doug,Griset,58:52,50,u
-93,George,Butterworth,58:57,54,u
-94,Richard,DeMarco,59:10,51,u
-95,Mitchell,Gaies,59:11,44,u
-96,Mark,Kelsey,59:12,42,u
-97,Dana,Poulin,59:13,16,u
-98,John,Gaffey,59:14,35,u
-99,Bill,Brigha,59:19,35,u
-100,Michael,Powers,59:23,36,u
-101,Alan,Taylor,59:27,46,u
-102,Paul,Rose,59:34,49,u
-103,William,Venner,59:35,34,u
-104,David,Bradt,59:40,29,u
-105,Bruce,Meader,59:42,50,u
-106,Joseph,DeTraglia,59:44,23,u
-107,Morris,Morgan,59:45,43,u
-108,Randall,Down,59:46,27,u
-109,Douglas,Burns,59:47,36,u
-110,Matthew,Cox,59:48,36,u
-111,Ed,Shattuck,59:49,50,u
-112,Lee,Wilcox,59:52,55,u
-113,Mark,Todaro,59:59,34,u
-114,Eugene,Ellis,00:10,49,u
-115,Arleen,Reyell,00:26,31,u
-116,Cary,Adams,01:13,30,u
-117,Kelly,Blakeslee,03:11,42,u
-118,Donna,McKendree,03:39,46,u
-119,Carla,Hogan,06:15,38,u
-120,Jack,Moran,08:15,63,u
-121,Martha,Healy,10:14,38,u
-122,Judy,Farnan,10:36,33,u
+,first_name,last_name,time,age,note,gender
+0,Thomas,Dalton,47:31,35,,u
+1,Lance,Denning,48:32,32,,u
+2,Vincent,O’Brien,48:39,27,,u
+3,Eric,Niles,48:44,24,,u
+4,Kevin,Williams,49:22,35,,u
+5,Vinny,Reda,49:38,41,,u
+6,Joseph,Nzau,49:41,44,,u
+7,Rick,Bennett,49:56,31,,u
+8,Bob,Pulz,,34,"time unreadable: 9 Bob Pulz, 34 50:1",u
+9,Ed,McGill,50:19,32,,u
+10,Chris,Buckley,50:31,32,,u
+11,Michael,Gross,50:36,26,,u
+12,Jeff,Sullivan,50:41,31,,u
+13,Chip,Button,50:43,41,,u
+14,Robert,Brenner,50:52,32,,u
+15,Michael,Sgambelluri,51:18,26,,u
+16,Bob,Fancher,51:22,32,,u
+17,Mark,Sepkowski,51:33,44,,u
+18,Lori,Hewig,51:34,33,,u
+19,Richard,Cummings,51:46,26,,u
+20,Patrick,Allen,,32,"time unreadable: 21 Patrick Allen, 32 52:6",u
+21,Jake,Kearney,52:10,40,,u
+22,Atlaw,Belilgwe,52:11,48,,u
+23,Mark,McKenzie,52:18,31,,u
+24,Mark,Smith,52:23,29,,u
+25,Ian,Clements,52:25,29,,u
+26,George,Bailie,52:26,38,,u
+27,Joseph,Powers Jr,52:33,26,,u
+28,Daniel,Cantwell,52:46,32,,u
+29,Jim,Amell,52:47,34,,u
+30,Ray,Kneer,52:50,51,,u
+31,Peter,Gerardi,52:52,42,,u
+32,Mooky,Kent,,28,"time unreadable: 33 Mooky Kent, 28 53:2",u
+33,Patrick,Glover,,47,"time unreadable: 34 Patrick Glover, 47 53:3",u
+34,Scott,Abercrombie,,43,"time unreadable: 35 Scott Abercrombie, 43 53:6",u
+35,Nicholas,Caswell,53:16,43,,u
+36,Richard,Coughlin,53:22,33,,u
+37,Robert,Colborn,53:23,39,,u
+38,Kevin,Barrett,53:35,41,,u
+39,Vance,Bleaux,53:41,31,,u
+40,Ronald,Bagnoli,53:47,46,,u
+41,Edward,Powers,54:15,43,,u
+42,Pace,Kessenich,54:27,33,,u
+43,Joseph,Porcaro,54:36,44,,u
+44,Myron,Baker Sr,54:46,45,,u
+45,Norman,Green,54:47,61,,u
+46,Dennis,Coletta,54:50,50,,u
+47,Bill,Starz,54:59,26,,u
+48,Derek,Grout,55:10,21,,u
+49,Mark,Warner,55:13,35,,u
+50,Jeff,Fumarola,55:26,32,,u
+51,Lee,Pollock,55:29,41,,u
+52,Edward,Frisillo,55:30,48,,u
+53,Jason,Santarcangelo,55:43,17,,u
+54,Brian,DeBraccio,55:46,27,,u
+55,John,Geesler,55:47,34,,u
+56,Michelle,Simone,55:48,25,,u
+57,Paul,MacDonald,55:53,17,,u
+58,Roger,Gocking,55:59,50,,u
+59,James,Forbes,56:08,42,,u
+60,William,Douglas,56:09,32,,u
+61,Mark,Schmidt,56:11,31,,u
+62,Roland,Cormier,56:16,53,,u
+63,John,Barnes,56:28,37,,u
+64,Randy,Spencer,56:31,32,,u
+65,Kevin,Morrisroe,56:35,42,,u
+66,Scott,Philipp,56:51,17,,u
+67,John,Pelton,56:55,54,,u
+68,Michael,Murtagh,56:56,33,,u
+69,Jeflirey,Brooks,56:57,16,,u
+70,Gary,Struve,,48,"time unreadable: 71 Gary Struve, 48 57:2",u
+71,Dick,Haines,,55,"time unreadable: 72 Dick Haines, 55 57:3",u
+72,Brian,Nagle,,42,"time unreadable: 73 Brian Nagle, 42 57:5",u
+73,Jim,Zimmons,,38,"time unreadable: 74 Jim Zimmons, 38 57:8",u
+74,Duane,Frishie,,31,"time unreadable: 75 Duane Frishie, 31 57:9",u
+75,George,Luke,57:11,53,,u
+76,Dominic,Tocco,57:12,32,,u
+77,Joseph,McCullen,57:13,23,,u
+78,William,Austin,57:18,17,,u
+79,Sean,Dolton,57:19,24,,u
+80,Tom,Homeyer,57:30,45,,u
+81,Cecil,Elmore,57:38,31,,u
+82,John,Ford,57:39,40,,u
+83,Amy,Herold-Russom,57:43,32,,u
+84,Bruce,Yelich,57:47,37,,u
+85,David,Marro,57:55,29,,u
+86,Brian,Teague,57:58,34,,u
+87,Christopher,Kranick,57:59,25,,u
+88,David,VanHeusen,,47,"time unreadable: 89 David VanHeusen, 47 58:2",u
+89,Bob,Ellison,,45,"time unreadable: 90 Bob Ellison, 45 58:4",u
+90,Timothy,Mousaw,,16,"time unreadable: 91 Timothy Mousaw, 16 58:5",u
+91,Ron,Lammerts,58:11,36,,u
+92,Hope,Wynkoop,58:13,26,,u
+93,Charles,Parmalee,58:18,49,,u
+94,Larry,George,58:23,43,,u
+95,James,Lofthouse,58:24,38,,u
+96,Bryan,Carnahan,58:25,18,,u
+97,Michael,Fazioli,58:26,42,,u
+98,Richard,Kokoszki Jr,58:28,29,,u
+99,Daniel,Cohen,58:33,57,,u
+100,David,Glass,58:35,47,,u
+101,Gary,Burak,58:39,35,,u
+102,Hans,Blomer,58:44,34,,u
+103,Mark,Sager,58:46,43,,u
+104,Frederick,Chu,58:47,46,,u
+105,Doug,Griset,58:52,50,,u
+106,George,Butterworth,58:57,54,,u
+107,Steven,George,,40,"time unreadable: 108 Steven George, 40 59:1",u
+108,Joe,Sinicrope,,51,"time unreadable: 109 Joe Sinicrope, 51 59:3",u
+109,David,Buddington,,52,"time unreadable: 110 David Buddington, 52 59:6",u
+110,John,Macbeth,,35,"time unreadable: 111 John Macbeth, 35 59:7",u
+111,David,Hvizdos,,29,"time unreadable: 112 David Hvizdos, 29 59:8",u
+112,Frank,Steciuk,,29,"time unreadable: 113 Frank Steciuk, 29 59:9",u
+113,Richard,DeMarco,59:10,51,,u
+114,Mitchell,Gaies,59:11,44,,u
+115,Mark,Kelsey,59:12,42,,u
+116,Dana,Poulin,59:13,16,,u
+117,John,Gaffey,59:14,35,,u
+118,Bill,Brigha,59:19,35,,u
+119,Michael,Powers,59:23,36,,u
+120,Alan,Taylor,59:27,46,,u
+121,Paul,Rose,59:34,49,,u
+122,William,Venner,59:35,34,,u
+123,David,Bradt,59:40,29,,u
+124,Bruce,Meader,59:42,50,,u
+125,Joseph,DeTraglia,59:44,23,,u
+126,Morris,Morgan,59:45,43,,u
+127,Randall,Down,59:46,27,,u
+128,Douglas,Burns,59:47,36,,u
+129,Matthew,Cox,59:48,36,,u
+130,Ed,Shattuck,59:49,50,,u
+131,Lee,Wilcox,59:52,55,,u
+132,Mark,Todaro,59:59,34,,u
+133,Ed,Stabler,,64,"time unreadable: 134 Ed Stabler, 64 60:0",u
+134,Bob,Karp,,32,"time unreadable: 135 Bob Karp, 32 60:3",u
+135,Dave,Donnelly,,24,"time unreadable: 136 Dave Donnelly, 24 60:4",u
+136,Frank,Lanzillo,,38,"time unreadable: 137 Frank Lanzillo, 38 60:5",u
+137,Daniel,Bernstein,,40,"time unreadable: 138 Daniel Bernstein, 40 60:6",u
+138,George,Dowse,,44,"time unreadable: 139 George Dowse, 44 60:8",u
+139,Sam,Graceffo,60:10,57,,u
+140,Joe,Gannon,60:15,26,,u
+141,Gerald,Barney,60:16,61,,u
+142,Jon,Atwell,60:19,28,,u
+143,Bill,Rucinski,60:36,35,,u
+144,Edward,Bown,60:37,52,,u
+145,Jeff,Borra,60:38,33,,u
+146,Carlos,Cuprill,60:39,52,,u
+147,Michael,Jordan,60:40,33,,u
+148,Nancy,Nicholson,60:44,31,,u
+149,Mark,Howson,60:52,35,,u
+150,Sandra,Phibbs,60:54,29,,u
+151,Chip,Granger,60:58,42,,u
+152,Doug,Smith,,45,"time unreadable: 153 Doug Smith, 45 61:1",u
+153,Joan,Butler,,41,"time unreadable: 154 Joan Butler, 41 61:4",u
+154,Gene,Monaco,,50,"time unreadable: 155 Gene Monaco, 50 61:7",u
+155,Dick,Ashley,,52,"time unreadable: 156 Dick Ashley, 52 61:8",u
+156,Larry,Shapiro,61:11,45,,u
+157,Peter,Brady,61:15,47,,u
+158,Jamison,Hayes,61:20,17,,u
+159,Peter,Wuerdeman,61:22,37,,u
+160,Cary,Lukacik,61:23,37,,u
+161,Morgan,Shipway,61:24,51,,u
+162,Donald,Ceesler,61:27,44,,u
+163,Kenneth,Klapp,61:36,43,,u
+164,Matt,Beatrice,61:38,36,,u
+165,Douglas,Freese,61:40,48,,u
+166,Jack,Soltis,61:41,49,,u
+167,James,Foy,61:45,41,,u
+168,Meredith,Ellis,61:47,44,,u
+169,John,Schaeffer,61:51,30,,u
+170,Neil,Hannon,61:52,45,,u
+171,Dan,French,61:53,48,,u
+172,Dan,Hughes,61:54,15,,u
+173,James,Moore,61:55,54,,u
+174,Patrick,Sweeney,61:57,32,,u
+175,Allan,Elliott,61:59,35,,u
+176,David,Hains,,47,"time unreadable: 177 David Hains, 47 62:0",u
+177,Kenneth,LaPenta,,44,"time unreadable: 178 Kenneth LaPenta, 44 62:1",u
+178,Jack,Nabozny,,37,"time unreadable: 179 Jack Nabozny, 37 62:4",u
+179,Dennis,Utter,,35,"time unreadable: 180 Dennis Utter, 35 62:6",u
+180,David,Barringer,62:12,32,,u
+181,John,Kyne,62:13,42,,u
+182,Jeff,Flora,62:15,34,,u
+183,Brian,Williams,62:22,15,,u
+184,Frank,Grundy,62:25,38,,u
+185,Lorrie,Marnell,62:26,32,,u
+186,David,Ochse,62:27,39,,u
+187,Frank,Myers,62:28,48,,u
+188,Dan,Olden,62:31,42,,u
+189,Lawrence,Taylor,62:39,30,,u
+190,Bryon,Powell,62:47,15,,u
+191,Matthew,Lynch,62:52,14,,u
+192,Christopher,O’Brien,62:57,39,,u
+193,Chris,Dressler,62:58,40,,u
+194,Terrence,Moag,,30,"time unreadable: 195 Terrence Moag, 30 63:3",u
+195,Robert,Stewart,,41,"time unreadable: 196 Robert Stewart, 41 63:6",u
+196,Christopher,Rauscher,63:10,42,,u
+197,Eliot,King,63:12,38,,u
+198,Edward,Cravelle,63:16,35,,u
+199,Lani,Rogers,63:17,27,,u
+200,Winston,Taylor,63:18,54,,u
+201,Jack,Rightmyer,63:21,35,,u
+202,Donald,Maylotte,63:25,52,,u
+203,John,Zalinka,63:26,42,,u
+204,Robert,Ladue,63:27,29,,u
+205,Fred,Eames,63:29,45,,u
+206,Kenneth,Jardin,63:30,36,,u
+207,Bill,Taylor,63:35,47,,u
+208,Jim,Tierney,63:36,59,,u
+209,Jack,Ucci,63:37,55,,u
+210,Cian,Carlo Mangano,63:43,55,,u
+211,Denis,Donohue,63:47,44,,u
+212,Wally,McRae,63:48,61,,u
+213,Brad,Eliott,63:55,30,,u
+214,Brian,Norton,63:55,34,,u
+215,M. Patrick,Lewis,63:56,30,,u
+216,John,Privitera,,41,"time unreadable: 217 John Privitera, 41 64:0",u
+217,Rob,Harris,,15,"time unreadable: 218 Rob Harris, 15 64:3",u
+218,David,Oja,,41,"time unreadable: 219 David Oja, 41 64:5",u
+219,Douglas,McCarthy,,35,"time unreadable: 220 Douglas McCarthy, 35 64:6",u
+220,Patrick,Town,,47,"time unreadable: 221 Patrick Town, 47 64:7",u
+221,Douglas,Ward,,46,"time unreadable: 222 Douglas Ward, 46 64:8",u
+222,Dan,Biro,,26,"time unreadable: 223 Dan Biro, 26 64:9",u
+223,Mark,Smith,64:12,26,,u
+224,Bernie,Welch,64:13,42,,u
+225,Glen,Tryson,64:15,40,,u
+226,Matthew,DeCotis,64:24,32,,u
+227,Thomas,Howley,64:25,20,,u
+228,Matt,Indiano,64:27,12,,u
+229,John,Roche,64:28,40,,u
+230,Michael,Boss,64:32,42,,u
+231,Jayne,Crout,64:36,50,,u
+232,Dick,Green,64:38,59,,u
+233,Joseph,McNamara,64:41,17,,u
+234,Jason,Taylor,64:42,17,,u
+235,Emory,Coe,64:49,38,,u
+236,George,Lanha,64:51,51,,u
+237,Jerry,Lysiak,,45,"time unreadable: 238 Jerry Lysiak, 45 64:5",u
+238,Robert,Sanford,,51,"time unreadable: 239 Robert Sanford, 51 64:5",u
+239,JeH`,Leach,64:51,16,,u
+240,Hank,McCauley,,51,"time unreadable: 241 Hank McCauley, 51 64:5·",u
+241,Paul,Pelagalli,,40,"time unreadable: 242 Paul Pelagalli, 40 64:5",u
+242,Tony,Ganey,64:51,46,,u
+243,Debbie,Beatrice,64:51,35,,u
+244,Paul,Prostowich,65:01,40,,u
+245,George,Bevington,65:02,37,,u
+246,Mark,Ellison,65:03,29,,u
+247,David,Mousaw,65:04,48,,u
+248,Peter,Skinner,65:09,46,,u
+249,Vince,Juliano,65:10,36,,u
+250,Jody,Planz,65:12,28,,u
+251,Bill,Simmons,65:14,36,,u
+252,John,Lynch,65:16,46,,u
+253,Scott,Carnahan,65:17,15,,u
+254,Robert,Steciuk,65:18,52,,u
+255,Joe,Kyme,65:20,31,,u
+256,Jon,Leach,65:20,41,,u
+257,David,Rook,65:23,37,,u
+258,Robert,Toth,65:26,51,,u
+259,Joe,Berdiel,65:27,35,,u
+260,Joseph,Benny,65:28,15,,u
+261,Wayne,Decker,65:35,57,,u
+262,Donald,Fialka,65:36,52,,u
+263,Joseph,Natalie,65:42,37,,u
+264,Terry,Langlois,65:42,34,,u
+265,Peter,Glasheen,65:44,41,,u
+266,John,Glasheen,65:45,49,,u
+267,Mary,Lanzi,65:46,29,,u
+268,Paul,Beiter,65:48,31,,u
+269,Andrew,Niles,65:49,29,,u
+270,Jacob,Hoffman,65:50,17,,u
+271,Edward,Doucette,65:50,63,,u
+272,Michael,McLean,65:52,36,,u
+273,Glenn,Jefiers,65:52,26,,u
+274,Richard,Rocco,65:53,45,,u
+275,Jim,Maney,65:54,35,,u
+276,David,Burt,65:55,40,,u
+277,Monica,Ford,65:56,16,,u
+278,Ray,Brem,65:57,60,,u
+279,Ralph,Ranellone,,42,"time unreadable: 280 Ralph Ranellone, 42 66:0",u
+280,Steven,Guditus,66:01,14,,u
+281,Martha,DeGrazia,66:03,42,,u
+282,Marieta,Gil,66:08,41,,u
+283,Dan,Miller,66:10,15,,u
+284,Marty,Hotaling,66:12,31,,u
+285,Allen,Thornton,66:13,46,,u
+286,Lawrence,Fisher,66:14,60,,u
+287,Martin,Kittell,66:15,111,,u
+288,Ronald,Spencer,66:17,34,,u
+289,Nicholas,Rose,66:18,42,,u
+290,Michael,Bunch,66:18,42,,u
+291,Frederick,Hutchins,66:20,18,,u
+292,John,Haley,66:23,38,,u
+293,Jim,Merrifield,66:24,40,,u
+294,Thomas,Montgomery,66:27,43,,u
+295,Dick,Adler,66:28,53,,u
+296,Luke,Luyckx,66:28,36,,u
+297,Bill,Webb,66:33,32,,u
+298,Lisa,DeGrechie,66:34,13,,u
+299,Michael,Schettine,66:35,37,,u
+300,Bill,Primomo,66:35,38,,u
+301,Richard,Spaulding,66:36,52,,u
+302,Tami,DeGrechie,66:37,13,,u
+303,Rick,Bolton,66:39,42,,u
+304,Steven,Cummings,66:41,28,,u
+305,Robert,Redmond,66:42,49,,u
+306,Gary,Villeneuve,66:43,44,,u
+307,Bob,Kopp,66:45,39,,u
+308,Kenneth,Conklin,66:47,59,,u
+309,Christopher,Hatter,66:52,34,,u
+310,Stephen,Peer,66:57,34,,u
+311,Wayne,Montpetit Jr,66:58,28,,u
+312,Marc,Kutner,67:00,46,,u
+313,Bonnie,Morse-Gillha,67:02,37,,u
+314,Christian,King,67:05,24,,u
+315,Randy,Dautrich,67:07,35,,u
+316,Maria,Stone,67:07,23,,u
+317,Phil,Carducci,67:10,44,,u
+318,James,Atchinson,67:11,41,,u
+319,Paul,Murray,67:12,49,,u
+320,Gregory,Allen,67:13,29,,u
+321,Charles,Bell,67:14,34,,u
+322,Nancy,Briskie,67:16,36,,u
+323,Tim,Adams,67:17,46,,u
+324,John,Econome,67:25,15,,u
+325,John,Severino,67:26,34,,u
+326,Pedro,Vizcaya,67:27,42,,u
+327,William,Nash,67:28,45,,u
+328,Daniel,Pollay,67:29,24,,u
+329,Richard,Homenick,67:31,57,,u
+330,Steve,Morse,67:36,30,,u
+331,Francis,Yeager,67:37,47,,u
+332,Robert,Brink,67:38,49,,u
+333,Paul,Sloan,67:39,48,,u
+334,Char,Davidson,67:40,40,,u
+335,John,Pezzulo,67:40,32,,u
+336,Joseph,Herman,67:43,27,,u
+337,Dennis,Bunting,67:44,46,,u
+338,John,Garrity,67:46,62,,u
+339,Claude,Wager,67:50,40,,u
+340,Augie,LoStritto,67:50,34,,u
+341,Christopher,O’Hara,67:55,26,,u
+342,Teresa,Maguire,67:56,38,,u
+343,Thomas,Clash,,49,"time unreadable: 344 Thomas Clash, 49 68:4",u
+344,Robert,Youker,,17,"time unreadable: 345 Robert Youker, 17 68:8",u
+345,Gloria,Shephard,68:10,35,,u
+346,Jan,Zadoorian,68:12,63,,u
+347,Elnora,Smith,68:13,44,,u
+348,John,Newell Jr,68:14,41,,u
+349,Paul,Monast,68:14,37,,u
+350,Fred,Gates,68:15,43,,u
+351,Prashant,Singh,68:17,27,,u
+352,Mark,Burns,68:21,29,,u
+353,Margaret,Malone,68:23,34,,u
+354,J. Langdon,Marsh,68:25,52,,u
+355,Kathryn,Fagan,68:26,41,,u
+356,Michael,Fagan,68:27,42,,u
+357,Andrew,Kulmatiski,68:29,44,,u
+358,Larry,Navatka,68:32,36,,u
+359,Joe,Benoit,68:34,36,,u
+360,Lynn,Allen,68:34,30,,u
+361,Michael,Murphy,68:35,27,,u
+362,Andrew,Dougherty,68:37,39,,u
+363,Sandy,Bueme,68:37,66,,u
+364,Craig,Miller,68:40,38,,u
+365,Tom,Lansing,68:41,41,,u
+366,Michael,Komoroske,68:42,39,,u
+367,Roger,Whaley,68:43,64,,u
+368,Anna,Kulmatiski,68:45,15,,u
+369,David,Cerri,68:46,40,,u
+370,Kristin,Hubbell,68:46,22,,u
+371,Marcia,Whitney,68:47,40,,u
+372,Frederick,Hedden,68:52,43,,u
+373,David,Getz,68:53,46,,u
+374,Steven,Johnson,68:57,42,,u
+375,Robert,Etzkorn,68:58,33,,u
+376,John,Leonard,68:58,37,,u
+377,Michael,Pritchard,,27,"time unreadable: 378 Michael Pritchard, 27 69:3",u
+378,Dave,Long,,30,"time unreadable: 379 Dave Long, 30 69:7",u
+379,Andrea,Zahnleuter,69:10,31,,u
+380,Thomas,Heiieron,69:10,46,,u
+381,Robert,Reese,69:14,46,,u
+382,Peter,Butryn,69:15,36,,u
+383,Nick,Solomos,69:19,51,,u
+384,Doug,Stephens,69:21,44,,u
+385,Beaumont,Thompson,69:21,30,,u
+386,Mark,Edelstein,69:22,44,,u
+387,Frank,McHale,69:23,43,,u
+388,Dwight,Wilson,69:24,45,,u
+389,Raymond,Framarin,69:24,38,,u
+390,Andrew,Shave,69:30,17,,u
+391,Karen,Ide-Provencher,69:30,38,,u
+392,Doug,Maloney,69:33,43,,u
+393,Michael,Call,69:35,43,,u
+394,Michael,Maguire,69:38,38,,u
+395,John,Dower,69:39,36,,u
+396,Don,Kearns,69:40,41,,u
+397,Laura,Clark,69:40,46,,u
+398,Melvin,Simmons,69:43,50,,u
+399,Thomas,Cuevas,69:44,48,,u
+400,Gloria,Brown,69:45,61,,u
+401,Joan,Celentano,69:46,40,,u
+402,Richard,Sullivan,69:51,65,,u
+403,Randolph,Richter,69:52,40,,u
+404,Keith,Decker,69:54,0,,u
+405,John,D’Andrea,69:55,28,,u
+406,Andrew,Janik,69:55,49,,u
+407,George,Montanaro,69:57,39,,u
+408,Chary,Griffin,69:58,44,,u
+409,Fred,Monaco,,41,"time unreadable: 410 Fred Monaco, 41 70:0",u
+410,Harold,Eisenstein,,37,"time unreadable: 411 Harold Eisenstein, 37 70:1",u
+411,Carl,Thorne,,48,"time unreadable: 412 Carl Thorne, 48 70:1",u
+412,David,Rees,,30,"time unreadable: 413 David Rees, 30 70:2",u
+413,Jack,O’Su1livan,,65,"time unreadable: 414 Jack O’Su1livan, 65 70:2",u
+414,William,Radley,70:11,34,,u
+415,James,Moorhead,70:17,51,,u
+416,Jesse,Dinkin,70:20,46,,u
+417,Steve,Snider,70:21,38,,u
+418,Kent,Cueman,70:21,46,,u
+419,Linda,Oja,70:28,40,,u
+420,Dean,Ronca,70:28,38,,u
+421,George,Conmy,70:29,38,,u
+422,John,Saccocio,70:31,33,,u
+423,Jim,Edwards,70:33,63,,u
+424,Matthew,Letteer,70:34,15,,u
+425,Marsha,Pulz,70:35,32,,u
+426,Theodore,Sullivan,70:38,61,,u
+427,Cathy,Stich,70:40,30,,u
+428,Kirk,Lewis,70:40,36,,u
+429,James,Summa,70:41,38,,u
+430,Dave,Clough,70:44,14,,u
+431,Bernie,Rizzo,70:45,43,,u
+432,Michael,Blake,70:50,34,,u
+433,Douglas,Fox,70:50,49,,u
+434,James,Allen,70:51,43,,u
+435,Emily,Etzkorn,70:51,31,,u
+436,Michael,Moore,70:53,42,,u
+437,Thomas,Dorn,70:53,43,,u
+438,Ellen,Endres,70:54,28,,u
+439,John,Center,70:55,29,,u
+440,Joe,Conrad,70:55,64,,u
+441,Andrew,Carey,70:56,35,,u
+442,Matthew,Glover,70:57,31,,u
+443,Ellie,Marsh,70:59,52,,u
+444,Michael,Smith,70:59,41,,u
+445,Gwen,Buckley,,29,"time unreadable: 446 Gwen Buckley, 29 71:5",u
+446,Albert,Schlitter,,55,"time unreadable: 447 Albert Schlitter, 55 71:8",u
+447,Edward,Sawicz,,49,"time unreadable: 448 Edward Sawicz, 49 71:9",u
+448,William,Humphrey,71:11,29,,u
+449,George,Freeman,71:11,62,,u
+450,David,Allard,71:19,46,,u
+451,C. William,Austin,71:20,52,,u
+452,Glenn,Yelich,71:21,35,,u
+453,Jeff,Wilhelms,71:23,45,,u
+454,Paul,Kuta,71:24,46,,u
+455,Valerie,Loucy,71:25,29,,u
+456,Steven,Seminer,71:26,34,,u
+457,Mary Ellen,Laurin,71:27,39,,u
+458,Michael,Norton,71:28,42,,u
+459,James,Hagan,71:30,34,,u
+460,Trevor,Rueckert,71:31,18,,u
+461,Ray Lee,Jr,71:31,51,,u
+462,Bob,Warner,71:37,63,,u
+463,Stephen,Coates,71:38,36,,u
+464,Jerry,Dollar,71:39,40,,u
+465,Terry,Seymour,71:44,48,,u
+466,Roland,Kullmann,71:49,49,,u
+467,Jim,Eats,71:49,35,,u
+468,Reese,Harrington,71:50,25,,u
+469,Ted,Greve,71:51,53,,u
+470,Howard,Maat,71:53,55,,u
+471,David,Brownell,71:55,34,,u
+472,Frank,Sturek,71:56,45,,u
+473,Lauren,Bologna,71:56,16,,u
+474,Jessica,Putna,71:57,14,,u
+475,Clifford,Hayes,,55,"time unreadable: 476 Clifford Hayes, 55 72:2",u
+476,Richard,Vaughn,,45,"time unreadable: 477 Richard Vaughn, 45 72:3",u
+477,Robert,Reedy,,47,"time unreadable: 478 Robert Reedy, 47 72:4",u
+478,Don,Dykes,,54,"time unreadable: 479 Don Dykes, 54 72:6",u
+479,Jane,Zollo,,35,"time unreadable: 480 Jane Zollo, 35 72:8",u
+480,Stephen,Mitchell,72:10,52,,u
+481,Cathryn,Olsen,72:18,41,,u
+482,Kathleen,Dougherty,72:19,29,,u
+483,George,Gavras,72:20,67,,u
+484,Joseph,Backowski,72:22,38,,u
+485,Joseph,Richardson,72:25,53,,u
+486,Chris,Holder,72:30,45,,u
+487,Dennis,McGhan,72:33,41,,u
+488,Lori,Schettine,72:33,33,,u
+489,Christopher,Preston,72:36,14,,u
+490,Debbie,Foster,72:46,36,,u
+491,Allen,Koblenzer,72:50,56,,u
+492,George,Francisco Jr,72:52,39,,u
+493,Diane,McGuire,72:54,38,,u
+494,Samuel,Grimaldi,72:56,49,,u
+495,Susan,Fenimore,,41,"time unreadable: 496 Susan Fenimore, 41 73:0",u
+496,George,Peck,,50,"time unreadable: 497 George Peck, 50 73:0",u
+497,Richard,Daley,,43,"time unreadable: 498 Richard Daley, 43 73:2",u
+498,Al,Griffin,,41,"time unreadable: 499 Al Griffin, 41 73:4",u
+499,Ed,Thomas,,55,"time unreadable: 500 Ed Thomas, 55 73:4",u
+500,Jennifer,Hunter,,23,"time unreadable: 501 Jennifer Hunter, 23 73:7",u
+501,Rick,Zahnleuter,73:10,37,,u
+502,Andy,Lancaster,73:11,15,,u
+503,James,Lombardo,73:13,39,,u
+504,Alan,Maddaus,73:15,48,,u
+505,Gary,Law,73:21,38,,u
+506,Judith,Swasey,73:24,46,,u
+507,Thomas,Swasey,73:25,44,,u
+508,John,Lane,73:28,50,,u
+509,John,Connolly,73:35,37,,u
+510,Christine,Cashin,73:38,42,,u
+511,Bill,Osterhout,73:39,57,,u
+512,Sherry,Dixon,73:41,46,,u
+513,Mark,Mindel,73:45,41,,u
+514,Kevin,McDonnell,73:46,28,,u
+515,Ray,Rice,73:49,50,,u
+516,Don,McCabe,73:54,52,,u
+517,Diana,Liu,73:56,25,,u
+518,Pat,Fitzgerald,73:57,63,,u
+519,Pete,Cowie,73:57,45,,u
+520,Michael,Cies,73:58,45,,u
+521,Jill,Mehan,73:59,38,,u
+522,Andy,Caruso,73:59,38,,u
+523,Susan,Brandow,,34,"time unreadable: 524 Susan Brandow, 34 74:0",u
+524,James,Buckley,,51,"time unreadable: 525 James Buckley, 51 74:1",u
+525,Patrick,Higgins,,34,"time unreadable: 526 Patrick Higgins, 34 74:1",u
+526,Mark,Keegan,,44,"time unreadable: 527 Mark Keegan, 44 74:6",u
+527,Ed,Buckley,,73,"time unreadable: 528 Ed Buckley, 73 74:8",u
+528,James,Breitinger,74:11,47,,u
+529,Meg,Cwin,74:15,14,,u
+530,Don,Wallace,74:19,35,,u
+531,Jim,Sullivan,74:21,33,,u
+532,Cary,Dietrich,74:23,43,,u
+533,Kenneth,Wilkes,74:25,49,,u
+534,Anny,Stockman,74:27,61,,u
+535,Michael,Colvin,74:29,38,,u
+536,Dennis,Englert,74:33,55,,u
+537,Janet,Carberry,74:35,41,,u
+538,John,Harwick,74:38,52,,u
+539,Debbie,Danforth,74:41,36,,u
+540,Nancy,Robinson,74:42,38,,u
+541,Guy,Forden,74:42,36,,u
+542,Kent,VanHorn,74:43,28,,u
+543,David,Marchetti,74:49,33,,u
+544,Michael,Carlin,74:54,40,,u
+545,Lori,Byron,74:54,41,,u
+546,Nathaniel,White,,74,"time unreadable: 547 Nathaniel White, 74 74:5",u
+547,Jerry,Smith,,46,"time unreadable: 548 Jerry Smith, 46 74:5,",u
+548,Mike,Churchill,,37,"time unreadable: 549 Mike Churchill, 37 74:5",u
+549,Kira,Maas,74:54,14,,u
+550,Bob,Sands,74:54,54,,u
+551,Terry,Malone,,43,"time unreadable: 552 Terry Malone, 43 75:,",u
+552,Robert,Knouse,,54,"time unreadable: 553 Robert Knouse, 54 75:*",u
+553,Robert,Beatrice,75:14,52,,u
+554,Valerie,Calder,,38,"time unreadable: 555 Valerie Calder, 38 75:1",u
+555,Kevin,Quinn,,26,"time unreadable: 556 Kevin Quinn, 26 75:1",u
+556,Brian,Benoit,,36,"time unreadable: 557 Brian Benoit, 36 75:1·",u
+557,Robert,Moriale,75:11,45,,u
+558,Janet,Davignon,,31,"time unreadable: 559 Janet Davignon, 31 75:2i",u
+559,Albert,Dormann,,60,"time unreadable: 560 Albert Dormann, 60 75:2·",u
+560,Philip,Rowe,75:24,57,,u
+561,David,Hicks,,28,"time unreadable: 562 David Hicks, 28 75:2'",u
+562,Timothy,Beardsley,,31,"time unreadable: 563 Timothy Beardsley, 31 75:2'",u
+563,Jay,Blaufuss,75:32,39,,u
+564,Mike,Comisky,75:31,36,,u
+565,Dale,Hassett,75:44,37,,u
+566,Robert,Delaney,75:44,51,,u
+567,Jake,Smith,75:41,44,,u
+568,Michael,Morgan,75:41,46,,u
+569,Stan,Cichanowski,75:51,50,,u
+570,Maura,Whalen,,25,"time unreadable: 571 Maura Whalen, 25 75:5Z",u
+571,Bernard,Witkowski,,44,"time unreadable: 572 Bernard Witkowski, 44 75:5f",u
+572,Suzanne,Havlik,75:52,47,,u
+573,Bob,Ciota,75:52,47,,u
+574,Bob,Winchester,75:55,67,,u
+575,Leo,Gaylord,75:56,29,,u
+576,Bernard,Schunicht,75:58,54,,u
+577,Mike,Smiles,,33,"time unreadable: 578 Mike Smiles, 33 76:1",u
+578,David,Zeigler,76:17,43,,u
+579,William,Albers,76:19,61,,u
+580,Tom,Walnut,76:27,69,,u
+581,Mickey,Mahoney,76:30,36,,u
+582,Helen,Bueme,76:30,63,,u
+583,Alexis,Russell,76:31,30,,u
+584,Martha,Mischko,76:34,43,,u
+585,Wayne,Lewis,76:36,40,,u
+586,Robert,Barnell,76:37,40,,u
+587,Jill,Rosecrans,76:39,43,,u
+588,John,Havlik,76:39,45,,u
+589,George,Chelius,76:45,49,,u
+590,Fred,Reiners,76:50,44,,u
+591,James,Mindel,76:51,46,,u
+592,Dana,Brooks,76:53,46,,u
+593,Mark,Pasko,76:56,41,,u
+594,Byrne,No-one,,28,"time unreadable: 595 Byrne, 28 77:5",u
+595,Mel,Hooker,,43,"time unreadable: 596 Mel Hooker, 43 77:6",u
+596,Jim,Murray,,30,"time unreadable: 597 Jim Murray, 30 77:8",u
+597,Chuck,Jensen,,57,"time unreadable: 598 Chuck Jensen, 57 77:8",u
+598,Julie,O’Hara,,24,"time unreadable: 599 Julie O’Hara, 24 77:9",u
+599,Daniel,Burke,77:17,37,,u
+600,Marjorie,Haines,77:23,48,,u
+601,Mary,Malan,77:25,34,,u
+602,Sandy,Garvey,77:27,32,,u
+603,Jeffrey,Yeaw,77:38,38,,u
+604,Ed,Salvo Jr,77:43,48,,u
+605,Katherine,Frederick,77:44,43,,u
+606,Richard,Dunn,77:45,45,,u
+607,Maureen,Spence,77:56,33,,u
+608,John,Spence,77:57,29,,u
+609,Martha,Smiles,,32,"time unreadable: 610 Martha Smiles, 32 78:0",u
+610,Marilyn,Buck,,27,"time unreadable: 611 Marilyn Buck, 27 78:1",u
+611,Stacie,Schonwetter,,17,"time unreadable: 612 Stacie Schonwetter, 17 78:1",u
+612,Steven,Schonwetter,,39,"time unreadable: 613 Steven Schonwetter, 39 78:2",u
+613,Ed,Koivula,,25,"time unreadable: 614 Ed Koivula, 25 78:3",u
+614,Norm,Griiiin,,43,"time unreadable: 615 Norm Griiiin, 43 78:8",u
+615,John,Lontrato,78:10,32,,u
+616,Darryl,Caron,78:14,30,,u
+617,Ray,Smith,78:15,41,,u
+618,Kevin,White,78:15,37,,u
+619,Donald,Boyd,78:16,38,,u
+620,Tracey,Boyd,78:18,31,,u
+621,Lisa,Quig,78:19,28,,u
+622,Ned,Norton,78:21,59,,u
+623,Dave,Harrington,78:23,53,,u
+624,Lisa,Williams,78:25,29,,u
+625,Joseph,DeCristofaro,78:26,40,,u
+626,Cheryl,Olsen,78:29,41,,u
+627,Charles,Miller,78:35,48,,u
+628,Jeanne,Steciuk,78:36,50,,u
+629,JP,Podgorski,78:44,35,,u
+630,Brian,McGovern,78:45,46,,u
+631,Lori Ann,Christina,78:45,33,,u
+632,Dan,Herrick,78:46,45,,u
+633,Sharon,Wanko,78:46,21,,u
+634,Greg,Phelan,78:47,18,,u
+635,Fredrick,VanSaun,78:48,43,,u
+636,Richard,Dixon,78:49,47,,u
+637,Art,Edelstein,78:53,46,,u
+638,Leon,Malan,78:56,38,,u
+639,John,Fisher,,45,"time unreadable: 640 John Fisher, 45 79:9",u
+640,Michael,Ryan,79:12,39,,u
+641,Alan,Via,79:13,45,,u
+642,Lawrence,Kustyn,79:15,37,,u
+643,Chuck,Wanko,79:18,47,,u
+644,Richard,Martin,79:20,46,,u
+645,Alan,Terryberry,79:22,53,,u
+646,Paul,Peters,79:23,45,,u
+647,Kathleen,Barringer,79:27,33,,u
+648,Denis,Chagnon,79:37,47,,u
+649,Cindy,Sedgwick,79:41,33,,u
+650,Ronald,Fava,79:47,53,,u
+651,Robert,Tomasetti,79:49,32,,u
+652,Douglas,Hoyt,79:50,61,,u
+653,Carolyn,Castiglione,79:55,45,,u
+654,Joseph,Putrock,79:56,22,,u
+655,Jen,Barol,,21,"time unreadable: 656 Jen Barol, 21 80:3",u
+656,Mary,Irish,,33,"time unreadable: 657 Mary Irish, 33 80:3",u
+657,Peter,Komarinski,,46,"time unreadable: 658 Peter Komarinski, 46 80:7",u
+658,Vitus,Chow,80:10,36,,u
+659,Brian,Muir,80:14,37,,u
+660,Frank,Zaloga,80:15,36,,u
+661,Joseph,Bouck,80:15,31,,u
+662,Robert,Blake,80:17,42,,u
+663,Beverly,Halderman,80:19,39,,u
+664,Lois,Bell,80:21,62,,u
+665,Larry,Peleggi,80:21,36,,u
+666,Peter,Oldow,80:25,60,,u
+667,Bill,Eades,80:27,47,,u
+668,Judy,LaComb,80:33,41,,u
+669,Michael,Romano,80:35,32,,u
+670,Nina,Zegger,80:40,29,,u
+671,Vicki,Guy,80:41,31,,u
+672,Lisa,Zegger,80:41,25,,u
+673,Bruce,Connelly,80:42,53,,u
+674,Anthony,Falvo,80:43,52,,u
+675,Earl,Costello,80:44,46,,u
+676,Jo,Raquel,80:46,36,,u
+677,Stephen,Lukowski,80:46,44,,u
+678,Charlie,Matlock,80:50,48,,u
+679,G.L.,Brady,80:52,42,,u
+680,Anne,Trela,81:10,46,,u
+681,Kordelia,Hutans,81:11,26,,u
+682,BJ.,Costello,81:13,49,,u
+683,Jerry,Bekaert,81:15,40,,u
+684,Joseph,Premo,81:16,44,,u
+685,Michael,Bartholomew,81:20,69,,u
+686,Ron,Peacock,81:22,41,,u
+687,Gregg,Darby,81:23,36,,u
+688,Timothy,Slocu,81:24,34,,u
+689,Martin,Fisher,81:28,43,,u
+690,Scott,Gollop,81:32,37,,u
+691,George,Charlebois,81:34,39,,u
+692,Frank,Tofani,81:39,37,,u
+693,Gregg,Schnell,81:44,36,,u
+694,Gary,Stromberg,81:49,36,,u
+695,Ted,Turone,81:56,66,,u
+696,Maria,Russell,81:57,25,,u
+697,Emily,Ettlinger,81:57,45,,u
+698,Judith,Adams,81:58,45,,u
+699,Marvin,Spinner,,42,"time unreadable: 700 Marvin Spinner, 42 82:5",u
+700,Rodney,Lombarski,82:10,38,,u
+701,David,Costigan,82:22,41,,u
+702,James,Holland,82:33,62,,u
+703,Ann,Drapeau,82:40,56,,u
+704,Robert,Schnell,82:41,61,,u
+705,Mike,Piatek,82:42,46,,u
+706,William,Wallace,82:43,45,,u
+707,Jeffrey,Clark,82:53,47,,u
+708,John,Mercier,82:54,43,,u
+709,Christopher,Doyle,82:54,29,,u
+710,Joseph,Valla,,49,"time unreadable: 711 Joseph Valla, 49 83:9",u
+711,William,Vacca,83:10,44,,u
+712,Salvatore,Palmieri,83:25,36,,u
+713,Bert,Soltysiak,83:26,62,,u
+714,Ann,Usher,83:28,42,,u
+715,Paul,Coville,83:29,44,,u
+716,Melissa,Peterson,83:40,25,,u
+717,Deborah,Beach,83:46,34,,u
+718,Lawrence,Dana,83:55,51,,u
+719,Michael,Phoenix,83:56,47,,u
+720,James,Ronesi,83:59,47,,u
+721,Mary,Ellis,,51,"time unreadable: 722 Mary Ellis, 51 84:4",u
+722,Dolores,Quinn,84:31,66,,u
+723,Bob,Matteson,84:32,77,,u
+724,Jack,Mangini,84:34,58,,u
+725,Suzanne,Forbes,84:44,44,,u
+726,Peter,Smith,84:47,48,,u
+727,Harry,Kandoian,84:55,51,,u
+728,Terry,Nicholls,84:58,57,,u
+729,Richard,Andress,84:59,45,,u
+730,Janet,Stoler,,49,"time unreadable: 731 Janet Stoler, 49 85:4",u
+731,Dick,Bailey,,52,"time unreadable: 732 Dick Bailey, 52 85:5",u
+732,Cathy,Pastore,85:14,45,,u
+733,Alan,Ridnour,85:20,38,,u
+734,L. Russell,More,85:26,72,,u
+735,Rick,Ketterer,85:33,45,,u
+736,Terry,Ketterer,85:33,43,,u
+737,John,Butnor,85:36,47,,u
+738,Edward,Conway,85:43,33,,u
+739,Margaret,Davis,85:52,41,,u
+740,Jerome,Tracy,85:52,38,,u
+741,John,Costello,85:58,49,,u
+742,Michael,Cuddy,85:58,53,,u
+743,Sandra,Payne,,34,"time unreadable: 744 Sandra Payne, 34 86:5",u
+744,Laura,Zimmer,,17,"time unreadable: 745 Laura Zimmer, 17 86:7",u
+745,Tammy,Chardavoyne,,34,"time unreadable: 746 Tammy Chardavoyne, 34 86:8",u
+746,Bill,Brobston,86:15,80,,u
+747,Dan,Geer,86:17,74,,u
+748,Mark,Sargalis,86:26,14,,u
+749,Timothy,Phoenix,86:26,13,,u
+750,Lisa,Hancock,86:28,32,,u
+751,Charles,Osvald,86:38,19,,u
+752,Gerry,Mancino,86:41,51,,u
+753,Eugene,Dobies,86:43,41,,u
+754,Connie,LaSalle,86:51,58,,u
+755,Hunter,Currin,,55,"time unreadable: 756 Hunter Currin, 55 87:1",u
+756,Nancy,Burke,,41,"time unreadable: 757 Nancy Burke, 41 87:2",u
+757,Richard,Baertsch,,57,"time unreadable: 758 Richard Baertsch, 57 87:4",u
+758,Gail,Hein,,41,"time unreadable: 759 Gail Hein, 41 87:5",u
+759,Lewis,DiCaterino,87:15,46,,u
+760,Richard,Cromer,87:26,60,,u
+761,Charles,Leoni,87:29,49,,u
+762,Jerry,Horn,87:31,40,,u
+763,David,Durkin,87:38,44,,u
+764,Katherine G.,Marchetti,87:38,26,,u
+765,Peter,Vonie,87:42,42,,u
+766,Kathie,Stanton,87:42,38,,u
+767,David,Vonie,87:43,39,,u
+768,June,Skidmore,,50,"time unreadable: 769 June Skidmore, 50 88:1",u
+769,Jake,Landes,,67,"time unreadable: 770 Jake Landes, 67 88:2",u
+770,Thomas,Cebhardt,,42,"time unreadable: 771 Thomas Cebhardt, 42 88:7",u
+771,Ilisa,Waterhouse,,35,"time unreadable: 772 Ilisa Waterhouse, 35 88:8",u
+772,James,Gibney,88:11,72,,u
+773,Marc,Lifset,88:12,41,,u
+774,Deborah,Robertson,88:12,29,,u
+775,Patricia,Longboat,88:22,49,,u
+776,Anne,Devaney,88:30,35,,u
+777,John,Czarkowski,88:31,29,,u
+778,Amy,HoH`er,88:39,22,,u
+779,Ron,Golden,88:43,63,,u
+780,Cheryl,Thomson,88:52,35,,u
+781,John,Maney,88:54,31,,u
+782,Mark,Dylong,89:14,27,,u
+783,Loretta,Shehan,89:18,70,,u
+784,Leo,Nash,89:24,66,,u
+785,Joseph,Pasquariello,89:40,44,,u
+786,Rose,Klapp,,37,"time unreadable: 787 Rose Klapp, 37 90:5",u
+787,Amy,Dexter,90:24,16,,u
+788,Natalie,Hoffman,90:25,42,,u
+789,Michele,Lintner,90:31,24,,u
+790,Nancy,Powhida,90:34,51,,u
+791,David,Ki,90:40,33,,u
+792,Fred,Haag,,62,"time unreadable: 793 Fred Haag, 62 91:2",u
+793,James,Lindblade,91:18,58,,u
+794,Robert,Idzik,91:21,56,,u
+795,Greg,Farnha,91:46,40,,u
+796,Jack,Berkery,91:50,45,,u
+797,John,Vavasour,,44,"time unreadable: 798 John Vavasour, 44 92:1",u
+798,Alan,Hart,92:13,46,,u
+799,Diane,Covell,93:39,38,,u
+800,Dudley,Healy,93:54,79,,u
+801,Edward,Muller,94:25,55,,u
+802,Sidney,Zecher,94:36,74,,u
+803,John,Killingbeck,94:58,43,,u
+804,Wendy,Anderson,,31,"time unreadable: 805 Wendy Anderson, 31 95:2",u
+805,Dolores,Brink,,50,"time unreadable: 806 Dolores Brink, 50 95:4",u
+806,Edward,Vacca,95:12,55,,u
+807,Janet,Aldous,95:33,60,,u
+808,Matthew,Sissman,95:42,30,,u
+809,Connie,Cerardi,96:15,51,,u
+810,James,Fraser,96:20,35,,u
+811,Bernard,Ettinger,96:26,66,,u
+812,James,McIntosh,96:27,42,,u
+813,Thomas,Quinlan,96:27,52,,u
+814,Patti,Duke,98:10,44,,u
+815,Debbie,Flora,99:39,36,,u
+816,Eugene,Ellis,100:10,49,,u
+817,Arleen,Reyell,100:26,31,,u
+818,Candice,Ronesi,,43,"time unreadable: 819 Candice Ronesi, 43 101:7",u
+819,Cary,Adams,101:13,30,,u
+820,Kelly,Blakeslee,103:11,42,,u
+821,Donna,McKendree,103:39,46,,u
+822,Carla,Hogan,106:15,38,,u
+823,Jack,Moran,108:15,63,,u
+824,James,Dern,,74,"time unreadable: 825 James Dern, 74 109:8",u
+825,Martha,Healy,110:14,38,,u
+826,Judy,Farnan,110:36,33,,u
+827,Joseph,Mickalonis,,41,"time unreadable: 828 Joseph Mickalonis, 41 111:0",u
+828,James,Lindeblade,,26,"time unreadable: 829 James Lindeblade, 26 112:0",u
+829,Bettyjean,Sotile,,61,"time unreadable: 830 Bettyjean Sotile, 61 113:0",u

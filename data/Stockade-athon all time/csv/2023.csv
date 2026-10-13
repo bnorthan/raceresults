@@ -125,7 +125,7 @@
 123,124,Marta,Dauphinee,F,45.0,Glenville,NY,F4549,1:02:18,none,1
 124,125,Arnav,Mukherjee,M,19.0,Troy,NY,M1519,1:02:28,none,1
 125,126,Jonathan,Peck,M,45.0,Glenville,NY,M4549,1:02:40,none,1
-126,127,Joe,Marasco,M,27.0,South Glens Fall,NY,M2529,1:02:52,none,1
+126,127,Joe,Marasco,M,27.0,South Glens Falls,NY,M2529,1:02:52,none,1
 127,128,Cara,Udvadia,F,26.0,Clifton Park,NY,F2529,1:02:45,none,1
 128,129,Cortlandt,Tisch,M,27.0,Troy,NY,M2529,1:02:54,none,1
 129,130,Tammy,Chow,F,33.0,Tewksbury,MA,F3034,1:02:58,none,1
@@ -134,7 +134,7 @@
 132,133,Ken,Sluti,M,50.0,Fonda,NY,M5054,1:03:07,none,1
 133,134,Todd,Smith,M,49.0,Voorheesville,NY,M4549,1:03:17,none,1
 134,135,Robert,Diamond,M,32.0,Latham,NY,M3034,1:03:15,none,1
-135,136,Leonard,Leonidas,M,50.0,Castleton On Hud,NY,M5054,1:03:13,none,1
+135,136,Leonard,Leonidas,M,50.0,Castleton On Hudso,NY,M5054,1:03:13,none,1
 136,137,Daniel,Nunez,M,31.0,Huntington,NY,M3034,1:03:49,none,1
 137,138,Paul,Cirillo,M,47.0,Mohawk,NY,M4549,1:03:42,none,1
 138,139,Craig,Dubois,M,60.0,Sprakers,NY,M6064,1:03:53,none,1
@@ -207,7 +207,7 @@
 205,206,Michael,Silvagnoli,M,43.0,Ballston Lake,NY,M4044,1:07:53,none,1
 206,207,Kelly,Eyer,F,16.0,Gansevoort,NY,F1519,1:07:59,none,1
 207,208,Mike,Winkler,M,41.0,Utica,NY,M4044,1:07:57,none,1
-208,209,Christophe,Jaynes,M,42.0,Ballston Spa,NY,M4044,1:08:18,none,1
+208,209,Christopher,Jaynes,M,42.0,Ballston Spa,NY,M4044,1:08:18,none,1
 209,210,Kevin,Beattie,M,53.0,Schenectady,NY,M5054,1:08:06,none,1
 210,211,William,Dodds,M,49.0,Watervliet,NY,M4549,1:08:12,none,1
 211,212,John,Genevich,M,54.0,Saratoga Springs,NY,M5054,1:08:08,none,1
@@ -228,7 +228,7 @@
 226,227,Emily,Shwajlyk,F,35.0,Charlotte,VT,F3539,1:09:00,none,1
 227,228,Brien,Ragone,M,47.0,Niskayuna,NY,M4549,1:08:55,none,1
 228,229,Scott,Nwosu,M,20.0,Rahway,NJ,M2024,1:08:53,none,1
-229,230,Christophe,Fernando,M,53.0,Albany,NY,M5054,1:09:03,none,1
+229,230,Christopher,Fernando,M,53.0,Albany,NY,M5054,1:09:03,none,1
 230,231,Brian,Griffin,M,55.0,Clifton Park,NY,M5559,1:09:04,none,1
 231,232,Jackson,Morse,M,16.0,Niskayuna,NY,M1519,1:09:03,none,1
 232,233,Kathrin,Alber,F,30.0,Schenectady,NY,F3034,1:09:13,none,1
@@ -285,7 +285,7 @@
 283,284,Amanda,Williams,F,33.0,Kinderhook,NY,F3034,1:11:35,none,1
 284,285,Meaghan,Podlaski,F,26.0,Albany,NY,F2529,1:11:40,none,1
 285,286,Frederick,Clark Jr,M,45.0,Nassau,NY,M4549,1:11:28,none,1
-286,287,Christophe,Carboni,M,15.0,Schenectady,NY,M1519,1:11:32,none,1
+286,287,Christopher,Carboni,M,15.0,Schenectady,NY,M1519,1:11:32,none,1
 287,288,Kelsey,Wingate,F,32.0,Niskayuna,NY,F3034,1:11:40,none,1
 288,289,David,Hart,M,62.0,Delmar,NY,M6064,1:11:47,none,1
 289,290,Marisha,Gennett,F,42.0,Amsterdam,NY,F4044,1:11:48,none,1
@@ -316,7 +316,7 @@
 314,315,Amy,Chow,F,37.0,Boulder,CO,F3539,1:12:58,none,1
 315,316,Patrick,Pierce,M,17.0,Clifton Park,NY,M1519,1:13:20,none,1
 316,317,Koki,Tsurusaki,M,56.0,Latham,NY,M5559,1:13:13,none,1
-317,318,Christophe,Carter,M,45.0,Averill Park,NY,M4549,1:13:16,none,1
+317,318,Christopher,Carter,M,45.0,Averill Park,NY,M4549,1:13:16,none,1
 318,319,Gene,Terwilliger,M,56.0,Glenville,NY,M5559,1:13:19,none,1
 319,320,Justine,Lobosco,F,39.0,Ballston Spa,NY,F3539,1:13:12,none,1
 320,321,Matthew,Solo,M,33.0,Troy,NY,M3034,1:13:36,none,1
@@ -333,7 +333,7 @@
 331,332,Charin,Chansetthakul,M,52.0,Albany,NY,M5054,1:13:48,none,1
 332,333,Geoffrey,Hill,M,42.0,Malta,NY,M4044,1:13:55,none,1
 333,334,Daniel,Candiales,M,32.0,Guilderland,NY,M3034,1:13:51,none,1
-334,335,Christophe,Gitro,M,43.0,Ballston Spa,NY,M4044,1:13:58,none,1
+334,335,Christopher,Gitro,M,43.0,Ballston Spa,NY,M4044,1:13:58,none,1
 335,336,Emily,Coppenrath,F,40.0,Rensselaer,NY,F4044,1:14:16,none,1
 336,337,William,Shelefka,M,32.0,Mechanicville,NY,M3034,1:14:10,none,1
 337,338,Jamie,Davenport,F,39.0,Guilderland,NY,F3539,1:14:01,none,1
@@ -351,7 +351,7 @@
 349,350,Jon,Atwell,M,58.0,Clifton Park,NY,M5559,1:14:37,none,1
 350,351,Sean,Lenahan,M,31.0,Delmar,NY,M3034,1:14:39,none,1
 351,352,Jon,Aery,M,42.0,Rotterdam,NY,M4044,1:14:56,none,1
-352,353,Seamus,Houlihan,M,26.0,Joint Base Elmen,AK,M2529,1:14:48,none,1
+352,353,Seamus,Houlihan,M,26.0,Joint Base Elmendo,AK,M2529,1:14:48,none,1
 353,354,Travis,Moore,M,51.0,Ballston Lake,NY,M5054,1:14:44,none,1
 354,355,Chris,Halpin,M,42.0,Albany,NY,M4044,1:15:01,none,1
 355,356,David,Rothman,M,46.0,Green Island,NY,M4549,1:14:57,none,1
@@ -406,7 +406,7 @@
 404,405,Gabrielle,Wilson,F,20.0,Seven Valleys,PA,F2024,1:17:13,none,1
 405,406,Sarah,Mycek,F,40.0,Amsterdam,NY,F4044,1:17:00,none,1
 406,407,Todd,Edmister,M,30.0,Albany,NY,M3034,1:17:17,none,1
-407,408,Mary,Wyatt,F,53.0,"Ballston Lake, N",NY,F5054,1:17:03,none,1
+407,408,Mary,Wyatt,F,53.0,"Ballston Lake, Ny",NY,F5054,1:17:03,none,1
 408,409,Melissa,Carriero,F,36.0,Albany,NY,F3539,1:17:06,none,1
 409,410,Ryan,Kelley,M,28.0,Albany,NY,M2529,1:17:19,none,1
 410,411,Matthew,Field,M,45.0,Albany,NY,M4549,1:17:16,none,1
@@ -445,7 +445,7 @@
 443,444,Nicole,Viscusi,F,38.0,Scotia,NY,F3539,1:19:15,none,1
 444,445,Laura,Picardi,F,58.0,Saratoga Springs,NY,F5559,1:18:58,none,1
 445,446,Karen,Skiba,F,52.0,"Troy, Ny",NY,F5054,1:19:00,none,1
-446,447,Sara,Westcott,F,39.0,Castleton-On-Hud,NY,F3539,1:19:02,none,1
+446,447,Sara,Westcott,F,39.0,Castleton-On-Hudso,NY,F3539,1:19:02,none,1
 447,448,Chris,Duwe,M,60.0,Niskayuna,NY,M6064,1:19:18,none,1
 448,449,Timothy,Shannon,M,45.0,Schenectady,NY,M4549,1:19:05,none,1
 449,450,John,Evans,M,30.0,Rensselaer,NY,M3034,1:19:15,none,1
@@ -492,7 +492,7 @@
 490,491,John,Butler,M,56.0,Latham,NY,M5559,1:20:46,none,1
 491,492,Kristin,Conte,F,36.0,Clifton Park,NY,F3539,1:20:35,none,1
 492,493,Matt,Manning,M,41.0,Glenville,NY,M4044,1:21:07,none,1
-493,494,Christophe,Whitehead,M,31.0,Schenectady,NY,M3034,1:21:03,none,1
+493,494,Christopher,Whitehead,M,31.0,Schenectady,NY,M3034,1:21:03,none,1
 494,495,Gregory,Matthei,M,59.0,Voorheesville,NY,M5559,1:20:59,none,1
 495,496,Wayne,Richardson,M,59.0,Altamont,NY,M5559,1:20:51,none,1
 496,497,Michael,Redfern,M,33.0,Guilderland,NY,M3034,1:21:13,none,1
@@ -534,7 +534,7 @@
 532,533,Athea,Guilfoyle,F,36.0,Ballston Spa,NY,F3539,1:22:14,none,1
 533,534,Dana,Endres,F,45.0,Rensselaer,NY,F4549,1:22:17,none,1
 534,535,Elizabeth,Sweet,F,44.0,East Greenbush,NY,F4044,1:22:34,none,1
-535,536,Christophe,Golden,M,24.0,Glenville,NY,M2024,1:22:44,none,1
+535,536,Christopher,Golden,M,24.0,Glenville,NY,M2024,1:22:44,none,1
 536,537,Michael,Brennan,M,53.0,Valatie,NY,M5054,1:22:36,none,1
 537,538,Seth,Engel,M,34.0,Ballston Lake,NY,M3034,1:22:59,none,1
 538,539,Renee,Wing,F,43.0,Troy,NY,F4044,1:22:49,none,1
@@ -572,14 +572,14 @@
 570,571,Jillian,Steenburgh,F,36.0,Saratoga Springs,NY,F3539,1:23:53,none,1
 571,572,William,Balfoort,M,48.0,Ballston Lake,NY,M4549,1:23:39,none,1
 572,573,Natalie,Oliver,F,20.0,Niskayuna,NY,F2024,1:23:46,none,1
-573,574,Christophe,A Zeitler,M,37.0,Albany,NY,M3539,1:23:33,none,1
+573,574,Christopher,A Zeitler,M,37.0,Albany,NY,M3539,1:23:33,none,1
 574,575,Gabrielle,Mamone,F,28.0,Averill Park,NY,F2529,1:23:45,none,1
 575,576,Reed,Williams,M,29.0,Albany,NY,M2529,1:23:45,none,1
 576,577,Mark,Swain,M,53.0,Saratoga Springs,NY,M5054,1:24:02,none,1
 577,578,Robert,Paley,M,59.0,Watervliet,NY,M5559,1:24:03,none,1
 578,579,Gerald,Montuya,M,24.0,Niskayuna,NY,M2024,1:24:21,none,1
 579,580,Scott,McFadden,M,59.0,Ballston Lake,NY,M5559,1:23:57,none,1
-580,581,Todd,Seeberger,M,49.0,Castleton On Hud,NY,M4549,1:24:16,none,1
+580,581,Todd,Seeberger,M,49.0,Castleton On Hudso,NY,M4549,1:24:16,none,1
 581,582,Jean,Vieira,F,69.0,Middleboro,MA,F6569,1:23:53,none,1
 582,583,Wendy,Zunitch,F,48.0,Pittsfield,MA,F4549,1:24:04,none,1
 583,584,Kalie,Spurgas,F,32.0,Malta,NY,F3034,1:23:59,none,1
@@ -673,13 +673,13 @@
 671,672,Jennifer,Fredricks,F,53.0,Niskayuna,NY,F5054,1:27:43,none,1
 672,673,Andrew,Neubauer,M,46.0,Clifton Park,NY,M4549,1:27:37,none,1
 673,674,Jessica,Decker,F,37.0,Ballston Spa,NY,F3539,1:27:31,none,1
-674,675,Christophe,Lavoy,M,47.0,Rensselaer,NY,M4549,1:27:50,none,1
+674,675,Christopher,Lavoy,M,47.0,Rensselaer,NY,M4549,1:27:50,none,1
 675,676,Kimberly,Henes,F,56.0,Mechanicville,NY,F5559,1:27:57,none,1
 676,677,Ryan,Earle,M,23.0,Schenectady,NY,M2024,1:28:02,none,1
 677,678,Andrew,Timbrook,M,35.0,Ballston Spa,NY,M3539,1:28:10,none,1
 678,679,Kelli,Timbrook,F,36.0,Ballston Spa,NY,F3539,1:28:09,none,1
 679,680,Alexis,Kimball,F,40.0,Loudonville,NY,F4044,1:28:02,none,1
-680,681,Carolyn Bu,George,F,69.0,Albany,NY,F6569,1:27:53,none,1
+680,681,Carolyn Bur,George,F,69.0,Albany,NY,F6569,1:27:53,none,1
 681,682,Nadine,Irish-Shaw,F,48.0,Glenville,NY,F4549,1:27:55,none,1
 682,683,Marisa,Piccirillo,F,28.0,Schenectady,NY,F2529,1:27:52,none,1
 683,684,Elizabeth,Herkenham,F,67.0,Charlton,NY,F6569,1:27:58,none,1
@@ -783,7 +783,7 @@
 781,782,Raelee,Grimm,F,42.0,Altamont,NY,F4044,1:31:00,none,1
 782,783,Erin,Brown,F,40.0,New Hartford,NY,F4044,1:31:04,none,1
 783,784,Stefan,Smith,M,53.0,Scotia,NY,M5054,1:31:13,none,1
-784,785,Laura,Miller,F,38.0,Castleton-On-Hud,NY,F3539,1:31:13,none,1
+784,785,Laura,Miller,F,38.0,Castleton-On-Hudso,NY,F3539,1:31:13,none,1
 785,786,Chrissy,Harper,F,42.0,Niskayuna,NY,F4044,1:31:16,none,1
 786,787,Jaimie,Weiss,F,45.0,Watervliet,NY,F4549,1:31:20,none,1
 787,788,Andrew,Stanier,M,36.0,Albany,NY,M3539,1:31:37,none,1
@@ -795,7 +795,7 @@
 793,794,Sean,West,M,39.0,Niskayuna,NY,M3539,1:31:38,none,1
 794,795,Gracie,Nicol,F,21.0,Schenectady,NY,F2024,1:31:49,none,1
 795,796,Gabby,Gatto,F,21.0,Westport,CT,F2024,1:31:49,none,1
-796,797,Suphawan (,Grimm,F,47.0,Saratoga Springs,NY,F4549,1:31:15,none,1
+796,797,Suphawan (P,Grimm,F,47.0,Saratoga Springs,NY,F4549,1:31:15,none,1
 797,798,Elaine,West,F,40.0,Niskayuna,NY,F4044,1:31:37,none,1
 798,799,Laura,Putnam,F,40.0,Delanson,NY,F4044,1:31:45,none,1
 799,800,James,McCarthy,M,48.0,Ballston Spa,NY,M4549,1:31:52,none,1
@@ -1005,7 +1005,7 @@
 1003,1004,Berta,Lowenstein,F,70.0,Argyle,NY,F7074,1:42:08,none,1
 1004,1005,Corinne,Chatnik,F,32.0,Niskayuna,NY,F3034,1:42:01,none,1
 1005,1006,Roz,Cardish,F,37.0,Troy,NY,F3539,1:42:23,none,1
-1006,1007,Mary Clair,Falotico,F,31.0,Schenectady,NY,F3034,1:42:24,none,1
+1006,1007,Mary Claire,Falotico,F,31.0,Schenectady,NY,F3034,1:42:24,none,1
 1007,1008,Rachel,Montalbano,F,41.0,Ballston Lake,NY,F4044,1:42:34,none,1
 1008,1009,Regan,Coyle,F,27.0,Salem,NH,F2529,1:42:19,none,1
 1009,1010,Jean,Lange,F,57.0,Schenectady,NY,F5559,1:42:33,none,1
@@ -1043,7 +1043,7 @@
 1041,1042,Chris,Deso,M,53.0,Niskayuna,NY,M5054,1:44:37,none,1
 1042,1043,Deso,Gianna,F,17.0,Niskayuna,NY,F1519,1:44:38,none,1
 1043,1044,Dani,Brennan,F,33.0,Troy,NY,F3034,1:44:45,none,1
-1044,1045,Christophe,Manuel,M,51.0,Ballston Lake,NY,M5054,1:45:03,none,1
+1044,1045,Christopher,Manuel,M,51.0,Ballston Lake,NY,M5054,1:45:03,none,1
 1045,1046,Stephanie,Carter,F,54.0,Boston,MA,F5054,1:45:03,none,1
 1046,1047,Donna,Roberts,F,60.0,Queensbury,NY,F6064,1:44:58,none,1
 1047,1048,Ashley,Happy,F,38.0,Granville,NY,F3539,1:44:58,none,1

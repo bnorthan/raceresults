@@ -104,9 +104,10 @@ workon raceresults
 reloads the web app if `PA_API_TOKEN` is set (Account -> API token); without the token it
 tells you to click Reload on the Web tab.
 
-Race *ids* change on every rebuild, so `/raceresults/race/<id>/` links are not stable.
-The slug URLs the site actually links to (`/raceresults/races/2025-stockade-athon/`) are
-keyed on the race name and survive a rebuild.
+Race pages live at slug URLs (`/raceresults/race/2025-stockade-athon/`). The slug is set
+once from the race name and never recomputed, and the rebuild reuses each `Race` row, so
+both the slug and the id survive a rebuild. Old `/raceresults/race/<id>/` links redirect
+to the slug URL.
 
 Keeping the db out of git is deliberate: it is a 4.5 MB binary that would grow the repo
 on every results update, and it would become a second source of truth alongside the csv.

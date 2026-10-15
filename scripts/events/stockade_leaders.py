@@ -179,15 +179,19 @@ def records(people, linked):
 
 
 results = readers.read_alltime(os.path.join(base_dir, 'csv'))
-people  = cluster_runners(results)
+# names a runner has told us are both theirs (married names etc.)
+aliases = [((a.first_name, a.last_name), (a.same_as_first_name, a.same_as_last_name))
+           for a in pd.read_csv(os.path.join(base_dir, 'aliases.csv')).itertuples()]
+people  = cluster_runners(results, aliases=aliases)
 people.drop(columns=['given', 'last']).to_csv(os.path.join(base_dir, 'persons.csv'), index=False)
 
 linked = people[people.person_id >= 0]
 latest = linked.year.max()
 SITE_N = 100            # rows written for the website
+MOST_MIN = 10           # most-races page lists everyone with at least this many
 
 races  = linked.groupby('person_id').year.nunique()
-most   = ranked(races, max(TOP_N, SITE_N), linked, latest)
+most   = ranked(races[races >= MOST_MIN], len(races), linked, latest)
 most.to_csv(os.path.join(base_dir, 'most_races.csv'), index=False)
 
 current = linked[linked.person_id.isin(linked[linked.year == latest].person_id)]

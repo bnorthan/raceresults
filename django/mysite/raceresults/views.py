@@ -232,8 +232,8 @@ def stockade_leaders(request, tab, table, heading, intro):
 def most_races(request):
     return stockade_leaders(request, 'most', MostRacesTable(read_leaders('most_races.csv')),
         'Most finishes, 1976\u20132025',
-        'Every Stockade-athon result since 1976, matched across the years by name and age. '
-        'Streaks skip 2020, which was a virtual race with no results.')
+        'Everyone with 10 or more Stockade-athon finishes since 1976, matched across the '
+        'years by name and age. Streaks skip 2020, which was a virtual race with no results.')
 
 def longest_streaks(request):
     return stockade_leaders(request, 'longest', LongestStreaksTable(read_leaders('longest_streaks.csv')),

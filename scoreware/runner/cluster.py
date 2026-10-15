@@ -4,8 +4,9 @@ when the name is spelled differently or the age is missing.
 Results are linked in passes, strongest evidence first:
   a. exact name (after normalize_name) and compatible age
   b. similar names, scored with matcher.matchRunner; also a first and last
-     name swapped in one year ('Whitlock Ed'), and a two-part married name
-     against one of its parts ('Bertasso-Hughes' / 'Bertasso')
+     name swapped in one year ('Whitlock Ed'), a two-part married name
+     against one of its parts ('Bertasso-Hughes' / 'Bertasso'), and known
+     aliases a runner has told us about ('Paola' / 'Chauhan')
   c. results too thin to stand on their own -- an age that disagrees with
      every other year, an initial instead of a first name, or no age at all --
      join a person only when exactly one person could own them
@@ -92,11 +93,13 @@ def _plausible_age(p, race_date):
     return (race_date - hi).days >= 365.25 * MIN_AGE and (race_date - lo).days <= 365.25 * MAX_AGE
 
 
-def cluster_runners(results, slack_years=1, fuzzy_accept=5.0, last_name_ratio=0.85, given_name_ratio=0.75):
+def cluster_runners(results, slack_years=1, fuzzy_accept=5.0, last_name_ratio=0.85, given_name_ratio=0.75,
+                    aliases=()):
     """results: one row per finish, as from readers.read_alltime.
+    aliases: ((first, last), (first, last)) pairs known to be the same runner.
 
     Returns a copy with columns given, last, person_id and link, where link says
-    how the row joined its person: 'exact', 'fuzzy', 'swapped', 'name part',
+    how the row joined its person: 'exact', 'fuzzy', 'swapped', 'known alias', 'name part',
     'age outlier', 'initial',
     'no age', 'ambiguous' (could belong to more than one person, so left on its
     own) or 'placeholder' (person_id -1).
@@ -160,6 +163,15 @@ def cluster_runners(results, slack_years=1, fuzzy_accept=5.0, last_name_ratio=0.
         for q in by_key.get(p.swapped, []):
             if _compatible(p, q, slack_years):
                 candidates.append((6.0, p, q, 'swapped'))
+
+    # names a runner told us are both theirs ('Elizabeth Paola' / 'Elizabeth Chauhan');
+    # the hard rules still apply, so a wrong entry can't merge two different people
+    for name1, name2 in aliases:
+        k1, k2 = normalize_name(*name1)[:2], normalize_name(*name2)[:2]
+        for p in by_key.get(k1, []):
+            for q in by_key.get(k2, []):
+                if _compatible(p, q, slack_years):
+                    candidates.append((7.0, p, q, 'known alias'))
 
     # a two-part (married) last name against one of its parts ('Bertasso-Hughes' / 'Bertasso')
     for p in people:

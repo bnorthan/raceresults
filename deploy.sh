@@ -21,6 +21,13 @@ cd "$REPO"
 echo "== pulling =="
 git pull --ff-only
 
+# without this file the site runs on the public dev key with DEBUG on
+if [ ! -f django/mysite/mysite/local_settings.py ]; then
+    echo "missing django/mysite/mysite/local_settings.py (production SECRET_KEY, DEBUG = False)"
+    echo "see 'Production settings' in hints.md"
+    exit 1
+fi
+
 python -c "import scoreware" 2>/dev/null || { echo "== installing scoreware =="; pip install -e .; }
 
 cd django/mysite

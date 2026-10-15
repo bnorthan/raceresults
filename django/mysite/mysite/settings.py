@@ -19,10 +19,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
+# Local development defaults. This key is public (it is in git history), so it
+# must never be used in production: on PythonAnywhere, mysite/local_settings.py
+# (gitignored, imported at the bottom of this file) sets the real SECRET_KEY and
+# DEBUG = False. See hints.md.
 SECRET_KEY = '!bd-gg&%u7v0!uln*$q&zx@hbdyi&6v=ij2+aqdc9wbs=g@#dy'
 
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
@@ -121,3 +123,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = str(BASE_DIR / 'static')
+
+# production overrides -- only exists on the server, never in git
+try:
+    from .local_settings import *
+except ImportError:
+    pass

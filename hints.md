@@ -112,6 +112,23 @@ to the slug URL.
 Keeping the db out of git is deliberate: it is a 4.5 MB binary that would grow the repo
 on every results update, and it would become a second source of truth alongside the csv.
 
+## Production settings (one-time, on PythonAnywhere)
+
+The `SECRET_KEY` in `settings.py` is public (it is in git history) and `DEBUG` is on, which
+is fine locally only. On the server, a gitignored `mysite/local_settings.py` overrides
+both; `deploy.sh` refuses to run without it. Create it once, in a PA bash console, so the
+key is generated there and never leaves the server:
+
+```bash
+workon raceresults
+cd ~/raceresults/django/mysite/mysite
+python -c "from django.core.management.utils import get_random_secret_key as k; print(f'SECRET_KEY = {k()!r}\nDEBUG = False\nALLOWED_HOSTS = [\"bnorthan.pythonanywhere.com\"]')" > local_settings.py
+```
+
+Then Reload on the Web tab. With `DEBUG = False`, Django stops serving css itself, so the
+`/static/` mapping on the Web tab (below) must be in place. Errors now go to the error log
+instead of the browser. Changing the key logs you out of `/admin`; nothing else is affected.
+
 ## Environments on pythonanywhere
 
 Pythonanywhere is a great way to test publically.  However after following the initial tutorial (which leads you through creating a Django environment), the next time you login, you need to re-activate the environment.  

@@ -20,6 +20,13 @@ race_out_base_dir='./data/2026/LaborDay/'
 race_out_base = 'LaborDay'
 fixed_width=False
 
+# Mohawk Hudson River Marathon (Oct 11, 2026) -- marathon.csv from scripts/events/marathon2026.py
+members_name='./data/2026/Membership/2026-10-15 Members Hudson Mohawk Road Runners Club.csv'
+race_name='./data/2026/Marathon/marathon.csv'
+race_out_base_dir='./data/2026/Marathon/'
+race_out_base = 'Marathon'
+fixed_width=False
+
 
 
 race_out_name=race_out_base_dir+race_out_base+'.csv'

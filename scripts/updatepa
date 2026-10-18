@@ -7,6 +7,9 @@
 # deploy.sh, moves its start time to two minutes from now, then watches
 # ~/deploy.log on PA (through the PA API) until deploy.sh reports back.  The task
 # also runs once a day at that time; with nothing new it only says 'already deployed'.
+# Only reads go through the PA files API -- a write there was refused (403) -- so the
+# token deploy.sh needs for the reload travels in the task's command (visible in the
+# Tasks tab of your own account), and each run marks the log with its own id.
 #
 # One-time setup: create an API token on PA (Account -> API token).  The first run
 # asks for it and keeps it in ~/.config/pythonanywhere/token.
@@ -17,7 +20,6 @@ API="https://www.pythonanywhere.com/api/v0/user/$PA_USER"
 TOKEN_FILE="$HOME/.config/pythonanywhere/token"
 LOG="/home/$PA_USER/deploy.log"
 REPO="$(cd "$(dirname "$(readlink -f "$0")")/.." && pwd)"
-TASK_CMD="(cd ~/raceresults && git pull --ff-only && . ~/.virtualenvs/raceresults/bin/activate && bash deploy.sh) > $LOG 2>&1 || echo '== deploy FAILED ==' >> $LOG"
 
 if [ ! -s "$TOKEN_FILE" ]; then
     read -rsp "PythonAnywhere API token (Account -> API token): " token; echo
@@ -25,7 +27,18 @@ if [ ! -s "$TOKEN_FILE" ]; then
     (umask 077; printf '%s\n' "$token" > "$TOKEN_FILE")
 fi
 TOKEN="$(cat "$TOKEN_FILE")"
-api() { curl -sSf -H "Authorization: Token $TOKEN" "$@"; }
+# api [curl args] URL: the response body, or on an HTTP error a line saying which
+# call failed and PA's reason
+api() {
+    local out code
+    out="$(curl -sS -w '\n%{http_code}' -H "Authorization: Token $TOKEN" "$@")" || return 1
+    code="${out##*$'\n'}"; out="${out%$'\n'*}"
+    if [ "$code" -ge 400 ]; then
+        echo "PA API ${*: -1}: HTTP $code ${out:0:300}" >&2
+        return 1
+    fi
+    printf '%s' "$out"
+}
 json() { python3 -c "import json, sys; d = json.load(sys.stdin); print($1)"; }
 
 # 1. push
@@ -42,29 +55,27 @@ if [ "$(api "$API/files/path/home/$PA_USER/.raceresults_deployed" 2>/dev/null | 
     echo "$sha is already live"; exit 0
 fi
 
-# 2. deploy.sh reloads the site with the same token; give PA a copy once
-api -o /dev/null "$API/files/path/home/$PA_USER/.pa_api_token" 2>/dev/null \
-    || api -o /dev/null -F "content=@$TOKEN_FILE" "$API/files/path/home/$PA_USER/.pa_api_token"
-
-# 3. clear the old log and start the task two minutes from now (PA task times are UTC)
-api -o /dev/null -X DELETE "$API/files/path$LOG" 2>/dev/null || true
+# 2. start the task two minutes from now (PA task times are UTC)
+RUN="$(date -u +%Y%m%d%H%M%S)"
+TASK_CMD="(echo '== run $RUN =='; cd ~/raceresults && git pull --ff-only && . ~/.virtualenvs/raceresults/bin/activate && PA_API_TOKEN=$TOKEN bash deploy.sh) > $LOG 2>&1 || echo '== deploy FAILED ==' >> $LOG"
 read -r hour minute < <(date -u -d '+2 min' '+%-H %-M')
 task="$(api "$API/schedule/" | json "next((t['id'] for t in d if 'deploy.sh' in t['command']), '')")"
 body=(--data-urlencode "command=$TASK_CMD" --data-urlencode enabled=true --data-urlencode interval=daily
       --data-urlencode "hour=$hour" --data-urlencode "minute=$minute"
       --data-urlencode "description=deploy raceresults (set by updatepa)")
 if [ -n "$task" ]; then
-    api -o /dev/null -X PATCH "${body[@]}" "$API/schedule/$task/"
+    api -X PATCH "${body[@]}" "$API/schedule/$task/" > /dev/null
 else
-    api -o /dev/null -X POST "${body[@]}" "$API/schedule/"
+    api -X POST "${body[@]}" "$API/schedule/" > /dev/null
 fi
 
-# 4. wait for deploy.sh to report
+# 3. wait for this run's deploy.sh to report
 printf 'PA starts the deploy at %02d:%02d UTC; waiting' "$hour" "$minute"
 out=
 for _ in $(seq 60); do      # 15 minutes
     sleep 15
     out="$(api "$API/files/path$LOG" 2>/dev/null || true)"
+    grep -q "== run $RUN ==" <<< "$out" || { printf '.'; continue; }     # still the last run's log
     if grep -q "== deployed $sha ==" <<< "$out"; then
         echo; grep '^== ' <<< "$out" | sed 's/^/  /'
         echo "live: https://$PA_USER.pythonanywhere.com/raceresults/"

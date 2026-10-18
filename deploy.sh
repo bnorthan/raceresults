@@ -5,8 +5,8 @@
 # site shows is rebuilt here from data/Stockade-athon all time/csv/, so there is
 # never a database to upload by hand.
 #
-# Normally started by scripts/updatepa on your own machine, which runs this as a
-# PA scheduled task.  By hand, in a PythonAnywhere bash console:
+# Normally started by scripts/updatepa on your own machine, which types it into
+# your PA Bash console through the PA API.  By hand, in a PythonAnywhere bash console:
 #     workon raceresults
 #     ~/raceresults/deploy.sh            # only what changed since the last deploy
 #     FULL=1 ~/raceresults/deploy.sh     # rebuild the db no matter what

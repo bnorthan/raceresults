@@ -97,9 +97,11 @@ git add ... && git commit
 updatepa                                          # live in ~3 minutes
 ```
 
-`updatepa` (`scripts/updatepa`, linked from `~/bin`) pushes, then uses the PA API to
-start PA's one free scheduled task two minutes from now and waits for it to report.
-The task runs `deploy.sh`, which pulls, migrates, rebuilds the race tables only if the
+`updatepa` (`scripts/updatepa`, linked from `~/bin`) pushes, then uses the PA API to type
+the deploy into your PA Bash console and watches the console until it reports (free
+accounts have no scheduled tasks).  Keep one Bash console open on PA; when PA restarts
+it, open it once in a browser.  The console runs `deploy.sh`, which pulls, migrates,
+rebuilds the race tables only if the
 csv or loader changed since the last deploy, runs collectstatic and reloads the site.
 The first run asks for a PA API token (Account -> API token) and copies it to PA as
 `~/.pa_api_token`.  To deploy by hand instead, in a PA bash console:

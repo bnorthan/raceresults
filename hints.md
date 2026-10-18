@@ -87,22 +87,23 @@ in `~/.bashrc`), or paste one line at a time.
 Step 6 of the checklist above -- uploading `db.sqlite3` through the Files tab -- is only
 needed the *first* time, and strictly speaking not even then.  The database is derived
 data: every race on the site is rebuilt from `data/Stockade-athon all time/csv/` by
-`scripts/makedjangotable.py`, which deletes and reloads each race by name.  So to publish
-new or corrected results, commit the csv and rebuild on the server:
+`scripts/makedjangotable.py`.  So to publish new or corrected results, commit and run
+`updatepa` locally -- no PA console needed:
 
 ```bash
-# locally
 python scripts/events/Stockadeathonalltime.py     # txt -> csv  (years list at the top)
-git add "data/Stockade-athon all time" && git commit && git push
-
-# in a PythonAnywhere bash console
-workon raceresults
-~/raceresults/deploy.sh
+python scripts/events/stockade_leaders.py         # leaders/records csvs
+git add ... && git commit
+updatepa                                          # live in ~3 minutes
 ```
 
-`deploy.sh` pulls, migrates, rebuilds the race tables from csv, runs collectstatic, and
-reloads the web app if `PA_API_TOKEN` is set (Account -> API token); without the token it
-tells you to click Reload on the Web tab.
+`updatepa` (`scripts/updatepa`, linked from `~/bin`) pushes, then uses the PA API to
+start PA's one free scheduled task two minutes from now and waits for it to report.
+The task runs `deploy.sh`, which pulls, migrates, rebuilds the race tables only if the
+csv or loader changed since the last deploy, runs collectstatic and reloads the site.
+The first run asks for a PA API token (Account -> API token) and copies it to PA as
+`~/.pa_api_token`.  To deploy by hand instead, in a PA bash console:
+`workon raceresults && ~/raceresults/deploy.sh` (`FULL=1` forces a db rebuild).
 
 Race pages live at slug URLs (`/raceresults/race/2025-stockade-athon/`). The slug is set
 once from the race name and never recomputed, and the rebuild reuses each `Race` row, so
@@ -122,7 +123,7 @@ key is generated there and never leaves the server:
 ```bash
 workon raceresults
 cd ~/raceresults/django/mysite/mysite
-python -c "from django.core.management.utils import get_random_secret_key as k; print(f'SECRET_KEY = {k()!r}\nDEBUG = False\nALLOWED_HOSTS = [\"bnorthan.pythonanywhere.com\"]')" > local_settings.py
+python -c "from django.core.management.utils import get_random_secret_key as k; print(f'SECRET_KEY = {repr(k())}\nDEBUG = False\nALLOWED_HOSTS = [\"bnorthan.pythonanywhere.com\"]')" > local_settings.py
 ```
 
 Then Reload on the Web tab. With `DEBUG = False`, Django stops serving css itself, so the

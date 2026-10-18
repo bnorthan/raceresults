@@ -4,15 +4,19 @@ when the name is spelled differently or the age is missing.
 Results are linked in passes, strongest evidence first:
   a. exact name (after normalize_name) and compatible age
   b. similar names, scored with matcher.matchRunner; also a first and last
-     name swapped in one year ('Whitlock Ed'), a two-part married name
-     against one of its parts ('Bertasso-Hughes' / 'Bertasso'), and known
-     aliases a runner has told us about ('Paola' / 'Chauhan')
+     name swapped in one year ('Whitlock Ed'), and a two-part married name
+     against one of its parts ('Bertasso-Hughes' / 'Bertasso')
+  b2. eras of one runner whose recorded ages drift a few years over decades
   c. results too thin to stand on their own -- an age that disagrees with
      every other year, an initial instead of a first name, or no age at all --
      join a person only when exactly one person could own them
 
+Before any pass, known aliases a runner has told us about are matched as their
+other name ('Elizabeth Paola' as 'Elizabeth Chauhan').
+
 Hard rules no pass breaks: one result per person per year, birth windows that
-overlap (within slack_years), no M/F conflict, no Jr/Sr conflict.
+overlap (within slack_years; b2 allows drift_years between eras), no M/F conflict,
+no Jr/Sr conflict.
 """
 import collections
 import datetime
@@ -79,10 +83,35 @@ def _narrow(w1, w2):
 
 
 def _compatible(p, q, slack):
+    """The hard rules; slack=None skips the birth-window one (age drift)."""
     return (not (p.years & q.years)
             and (p.gender == q.gender or 'u' in (p.gender, q.gender))
             and (p.suffix == q.suffix or not p.suffix or not q.suffix)
-            and windows_overlap(p.window, q.window, slack))
+            and (slack is None or windows_overlap(p.window, q.window, slack)))
+
+
+# characters a scanner mixes up ('Klttell', 'B1andy', 'Englcrt', 'Thohpson', 'Todoroy')
+SCAN_PAIRS = {frozenset(pair) for pair in ['li', 'l1', 'i1', 'ce', 'fe', 'se', 'o0', 'oq', 'po', 'hm', 'yv', 'uw', 'nw']}
+
+
+def _slip(a, b):
+    """Do last names a and b differ by one scanning or typing slip -- a doubled
+    letter ('stockman' / 'stockmann') or a pair of characters a scanner confuses
+    ('kittell' / 'klttell')?  Not any one-letter difference: Nolan and Dolan,
+    Scott and Stott, D'Aleo and Daley are different families."""
+    if len(a) == len(b):
+        diff = [(x, y) for x, y in zip(a, b) if x != y]
+        return len(diff) == 1 and frozenset(diff[0]) in SCAN_PAIRS
+    short, long = sorted((a, b), key=len)
+    if len(long) - len(short) != 1:
+        return False
+    return any(long[:i] + long[i + 1:] == short and long[i] in long[max(i - 1, 0):i] + long[i + 1:i + 2]
+               for i in range(len(long)))
+
+
+def _years_apart(p, q):
+    """Fewest years between a race of p's and a race of q's."""
+    return min(abs(a - b) for a in p.years for b in q.years)
 
 
 def _plausible_age(p, race_date):
@@ -94,18 +123,23 @@ def _plausible_age(p, race_date):
 
 
 def cluster_runners(results, slack_years=1, fuzzy_accept=5.0, last_name_ratio=0.85, given_name_ratio=0.75,
-                    aliases=()):
+                    aliases=(), drift_years=3, touch_years=4, thin_years=6, common_people=4):
     """results: one row per finish, as from readers.read_alltime.
     aliases: ((first, last), (first, last)) pairs known to be the same runner.
 
     Returns a copy with columns given, last, person_id and link, where link says
     how the row joined its person: 'exact', 'fuzzy', 'swapped', 'known alias', 'name part',
-    'age outlier', 'initial',
-    'no age', 'ambiguous' (could belong to more than one person, so left on its
+    'age drift', 'age outlier', 'initial', 'no age', 'no age, spelling', 'ambiguous' (could belong to more than one person, so left on its
     own) or 'placeholder' (person_id -1).
     """
     df = results.reset_index(drop=True).copy()
     keys = [normalize_name(f, l) for f, l in zip(df.first_name, df.last_name)]
+    # names a runner told us are both theirs ('Elizabeth Paola' / 'Elizabeth Chauhan')
+    # are matched as the second name. Every pass sees them, aged or not, and the hard
+    # rules still apply, so a wrong entry can't merge two different people.
+    alias = {normalize_name(*a)[:2]: normalize_name(*b)[:2] for a, b in aliases}
+    aliased = pd.Series([k[:2] in alias for k in keys])
+    keys = [(*alias[k[:2]], k[2]) if a else k for k, a in zip(keys, aliased)]
     df['given'], df['last'], df['suffix'] = zip(*keys)
     df['window'] = [birth_window(a, d) for a, d in zip(df.age, df.race_date)]
     df['link'] = 'exact'
@@ -164,15 +198,6 @@ def cluster_runners(results, slack_years=1, fuzzy_accept=5.0, last_name_ratio=0.
             if _compatible(p, q, slack_years):
                 candidates.append((6.0, p, q, 'swapped'))
 
-    # names a runner told us are both theirs ('Elizabeth Paola' / 'Elizabeth Chauhan');
-    # the hard rules still apply, so a wrong entry can't merge two different people
-    for name1, name2 in aliases:
-        k1, k2 = normalize_name(*name1)[:2], normalize_name(*name2)[:2]
-        for p in by_key.get(k1, []):
-            for q in by_key.get(k2, []):
-                if _compatible(p, q, slack_years):
-                    candidates.append((7.0, p, q, 'known alias'))
-
     # a two-part (married) last name against one of its parts ('Bertasso-Hughes' / 'Bertasso')
     for p in people:
         for part in p.parts:
@@ -200,6 +225,29 @@ def cluster_runners(results, slack_years=1, fuzzy_accept=5.0, last_name_ratio=0.
         owner[small] = big
     people = [p for p in people if p not in owner]
 
+    # -- b2. age drift ---------------------------------------------------------
+    # Recorded ages that creep a year per decade split one runner into eras (Rich
+    # Daley: born ~1952 by his 1980s ages, ~1946 by 2015).  Join same-name eras
+    # whose birth years are within drift_years and whose races are near in time --
+    # but never for a name two people carried in the same race (the Steve Joneses).
+    in_race = collections.Counter((r.year, r.given, r.last) for r in rows if r.link != 'placeholder')
+    shared = {(g, l) for (_, g, l), n in in_race.items() if n > 1}
+    eras = collections.defaultdict(list)
+    for p in people:
+        if p.n_aged >= 2 and len(p.lasts) == 1 and (p.given, next(iter(p.lasts))) not in shared:
+            eras[(p.given, next(iter(p.lasts)))].append(p)
+    for group in eras.values():
+        pairs = [(abs(p.birth_year() - q.birth_year()), p, q) for i, p in enumerate(group) for q in group[i + 1:]]
+        for gap, p, q in sorted((t for t in pairs if t[0] <= drift_years), key=lambda t: t[0]):
+            p, q = find(p), find(q)
+            if p is q or not _compatible(p, q, None) or _years_apart(p, q) > touch_years:
+                continue
+            big, small = (p, q) if len(p.rows) >= len(q.rows) else (q, p)
+            df.loc[small.rows, 'link'] = 'age drift'
+            big.add(small)
+            owner[small] = big
+    people = [p for p in people if p not in owner]
+
     # -- c. thin results -------------------------------------------------------
     def by_name():
         index = collections.defaultdict(list)
@@ -223,26 +271,76 @@ def cluster_runners(results, slack_years=1, fuzzy_accept=5.0, last_name_ratio=0.
             df.loc[p.rows, 'link'] = 'age outlier'
             people.remove(p)
 
-    # initials and missing ages, oldest first
+    # initials and missing ages, oldest first.  This is weak evidence, so a result
+    # with no age and a common last name joins someone only if they raced within
+    # thin_years of it (not 1977's 'Steve Johnson', 12 years before the Oneonta
+    # one; a rare name like Nabozny can come back after a long break); a last name one slip off
+    # ('STOCKMANN', see _slip) is tried when the exact one finds no one; and among several
+    # possible owners, the only one with the same suffix wins ('R LEE JR').
     index = by_name()
-    for r in sorted((rows[i] for i in df.index[thin]), key=lambda r: r.year):
-        new = Person(r.Index, r)
+
+    def owners_of(r, new, initial, lasts):
+        return list(dict.fromkeys(
+            p for last in lasts for p in index[last]
+            if (any(g.startswith(r.given) for g in p.givens) if initial else r.given in p.givens)
+            and _compatible(p, new, slack_years)
+            and _plausible_age(p, r.race_date)
+            and (new.window is not None or not common(r.last)
+                 or min(abs(y - r.year) for y in p.years) <= thin_years)))
+
+    def common(last):
+        return len(set(index[last])) >= common_people
+
+    def find_owners(r, new):
         initial = len(r.given) == 1
-        owners = [p for p in index[r.last]
-                  if (any(g.startswith(r.given) for g in p.givens) if initial else r.given in p.givens)
-                  and _compatible(p, new, slack_years)
-                  and _plausible_age(p, r.race_date)]
+        how = 'initial' if initial else 'no age'
+        owners = owners_of(r, new, initial, [r.last])
+        if not owners and not initial and len(r.last) >= 5:
+            near = [l for l in list(index) if l != r.last and abs(len(l) - len(r.last)) <= 1 and _slip(l, r.last)]
+            owners = owners_of(r, new, initial, near)
+            how = 'no age, spelling'
+        if len(owners) > 1 and new.suffix:
+            same = [p for p in owners if p.suffix == new.suffix]
+            owners = same if len(same) == 1 else owners
+        if len(owners) > 1:     # 1982 'C BUTTON': Chip (raced 1983), not 2009's Charles
+            close = [p for p in owners if min(abs(y - r.year) for y in p.years) <= thin_years]
+            owners = close if len(close) == 1 else owners
+        return owners, how
+
+    # a chain of thin results (James Forbes: 1976, 1980-81 no age, 1982 initial,
+    # then aged from 1988) links one step at a time, the nearest year first, so
+    # repeat while anything joins
+    pending = sorted((rows[i] for i in df.index[thin]), key=lambda r: r.year)
+    while True:
+        left = []
+        for r in pending:
+            new = Person(r.Index, r)
+            owners, how = find_owners(r, new)
+            if len(owners) == 1:
+                owners[0].add(new)
+                df.loc[r.Index, 'link'] = how
+            else:
+                left.append(r)
+        if len(left) == len(pending):
+            break
+        pending = left
+    # the rest stand alone, oldest first, so two thin results of one otherwise
+    # unknown runner can still find each other
+    for r in pending:
+        new = Person(r.Index, r)
+        owners, how = find_owners(r, new)
         if len(owners) == 1:
             owners[0].add(new)
-            df.loc[r.Index, 'link'] = 'initial' if initial else 'no age'
+            df.loc[r.Index, 'link'] = how
         else:
             people.append(new)
             index[r.last].append(new)
-            df.loc[r.Index, 'link'] = 'ambiguous' if owners else ('initial' if initial else 'no age')
+            df.loc[r.Index, 'link'] = 'ambiguous' if owners else ('initial' if len(r.given) == 1 else 'no age')
 
     person_id = [-1] * len(df)
     for pid, p in enumerate(people):
         for i in p.rows:
             person_id[i] = pid
     df['person_id'] = person_id
+    df.loc[aliased & (df.link == 'exact'), 'link'] = 'known alias'
     return df.drop(columns=['suffix', 'window'])

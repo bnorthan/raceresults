@@ -249,7 +249,9 @@ def records(request):
     return render(request, 'raceresults/stockade_leaders.html', {
         'tab': 'records',
         'heading': 'Course records',
-        'intro': 'The fastest Stockade-athon 15K times since 1976, one line per runner at their best. '
+        'intro': 'The fastest Stockade-athon 15K times since 1976. The overall and age-graded lists '
+                 'show each runner once, at their best; the age-group lists show the 10 best '
+                 'performances, so a runner can appear more than once. '
                  'An age marked ~ is estimated from the runner\'s other years. Age grades use the 2025 '
                  'road standards (Alan Jones, USATF Masters Long Distance Running); the age-graded list '
                  'uses recorded ages only.',

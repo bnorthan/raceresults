@@ -32,8 +32,8 @@ from django.db.transaction import atomic
 # function to read and clean csv format
 def stockade_csv(file, out_file):
     race_=pd.read_csv(file)
-    results=readers.parse_general(race_, header.RaceHeader.headers, 1)
-    results.head()
+    results=tidy_names(readers.parse_general(race_, header.RaceHeader.headers, 1))
+    name_checks(results)
     results.to_csv(out_file)
 
 # function to read clean fixed width format
@@ -78,6 +78,8 @@ def stockade_fwf(file,out_file,rename=None):
     for col in ('first_name', 'last_name', 'city', 'full_name'):
         if col in results.columns:
             results[col]=results[col].apply(utils.fix_mojibake)
+    results=tidy_names(results)
+    name_checks(results)
     results.to_csv(out_file)
 
 def get_lines(file):
@@ -172,7 +174,9 @@ def split_name(name, last_first=False):
     """Name text -> (first, last), keeping every word of the last name:
     'MARK MIN DEL' -> ('MARK', 'MIN DEL'), 'Joseph F. Schmoe' -> ('Joseph F.', 'Schmoe'),
     'Mary Ellen Cusano' -> ('Mary Ellen', 'Cusano'), 'DR. DON SYMANOWICZ' -> ('DON', 'SYMANOWICZ'),
-    'St. Onge, Paul' -> ('Paul', 'St. Onge'), 'Powers, Jr., Joseph' -> ('Joseph', 'Powers Jr.')."""
+    'St. Onge, Paul' -> ('Paul', 'St. Onge'), 'Powers, Jr., Joseph' -> ('Joseph', 'Powers Jr.'),
+    'RAYMOND W. LEE JR' -> ('RAYMOND W.', 'LEE JR'), 'Teague. Brian,' -> ('Brian', 'Teague')."""
+    name = name.strip(' ,')             # a comma before the age isn't a 'Last, First' comma
     if last_first and ',' in name:
         parts = [p.strip(' .:;') for p in name.split(',') if p.strip(' .:;')]
         last  = parts[0] if parts else 'No-one'
@@ -190,6 +194,11 @@ def split_name(name, last_first=False):
         return 'Nobody', 'No-one'
     if last_first:                      # no comma: 'Last First'
         tokens = tokens[1:] + tokens[:1]
+    # a trailing Jr/Sr is set aside first, or 'RAYMOND W. LEE JR' and 'Ray Lee Jr.'
+    # (Lee is also a given name) would leave 'JR' as the whole last name
+    suffix = ''
+    if len(tokens) > 2 and tokens[-1].lower().rstrip('.') in utils.NAME_SUFFIXES:
+        suffix = ' ' + tokens.pop()
     tokens[-1] = tokens[-1].rstrip('.')
     # initials and second given names stay with the first name:
     # 'R Jeffrey Cole', 'Don F Miller', 'Mary Ellen Cusano'
@@ -198,13 +207,53 @@ def split_name(name, last_first=False):
                                          or tokens[n_first].lower() in utils.GIVEN_NAMES):
         n_first += 1
     first = ' '.join(tokens[:n_first])
-    last  = ' '.join(tokens[n_first:]) or 'No-one'
+    last  = (' '.join(tokens[n_first:]) or 'No-one') + suffix
     return first, last
+
+
+# a bare O, D or L starting a last name is an apostrophe that got lost ('O Brien')
+APOSTROPHE_INITIALS = {'o', 'd', 'l'}
+
+def tidy_names(df):
+    """Name fixes for every year, after the year's own parsing: a middle initial
+    split into the last name goes back to the first name ('RAYMOND' / 'W LEE, JR.',
+    1997-2000), and a suffix split into the first name goes to the end of the last
+    name ('Jr., Edward J.' / 'Salvo', 1981)."""
+    if 'first_name' not in df.columns or 'last_name' not in df.columns:
+        return df
+    def fix(first, last):
+        if not isinstance(first, str) or not isinstance(last, str):
+            return first, last
+        f, l = first.split(), last.split()
+        while len(l) > 1 and _is_initial(l[0]) and l[0].lower() not in APOSTROPHE_INITIALS:
+            f.append(l.pop(0))
+        while len(f) > 1 and f[0].strip('.,').lower() in utils.NAME_SUFFIXES:
+            l.append(f.pop(0).strip(','))
+        return ' '.join(f), ' '.join(l)
+    df['first_name'], df['last_name'] = zip(*(fix(f, l) for f, l in zip(df.first_name, df.last_name)))
+    return df
+
+
+def name_checks(df):
+    """Say how many names still look mis-split, rather than letting them through quietly."""
+    if 'last_name' not in df.columns:
+        return
+    last = df.last_name.astype(str).str.strip()
+    checks = {'last name is only a suffix': last.str.lower().str.rstrip('.').isin(utils.NAME_SUFFIXES),
+              'last name starts with an initial': last.str.match(r'^[A-Za-z]\.?\s+\S')
+                                                  & ~last.str.match(r'^[OoDdLl]\s'),
+              'name not split (Nobody / No-one)': df.first_name.astype(str).eq('Nobody') | last.eq('No-one')}
+    for what, bad in checks.items():
+        if bad.any():
+            names = ', '.join(f'{f} / {l}' for f, l in zip(df.first_name[bad], last[bad]))
+            print(f'{year}: {bad.sum()} {what}: {names}')
 
 def write_rows(rows, out_file):
     unreadable = sum(r['note'] is not None for r in rows)
     print(f'{year}: {len(rows)} rows, {unreadable} kept with an unreadable time')
-    apply_corrections(pd.DataFrame(rows)).to_csv(out_file)
+    df = tidy_names(apply_corrections(pd.DataFrame(rows)))
+    name_checks(df)
+    df.to_csv(out_file)
 
 
 def apply_corrections(df):

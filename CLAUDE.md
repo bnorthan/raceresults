@@ -119,7 +119,7 @@ PythonAnywhere deployment notes (static files, virtualenvs).
 
 ## Current state (2026-10)
 
-- DB holds 49 races / 49,964 results: every Stockade-athon 1976–2025 except 2020
+- DB holds 49 races / 49,962 results: every Stockade-athon 1976–2025 except 2020
   (virtual race, no source data).
 - Race pages are keyed by slug: `/raceresults/race/1976-stockade-athon/`. Old
   `/race/<id>/` links redirect. The loader reuses the `Race` row on reload, so ids are

@@ -306,7 +306,7 @@
 304,305,Kimberly,Moak,Kimberly Moak,F,24.0,ALBANY,NY,1:12:17,7:47,1
 305,306,Lawrence,Fisher,Lawrence Fisher,M,65.0,GLOVERSVILLE,NY,1:12:21,7:47,1
 306,307,Dan,Curtin,Dan Curtin,M,51.0,VALATIE,NY,1:12:23,7:47,1
-307,308,Joseph,P Richardson,Joseph P Richardson,M,59.0,DELMAR,NY,1:12:28,7:48,1
+307,308,Joseph P,Richardson,Joseph P Richardson,M,59.0,DELMAR,NY,1:12:28,7:48,1
 308,309,David,Anderson,David Anderson,M,47.0,NISKAYUNA,NY,1:12:30,7:48,1
 309,310,Patrick,Torosian,Patrick Torosian,M,29.0,CLIFTON PARK,NY,1:12:33,7:48,1
 310,311,Ian,Vonie,Ian Vonie,M,14.0,BALLSTON LAKE,NY,1:12:33,7:49,1
@@ -472,7 +472,7 @@
 470,471,Glenn,Schaef,Glenn Schaef,M,48.0,SARATOGA SPRING,NY,1:19:28,8:33,1
 471,472,Rick,Zahnleuter,Rick Zahnleuter,M,42.0,CLIFTON PARK,NY,1:19:29,8:33,1
 472,473,Michael,Howard,Michael Howard,M,43.0,SCHENECTADY,NY,1:19:29,8:33,1
-473,474,John,A. Thomson,John A. Thomson,M,59.0,NORTH BENNINGTO,VT,1:19:33,8:34,1
+473,474,John A.,Thomson,John A. Thomson,M,59.0,NORTH BENNINGTO,VT,1:19:33,8:34,1
 474,475,Jane,Hawksley,Jane Hawksley,F,34.0,BALLSTON LAKE,NY,1:19:40,8:34,1
 475,476,Chad,Pagan,Chad Pagan,M,33.0,CLIFTON PARK,NY,1:19:41,8:35,1
 476,477,Ken,Rudolph,Ken Rudolph,M,44.0,NISKAYUNA,NY,1:19:41,8:35,1
@@ -502,7 +502,7 @@
 500,501,Rich,Rodgers,Rich Rodgers,M,41.0,PALENVILLE,NY,1:21:01,8:43,1
 501,502,Lauren,Choiniere,Lauren Choiniere,F,14.0,COLONIE,NY,1:21:05,8:44,1
 502,503,Mary,Lynn Lasch,Mary Lynn Lasch,F,35.0,COLONIE,NY,1:21:05,8:44,1
-503,504,Edward,J Salvo,Edward J Salvo,M,53.0,SCOTIA,NY,1:21:06,8:44,1
+503,504,Edward J,Salvo,Edward J Salvo,M,53.0,SCOTIA,NY,1:21:06,8:44,1
 504,505,Michael,Irving,Michael Irving,M,43.0,MIDDLEBURGH,NY,1:21:12,8:44,1
 505,506,Rachel,Hamm,Rachel Hamm,F,25.0,MIDDLEBURGH,NY,1:21:12,8:44,1
 506,507,Matt,Fleming,Matt Fleming,M,44.0,ALBANY,NY,1:21:18,8:45,1
@@ -521,7 +521,7 @@
 519,520,Katie,Holley,Katie Holley,F,15.0,Burnt Hills,NY,1:21:48,8:48,1
 520,521,Megan,Lewis,Megan Lewis,F,14.0,BURNT HILLS,NY,1:21:49,8:48,1
 521,522,Sally,Rusby,Sally Rusby,F,62.0,HORSEHEADS,NY,1:22:00,8:49,1
-522,523,G.,L. Brady,G. L. Brady,M,47.0,ALBANY,NY,1:22:02,8:50,1
+522,523,G. L.,Brady,G. L. Brady,M,47.0,ALBANY,NY,1:22:02,8:50,1
 523,524,Tony,Kasowski,Tony Kasowski,M,24.0,MALTA,NY,1:22:03,8:50,1
 524,525,Beth,Cluett,Beth Cluett,F,31.0,BALLSTON SPA,NY,1:22:10,8:51,1
 525,526,Jeff,Caimono,Jeff Caimono,M,30.0,COHOES,NY,1:22:10,8:51,1
@@ -689,7 +689,7 @@
 687,688,Melissa,Mienaltowski,Melissa Mienaltowski,F,21.0,DELANSON,NY,1:38:18,10:35,1
 688,689,Nancy,Turnbull,Nancy Turnbull,F,35.0,SCOTIA,NY,1:38:44,10:37,1
 689,690,Nancy,Pawhida,Nancy Pawhida,F,56.0,BALLSTON SPA,NY,1:38:46,10:38,1
-690,691,Richard,G. Bailey,Richard G. Bailey,M,57.0,SCHENECTADY,NY,1:39:01,10:39,1
+690,691,Richard G.,Bailey,Richard G. Bailey,M,57.0,SCHENECTADY,NY,1:39:01,10:39,1
 691,692,Tom,Favata,Tom Favata,M,33.0,SCHENECTADY,NY,1:39:10,10:40,1
 692,693,Katherine,Karlson,Katherine Karlson,F,46.0,BINGHAMTON,NY,1:39:19,10:41,1
 693,694,Bob,Reid,Bob Reid,M,46.0,COBLESKILL,NY,1:39:27,10:42,1

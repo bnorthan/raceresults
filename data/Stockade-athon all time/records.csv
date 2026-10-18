@@ -1,186 +1,334 @@
 list,rank,runner,gender,age,year,time,grade,person_id
-Men,1,Jerry Lawson,M,26,1992,44:39,90.1%,2125
-Men,2,Daniel Predmore,M,26,1984,45:19,88.8%,1063
-Men,2,Terry Perrault,M,27,1988,45:19,88.8%,2765
-Men,4,Thomas Dalton,M,24,1982,45:20,88.8%,1064
-Men,5,Barry Brown,M,~36,1980,45:23,89.8%,154
-Men,5,Louis Serafini,M,25,2016,45:23,88.7%,8628
-Men,7,Grant O'Connor,M,28,2025,45:29,88.5%,18138
-Men,8,John Raneri,M,25,2016,45:30,88.5%,15057
-Men,9,Tom Carter,M,31,1983,45:46,87.9%,152
-Men,10,Michael Fout,M,23,2013,45:48,87.9%,13007
-Women,1,Megan Hogan,F,26,2014,51:09,85.7%,13831
-Women,2,Hannah Davidson,F,25,2015,51:19,85.4%,13016
-Women,3,Lori Hewig,F,33,1993,51:34,85.7%,3145
-Women,4,Maegan Krifchin,F,24,2012,51:59,84.3%,12277
-Women,5,Salome Kosgei,F,35,2015,52:17,85.0%,14482
-Women,6,Kathleen Brandell,F,23,1985,52:34,83.4%,2025
-Women,7,Cara Udvadia,F,28,2025,53:01,82.7%,17752
-Women,8,Lianne Farber,F,31,2023,53:10,82.7%,17723
-Women,9,Amy Tortorello,F,34,2025,53:11,83.3%,18586
-Women,10,Amanda Chambers,F,25,2024,53:55,81.3%,18153
+Men,1,Jerry Lawson,M,26,1992,44:39,90.1%,2128
+Men,2,Daniel Predmore,M,26,1984,45:19,88.8%,1064
+Men,2,Terry Perrault,M,27,1988,45:19,88.8%,2767
+Men,4,Thomas Dalton,M,24,1982,45:20,88.8%,1065
+Men,5,Barry Brown,M,~36,1980,45:23,89.8%,153
+Men,5,Louis Serafini,M,25,2016,45:23,88.7%,8611
+Men,7,Grant O'Connor,M,28,2025,45:29,88.5%,18105
+Men,8,John Raneri,M,25,2016,45:30,88.5%,15028
+Men,9,Tom Carter,M,31,1983,45:46,87.9%,151
+Men,10,Michael Fout,M,23,2013,45:48,87.9%,12980
+Women,1,Megan Hogan,F,26,2014,51:09,85.7%,13803
+Women,2,Hannah Davidson,F,25,2015,51:19,85.4%,12989
+Women,3,Lori Hewig,F,33,1993,51:34,85.7%,3148
+Women,4,Paul Stevens,F,~29,1980,51:57,84.4%,19806
+Women,5,Maegan Krifchin,F,24,2012,51:59,84.3%,12250
+Women,6,Salome Kosgei,F,35,2015,52:17,85.0%,14455
+Women,7,Kathleen Brandell,F,23,1985,52:34,83.4%,2028
+Women,8,Cara Udvadia,F,28,2025,53:01,82.7%,17719
+Women,9,Lianne Farber,F,31,2023,53:10,82.7%,17690
+Women,10,Amy Tortorello,F,34,2025,53:11,83.3%,18553
 Men 14 & under,1,Dieter Drake,M,14,1985,53:23,82.2%,555
-Men 14 & under,2,Andrew Bangert,M,14,2002,55:12,79.5%,6877
-Men 14 & under,3,C Rogers,M,14,1982,56:31,77.7%,20506
-Men 14 & under,4,Paul St. Onge,M,14,1989,56:58,77.1%,2853
-Men 14 & under,5,Daniel Collins,M,~11,1980,57:53,85.2%,17045
+Men 14 & under,2,Andrew Bangert,M,14,2002,55:12,79.5%,6865
+Men 14 & under,3,Andrew Bangert,M,13,2001,55:28,81.7%,6865
+Men 14 & under,4,C Rogers,M,14,1982,56:31,77.7%,20418
+Men 14 & under,5,Paul St. Onge,M,14,1989,56:58,77.1%,2856
+Men 14 & under,6,Tom Rissberger,M,14,1978,57:54,75.8%,33
+Men 14 & under,6,B Corbett,M,10,1982,57:54,89.9%,20431
+Men 14 & under,8,Joe Curtin,M,~14,1978,58:12,75.4%,1074
+Men 14 & under,9,Dennis Pollicino,M,14,2012,58:15,75.4%,10994
+Men 14 & under,10,Michael Flynn,M,14,1983,58:20,75.3%,301
 Men 15-19,1,Bill Douglas,M,~19,1980,48:08,84.2%,14
-Men 15-19,2,Luke Tkaczyk,M,19,2022,48:39,83.3%,17346
-Men 15-19,3,Joe Curtin,M,18,1982,48:42,84.1%,1073
-Men 15-19,4,Scott Ferguson,M,~17,1976,48:43,85.0%,7600
-Men 15-19,5,Kevin Scheuer,M,~19,1977,48:51,83.0%,1075
-Men 20-24,1,Thomas Dalton,M,24,1982,45:20,88.8%,1064
-Men 20-24,2,Jerry Lawson,M,22,1988,45:40,88.1%,2125
-Men 20-24,3,Michael Fout,M,23,2013,45:48,87.9%,13007
-Men 20-24,4,Jake Sienko,M,24,2016,45:50,87.8%,15058
-Men 20-24,5,Sean Oconnor,M,22,2019,46:01,87.5%,16508
-Men 25-29,1,Jerry Lawson,M,26,1992,44:39,90.1%,2125
-Men 25-29,2,Daniel Predmore,M,26,1984,45:19,88.8%,1063
-Men 25-29,2,Terry Perrault,M,27,1988,45:19,88.8%,2765
-Men 25-29,4,Louis Serafini,M,25,2016,45:23,88.7%,8628
-Men 25-29,5,Grant O'Connor,M,28,2025,45:29,88.5%,18138
-Men 30-34,1,Louis Serafini,M,30,2021,45:28,88.5%,8628
-Men 30-34,2,Thomas Dalton,M,30,1988,45:45,88.0%,1064
-Men 30-34,3,Tom Carter,M,31,1983,45:46,87.9%,152
-Men 30-34,4,Sam Morse,M,31,2014,46:42,86.2%,12271
-Men 30-34,5,Jonathan Aziz,M,30,2021,46:49,86.0%,15061
-Men 35-39,1,Barry Brown,M,~36,1980,45:23,89.8%,154
-Men 35-39,2,B Broun,M,38,1982,46:44,88.1%,20457
-Men 35-39,3,Thomas Young,M,35,2015,46:49,86.7%,14476
-Men 35-39,4,Sam Morse,M,38,2021,47:03,87.5%,12271
-Men 35-39,5,Dale Keenan,M,35,1985,47:21,85.7%,5
-Men 40-44,1,Barry Brown,M,40,1984,46:21,90.1%,154
-Men 40-44,2,Sam Morse,M,41,2024,47:53,87.9%,12271
-Men 40-44,3,Peter VanGarderen,M,42,1983,48:23,87.7%,10
-Men 40-44,4,Dale Keenan,M,41,1991,48:34,86.7%,5
-Men 40-44,5,Thomas Dalton,M,40,1998,48:38,85.9%,1064
-Men 45-49,1,Nicholas Conway,M,49,2024,48:57,91.9%,6257
-Men 45-49,2,Thomas Dalton,M,46,2004,48:59,89.5%,1064
-Men 45-49,3,Mark Andrews,M,46,2016,50:20,87.1%,10906
-Men 45-49,4,Laurence Burns,M,46,1982,50:37,86.6%,19913
-Men 45-49,5,Patrick Glover,M,46,1992,50:55,86.1%,0
-Men 50-54,1,Nicholas Conway,M,50,2025,48:28,93.6%,6257
-Men 50-54,2,William Dixon,M,51,1998,52:45,86.8%,6260
-Men 50-54,3,Kent Lemme,M,51,2017,53:10,86.1%,12274
-Men 50-54,4,Bob Giambalvo,M,52,2001,53:26,86.4%,7178
-Men 50-54,5,Dale Keenan,M,50,2000,53:37,84.6%,5
-Men 55-59,1,Bob Giambalvo,M,55,2004,54:41,86.7%,7178
-Men 55-59,2,William Dixon,M,55,2002,54:59,86.2%,6260
-Men 55-59,3,Derrick Staley,M,57,2015,55:01,87.8%,6291
-Men 55-59,4,Norm Larson,M,55,2011,55:03,86.1%,11553
-Men 55-59,5,Howard Rubin,M,56,1984,55:11,86.7%,1107
-Men 60-64,1,Nat Larson,M,61,2023,53:34,93.6%,17724
-Men 60-64,2,Bill Borla,M,63,2003,56:10,91.0%,7513
-Men 60-64,3,William Dixon,M,61,2008,56:36,88.5%,6260
-Men 60-64,4,Howard Rubin,M,60,1988,56:43,87.5%,1107
-Men 60-64,5,John Camelio,M,60,2005,58:01,85.6%,6024
-Men 65-69,1,Bill Borla,M,65,2005,58:03,89.8%,7513
-Men 65-69,2,William Dixon,M,66,2013,58:48,89.5%,6260
-Men 65-69,3,Tim Haley,M,65,2014,1:00:33,86.1%,8211
-Men 65-69,4,Derrick Staley,M,67,2025,1:01:38,86.3%,6291
-Men 65-69,5,Robert Gauvreau,M,65,1994,1:03:14,82.4%,2532
-Men 70-74,1,Ed Whitlock,M,73,2004,58:57,96.4%,7904
-Men 70-74,2,Bill Borla,M,70,2010,1:03:25,86.5%,7513
-Men 70-74,3,Dave Glass,M,71,2017,1:05:47,84.3%,1151
-Men 70-74,4,Nathaniel White,M,70,1989,1:08:56,79.5%,1272
-Men 70-74,5,Allan Bates,M,70,2018,1:09:10,79.3%,10938
-Men 75-79,1,Ed Whitlock,M,75,2006,1:00:29,96.8%,7904
-Men 75-79,2,Dave Glass,M,76,2022,1:09:32,85.6%,1151
-Men 75-79,3,Roger Robinson,M,76,2015,1:12:32,82.1%,14583
-Men 75-79,4,Doug Blanchard*!*,M,75,2001,1:15:15,77.8%,6102
-Men 75-79,5,Wade Stockman,M,75,2010,1:17:07,75.9%,279
-Men 80-84,1,Ed Whitlock,M,80,2011,1:07:05,96.2%,7904
-Men 80-84,2,Roger Robinson,M,83,2022,1:21:58,85.0%,14583
-Men 80-84,3,Dudley Healy,M,81,1995,1:25:12,77.6%,5082
-Men 80-84,4,Bill Brobston,M,80,1993,1:26:15,74.8%,2677
-Men 80-84,5,George Gilder,M,83,2023,1:30:33,77.0%,14693
-Men 85-89,1,Ed Whitlock,M,85,2016,1:15:10,98.6%,7904
-Men 85-89,2,George Gilder,M,85,2025,1:47:58,68.6%,14693
-Women 14 & under,1,Brina Seguine,F,14,2003,59:22,81.8%,7901
-Women 14 & under,2,Sarah Morin,F,14,2010,1:02:01,78.3%,10415
-Women 14 & under,3,Chelsea Trant,F,14,2006,1:02:42,77.4%,9058
-Women 14 & under,4,Tara Gorman,F,12,1986,1:04:26,79.2%,2430
-Women 14 & under,5,Meredith Hungerford,F,14,2009,1:04:30,75.2%,10411
-Women 14 & under,5,Payton Czupil,F,14,2013,1:04:30,75.2%,12428
-Women 15-19,1,Susan Hay,F,~16,1979,56:43,82.2%,2026
-Women 15-19,2,Courtney Breiner,F,19,2016,57:49,76.8%,12464
+Men 15-19,2,Luke Tkaczyk,M,19,2022,48:39,83.3%,17313
+Men 15-19,3,Joe Curtin,M,18,1982,48:42,84.1%,1074
+Men 15-19,4,Kevin Scheuer,M,~19,1977,48:51,83.0%,1076
+Men 15-19,5,Tyler Greene,M,18,2022,48:58,83.6%,15178
+Men 15-19,6,Nathaniel Sletten,M,19,2022,49:15,82.3%,17314
+Men 15-19,7,Kevin Scheuer,M,~18,1976,49:47,82.2%,1076
+Men 15-19,8,Bill Douglas,M,~18,1979,49:55,82.0%,14
+Men 15-19,8,Jay Parker,M,19,2022,49:55,81.2%,17317
+Men 15-19,10,Noah Greski,M,19,2022,50:01,81.0%,15544
+Men 20-24,1,Thomas Dalton,M,24,1982,45:20,88.8%,1065
+Men 20-24,2,Jerry Lawson,M,22,1988,45:40,88.1%,2128
+Men 20-24,3,Jerry Lawson,M,21,1987,45:47,87.9%,2128
+Men 20-24,4,Michael Fout,M,23,2013,45:48,87.9%,12980
+Men 20-24,5,Jake Sienko,M,24,2016,45:50,87.8%,15029
+Men 20-24,6,Sean Oconnor,M,22,2019,46:01,87.5%,16477
+Men 20-24,7,Jerry Lawson,M,20,1986,46:06,87.5%,2128
+Men 20-24,8,Daniel Lennon,M,22,2016,46:20,86.9%,15030
+Men 20-24,9,Kevin Collins,M,24,1995,46:25,86.7%,5101
+Men 20-24,10,Andy Allstadt,M,24,2007,46:36,86.4%,8995
+Men 25-29,1,Jerry Lawson,M,26,1992,44:39,90.1%,2128
+Men 25-29,2,Daniel Predmore,M,26,1984,45:19,88.8%,1064
+Men 25-29,2,Terry Perrault,M,27,1988,45:19,88.8%,2767
+Men 25-29,4,Louis Serafini,M,25,2016,45:23,88.7%,8611
+Men 25-29,5,Grant O'Connor,M,28,2025,45:29,88.5%,18105
+Men 25-29,6,John Raneri,M,25,2016,45:30,88.5%,15028
+Men 25-29,7,Thomas Dalton,M,27,1985,46:01,87.5%,1065
+Men 25-29,8,Thomas Dalton,M,26,1984,46:08,87.2%,1065
+Men 25-29,9,Yonas Mebrahtu,M,27,2015,46:10,87.2%,14448
+Men 25-29,10,John Busque,M,27,2019,46:11,87.2%,13800
+Men 30-34,1,Louis Serafini,M,30,2021,45:28,88.5%,8611
+Men 30-34,2,Thomas Dalton,M,30,1988,45:45,88.0%,1065
+Men 30-34,3,Tom Carter,M,31,1983,45:46,87.9%,151
+Men 30-34,4,Louis Serafini,M,31,2022,45:59,87.5%,8611
+Men 30-34,5,Sam Morse,M,31,2014,46:42,86.2%,12244
+Men 30-34,6,Sam Morse,M,32,2015,46:45,86.2%,12244
+Men 30-34,7,Jonathan Aziz,M,30,2021,46:49,86.0%,15032
+Men 30-34,8,Thomas Dalton,M,32,1990,46:51,86.0%,1065
+Men 30-34,8,Richard Coughlin,M,30,1990,46:51,85.9%,1066
+Men 30-34,10,Thomas Dalton,M,31,1989,46:52,85.9%,1065
+Men 35-39,1,Barry Brown,M,~36,1980,45:23,89.8%,153
+Men 35-39,2,Barry Brown,M,39,1983,46:34,89.0%,153
+Men 35-39,3,B Broun,M,38,1982,46:44,88.1%,20379
+Men 35-39,4,Thomas Young,M,35,2015,46:49,86.7%,14449
+Men 35-39,5,Sam Morse,M,38,2021,47:03,87.5%,12244
+Men 35-39,6,Dale Keenan,M,35,1985,47:21,85.7%,5
+Men 35-39,7,Thomas Dalton,M,35,1993,47:31,85.4%,1065
+Men 35-39,8,Sam Morse,M,39,2022,47:34,87.1%,12244
+Men 35-39,9,Thomas Dalton,M,37,1995,47:35,86.1%,1065
+Men 35-39,10,Dale Keenan,M,37,1987,47:41,85.9%,5
+Men 40-44,1,Barry Brown,M,40,1984,46:21,90.1%,153
+Men 40-44,2,Barry Brown,M,~42,1986,47:35,89.2%,153
+Men 40-44,3,Sam Morse,M,41,2024,47:53,87.9%,12244
+Men 40-44,4,Peter VanGarderen,M,42,1983,48:23,87.7%,10
+Men 40-44,5,Dale Keenan,M,41,1991,48:34,86.7%,5
+Men 40-44,6,Thomas Dalton,M,40,1998,48:38,85.9%,1065
+Men 40-44,7,Mark Andrews,M,41,2011,48:41,86.5%,10882
+Men 40-44,8,Dale Keenan,M,40,1990,48:54,85.4%,5
+Men 40-44,9,Tom Carter,M,40,1992,49:00,85.2%,151
+Men 40-44,10,Kevin Collins,M,40,2011,49:06,85.1%,5101
+Men 45-49,1,Nicholas Conway,M,49,2024,48:57,91.9%,6248
+Men 45-49,2,Thomas Dalton,M,46,2004,48:59,89.5%,1065
+Men 45-49,2,Nicholas Conway,M,48,2023,48:59,91.1%,6248
+Men 45-49,4,Mark Andrews,M,46,2016,50:20,87.1%,10882
+Men 45-49,5,Laurence Burns,M,46,1982,50:37,86.6%,19880
+Men 45-49,6,Patrick Glover,M,46,1992,50:55,86.1%,0
+Men 45-49,7,Kent Lemme,M,48,2014,51:02,87.4%,12247
+Men 45-49,8,Kent Lemme,M,46,2012,51:12,85.6%,12247
+Men 45-49,9,Bill Fuller,M,45,1984,51:19,84.8%,1078
+Men 45-49,10,Peter VanGarderen,M,47,1988,51:29,85.9%,10
+Men 50-54,1,Nicholas Conway,M,50,2025,48:28,93.6%,6248
+Men 50-54,2,William Dixon,M,51,1998,52:45,86.8%,6251
+Men 50-54,3,Kent Lemme,M,51,2017,53:10,86.1%,12247
+Men 50-54,4,William Dixon,M,53,2000,53:23,87.2%,6251
+Men 50-54,5,Bob Giambalvo,M,52,2001,53:26,86.4%,7164
+Men 50-54,6,Kent Lemme,M,50,2016,53:36,84.6%,12247
+Men 50-54,7,Dale Keenan,M,50,2000,53:37,84.6%,5
+Men 50-54,8,Patrick Glover,M,50,1996,53:56,84.1%,0
+Men 50-54,9,John Noonan,M,51,2010,54:06,84.6%,187
+Men 50-54,10,John Noonan,M,50,2009,54:09,83.8%,187
+Men 55-59,1,Bob Giambalvo,M,55,2004,54:41,86.7%,7164
+Men 55-59,2,William Dixon,M,55,2002,54:59,86.2%,6251
+Men 55-59,3,William Dixon,M,56,2003,55:00,87.0%,6251
+Men 55-59,4,Derrick Staley,M,57,2015,55:01,87.8%,6282
+Men 55-59,5,Norm Larson,M,55,2011,55:03,86.1%,11528
+Men 55-59,6,Howard Rubin,M,56,1984,55:11,86.7%,1108
+Men 55-59,6,William Dixon,M,57,2004,55:11,87.5%,6251
+Men 55-59,8,Derrick Staley,M,55,2014,55:12,85.9%,6282
+Men 55-59,9,Scott Humphrey,M,56,2022,55:13,86.7%,17330
+Men 55-59,10,William Dixon,M,59,2006,55:55,88.0%,6251
+Men 60-64,1,Nat Larson,M,61,2023,53:34,93.6%,17691
+Men 60-64,2,Bill Borla,M,63,2003,56:10,91.0%,7496
+Men 60-64,3,William Dixon,M,61,2008,56:36,88.5%,6251
+Men 60-64,4,Howard Rubin,M,60,1988,56:43,87.5%,1108
+Men 60-64,5,John Camelio,M,60,2005,58:01,85.6%,6022
+Men 60-64,6,Gordon MacFarland,M,62,2010,58:11,87.0%,10899
+Men 60-64,6,Derrick Staley,M,60,2018,58:11,85.3%,6282
+Men 60-64,8,William Dixon,M,64,2011,58:15,88.6%,6251
+Men 60-64,9,Bill Borla,M,62,2002,58:16,86.8%,7496
+Men 60-64,10,Gerald Barney,M,60,1992,58:28,84.9%,2158
+Men 65-69,1,Bill Borla,M,65,2005,58:03,89.8%,7496
+Men 65-69,2,William Dixon,M,66,2013,58:48,89.5%,6251
+Men 65-69,3,Bill Borla,M,66,2006,59:23,88.6%,7496
+Men 65-69,4,William Dixon,M,68,2015,59:39,90.0%,6251
+Men 65-69,5,Bill Borla,M,68,2008,59:43,89.9%,7496
+Men 65-69,6,Bill Borla,M,67,2007,1:00:16,88.2%,7496
+Men 65-69,7,Tim Haley,M,65,2014,1:00:33,86.1%,8195
+Men 65-69,8,Bill Borla,M,69,2009,1:00:40,89.5%,7496
+Men 65-69,9,Derrick Staley,M,67,2025,1:01:38,86.3%,6282
+Men 65-69,10,Tim Haley,M,66,2015,1:01:49,85.1%,8195
+Men 70-74,1,Ed Whitlock,M,73,2004,58:57,96.4%,7887
+Men 70-74,2,Ed Whitlock,M,74,2005,59:43,96.5%,7887
+Men 70-74,3,Ed Whitlock,M,72,2003,59:54,93.7%,7887
+Men 70-74,4,Bill Borla,M,70,2010,1:03:25,86.5%,7496
+Men 70-74,5,Bill Borla,M,72,2012,1:05:15,86.0%,7496
+Men 70-74,6,Dave Glass,M,71,2017,1:05:47,84.3%,1152
+Men 70-74,7,Bill Borla,M,73,2013,1:06:10,85.9%,7496
+Men 70-74,8,Dave Glass,M,70,2016,1:06:51,82.0%,1152
+Men 70-74,9,Dave Glass,M,73,2019,1:08:13,83.3%,1152
+Men 70-74,10,Nathaniel White,M,70,1989,1:08:56,79.5%,1273
+Men 75-79,1,Ed Whitlock,M,75,2006,1:00:29,96.8%,7887
+Men 75-79,2,Ed Whitlock,M,78,2009,1:06:12,93.4%,7887
+Men 75-79,3,Ed Whitlock,M,79,2010,1:06:45,94.5%,7887
+Men 75-79,4,Dave Glass,M,76,2022,1:09:32,85.6%,1152
+Men 75-79,5,Dave Glass,M,75,2021,1:11:02,82.4%,1152
+Men 75-79,6,Roger Robinson,M,76,2015,1:12:32,82.1%,14555
+Men 75-79,7,Roger Robinson,M,77,2016,1:12:40,83.4%,14555
+Men 75-79,8,Doug Blanchard*!*,M,75,2001,1:15:15,77.8%,6098
+Men 75-79,9,Wade Stockman,M,75,2010,1:17:07,75.9%,278
+Men 75-79,10,Nathaniel White,M,75,1994,1:17:18,75.7%,1273
+Men 80-84,1,Ed Whitlock,M,80,2011,1:07:05,96.2%,7887
+Men 80-84,2,Ed Whitlock,M,82,2013,1:09:11,98.0%,7887
+Men 80-84,3,Roger Robinson,M,83,2022,1:21:58,85.0%,14555
+Men 80-84,4,Dudley Healy,M,81,1995,1:25:12,77.6%,5080
+Men 80-84,5,Dudley Healy,M,80,1994,1:25:15,75.7%,5080
+Men 80-84,6,Bill Brobston,M,80,1993,1:26:15,74.8%,2680
+Men 80-84,7,Dudley Healy,M,82,1996,1:29:37,75.7%,5080
+Men 80-84,8,George Gilder,M,83,2023,1:30:33,77.0%,14665
+Men 80-84,9,Wade Stockman,M,80,2015,1:35:01,67.9%,278
+Men 80-84,10,John Sowa,M,80,2014,1:35:17,67.7%,9211
+Men 85-89,1,Ed Whitlock,M,85,2016,1:15:10,98.6%,7887
+Men 85-89,2,George Gilder,M,85,2025,1:47:58,68.6%,14665
+Women 14 & under,1,Brina Seguine,F,14,2003,59:22,81.8%,7884
+Women 14 & under,2,Sarah Morin,F,14,2010,1:02:01,78.3%,10392
+Women 14 & under,3,Chelsea Trant,F,14,2006,1:02:42,77.4%,9039
+Women 14 & under,4,Tara Gorman,F,12,1986,1:04:26,79.2%,2433
+Women 14 & under,5,Meredith Hungerford,F,14,2009,1:04:30,75.2%,10388
+Women 14 & under,5,Payton Czupil,F,14,2013,1:04:30,75.2%,12401
+Women 14 & under,7,Kelly Murray,F,13,2001,1:04:56,76.5%,6613
+Women 14 & under,8,Christy Liszewski,F,13,1988,1:05:04,76.4%,2086
+Women 14 & under,9,Sarah Morin,F,13,2009,1:05:16,76.1%,10392
+Women 14 & under,10,Tara Gorman,F,13,1987,1:05:29,75.9%,2433
+Women 15-19,1,Susan Hay,F,~16,1979,56:43,82.2%,2029
+Women 15-19,2,Courtney Breiner,F,19,2016,57:49,76.8%,12437
 Women 15-19,3,Christine Bergeron,F,17,1978,58:18,78.4%,35
-Women 15-19,4,Jessica Milosch,F,17,1991,58:33,78.1%,4396
-Women 15-19,5,Mary Peck,F,18,2000,58:56,76.3%,6861
-Women 15-19,5,Cathy Malloy,F,19,2006,58:56,75.4%,9035
-Women 20-24,1,Maegan Krifchin,F,24,2012,51:59,84.3%,12277
-Women 20-24,2,Kathleen Brandell,F,23,1985,52:34,83.4%,2025
-Women 20-24,3,Hannah Davidson,F,24,2014,52:59,82.7%,13016
-Women 20-24,4,Laurel Burdick,F,24,2009,54:00,81.1%,10376
-Women 20-24,5,Cara Sherman,F,22,2019,54:24,80.5%,11338
-Women 25-29,1,Megan Hogan,F,26,2014,51:09,85.7%,13831
-Women 25-29,2,Hannah Davidson,F,25,2015,51:19,85.4%,13016
-Women 25-29,3,Cara Udvadia,F,28,2025,53:01,82.7%,17752
-Women 25-29,4,Amanda Chambers,F,25,2024,53:55,81.3%,18153
-Women 25-29,5,Amanda Lopiccolo,F,28,2010,53:58,81.2%,10916
-Women 30-34,1,Lori Hewig,F,33,1993,51:34,85.7%,3145
-Women 30-34,2,Lianne Farber,F,31,2023,53:10,82.7%,17723
-Women 30-34,3,Amy Tortorello,F,34,2025,53:11,83.3%,18586
-Women 30-34,4,Jodie Robertson,F,31,2015,53:59,81.5%,11551
-Women 30-34,5,Inge Aiken,F,30,1991,54:56,79.9%,2425
-Women 35-39,1,Salome Kosgei,F,35,2015,52:17,85.0%,14482
-Women 35-39,2,Lori Hewig,F,35,1995,53:21,83.3%,3145
-Women 35-39,3,Sara Dunham,F,38,2014,55:25,81.3%,12282
-Women 35-39,4,Karen Bertasso,F,38,2022,55:26,81.3%,9543
-Women 35-39,5,Sara Facteau,F,35,2011,56:07,79.2%,11559
-Women 40-44,1,Karen Bertasso,F,41,2025,54:46,83.8%,9543
-Women 40-44,2,Dana Bush,F,41,2019,56:03,81.9%,12288
-Women 40-44,3,Lori Kingsley,F,44,2010,56:09,83.6%,9886
-Women 40-44,4,Diane Ryan,F,40,2022,57:07,79.8%,14490
-Women 40-44,5,Renee Tolan,F,41,2015,57:12,80.2%,11576
-Women 45-49,1,Emily Bryans,F,45,2012,57:57,81.7%,5760
-Women 45-49,2,Lori Kingsley,F,47,2013,58:11,82.9%,9886
-Women 45-49,3,Kelly Dworak,F,46,2008,59:32,80.3%,7920
-Women 45-49,4,Anne Benson,F,45,2010,59:35,79.5%,7949
-Women 45-49,5,Marta Dauphinee,F,46,2024,1:01:02,78.3%,15609
-Women 50-54,1,Diane Legare,F,51,2002,58:47,85.9%,7514
-Women 50-54,2,Nancy Frisillo,F,50,1992,1:00:14,82.8%,3641
-Women 50-54,3,Susan Hay,F,53,2016,1:00:28,85.5%,2026
-Women 50-54,4,Paula Wiltse,F,52,2019,1:01:38,82.9%,16537
-Women 50-54,5,Lori Kingsley,F,50,2016,1:02:12,80.2%,9886
-Women 55-59,1,Diane Legare,F,55,2006,59:05,89.6%,7514
-Women 55-59,2,Paula Wiltse,F,55,2022,1:01:51,85.6%,16537
-Women 55-59,3,Margret Betz,F,58,1994,1:02:05,88.5%,5167
-Women 55-59,4,Lori Kingsley,F,56,2022,1:02:56,85.2%,9886
-Women 55-59,5,Anny Stockman,F,55,1987,1:03:51,82.9%,946
-Women 60-64,1,Margret Betz,F,60,1996,1:04:42,87.2%,5167
-Women 60-64,2,Beth Stalker,F,60,2019,1:05:12,86.5%,7524
-Women 60-64,3,Linda Jennings,F,60,2012,1:06:14,85.2%,12349
-Women 60-64,4,Gloria Brown,F,60,1992,1:08:49,82.0%,3157
-Women 60-64,5,Coreen Steinbach,F,60,2011,1:09:31,81.1%,9076
-Women 60-64,5,Colleen Brackett,F,60,2021,1:09:31,81.1%,9519
-Women 65-69,1,Beth Stalker,F,65,2024,1:08:55,87.6%,7524
-Women 65-69,2,Margret Betz,F,65,2001,1:09:15,87.1%,5167
-Women 65-69,3,Sandra Izzo,F,65,2024,1:15:25,80.0%,13951
-Women 65-69,4,Martha Degrazia,F,65,2016,1:16:08,79.3%,1625
-Women 65-69,5,Anny Stockman,F,66,1998,1:17:48,78.7%,946
-Women 70-74,1,Anny Stockman,F,70,2002,1:20:43,80.4%,946
-Women 70-74,2,Erika Oesterle,F,72,2023,1:22:52,80.7%,7318
-Women 70-74,3,Linda Jennings,F,70,2022,1:23:24,77.8%,12349
-Women 70-74,4,Dolores Quinn,F,71,1998,1:24:43,77.8%,3681
-Women 70-74,5,Loretta Shehan,F,71,1994,1:28:01,74.9%,3198
-Women 75-79,1,Janet Voelpert,F,76,2023,1:21:42,87.4%,17891
-Women 75-79,2,Marge Rajczewski,F,75,2015,1:32:00,76.3%,2436
-Women 75-79,3,Anny Stockman,F,76,2008,1:32:01,77.6%,946
-Women 75-79,4,Susan Wong,F,75,2022,1:33:32,75.0%,10016
-Women 75-79,5,Doris Schlamowitz,F,76,2005,1:48:44,65.6%,8992
-Women 80-84,1,Anny Stockman,F,81,2013,1:49:51,72.6%,946
-Women 80-84,2,Eiko Bogue,F,80,2017,2:18:52,55.9%,5449
-Women 80-84,2,Sibyl Jacobson,F,80,2022,2:18:52,55.9%,8528
-Women 80-84,4,Regina Tumidajewicz,F,81,2008,2:20:39,56.7%,5459
-Women 85-89,1,Anny Stockman,F,85,2017,2:10:50,69.1%,946
-Age graded,1,Ed Whitlock,M,85,2016,1:15:10,98.6%,7904
-Age graded,2,Eddie Smith,M,8,1978,1:03:54,93.7%,77
-Age graded,3,Nicholas Conway,M,50,2025,48:28,93.6%,6257
-Age graded,4,Nat Larson,M,61,2023,53:34,93.6%,17724
-Age graded,5,Bill Borla,M,63,2003,56:10,91.0%,7513
-Age graded,6,Jerry Lawson,M,26,1992,44:39,90.1%,2125
-Age graded,7,Barry Brown,M,40,1984,46:21,90.1%,154
-Age graded,8,William Dixon,M,68,2015,59:39,90.0%,6260
-Age graded,9,B Corbett,M,10,1982,57:54,89.9%,20521
-Age graded,10,Diane Legare,F,55,2006,59:05,89.6%,7514
+Women 15-19,4,Jessica Milosch,F,17,1991,58:33,78.1%,4395
+Women 15-19,5,Mary Peck,F,18,2000,58:56,76.3%,6849
+Women 15-19,5,Cathy Malloy,F,19,2006,58:56,75.4%,9017
+Women 15-19,7,Cheri Goddard,F,17,1988,59:12,77.3%,3147
+Women 15-19,8,Carly Wynn,F,17,2010,59:14,77.2%,10902
+Women 15-19,9,Lynn Jacobs,F,19,1983,1:00:11,73.8%,924
+Women 15-19,10,Hailey Capello,F,17,2024,1:00:15,75.9%,17362
+Women 20-24,1,Maegan Krifchin,F,24,2012,51:59,84.3%,12250
+Women 20-24,2,Kathleen Brandell,F,23,1985,52:34,83.4%,2028
+Women 20-24,3,Hannah Davidson,F,24,2014,52:59,82.7%,12989
+Women 20-24,4,Laurel Burdick,F,24,2009,54:00,81.1%,10353
+Women 20-24,5,Hannah Davidson,F,23,2013,54:12,80.8%,12989
+Women 20-24,6,Cara Sherman,F,22,2019,54:24,80.5%,11314
+Women 20-24,6,Cara Sherman,F,24,2021,54:24,80.5%,11314
+Women 20-24,8,Ashley Gorr,F,24,2011,55:03,79.6%,11529
+Women 20-24,9,Ellen Weglarz,F,24,1982,55:19,79.2%,919
+Women 20-24,10,Michelle Simone,F,24,1992,55:39,78.7%,4700
+Women 25-29,1,Megan Hogan,F,26,2014,51:09,85.7%,13803
+Women 25-29,2,Hannah Davidson,F,25,2015,51:19,85.4%,12989
+Women 25-29,3,Paul Stevens,F,~29,1980,51:57,84.4%,19806
+Women 25-29,4,Hannah Davidson,F,26,2016,52:24,83.6%,12989
+Women 25-29,5,Cara Udvadia,F,28,2025,53:01,82.7%,17719
+Women 25-29,6,Cara Udvadia,F,27,2024,53:50,81.4%,17719
+Women 25-29,7,Amanda Chambers,F,25,2024,53:55,81.3%,18120
+Women 25-29,8,Amanda Lopiccolo,F,28,2010,53:58,81.2%,10892
+Women 25-29,9,Lisa Vaill,F,25,1988,54:02,81.1%,3145
+Women 25-29,10,Ellen Weglarz,F,26,1984,54:19,80.7%,919
+Women 30-34,1,Lori Hewig,F,33,1993,51:34,85.7%,3148
+Women 30-34,2,Lori Hewig,F,31,1991,52:40,83.5%,3148
+Women 30-34,3,Lianne Farber,F,31,2023,53:10,82.7%,17690
+Women 30-34,4,Amy Tortorello,F,34,2025,53:11,83.3%,18553
+Women 30-34,5,Jodie Robertson,F,31,2015,53:59,81.5%,11526
+Women 30-34,6,Lori Hewig,F,30,1990,54:34,80.5%,3148
+Women 30-34,7,Inge Aiken,F,30,1991,54:56,79.9%,2428
+Women 30-34,8,Andrea Burke,F,34,1984,55:07,80.4%,1591
+Women 30-34,9,Denise Herman,F,32,1987,56:01,78.7%,926
+Women 30-34,10,Deborah Springer,F,30,2003,56:02,78.4%,5477
+Women 35-39,1,Salome Kosgei,F,35,2015,52:17,85.0%,14455
+Women 35-39,2,Lori Hewig,F,35,1995,53:21,83.3%,3148
+Women 35-39,3,Sara Dunham,F,38,2014,55:25,81.3%,12255
+Women 35-39,4,Karen Bertasso,F,38,2022,55:26,81.3%,9523
+Women 35-39,5,Sara Dunham,F,37,2013,55:44,80.5%,12255
+Women 35-39,6,Karen Bertasso,F,39,2023,55:51,81.1%,9523
+Women 35-39,7,Sara Dunham,F,36,2012,55:57,79.8%,12255
+Women 35-39,8,Karen Bertasso,F,35,2019,56:01,79.4%,9523
+Women 35-39,9,Sara Facteau,F,35,2011,56:07,79.2%,11534
+Women 35-39,10,Nicole Moslander,F,36,2023,56:08,79.5%,16504
+Women 40-44,1,Karen Bertasso,F,41,2025,54:46,83.8%,9523
+Women 40-44,2,Dana Bush,F,41,2019,56:03,81.9%,12261
+Women 40-44,3,Lori Kingsley,F,44,2010,56:09,83.6%,9864
+Women 40-44,4,Karen Bertasso,F,40,2024,56:11,81.1%,9523
+Women 40-44,5,Diane Ryan,F,40,2022,57:07,79.8%,14463
+Women 40-44,6,Renee Tolan,F,41,2015,57:12,80.2%,11551
+Women 40-44,7,Emily Bryans,F,43,2010,57:15,81.3%,5758
+Women 40-44,8,Emily Bryans,F,41,2008,57:23,80.0%,5758
+Women 40-44,9,Lori Hewig,F,42,2002,57:27,80.4%,3148
+Women 40-44,10,Renee Tolan,F,40,2014,57:28,79.3%,11551
+Women 45-49,1,Emily Bryans,F,45,2012,57:57,81.7%,5758
+Women 45-49,2,Lori Kingsley,F,47,2013,58:11,82.9%,9864
+Women 45-49,3,Lori Kingsley,F,46,2012,58:44,81.4%,9864
+Women 45-49,4,Kelly Dworak,F,46,2008,59:32,80.3%,7903
+Women 45-49,5,Anne Benson,F,45,2010,59:35,79.5%,7932
+Women 45-49,6,Emily Bryans,F,48,2015,59:55,81.4%,5758
+Women 45-49,7,Anne Benson,F,46,2011,1:00:07,79.5%,7932
+Women 45-49,8,Emily Bryans,F,46,2013,1:00:40,78.8%,5758
+Women 45-49,9,Marta Dauphinee,F,46,2024,1:01:02,78.3%,15580
+Women 45-49,10,Caryle Andrew-Zipprich,F,46,2007,1:01:26,77.8%,9446
+Women 50-54,1,Diane Legare,F,51,2002,58:47,85.9%,7497
+Women 50-54,2,Nancy Frisillo,F,50,1992,1:00:14,82.8%,3645
+Women 50-54,3,Susan Hay,F,53,2016,1:00:28,85.5%,2029
+Women 50-54,4,Susan Hay,F,51,2014,1:01:09,82.5%,2029
+Women 50-54,5,Paula Wiltse,F,52,2019,1:01:38,82.9%,16505
+Women 50-54,6,Nancy Frisillo,F,53,1995,1:02:07,83.2%,3645
+Women 50-54,7,Lori Kingsley,F,50,2016,1:02:12,80.2%,9864
+Women 50-54,8,Anny Stockman,F,53,1985,1:02:32,82.6%,947
+Women 50-54,9,Anny Stockman,F,54,1986,1:02:39,83.5%,947
+Women 50-54,10,Nancy Frisillo,F,54,1996,1:03:21,82.6%,3645
+Women 55-59,1,Diane Legare,F,55,2006,59:05,89.6%,7497
+Women 55-59,2,Diane Legare,F,56,2007,1:00:38,88.4%,7497
+Women 55-59,3,Paula Wiltse,F,55,2022,1:01:51,85.6%,16505
+Women 55-59,4,Margret Betz,F,58,1994,1:02:05,88.5%,5165
+Women 55-59,5,Paula Wiltse,F,57,2024,1:02:10,87.3%,16505
+Women 55-59,6,Lori Kingsley,F,56,2022,1:02:56,85.2%,9864
+Women 55-59,7,Margret Betz,F,59,1995,1:03:28,87.7%,5165
+Women 55-59,8,Anny Stockman,F,55,1987,1:03:51,82.9%,947
+Women 55-59,9,Lori Kingsley,F,58,2024,1:03:58,85.9%,9864
+Women 55-59,10,Kathryn Martin,F,59,2010,1:04:02,87.0%,10918
+Women 60-64,1,Margret Betz,F,60,1996,1:04:42,87.2%,5165
+Women 60-64,2,Beth Stalker,F,60,2019,1:05:12,86.5%,7188
+Women 60-64,3,Beth Stalker,F,62,2021,1:06:10,87.5%,7188
+Women 60-64,4,Linda Jennings,F,60,2012,1:06:14,85.2%,12322
+Women 60-64,5,Linda Jennings,F,61,2013,1:07:20,84.9%,12322
+Women 60-64,5,Beth Stalker,F,63,2022,1:07:20,87.2%,7188
+Women 60-64,7,Margret Betz,F,62,1998,1:07:26,85.9%,5165
+Women 60-64,8,Margret Betz,F,63,1999,1:07:46,86.6%,5165
+Women 60-64,9,Beth Stalker,F,64,2023,1:08:33,86.8%,7188
+Women 60-64,10,Gloria Brown,F,60,1992,1:08:49,82.0%,3160
+Women 65-69,1,Beth Stalker,F,65,2024,1:08:55,87.6%,7188
+Women 65-69,2,Margret Betz,F,65,2001,1:09:15,87.1%,5165
+Women 65-69,3,Sandra Izzo,F,65,2024,1:15:25,80.0%,13924
+Women 65-69,4,Martha Degrazia,F,65,2016,1:16:08,79.3%,1627
+Women 65-69,5,Margret Betz,F,68,2004,1:16:35,82.3%,5165
+Women 65-69,6,Anny Stockman,F,66,1998,1:17:48,78.7%,947
+Women 65-69,7,Anny Stockman,F,69,2001,1:18:20,81.6%,947
+Women 65-69,8,Martha Degrazia,F,66,2017,1:18:23,78.1%,1627
+Women 65-69,9,Loretta Shehan,F,65,1988,1:18:24,77.0%,3201
+Women 65-69,10,Kim Law,F,65,2022,1:19:07,76.3%,12376
+Women 70-74,1,Anny Stockman,F,70,2002,1:20:43,80.4%,947
+Women 70-74,2,Anny Stockman,F,72,2004,1:22:42,80.9%,947
+Women 70-74,3,Erika Oesterle,F,72,2023,1:22:52,80.7%,7303
+Women 70-74,4,Erika Oesterle,F,70,2021,1:23:09,78.1%,7303
+Women 70-74,5,Anny Stockman,F,71,2003,1:23:23,79.0%,947
+Women 70-74,6,Linda Jennings,F,70,2022,1:23:24,77.8%,12322
+Women 70-74,7,Erika Oesterle,F,71,2022,1:23:42,78.7%,7303
+Women 70-74,8,Anny Stockman,F,73,2005,1:24:11,80.7%,947
+Women 70-74,9,Dolores Quinn,F,71,1998,1:24:43,77.8%,3685
+Women 70-74,10,Erika Oesterle,F,74,2025,1:27:41,78.7%,7303
+Women 75-79,1,Janet Voelpert,F,76,2023,1:21:42,87.4%,17858
+Women 75-79,2,Janet Voelpert,F,77,2024,1:24:43,85.8%,17858
+Women 75-79,3,Marge Rajczewski,F,75,2015,1:32:00,76.3%,2439
+Women 75-79,4,Anny Stockman,F,76,2008,1:32:01,77.6%,947
+Women 75-79,5,Anny Stockman,F,75,2007,1:32:48,75.6%,947
+Women 75-79,6,Susan Wong,F,75,2022,1:33:32,75.0%,9994
+Women 75-79,7,Anny Stockman,F,78,2010,1:44:45,70.8%,947
+Women 75-79,8,Doris Schlamowitz,F,76,2005,1:48:44,65.6%,8974
+Women 75-79,9,Gail Johnson,F,76,2023,1:49:22,65.3%,17260
+Women 75-79,10,Anny Stockman,F,79,2011,1:54:16,66.4%,947
+Women 80-84,1,Anny Stockman,F,81,2013,1:49:51,72.6%,947
+Women 80-84,2,Anny Stockman,F,80,2012,1:50:25,70.4%,947
+Women 80-84,3,Anny Stockman,F,82,2014,1:57:30,69.8%,947
+Women 80-84,4,Anny Stockman,F,83,2015,2:04:35,67.8%,947
+Women 80-84,5,Anny Stockman,F,84,2016,2:07:30,68.5%,947
+Women 80-84,6,Eiko Bogue,F,80,2017,2:18:52,55.9%,5447
+Women 80-84,6,Sibyl Jacobson,F,80,2022,2:18:52,55.9%,8511
+Women 80-84,8,Regina Tumidajewicz,F,81,2008,2:20:39,56.7%,5457
+Women 85-89,1,Anny Stockman,F,85,2017,2:10:50,69.1%,947
+Women 85-89,2,Anny Stockman,F,87,2019,2:14:00,73.2%,947
+Women 85-89,3,Anny Stockman,F,86,2018,2:14:11,70.1%,947
+Age graded,1,Ed Whitlock,M,85,2016,1:15:10,98.6%,7887
+Age graded,2,Eddie Smith,M,8,1978,1:03:54,93.7%,76
+Age graded,3,Nicholas Conway,M,50,2025,48:28,93.6%,6248
+Age graded,4,Nat Larson,M,61,2023,53:34,93.6%,17691
+Age graded,5,Bill Borla,M,63,2003,56:10,91.0%,7496
+Age graded,6,Jerry Lawson,M,26,1992,44:39,90.1%,2128
+Age graded,7,Barry Brown,M,40,1984,46:21,90.1%,153
+Age graded,8,William Dixon,M,68,2015,59:39,90.0%,6251
+Age graded,9,B Corbett,M,10,1982,57:54,89.9%,20431
+Age graded,10,Diane Legare,F,55,2006,59:05,89.6%,7497

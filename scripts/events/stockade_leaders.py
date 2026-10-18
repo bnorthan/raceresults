@@ -26,7 +26,7 @@ TOP_N     = int(sys.argv[1]) if len(sys.argv) > 1 else 20
 NO_RACE   = {2020}      # virtual race, no results: doesn't break a streak
 
 # links worth a second look, in the order they are listed
-REVIEW = ['fuzzy', 'swapped', 'name part', 'age outlier', 'initial', 'no age', 'ambiguous']
+REVIEW = ['fuzzy', 'swapped', 'name part', 'age drift', 'age outlier', 'initial', 'no age', 'no age, spelling', 'ambiguous']
 
 
 def display_name(rows):
@@ -144,9 +144,12 @@ def timed_results(people):
     return r[~impossible]
 
 
-def best(rows, n, by='seconds', ascending=True):
-    """Each runner's best result, top n, ties at the cutoff included."""
-    rows = rows.sort_values(by, ascending=ascending, kind='stable').drop_duplicates('person_id')
+def best(rows, n, by='seconds', ascending=True, per_runner=True):
+    """Top n results, ties at the cutoff included: each runner's best one, or with
+    per_runner=False every result, so a runner can appear more than once."""
+    rows = rows.sort_values(by, ascending=ascending, kind='stable')
+    if per_runner:
+        rows = rows.drop_duplicates('person_id')
     if len(rows) > n:
         cut = rows[by].iloc[n - 1]
         rows = rows[rows[by] <= cut] if ascending else rows[rows[by] >= cut]
@@ -159,7 +162,9 @@ def records(people, linked):
     r['group'] = r.age.map(age_group)
     for gender, label in (('M', 'Men'), ('F', 'Women')):
         for group in AGE_GROUPS:
-            lists.append((f'{label} {group}', best(r[(r.gender == gender) & (r.group == group)], 5)))
+            # best performances: a runner's other years count too (Bertasso 2024 and 2025)
+            lists.append((f'{label} {group}', best(r[(r.gender == gender) & (r.group == group)], 10,
+                                                   per_runner=False)))
     # recorded ages only: a year off moves a child's or an 80-year-old's grade by points
     lists.append(('Age graded', best(r[r.grade.notna() & ~r.age_est], 10, by='grade', ascending=False)))
 

@@ -30,7 +30,14 @@ REVIEW = ['fuzzy', 'swapped', 'name part', 'age drift', 'age outlier', 'initial'
 
 
 def display_name(rows):
-    """Most common full name, preferring rows not written in ALL CAPS."""
+    """Most common full name, preferring rows not written in ALL CAPS.  A runner
+    with a known alias goes by the name it points to -- the one she uses now
+    (Kim Fetcho, not the McBride of more of her years)."""
+    aliased = rows[rows.link == 'known alias']
+    if len(aliased):
+        now = rows[[utils.normalize_name(f, l)[1] == aliased['last'].iloc[0]
+                    for f, l in zip(rows.first_name, rows.last_name)]]
+        rows = now if len(now) else rows
     names = rows[rows.given.str.len() > 1]
     names = names if len(names) else rows
     mixed = names[~names.last_name.str.isupper()]
